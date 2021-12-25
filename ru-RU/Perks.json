@@ -1,0 +1,1225 @@
+{
+"id": "Perks",
+"rows": [
+	{
+		"id": "Attribute_Dummy",
+		"text": "Перк без эффекта"
+	},
+	{
+		"id": "ArmorType_Light",
+		"text": "Легкая"
+	},
+	{
+		"id": "ArmorType_Medium",
+		"text": "Средняя"
+	},
+	{
+		"id": "ArmorType_Heavy",
+		"text": "Тяжелая"
+	},
+	{
+		"id": "ArmorType_Light_Plural",
+		"text": "Легкая Броня"
+	},
+	{
+		"id": "ArmorType_Medium_Plural",
+		"text": "Средняя Броня"
+	},
+	{
+		"id": "ArmorType_Heavy_Plural",
+		"text": "Тяжелая Броня"
+	},
+	{
+		"id": "EventAdjustmentType_Daredevil",
+		"text": "Смельчака"
+	},
+	{
+		"id": "EventAdjustmentType_RawStrength",
+		"text": "Грубияна"
+	},
+	{
+		"id": "EventAdjustmentType_Stealth",
+		"text": "Тени"
+	},
+	{
+		"id": "EventAdjustmentType_Medical",
+		"text": "Мед эксперта"
+	},
+	{
+		"id": "EventAdjustmentType_Technical",
+		"text": "Инженера"
+	},
+	{
+		"id": "EventAdjustmentType_TrickNPC",
+		"text": "Ловкача"
+	},
+	{
+		"id": "EventAdjustmentType_Detection",
+		"text": "Шестого Чувства"
+	},
+	{
+		"id": "EventAdjustmentType_Intimidate",
+		"text": "Шантажа"
+	},
+	{
+		"id": "EventAdjustmentType_Languages",
+		"text": "Древних Языков"
+	},
+	{
+		"id": "EventAdjustmentType_Survival",
+		"text": "Выживальщика"
+	},
+	{
+		"id": "EventAdjustmentType_Occult",
+		"text": "Запретных Преданий"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage",
+		"text": "Урон"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius",
+		"text": "Радиус Урона"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance",
+		"text": "Дальность Броска"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius_Amount",
+		"text": "[adjustment:amount] клетка(и)"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance_Amount",
+		"text": "[adjustment:amount] клетка(и)"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Shredding_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Shredding",
+		"text": "Разрушение Брони"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength",
+		"text": "Сила Лечения"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range",
+		"text": "Дальность"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] клетка(и)"
+	},
+	{
+		"id": "ItemType_Weapon",
+		"text": "Оружие"
+	},
+	{
+		"id": "ItemType_Armor",
+		"text": "Броня"
+	},
+	{
+		"id": "ItemType_Grenade",
+		"text": "Граната"
+	},
+	{
+		"id": "ItemType_Ammo",
+		"text": "Боеприпасы"
+	},
+	{
+		"id": "ItemType_Medkit",
+		"text": "Аптечка"
+	},
+	{
+		"id": "ItemType_Repairkit",
+		"text": "Ремкомплект"
+	},
+	{
+		"id": "ItemType_Misc",
+		"text": "Разное"
+	},
+	{
+		"id": "ItemType_Artefact",
+		"text": "Артефакт"
+	},
+	{
+		"id": "ItemType_Fuel",
+		"text": "Топливо"
+	},
+	{
+		"id": "ItemType_Cash",
+		"text": "Деньги"
+	},
+	{
+		"id": "ItemType_Grenade_Plural",
+		"text": "Гранаты"
+	},
+	{
+		"id": "ItemType_Medkit_Plural",
+		"text": "Аптечки"
+	},
+	{
+		"id": "ItemType_Repairkit_Plural",
+		"text": "Ремкомплекты"
+	},
+	{
+		"id": "MapAdjustmentType_BattleView",
+		"text": "Отметить всех Врагов на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantView",
+		"text": "Отметить всех Торговцев на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterView",
+		"text": "Отметить всех Персонажей на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceView",
+		"text": "Отметить все Места Отдыха на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_FuelIncrease",
+		"text": "Находит больше Топлива"
+	},
+	{
+		"id": "MapAdjustmentType_AmmoIncrease",
+		"text": "Находит больше Боеприпасов"
+	},
+	{
+		"id": "MapAdjustmentType_MoneyIncrease",
+		"text": "Находит больше Денег"
+	},
+	{
+		"id": "PlayerAttribute_Cash",
+		"text": "Деньги"
+	},
+	{
+		"id": "PlayerAttribute_Ammo",
+		"text": "Боеприпасы"
+	},
+	{
+		"id": "PlayerAttribute_Fuel",
+		"text": "Топливо"
+	},
+	{
+		"id": "PlayerAttribute_Valkyrium",
+		"text": "Валькирий"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength",
+		"text": "Объем Ремонта"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range",
+		"text": "Дальность"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] клетка(и)"
+	},
+	{
+		"id": "StatsAdjustmentType_Health",
+		"text": "Живучесть"
+	},
+	{
+		"id": "StatsAdjustmentType_Agility",
+		"text": "Ловкость"
+	},
+	{
+		"id": "StatsAdjustmentType_Aim",
+		"text": "Сноровка"
+	},
+	{
+		"id": "StatsAdjustmentType_Evade",
+		"text": "Рефлексы"
+	},
+	{
+		"id": "StatsAdjustmentType_Bravery",
+		"text": "Воля"
+	},
+	{
+		"id": "StatsAdjustmentType_Intelligence",
+		"text": "Интеллект"
+	},
+	{
+		"id": "StatsAdjustmentType_Endurance",
+		"text": "Выносливость"
+	},
+	{
+		"id": "WeaponType_Pistol",
+		"text": "Пистолет"
+	},
+	{
+		"id": "WeaponType_AssaultRifle",
+		"text": "Штурмовая Винтовка"
+	},
+	{
+		"id": "WeaponType_SniperRifle",
+		"text": "Снайперская Винтовка"
+	},
+	{
+		"id": "WeaponType_Shotgun",
+		"text": "Дробовик"
+	},
+	{
+		"id": "WeaponType_Flamethrower",
+		"text": "Огнемет"
+	},
+	{
+		"id": "WeaponType_Disintegrator",
+		"text": "Дезинтегратор"
+	},
+	{
+		"id": "WeaponType_Lightning",
+		"text": "Электрический Пистолет"
+	},
+	{
+		"id": "WeaponType_CloseCombat",
+		"text": "Нож"
+	},
+	{
+		"id": "WeaponType_SniperRifle_Plural",
+		"text": "Снайперские Винтовки"
+	},
+	{
+		"id": "WeaponType_Pistol_Plural",
+		"text": "Пистолеты"
+	},
+	{
+		"id": "WeaponType_CloseCombat_Plural",
+		"text": "Ножи"
+	},
+	{
+		"id": "WeaponType_AssaultRifle_Plural",
+		"text": "Штурмовые Винтовки"
+	},
+	{
+		"id": "WeaponType_Shotgun_Plural",
+		"text": "Дробовики"
+	},
+	{
+		"id": "WeaponType_Disintegrator_Plural",
+		"text": "Дезинтеграторы"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage",
+		"text": "Урон"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range",
+		"text": "Дальнобойность"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance",
+		"text": "Шанс Крита"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength",
+		"text": "Сила Крита"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier",
+		"text": "Точность"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize",
+		"text": "Объем Магазина"
+	},
+	{
+		"id": "WeaponAdjustmentType_Shredding",
+		"text": "Урон Броне"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] клетка(и)"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance_Amount",
+		"text": "[adjustment:amount]%"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier_Amount",
+		"text": "[adjustment:amount]%"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_Shredding_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount",
+		"text": "Сила Брони"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Explorer",
+		"text": "Исследователям"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Nazi",
+		"text": "Нацистам"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Animal",
+		"text": "Животным"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Machine",
+		"text": "Машинам"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Undead",
+		"text": "Нежити"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Cultist",
+		"text": "Культистам"
+	},
+	{
+		"id": "DamageAdjustment_Any",
+		"text": "Всем"
+	},
+	{
+		"id": "healthBonus03_name",
+		"text": "Священная диадема"
+	},
+	{
+		"id": "obsidianStela01_name",
+		"text": "Простая застежка"
+	},
+	{
+		"id": "aimBonus02_name",
+		"text": "Браслет жрицы"
+	},
+	{
+		"id": "desertedShrineRing01_name",
+		"text": "Брошь богов"
+	},
+	{
+		"id": "creepyHutArtefact01_name",
+		"text": "Амулет Оберег"
+	},
+	{
+		"id": "fightAtTheOasis01_name",
+		"text": "Ритуал усиления"
+	},
+	{
+		"id": "monsterAssaultArtefact01_name",
+		"text": "Светящийся амулет"
+	},
+	{
+		"id": "electricObeliskArtefact01_name",
+		"text": "Простое кольцо"
+	},
+	{
+		"id": "electricObeliskArtefact02_name",
+		"text": "Неописуемое кольцо"
+	},
+	{
+		"id": "electricObeliskArtefact03_name",
+		"text": "Незамысловатое кольцо"
+	},
+	{
+		"id": "healthBonus01_name",
+		"text": "Божественное благословение"
+	},
+	{
+		"id": "healthBonus02_name",
+		"text": "Благословленный эонами"
+	},
+	{
+		"id": "healthEvadeBonus01_name",
+		"text": "Чары удачи"
+	},
+	{
+		"id": "healthEvadeBonus02_name",
+		"text": "Пульсирующий амулет"
+	},
+	{
+		"id": "healthMalus01_name",
+		"text": "Зияющая рана"
+	},
+	{
+		"id": "healthMalus02_name",
+		"text": "Сильные ожоги"
+	},
+	{
+		"id": "healthMalus03_name",
+		"text": "Боль в животе"
+	},
+	{
+		"id": "healthMalus04_name",
+		"text": "Кровавый кашель"
+	},
+	{
+		"id": "agiBonus01_name",
+		"text": "PLACEHOLDER"
+	},
+	{
+		"id": "agiMalus01_name",
+		"text": "Растяжение лодыжки"
+	},
+	{
+		"id": "agiMalus02_name",
+		"text": "Ушиб ноги"
+	},
+	{
+		"id": "agiMalus03_name",
+		"text": "Ранение ноги"
+	},
+	{
+		"id": "aimBonus01_name",
+		"text": "PLACEHOLDER"
+	},
+	{
+		"id": "aimMalus01_name",
+		"text": "Вывих плеча"
+	},
+	{
+		"id": "aimMalus02_name",
+		"text": "Укус кобры"
+	},
+	{
+		"id": "aimMalus03_name",
+		"text": "Спазмы желудка"
+	},
+	{
+		"id": "aimMalus04_name",
+		"text": "Ослеплен"
+	},
+	{
+		"id": "aimMalus05_name",
+		"text": "Кровоточащие пальцы"
+	},
+	{
+		"id": "aimMalus06_name",
+		"text": "Зловещий кашель"
+	},
+	{
+		"id": "aimMalus07_name",
+		"text": "Связанные руки"
+	},
+	{
+		"id": "aimMalusEvadeBonus01_name",
+		"text": "Странно взволнованный"
+	},
+	{
+		"id": "evadeBonus01_name",
+		"text": "Благословение джинна"
+	},
+	{
+		"id": "evadeMalus01_name",
+		"text": "Укус тарантулы"
+	},
+	{
+		"id": "evadeMalus02_name",
+		"text": "Древнее проклятие"
+	},
+	{
+		"id": "evadeMalus03_name",
+		"text": "Люмбаго"
+	},
+	{
+		"id": "evadeMalus04_name",
+		"text": "Ожог ноги"
+	},
+	{
+		"id": "evadeMalus05_name",
+		"text": "Голоса извне"
+	},
+	{
+		"id": "characterPerkNatalya_name",
+		"text": "Русский Ученый"
+	},
+	{
+		"id": "characterPerkLeonora_name",
+		"text": "Британский Археолог-любитель"
+	},
+	{
+		"id": "characterPerkVeduti_name",
+		"text": "Итальянский Посол Ватикана"
+	},
+	{
+		"id": "characterPerkBrunhilda_name",
+		"text": "Исландский Ярмарочный Борец"
+	},
+	{
+		"id": "characterPerkPereira_name",
+		"text": "Бразильский Контрабандист"
+	},
+	{
+		"id": "characterPerkJackson_name",
+		"text": "Американский Путешественник"
+	},
+	{
+		"id": "characterPerkGeorgette_name",
+		"text": "Бельгийский Секретный Агент"
+	},
+	{
+		"id": "characterPerkProfessor_name",
+		"text": "Американский Изобретатель"
+	},
+	{
+		"id": "characterPerkDrChandra_name",
+		"text": "Англо-Индийский Антиквар"
+	},
+	{
+		"id": "characterPerkShaneeka_name",
+		"text": "Африканская Степная Охотница"
+	},
+	{
+		"id": "characterPerkBaron_name",
+		"text": "Немецкий Джентльмен Самозванец"
+	},
+	{
+		"id": "characterPerkRose_name",
+		"text": "Американская Авантюристка и Мистик"
+	},
+	{
+		"id": "characterPerkCaballero_name",
+		"text": "Испанский Поэт Гражданской Войны"
+	},
+	{
+		"id": "characterPerkOmar_name",
+		"text": "Аравийский Коллекционер"
+	},
+	{
+		"id": "characterPerkAnabelle_name",
+		"text": "Карибский Внештатный Авиатор"
+	},
+	{
+		"id": "characterPerkLeFantome_name",
+		"text": "Французский Легендарный Взломщик"
+	},
+	{
+		"id": "characterPerkSnowWhite_name",
+		"text": "Хорошая Девочка"
+	},
+	{
+		"id": "characterPerkFenris_name",
+		"text": "Хороший Парень"
+	},
+	{
+		"id": "rawStrengthStarter_name",
+		"text": "Грубиян"
+	},
+	{
+		"id": "technicalStarter_name",
+		"text": "Инженер"
+	},
+	{
+		"id": "occultStarter_name",
+		"text": "Запретные Предания"
+	},
+	{
+		"id": "survivalStarter_name",
+		"text": "Выживальщик"
+	},
+	{
+		"id": "trickNPCStarter_name",
+		"text": "Ловкач"
+	},
+	{
+		"id": "intimidateStarter_name",
+		"text": "Шантажист"
+	},
+	{
+		"id": "languagesStarter_name",
+		"text": "Древние Языки"
+	},
+	{
+		"id": "stealthStarter_name",
+		"text": "Тень"
+	},
+	{
+		"id": "medicalStarter_name",
+		"text": "Мед эксперт"
+	},
+	{
+		"id": "daredevilStarter_name",
+		"text": "Смельчак"
+	},
+	{
+		"id": "detectionStarter_name",
+		"text": "Шестое чувство"
+	},
+	{
+		"id": "naziDamageBoost_name",
+		"text": "Антифашист"
+	},
+	{
+		"id": "naziDamagePenalty_name",
+		"text": "Сомнение"
+	},
+	{
+		"id": "animalDamageBoost_name",
+		"text": "Искатель Большой Добычи"
+	},
+	{
+		"id": "animalDamagePenalty_name",
+		"text": "Любитель животных"
+	},
+	{
+		"id": "undeadDamageBoost_name",
+		"text": "Экзорцист"
+	},
+	{
+		"id": "undeadDamagePenalty_name",
+		"text": "Суеверный"
+	},
+	{
+		"id": "undeadDamageBoostWeak_name",
+		"text": "Духи Предков"
+	},
+	{
+		"id": "undeadDamageBoostLarge_name",
+		"text": "Духи Предков"
+	},
+	{
+		"id": "allDamageBoost_name",
+		"text": "Смертоносный"
+	},
+	{
+		"id": "allDamagePenalty_name",
+		"text": "Пацифист"
+	},
+	{
+		"id": "damageReceivedBonus_name",
+		"text": "Устойчивый"
+	},
+	{
+		"id": "damageReceivedPenalty_name",
+		"text": "Стройный"
+	},
+	{
+		"id": "merchantView_name",
+		"text": "Деловые Связи"
+	},
+	{
+		"id": "recruiterView_name",
+		"text": "Общительный"
+	},
+	{
+		"id": "restingPlaceView_name",
+		"text": "Опытный Путешественник"
+	},
+	{
+		"id": "battleView_name",
+		"text": "Бдительный"
+	},
+	{
+		"id": "fuelBoost_name",
+		"text": "Автолюбитель"
+	},
+	{
+		"id": "ammoBoost_name",
+		"text": "Осторожный"
+	},
+	{
+		"id": "moneyBoost_name",
+		"text": "Жадный"
+	},
+	{
+		"id": "lightArmorBasics_name",
+		"text": "Основы Легкой Брони"
+	},
+	{
+		"id": "mediumArmorBasics_name",
+		"text": "Основы Средней Брони"
+	},
+	{
+		"id": "heavyArmorBasics_name",
+		"text": "Основы Тяжелой Брони"
+	},
+	{
+		"id": "knifeBasics_name",
+		"text": "Основы Ножи"
+	},
+	{
+		"id": "pistolBasics_name",
+		"text": "Основы Пистолетов"
+	},
+	{
+		"id": "shotgunBasics_name",
+		"text": "Основы Дробовики"
+	},
+	{
+		"id": "assaultRifleBasics_name",
+		"text": "Основы Штурмовые Винтовки"
+	},
+	{
+		"id": "sniperRifleBasics_name",
+		"text": "Основы Снайперские Винтовки"
+	},
+	{
+		"id": "disintegratorBasics_name",
+		"text": "Основы Дезинтеграторы"
+	},
+	{
+		"id": "grenadeBasics_name",
+		"text": "Основы Гранат"
+	},
+	{
+		"id": "repairkitBasics_name",
+		"text": "Основы Ремкомплектов"
+	},
+	{
+		"id": "medkitBasics_name",
+		"text": "Основы Аптечек"
+	},
+	{
+		"id": "endurance01_name",
+		"text": "Усиление Выносливости"
+	},
+	{
+		"id": "vitality01_name",
+		"text": "Усиление Живучести"
+	},
+	{
+		"id": "dexterity01_name",
+		"text": "Усиление Сноровки"
+	},
+	{
+		"id": "reflexes01_name",
+		"text": "Усиление Рефлексов"
+	},
+	{
+		"id": "intelligence01_name",
+		"text": "Усиление Интеллекта"
+	},
+	{
+		"id": "bravery01_name",
+		"text": "Усиление Воли"
+	},
+	{
+		"id": "agility01_name",
+		"text": "Усиление Ловкости"
+	},
+	{
+		"id": "pistolDamage01_name",
+		"text": "Урон Пистолета"
+	},
+	{
+		"id": "pistolAim01_name",
+		"text": "Точность Пистолета"
+	},
+	{
+		"id": "pistolRange01_name",
+		"text": "Дальнобойность Пистолета"
+	},
+	{
+		"id": "pistolCritStrength01_name",
+		"text": "Сила Крита Пистолета"
+	},
+	{
+		"id": "pistolCritChance01_name",
+		"text": "Шанс Крита Пистолета"
+	},
+	{
+		"id": "pistolMagSize01_name",
+		"text": "Объем Магазина Пистолета"
+	},
+	{
+		"id": "pistolShredding01_name",
+		"text": "Урон Броне Пистолета"
+	},
+	{
+		"id": "knifeDamage01_name",
+		"text": "Урон Ножа"
+	},
+	{
+		"id": "knifeCritChance01_name",
+		"text": "Шанс Крита Ножа"
+	},
+	{
+		"id": "knifeCritStrength01_name",
+		"text": "Сила Крита Ножа"
+	},
+	{
+		"id": "knifeShredding01_name",
+		"text": "Урон Броне Ножа"
+	},
+	{
+		"id": "fangsDamage01_name",
+		"text": "Урон Клыков"
+	},
+	{
+		"id": "fangsCritChance01_name",
+		"text": "Шанс Крита Клыков"
+	},
+	{
+		"id": "fangsCritStrength01_name",
+		"text": "Сила Крита Клыков"
+	},
+	{
+		"id": "rifleDamage01_name",
+		"text": "Урон Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleRange01_name",
+		"text": "Дальнобойность Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleMagSize01_name",
+		"text": "Объем Магазина Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleCritChance01_name",
+		"text": "Шанс Крита Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleCritStrength01_name",
+		"text": "Сила Крита Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleAim01_name",
+		"text": "Точность Штурмовой Винтовки"
+	},
+	{
+		"id": "rifleShredding01_name",
+		"text": "Урон Броне Штурмовой Винтовки"
+	},
+	{
+		"id": "sniperRifleDamage01_name",
+		"text": "Урон Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleAim01_name",
+		"text": "Точность Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleRange01_name",
+		"text": "Дальнобойность Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleRange02_name",
+		"text": "Дальнобойность Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleCritChance01_name",
+		"text": "Шанс Крита Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleCritStrength01_name",
+		"text": "Сила Крита Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleMagSize01_name",
+		"text": "Объем Магазина Снайперской Винтовки"
+	},
+	{
+		"id": "sniperRifleShredding01_name",
+		"text": "Урон Броне Снайперской Винтовки"
+	},
+	{
+		"id": "shotgunDamage01_name",
+		"text": "Урон Дробовика"
+	},
+	{
+		"id": "shotgunMagSize01_name",
+		"text": "Объем Магазина Дробовика"
+	},
+	{
+		"id": "shotgunAim01_name",
+		"text": "Точность Дробовика"
+	},
+	{
+		"id": "shotgunCritChance01_name",
+		"text": "Шанс Крита Дробовика"
+	},
+	{
+		"id": "shotgunCritStrength01_name",
+		"text": "Сила Крита Дробовика"
+	},
+	{
+		"id": "shotgunRange01_name",
+		"text": "Дальнобойность Дробовика"
+	},
+	{
+		"id": "shotgunShredding01_name",
+		"text": "Урон Броне Дробовика"
+	},
+	{
+		"id": "disintegratorRange01_name",
+		"text": "Дальнобойность Дезинтегратора"
+	},
+	{
+		"id": "disintegratorDamage01_name",
+		"text": "Урон Дезинтегратора"
+	},
+	{
+		"id": "disintegratorMagSize01_name",
+		"text": "Объем Магазина Дезинтегратора"
+	},
+	{
+		"id": "disintegratorCritStrength01_name",
+		"text": "Сила Крита Дезинтегратора"
+	},
+	{
+		"id": "disintegratorCritChance01_name",
+		"text": "Шанс Крита Дезинтегратора"
+	},
+	{
+		"id": "disintegratorAim01_name",
+		"text": "Точность Дезинтегратора"
+	},
+	{
+		"id": "disintegratorShredding01_name",
+		"text": "Урон Броне Дезинтегратора"
+	},
+	{
+		"id": "medkitStrength01_name",
+		"text": "Сила Аптечки"
+	},
+	{
+		"id": "medkitRange01_name",
+		"text": "Дальность Аптечки"
+	},
+	{
+		"id": "repairkitStrength01_name",
+		"text": "Сила Ремкомплекта"
+	},
+	{
+		"id": "repairkitRange01_name",
+		"text": "Дальность Ремкомплекта"
+	},
+	{
+		"id": "lightArmorAmount01_name",
+		"text": "Сила Легкой Брони"
+	},
+	{
+		"id": "mediumArmorAmount01_name",
+		"text": "Сила Средней Брони"
+	},
+	{
+		"id": "heavyArmorAmount01_name",
+		"text": "Сила Тяжелой Брони"
+	},
+	{
+		"id": "grenadeDamage01_name",
+		"text": "Урон Гранаты"
+	},
+	{
+		"id": "grenadeThrowRange01_name",
+		"text": "Дальность Броска Гранаты"
+	},
+	{
+		"id": "grenadeShredding01_name",
+		"text": "Урон Броне Гранаты"
+	},
+	{
+		"id": "MapAdjustmentType_SpotThreat",
+		"text": "Отмечает Врагов на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantViewRange",
+		"text": "Отмечает Торговцев на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterViewRange",
+		"text": "Отмечает Персонажей на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceViewRange",
+		"text": "Отмечает Места Отдыха на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_HealthRegeneration",
+		"text": "Восстанавливает Здоровье на Карте"
+	},
+	{
+		"id": "MapAdjustmentType_ArmorRegeneration",
+		"text": "Восстанавливает Броню на Карте"
+	},
+	{
+		"id": "merchantViewRange_name",
+		"text": "Деловой"
+	},
+	{
+		"id": "recruiterViewRange_name",
+		"text": "Общительный"
+	},
+	{
+		"id": "restingPlaceViewRange_name",
+		"text": "Опытный Путешественник"
+	},
+	{
+		"id": "healthRegeneration_name",
+		"text": "Надежный"
+	},
+	{
+		"id": "armorRegeneration_name",
+		"text": "Лудильщик"
+	},
+	{
+		"id": "IconCaption_ExpAgi",
+		"text": "ЛОВ"
+	},
+	{
+		"id": "IconCaption_ExpDex",
+		"text": "DEX"
+	},
+	{
+		"id": "IconCaption_ExpEnd",
+		"text": "END"
+	},
+	{
+		"id": "IconCaption_ExpInt",
+		"text": "INT"
+	},
+	{
+		"id": "IconCaption_ExpRfx",
+		"text": "RFX"
+	},
+	{
+		"id": "IconCaption_ExpVit",
+		"text": "VIT"
+	},
+	{
+		"id": "IconCaption_ExpWil",
+		"text": "WIL"
+	},
+	{
+		"id": "IconCaption_SpecDmg",
+		"text": "DMG"
+	},
+	{
+		"id": "IconCaption_SpecCritPlus",
+		"text": "CRT+"
+	},
+	{
+		"id": "IconCaption_SpecCritChance",
+		"text": "CRT%"
+	},
+	{
+		"id": "IconCaption_SpecAcc",
+		"text": "ACC"
+	},
+	{
+		"id": "IconCaption_SpecRng",
+		"text": "RNG"
+	},
+	{
+		"id": "IconCaption_SpecMag",
+		"text": "MAG"
+	},
+	{
+		"id": "IconCaption_SpecRec",
+		"text": "MED"
+	},
+	{
+		"id": "IconCaption_SpecRep",
+		"text": "REP"
+	},
+	{
+		"id": "IconCaption_SpecArm",
+		"text": "ARM"
+	},
+	{
+		"id": "IconCaption_SpecShredding",
+		"text": "SHR"
+	},
+	{
+		"id": "miscSkillMeditate_name",
+		"text": "Сконцентрироваться"
+	},
+	{
+		"id": "miscSkillHealingShot_name",
+		"text": "Исцеляющий Выстрел"
+	},
+	{
+		"id": "miscSkillShreddingShot_name",
+		"text": "Разрушающий Выстрел"
+	},
+	{
+		"id": "miscSkillMoraleBoost_name",
+		"text": "Усилитель Морали"
+	},
+	{
+		"id": "miscSkillCripplingShot_name",
+		"text": "Калечащий Выстрел"
+	},
+	{
+		"id": "miscSkillQuantumLeech_name",
+		"text": "Квантовая Пиявка"
+	},
+	{
+		"id": "miscSkillRevive_name",
+		"text": "Реанимировать"
+	},
+	{
+		"id": "miscSkillFirstAid_name",
+		"text": "Первая Помощь"
+	},
+	{
+		"id": "miscSkillReactionShot_name",
+		"text": "Выстрел Реакции"
+	},
+	{
+		"id": "miscSkillParry_name",
+		"text": "Внезапный Удар"
+	},
+	{
+		"id": "miscSkillDash_name",
+		"text": "Бросок"
+	},
+	{
+		"id": "miscSkillStrike_name",
+		"text": "Рассечь"
+	},
+	{
+		"id": "miscSkillHeadshot_name",
+		"text": "Выстрел в голову"
+	},
+	{
+		"id": "miscSkillWarningShot_name",
+		"text": "Предупредительные выстрелы"
+	},
+	{
+		"id": "miscSkillPsychicControl_name",
+		"text": "Психический Контроль"
+	},
+	{
+		"id": "miscSkillSuckerPunch_name",
+		"text": "Запрещенный Прием"
+	},
+	{
+		"id": "miscSkillVanish_name",
+		"text": "Исчезнуть"
+	},
+	{
+		"id": "miscSkillBait_name",
+		"text": "Приманка"
+	}
+]
+}
