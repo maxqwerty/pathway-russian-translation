@@ -1,4 +1,6 @@
 {
     "code": "ru-RU",
-    "systemCode": "ru"
+    "systemCode": "ru",
+    "asianLanguage": false,
+    "label": "Русский"
 }

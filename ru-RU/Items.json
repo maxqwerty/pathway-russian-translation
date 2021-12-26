@@ -1,0 +1,3457 @@
+{
+"id": "Items",
+"rows": [
+	{
+		"id": "grenade_0_description",
+		"text": "Основная граната британских войск с 1902."
+	},
+	{
+		"id": "grenade_0_name",
+		"text": "Бомба Гастингса No. 23"
+	},
+	{
+		"id": "grenade_1_description",
+		"text": "Перевооружение немецкой армии также основано на этой впечатляющей новой разработке Штейнера."
+	},
+	{
+		"id": "grenade_1_name",
+		"text": "Граната Штейнера 1924"
+	},
+	{
+		"id": "grenade_2_description",
+		"text": "Когда дело доходит до взрывной мощности, эта ультрасовременная американская осколочная граната намного опережает конкурентов."
+	},
+	{
+		"id": "grenade_2_name",
+		"text": "Осколочная Граната Престона"
+	},
+	{
+		"id": "grenade_3_description",
+		"text": "Древний - и нестабильный..."
+	},
+	{
+		"id": "grenade_3_name",
+		"text": "Горшок с серой"
+	},
+	{
+		"id": "grenade_4_description",
+		"text": "Новая ручная граната Красной Армии - вероятно привезена контрабандой через Кавказ."
+	},
+	{
+		"id": "grenade_4_name",
+		"text": "Граната RFB-34"
+	},
+	{
+		"id": "grenade_5_description",
+		"text": "Взрывоопасно - когда ругательств недостаточно..."
+	},
+	{
+		"id": "grenade_5_name",
+		"text": "Динамит T3 Невеля"
+	},
+	{
+		"id": "trashAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_0_name",
+		"text": "Пропитанные натроном льняные клочки"
+	},
+	{
+		"id": "trashAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_1_name",
+		"text": "Миниатюрная ракушка каури"
+	},
+	{
+		"id": "trashAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_2_name",
+		"text": "Крошечный обсидиановый наконечник стрелы"
+	},
+	{
+		"id": "trashAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_3_name",
+		"text": "Побитая погребальная статуэтка"
+	},
+	{
+		"id": "trashAncient_4_description",
+		"text": "\"Разделить, сложить, умножить и понять\""
+	},
+	{
+		"id": "trashAncient_4_name",
+		"text": "Испачканный фрагмент папируса"
+	},
+	{
+		"id": "trashAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_5_name",
+		"text": "Потускневшая медная застежка"
+	},
+	{
+		"id": "trashAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_6_name",
+		"text": "Побитый глиняный идол"
+	},
+	{
+		"id": "trashAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_7_name",
+		"text": "Побитая известняковая банка"
+	},
+	{
+		"id": "trashAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_8_name",
+		"text": "Побитая каменная табличка"
+	},
+	{
+		"id": "trashAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_9_name",
+		"text": "Потускневшая монета из электрума"
+	},
+	{
+		"id": "trashSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_0_name",
+		"text": "Мягкий собачий бисквит"
+	},
+	{
+		"id": "trashSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_1_name",
+		"text": "Изношенная подтяжка для носков"
+	},
+	{
+		"id": "trashSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_2_name",
+		"text": "Использованная кисточка для бритья"
+	},
+	{
+		"id": "trashSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_3_name",
+		"text": "Старя зубная щетка"
+	},
+	{
+		"id": "trashSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_4_name",
+		"text": "Потускневшая медная пуговица"
+	},
+	{
+		"id": "trashSoldier_5_description",
+		"text": "\"Поднимите себе настроение щепоткой табака Sapristi!\""
+	},
+	{
+		"id": "trashSoldier_5_name",
+		"text": "Пустая табакерка"
+	},
+	{
+		"id": "trashSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_6_name",
+		"text": "Ржавый консервный нож"
+	},
+	{
+		"id": "trashSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_7_name",
+		"text": "Помятая фляжка"
+	},
+	{
+		"id": "trashSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_8_name",
+		"text": "Испорченный полевой паек"
+	},
+	{
+		"id": "trashSoldier_9_description",
+		"text": "\"Моему любимому Альберту, твоя навеки, Магда\""
+	},
+	{
+		"id": "trashSoldier_9_name",
+		"text": "Похабная фотография"
+	},
+	{
+		"id": "valuableAncient_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_a_name",
+		"text": "Поврежденная кедровая шкатулка"
+	},
+	{
+		"id": "valuableAncient_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_b_name",
+		"text": "Изысканная шкатулка из кедра"
+	},
+	{
+		"id": "valuableAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_name",
+		"text": "Кедровая шкатулка"
+	},
+	{
+		"id": "valuableAncient_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_a_name",
+		"text": "Изношенные фаянсовые бусы"
+	},
+	{
+		"id": "valuableAncient_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_b_name",
+		"text": "Изысканные фаянсовые бусы"
+	},
+	{
+		"id": "valuableAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_name",
+		"text": "Фаянсовые бусы"
+	},
+	{
+		"id": "valuableAncient_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_a_name",
+		"text": "Потускневшая бронзовая жертвенная чаша"
+	},
+	{
+		"id": "valuableAncient_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_b_name",
+		"text": "Изысканная бронзовая жертвенная чаша"
+	},
+	{
+		"id": "valuableAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_name",
+		"text": "Бронзовая жертвенная чаша"
+	},
+	{
+		"id": "valuableAncient_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_a_name",
+		"text": "Побитая фигурка из слоновой кости"
+	},
+	{
+		"id": "valuableAncient_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_b_name",
+		"text": "Изысканная фигурка из слоновой кости"
+	},
+	{
+		"id": "valuableAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_name",
+		"text": "Фигурка из слоновой кости"
+	},
+	{
+		"id": "valuableAncient_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_a_name",
+		"text": "Потускневшее кольцо с ониксом"
+	},
+	{
+		"id": "valuableAncient_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_b_name",
+		"text": "Изысканный кольцо с ониксом"
+	},
+	{
+		"id": "valuableAncient_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_name",
+		"text": "Кольцо с ониксом"
+	},
+	{
+		"id": "valuableAncient_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_a_name",
+		"text": "Поврежденный порфировый картуш"
+	},
+	{
+		"id": "valuableAncient_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_b_name",
+		"text": "Изысканный порфировый картуш"
+	},
+	{
+		"id": "valuableAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_name",
+		"text": "Порфировый картуш"
+	},
+	{
+		"id": "valuableAncient_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_a_name",
+		"text": "Ветхий перстень с гематитом"
+	},
+	{
+		"id": "valuableAncient_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_b_name",
+		"text": "Изысканный перстень с гематитом"
+	},
+	{
+		"id": "valuableAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_name",
+		"text": "Перстень с гематитом"
+	},
+	{
+		"id": "valuableAncient_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_a_name",
+		"text": "Ветхий сердоликовый амулет"
+	},
+	{
+		"id": "valuableAncient_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_b_name",
+		"text": "Изысканный сердоликовый амулет"
+	},
+	{
+		"id": "valuableAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_name",
+		"text": "Сердоликовый амулет"
+	},
+	{
+		"id": "valuableAncient_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_a_name",
+		"text": "Потускневшая серебряная маска"
+	},
+	{
+		"id": "valuableAncient_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_b_name",
+		"text": "Украшенная серебряная маска"
+	},
+	{
+		"id": "valuableAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_name",
+		"text": "Серебряная маска"
+	},
+	{
+		"id": "valuableAncient_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_a_name",
+		"text": "Побитая синяя церемониальная корона"
+	},
+	{
+		"id": "valuableAncient_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_b_name",
+		"text": "Украшенный синяя церемониальная корона"
+	},
+	{
+		"id": "valuableAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_name",
+		"text": "Синяя церемониальная корона"
+	},
+	{
+		"id": "valuableSoldier_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_a_name",
+		"text": "Изношенные офицерские кожаные перчатки"
+	},
+	{
+		"id": "valuableSoldier_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_b_name",
+		"text": "Изысканные офицерские кожаные перчатки"
+	},
+	{
+		"id": "valuableSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_name",
+		"text": "Офицерские кожаные перчатки"
+	},
+	{
+		"id": "valuableSoldier_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_a_name",
+		"text": "Изношенный шелковый платок"
+	},
+	{
+		"id": "valuableSoldier_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_b_name",
+		"text": "Изысканный шелковый платок"
+	},
+	{
+		"id": "valuableSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_name",
+		"text": "Шелковый платок"
+	},
+	{
+		"id": "valuableSoldier_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_a_name",
+		"text": "Потертый кожаный кошелек"
+	},
+	{
+		"id": "valuableSoldier_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_b_name",
+		"text": "Большой кожаный кошелек"
+	},
+	{
+		"id": "valuableSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_name",
+		"text": "Кожаный кошелек"
+	},
+	{
+		"id": "valuableSoldier_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_a_name",
+		"text": "Потертый монокль"
+	},
+	{
+		"id": "valuableSoldier_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_b_name",
+		"text": "Новый монокль"
+	},
+	{
+		"id": "valuableSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_name",
+		"text": "Монокль"
+	},
+	{
+		"id": "valuableSoldier_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_a_name",
+		"text": "Побитый черепаховый мундштук"
+	},
+	{
+		"id": "valuableSoldier_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_b_name",
+		"text": "Изысканный черепаховый мундштук"
+	},
+	{
+		"id": "valuableSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_name",
+		"text": "Черепаховый мундштук"
+	},
+	{
+		"id": "valuableSoldier_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_a_name",
+		"text": "Потускневшая серебряная перьевая ручка"
+	},
+	{
+		"id": "valuableSoldier_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_b_name",
+		"text": "Изысканная серебряная перьевая ручка"
+	},
+	{
+		"id": "valuableSoldier_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_name",
+		"text": "Серебряная перьевая ручка"
+	},
+	{
+		"id": "valuableSoldier_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_a_name",
+		"text": "Ветхий Железный Крест"
+	},
+	{
+		"id": "valuableSoldier_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_b_name",
+		"text": "Блестящий Железный Крест"
+	},
+	{
+		"id": "valuableSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_name",
+		"text": "Железный Крест"
+	},
+	{
+		"id": "valuableSoldier_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_a_name",
+		"text": "Потрепанный портсигар из кожи аллигатора"
+	},
+	{
+		"id": "valuableSoldier_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_b_name",
+		"text": "Изысканный портсигар из кожи аллигатора"
+	},
+	{
+		"id": "valuableSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_name",
+		"text": "Портсигар из кожи аллигатора"
+	},
+	{
+		"id": "valuableSoldier_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_a_name",
+		"text": "Поврежденная дальномерная камера"
+	},
+	{
+		"id": "valuableSoldier_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_b_name",
+		"text": "Новая дальномерная камера"
+	},
+	{
+		"id": "valuableSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_name",
+		"text": "Дальномерная камера"
+	},
+	{
+		"id": "valuableSoldier_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_a_name",
+		"text": "Потускневшие золотые карманные часы"
+	},
+	{
+		"id": "valuableSoldier_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_b_name",
+		"text": "Новые золотые карманные часы"
+	},
+	{
+		"id": "valuableSoldier_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_name",
+		"text": "Золотые карманные часы"
+	},
+	{
+		"id": "money_description",
+		"text": "Аккуратная пачка бумажных листов. Используется в качестве валюты по всему миру."
+	},
+	{
+		"id": "money_name",
+		"text": "Деньги"
+	},
+	{
+		"id": "money_antique_description",
+		"text": "Куча ценных на вид монет."
+	},
+	{
+		"id": "money_antique_name",
+		"text": "Древние Монеты"
+	},
+	{
+		"id": "carFuel_antique_description",
+		"text": "Очевидно, может быть использована как топливо."
+	},
+	{
+		"id": "carFuel_antique_name",
+		"text": "Нефть"
+	},
+	{
+		"id": "carFuel_description",
+		"text": "Используйте его, чтобы пополнить бак вашего джипа!"
+	},
+	{
+		"id": "carFuel_name",
+		"text": "Топливо"
+	},
+	{
+		"id": "supplies_name",
+		"text": "Припасы"
+	},
+	{
+		"id": "supplies_description",
+		"text": "Случайный тайник с припасами авантюриста. Содержит Аптечки, Ремкомплекты и Гранаты."
+	},
+	{
+		"id": "supplies_antique_name",
+		"text": "Антикварные Припасы"
+	},
+	{
+		"id": "supplies_antique_description",
+		"text": "Случайный тайник с припасами авантюриста. Содержит Аптечки, Ремкомплекты и Гранаты."
+	},
+	{
+		"id": "valkyriumCrystal_description",
+		"text": "Странный зеленый кристалл неизвестного происхождения. Известен древним египтянам как Ка, мистический животворец. По слухам, используется немецкими учеными для раскрытия сил древних артефактов."
+	},
+	{
+		"id": "valkyriumCrystal_name",
+		"text": "Кристалл Валькириума"
+	},
+	{
+		"id": "ammo_large_description",
+		"text": "Этих боеприпасов хватит на некоторое время."
+	},
+	{
+		"id": "ammo_large_name",
+		"text": "Большой ящик с боеприпасами"
+	},
+	{
+		"id": "ammo_medium_description",
+		"text": "Значительное количество патронов."
+	},
+	{
+		"id": "ammo_medium_name",
+		"text": "Средний ящик с боеприпасами"
+	},
+	{
+		"id": "ammo_small_description",
+		"text": "Достаточно, чтобы перезарядить средний магазин."
+	},
+	{
+		"id": "ammo_small_name",
+		"text": "Маленький ящик с боеприпасами"
+	},
+	{
+		"id": "ammo_antique_small_description",
+		"text": "Уверен, что он будет работать так же надежно, как и боеприпасы."
+	},
+	{
+		"id": "ammo_antique_small_name",
+		"text": "Порох"
+	},
+	{
+		"id": "medkit_0_description",
+		"text": "Экстренные меры, когда на счету каждая секунда."
+	},
+	{
+		"id": "medkit_0_name",
+		"text": "Давящая повязка"
+	},
+	{
+		"id": "medkit_1_description",
+		"text": "Также помогает при сильных головных болях."
+	},
+	{
+		"id": "medkit_1_name",
+		"text": "Болеутоляющее"
+	},
+	{
+		"id": "medkit_2_description",
+		"text": "Не дай гангрене и шанса!"
+	},
+	{
+		"id": "medkit_2_name",
+		"text": "Шприц пенициллина"
+	},
+	{
+		"id": "medkit_3_description",
+		"text": "Настоящий спаситель."
+	},
+	{
+		"id": "medkit_3_name",
+		"text": "Набор Первой Помощи"
+	},
+	{
+		"id": "medkit_4_description",
+		"text": "Издавна Серкет была богиней-покровительницей целителей."
+	},
+	{
+		"id": "medkit_4_name",
+		"text": "Малое Зелье Серкет"
+	},
+	{
+		"id": "medkit_5_description",
+		"text": "\"Святая Хатхор, Богиня-Мать! Только ты даруешь утешение несчастным.\""
+	},
+	{
+		"id": "medkit_5_name",
+		"text": "Чародейское зелье Хатхор"
+	},
+	{
+		"id": "medkit_6_description",
+		"text": "Культ Хуттура был известен еще в древности чудесами, которые творили его странствующие жрицы."
+	},
+	{
+		"id": "medkit_6_name",
+		"text": "Священное Зелье Хуттура"
+	},
+	{
+		"id": "repairkit_0_description",
+		"text": "Нужно импровизировать, чтобы добиться успеха в жизни."
+	},
+	{
+		"id": "repairkit_0_name",
+		"text": "Иголка и нитка"
+	},
+	{
+		"id": "repairkit_1_description",
+		"text": "Когда нитки с иголкой недостаточно!"
+	},
+	{
+		"id": "repairkit_1_name",
+		"text": "Шило и кжаная заплатка"
+	},
+	{
+		"id": "repairkit_2_description",
+		"text": "Исправляют даже самые серьезные повреждения."
+	},
+	{
+		"id": "repairkit_2_name",
+		"text": "Молоток и плоскогубцы"
+	},
+	{
+		"id": "repairkit_3_description",
+		"text": "Верховному Жрецу Ястреба Неркут-Нира было поручено вечное сохранение священных артефактов культа."
+	},
+	{
+		"id": "repairkit_3_name",
+		"text": "Малый Бальзам Неркут-Нира"
+	},
+	{
+		"id": "repairkit_4_description",
+		"text": "Нефри-Ка-Хор был основателем алхимической традиции, посвященной сохранению материи."
+	},
+	{
+		"id": "repairkit_4_name",
+		"text": "Чародейский Бальзам Нефри-Ка-Хора"
+	},
+	{
+		"id": "repairkit_5_description",
+		"text": "Местные кочевники рассказывают невероятные истории о чудесном действии этого смолисто-пахнущего бальзама."
+	},
+	{
+		"id": "repairkit_5_name",
+		"text": "Священный Бальзам Кум'Раша"
+	},
+	{
+		"id": "artefact01_description",
+		"text": "Древний фолиант, полный каббалистических схем и символов."
+	},
+	{
+		"id": "artefact01_name",
+		"text": "Тайное Откровение Моисею"
+	},
+	{
+		"id": "artefact02_description",
+		"text": "Старый круглый щит с поверхностью из полированной меди."
+	},
+	{
+		"id": "artefact02_name",
+		"text": "Щит Персея"
+	},
+	{
+		"id": "artefact03_description",
+		"text": "Эта грубая каменная фигура со странно вытянутыми чертами лица, похоже, не принадлежит ни одной известной человеческой культуре."
+	},
+	{
+		"id": "artefact03_name",
+		"text": "Архаическая Статуэтка"
+	},
+	{
+		"id": "artefact04_description",
+		"text": "Семь свитков папируса, обветшалых и закрашенных выцветшими иероглифами"
+	},
+	{
+		"id": "artefact04_name",
+		"text": "Книга Мертвых"
+	},
+	{
+		"id": "artefact05_description",
+		"text": "Загадочное устройство длиной примерно в один фут, сделанное из странно блестящего стального сплава."
+	},
+	{
+		"id": "artefact05_name",
+		"text": "Мечи Херувима"
+	},
+	{
+		"id": "artefact06_description",
+		"text": "Черный как смоль, полированный и тепло пульсирующий драгоценный камень"
+	},
+	{
+		"id": "artefact06_name",
+		"text": "Камень Зерзуры"
+	},
+	{
+		"id": "artefact07_description",
+		"text": "Легендарная корона обета нескастного короля Куша."
+	},
+	{
+		"id": "artefact07_name",
+		"text": "Древняя Священная Корона"
+	},
+	{
+		"id": "artefact08_description",
+		"text": "Один из одиннадцати сказочных изумрудных скарабеев из затонувшего пустынного города Харга Серабит."
+	},
+	{
+		"id": "artefact08_name",
+		"text": "Изумрудный Скарабей"
+	},
+	{
+		"id": "artefact09_description",
+		"text": "Судя по надписи, это посмертная маска Александра Македонского, одного из величайших завоевателей в истории человечества."
+	},
+	{
+		"id": "artefact09_name",
+		"text": "Серебряная Посмертная Маска"
+	},
+	{
+		"id": "artefact10_description",
+		"text": "Греческий исследователь Геродот записал свои путешествия по Ближнему Востоку в этом забытом путевом дневнике."
+	},
+	{
+		"id": "artefact10_name",
+		"text": "Древний Пергамент"
+	},
+	{
+		"id": "artefact11_description",
+		"text": "Книга Сокровищ - это древний сборник мифов. Он содержит познавательные отрывки о потерянных сокровищах Аравийского полуострова."
+	},
+	{
+		"id": "artefact11_name",
+		"text": "Китаб аль-Кануз"
+	},
+	{
+		"id": "artefact12_description",
+		"text": "Согласно легенде, это меч, которым Чингисхан казнил правителей покоренных им народов."
+	},
+	{
+		"id": "artefact12_name",
+		"text": "Огромный Скимитар"
+	},
+	{
+		"id": "artefact13_description",
+		"text": "Трость просвещенного раввина Исаака Лурия. Резную голову льва из слоновой кости можно открутить. В небольшом углублении находится аккуратно сложенный лист бумаги с каббалистической числовой загадкой."
+	},
+	{
+		"id": "artefact13_name",
+		"text": "Трость с Львиной Головой"
+	},
+	{
+		"id": "artefact14_description",
+		"text": "Похоже, речь идет о планах развертывания Южного Исследовательского Батальона."
+	},
+	{
+		"id": "artefact14_name",
+		"text": "Зашифрованная Телеграмма"
+	},
+	{
+		"id": "artefact15_description",
+		"text": "Похоже, что содержимое представляет собой спекулятивный дизайн конденсаторного мозга"
+	},
+	{
+		"id": "artefact15_name",
+		"text": "Запечатанный Портфель"
+	},
+	{
+		"id": "artefact16_description",
+		"text": "Возможно, это чертеж прототипа машины Валькириума?"
+	},
+	{
+		"id": "artefact16_name",
+		"text": "Странный Чертеж"
+	},
+	{
+		"id": "artefact17_description",
+		"text": "Просто держа в руках этот амулет богини-защитницы, вы чувствуете, как обостряются все чувства."
+	},
+	{
+		"id": "artefact17_name",
+		"text": "Амулет Бастет"
+	},
+	{
+		"id": "trashUndead_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_0_name",
+		"text": "Кровавый скальп"
+	},
+	{
+		"id": "trashUndead_1_description",
+		"text": "Это... пальцы?!"
+	},
+	{
+		"id": "trashUndead_1_name",
+		"text": "Странный браслет"
+	},
+	{
+		"id": "trashUndead_2_description",
+		"text": "\"Затем возьмите мужчину; сдерите с него кожу.\""
+	},
+	{
+		"id": "trashUndead_2_name",
+		"text": "Запятнанный Дневник"
+	},
+	{
+		"id": "trashUndead_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_3_name",
+		"text": "Сверло для черепа"
+	},
+	{
+		"id": "trashUndead_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_4_name",
+		"text": "Сумка с Благовониям"
+	},
+	{
+		"id": "trashUndead_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_5_name",
+		"text": "Изогнутый нож для бритья"
+	},
+	{
+		"id": "trashUndead_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_6_name",
+		"text": "Восковая кукла"
+	},
+	{
+		"id": "trashUndead_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_7_name",
+		"text": "Ритуальный кинжал"
+	},
+	{
+		"id": "trashUndead_8_description",
+		"text": "Кольцо испускает ауру абсолютного зла."
+	},
+	{
+		"id": "trashUndead_8_name",
+		"text": "Таинственный перстень-печатка"
+	},
+	{
+		"id": "trashUndead_9_description",
+		"text": "В дырочки для глаз вшиты два кроваво-красных рубина!"
+	},
+	{
+		"id": "trashUndead_9_name",
+		"text": "Сморщенная голова"
+	},
+	{
+		"id": "rock01_description",
+		"text": "Камень"
+	},
+	{
+		"id": "rock01_name",
+		"text": "Камень"
+	},
+	{
+		"id": "donut_teeth_name",
+		"text": "Острые клыки"
+	},
+	{
+		"id": "donut_teeth_description",
+		"text": "Остры и беспощадны"
+	},
+	{
+		"id": "fenris_teeth_name",
+		"text": "Острые клыки"
+	},
+	{
+		"id": "fenris_teeth_description",
+		"text": "Острые и мерзкие!"
+	},
+	{
+		"id": "donut_armor_name",
+		"text": "Пушистый Мех"
+	},
+	{
+		"id": "donut_armor_description",
+		"text": "Белый как снег..."
+	},
+	{
+		"id": "fenris_armor_name",
+		"text": "Пушистый Мех"
+	},
+	{
+		"id": "fenris_armor_description",
+		"text": "Черный как ночь..."
+	},
+	{
+		"id": "shinyBiscuit_0_name",
+		"text": "Блестящий Собачий Бисквит"
+	},
+	{
+		"id": "shinyBiscuit_0_description",
+		"text": "Загадочно ценный собачий бисквит."
+	},
+	{
+		"id": "disintegrator_0_name",
+		"text": "Ветхий Стенорез Флобишера и Бойда"
+	},
+	{
+		"id": "disintegrator_0a_name",
+		"text": "Новый Стенорез Флобишера и Бойда"
+	},
+	{
+		"id": "disintegrator_0b_name",
+		"text": "Улучшенный Стенорез Флобишера и Бойда"
+	},
+	{
+		"id": "disintegrator_0c_name",
+		"text": "Великолепный Стенорез Флобишера и Бойда"
+	},
+	{
+		"id": "disintegrator_1_name",
+		"text": "Ветхий Прототип Адлера и Шталькнехта"
+	},
+	{
+		"id": "disintegrator_1a_name",
+		"text": "Новый Прототип Адлера и Шталькнехта"
+	},
+	{
+		"id": "disintegrator_1b_name",
+		"text": "Улучшенный Прототип Адлера и Шталькнехта"
+	},
+	{
+		"id": "disintegrator_1c_name",
+		"text": "Великолепный Прототип Адлера и Шталькнехта"
+	},
+	{
+		"id": "disintegrator_2_name",
+		"text": "Ветхий Пистолет Гернсбека Окфилда"
+	},
+	{
+		"id": "disintegrator_2a_name",
+		"text": "Новый Пистолет Гернсбека Окфилда"
+	},
+	{
+		"id": "disintegrator_2b_name",
+		"text": "Улучшенный Пистолет Гернсбека Окфилда"
+	},
+	{
+		"id": "disintegrator_2c_name",
+		"text": "Великолепный Пистолет Гернсбека Окфилда"
+	},
+	{
+		"id": "disintegrator_3_name",
+		"text": "Ветхая Врил-Горелка Литвак-Ветрова"
+	},
+	{
+		"id": "disintegrator_3a_name",
+		"text": "Новая Врил-Горелка Литвак-Ветрова"
+	},
+	{
+		"id": "disintegrator_3b_name",
+		"text": "Улучшенная Врил-Горелка Литвак-Ветрова"
+	},
+	{
+		"id": "disintegrator_3c_name",
+		"text": "Великолепная Врил-Горелка Литвак-Ветрова"
+	},
+	{
+		"id": "disintegrator_4_name",
+		"text": "Ветхий Метатель Частиц Рейнхолда"
+	},
+	{
+		"id": "disintegrator_4a_name",
+		"text": "Новый Метатель Частиц Рейнхолда"
+	},
+	{
+		"id": "disintegrator_4b_name",
+		"text": "Улучшенный Метатель Частиц Рейнхолда"
+	},
+	{
+		"id": "disintegrator_4c_name",
+		"text": "Великолепный Метатель Частиц Рейнхолда"
+	},
+	{
+		"id": "disintegrator_5_name",
+		"text": "Ветхое Абсолютно Черное Тело Риттерверк"
+	},
+	{
+		"id": "disintegrator_5a_name",
+		"text": "Новое Абсолютно Черное Тело Риттерверк"
+	},
+	{
+		"id": "disintegrator_5b_name",
+		"text": "Улучшенное Абсолютно Черное Тело Риттерверк"
+	},
+	{
+		"id": "disintegrator_5c_name",
+		"text": "Великолепное Абсолютно Черное Тело Риттерверк"
+	},
+	{
+		"id": "disintegrator_6_name",
+		"text": "Ветхая Лучевая Винтовка Глюкенштейна SG35"
+	},
+	{
+		"id": "disintegrator_6a_name",
+		"text": "Новая Лучевая Винтовка Глюкенштейна SG35"
+	},
+	{
+		"id": "disintegrator_6b_name",
+		"text": "Улучшенная Лучевая Винтовка Глюкенштейна SG35"
+	},
+	{
+		"id": "disintegrator_6c_name",
+		"text": "Великолепная Лучевая Винтовка Глюкенштейна SG35"
+	},
+	{
+		"id": "disintegrator_7_name",
+		"text": "Ветхий Пистолет Верне Окфилда"
+	},
+	{
+		"id": "disintegrator_7a_name",
+		"text": "Новый Пистолет Верне Окфилда"
+	},
+	{
+		"id": "disintegrator_7b_name",
+		"text": "Улучшенный Пистолет Верне Окфилда"
+	},
+	{
+		"id": "disintegrator_7c_name",
+		"text": "Великолепный Пистолет Верне Окфилда"
+	},
+	{
+		"id": "disintegrator_0_description",
+		"text": "Вы же не думаете, что эти провода должны торчать из боковой крышки?"
+	},
+	{
+		"id": "disintegrator_0a_description",
+		"text": "Последняя разработка старинного британского производителя Фробишер и Бойд. Очевидно, что работа над ней еще не завершена, но пользоваться им безопасно - во всяком случае, так должно быть..."
+	},
+	{
+		"id": "disintegrator_0b_description",
+		"text": "Последняя разработка старинного британского производителя Фробишер и Бойд. Очевидно, что работа над ней еще не завершена, но пользоваться им безопасно - во всяком случае, так должно быть..."
+	},
+	{
+		"id": "disintegrator_0c_description",
+		"text": "Прекрасный образец!"
+	},
+	{
+		"id": "disintegrator_1_description",
+		"text": "Эта штука издает тревожные звуки."
+	},
+	{
+		"id": "disintegrator_1a_description",
+		"text": "Очевидно, что прототип в процессе разработки. Ох уж эти немцы и их загадочные прототипы!"
+	},
+	{
+		"id": "disintegrator_1b_description",
+		"text": "Очевидно, что прототип в процессе разработки. Ох уж эти немцы и их загадочные прототипы!"
+	},
+	{
+		"id": "disintegrator_1c_description",
+		"text": "Немного неудобен в использовании, но в остальном - идеален!"
+	},
+	{
+		"id": "disintegrator_2_description",
+		"text": "Несколько винтов открутилось."
+	},
+	{
+		"id": "disintegrator_2a_description",
+		"text": "Американцы вышли на высококонкурентный рынок дезинтеграторов с этой серийной моделью"
+	},
+	{
+		"id": "disintegrator_2b_description",
+		"text": "Американцы вышли на высококонкурентный рынок дезинтеграторов с этой серийной моделью."
+	},
+	{
+		"id": "disintegrator_2c_description",
+		"text": "Похоже, это совершенно новая модель."
+	},
+	{
+		"id": "disintegrator_3_description",
+		"text": "Пахнет так, будто ее завернули в вонючие тряпки."
+	},
+	{
+		"id": "disintegrator_3a_description",
+		"text": "Новый подход загадочных восточно-европейцев. Вы задаетесь вопросом, что такое Врил и зачем его сжигать."
+	},
+	{
+		"id": "disintegrator_3b_description",
+		"text": "Новый подход загадочных восточно-европейцев. Вы задаетесь вопросом, что такое Врил и зачем его сжигать."
+	},
+	{
+		"id": "disintegrator_3c_description",
+		"text": "Привлекательный дизайн!"
+	},
+	{
+		"id": "disintegrator_4_description",
+		"text": "Судя по всему, во время транспортировки он получил несколько ударов.."
+	},
+	{
+		"id": "disintegrator_4a_description",
+		"text": "Как и ожидалось, превосходная немецкая инженерия из загадочного оружейного завода в Ксантене."
+	},
+	{
+		"id": "disintegrator_4b_description",
+		"text": "Как и ожидалось, превосходная немецкая инженерия из загадочного оружейного завода в Ксантене."
+	},
+	{
+		"id": "disintegrator_4c_description",
+		"text": "Прямо с конвеера!"
+	},
+	{
+		"id": "disintegrator_5_description",
+		"text": "Лампочки включаются и гаснут в случайном порядке..."
+	},
+	{
+		"id": "disintegrator_5a_description",
+		"text": "Абсолютно Черное Тело Риттерверк действительно внушающее благоговение оружие."
+	},
+	{
+		"id": "disintegrator_5b_description",
+		"text": "Абсолютно Черное Тело Риттерверк действительно внушающее благоговение оружие."
+	},
+	{
+		"id": "disintegrator_5c_description",
+		"text": "Шедевр!"
+	},
+	{
+		"id": "disintegrator_6_description",
+		"text": "Можно услышать, как что-то дребезжащее внутри..."
+	},
+	{
+		"id": "disintegrator_6a_description",
+		"text": "Лучевая Винтовка SG35 - новейшая технология для смертоносных Теслаборгов Германского Рейха!"
+	},
+	{
+		"id": "disintegrator_6b_description",
+		"text": "Лучевая Винтовка SG35 - новейшая технология для смертоносных Теслаборгов Германского Рейха!"
+	},
+	{
+		"id": "disintegrator_6c_description",
+		"text": "Оружие очень удобно лежит в вашей руке!"
+	},
+	{
+		"id": "disintegrator_7_description",
+		"text": "Оружие пахнет так, будто в нем произошло короткое замыкание."
+	},
+	{
+		"id": "disintegrator_7a_description",
+		"text": "Простой в использовании, надежный и безжалостно эффективный: Пистолет Верне - настоящих шедевр мастерских Окфилда"
+	},
+	{
+		"id": "disintegrator_7b_description",
+		"text": "Простой в использовании, надежный и безжалостно эффективный: Пистолет Верне - настоящих шедевр мастерских Окфилда"
+	},
+	{
+		"id": "disintegrator_7c_description",
+		"text": "Вероятно, это был индивидуальный заказ."
+	},
+	{
+		"id": "knife_0_name",
+		"text": "Ветхий швейцарский нож"
+	},
+	{
+		"id": "knife_0a_name",
+		"text": "Новый швейцарский нож"
+	},
+	{
+		"id": "knife_0b_name",
+		"text": "Острый швейцарский нож"
+	},
+	{
+		"id": "knife_0c_name",
+		"text": "Великолепный швейцарский нож"
+	},
+	{
+		"id": "knife_1_name",
+		"text": "Ветхий стилет"
+	},
+	{
+		"id": "knife_1a_name",
+		"text": "Новый стилет"
+	},
+	{
+		"id": "knife_1b_name",
+		"text": "Острый стилет"
+	},
+	{
+		"id": "knife_1c_name",
+		"text": "Великолепный стилет"
+	},
+	{
+		"id": "knife_2_name",
+		"text": "Ветхий охотничий нож"
+	},
+	{
+		"id": "knife_2a_name",
+		"text": "Новый охотничий нож"
+	},
+	{
+		"id": "knife_2b_name",
+		"text": "Острый охотничий нож"
+	},
+	{
+		"id": "knife_2c_name",
+		"text": "Великолепный охотничий нож"
+	},
+	{
+		"id": "knife_3_name",
+		"text": "Ветхое мачете"
+	},
+	{
+		"id": "knife_3a_name",
+		"text": "Новое мачете"
+	},
+	{
+		"id": "knife_3b_name",
+		"text": "Острое мачете"
+	},
+	{
+		"id": "knife_3c_name",
+		"text": "Великолепное мачете"
+	},
+	{
+		"id": "knife_4_name",
+		"text": "Ветхий нож мясника"
+	},
+	{
+		"id": "knife_4a_name",
+		"text": "Новый нож мясника"
+	},
+	{
+		"id": "knife_4b_name",
+		"text": "Острый нож мясника"
+	},
+	{
+		"id": "knife_4c_name",
+		"text": "Великолепный нож мясника"
+	},
+	{
+		"id": "knife_5_name",
+		"text": "Ветхий кукри"
+	},
+	{
+		"id": "knife_5a_name",
+		"text": "Новый кукри"
+	},
+	{
+		"id": "knife_5b_name",
+		"text": "Острый кукри"
+	},
+	{
+		"id": "knife_5c_name",
+		"text": "Великолепный кукри"
+	},
+	{
+		"id": "knife_6_name",
+		"text": "Ветхий боло"
+	},
+	{
+		"id": "knife_6a_name",
+		"text": "Новый боло"
+	},
+	{
+		"id": "knife_6b_name",
+		"text": "Острый боло"
+	},
+	{
+		"id": "knife_6c_name",
+		"text": "Великолепный боло"
+	},
+	{
+		"id": "knife_7_name",
+		"text": "Ветхий траншейный нож"
+	},
+	{
+		"id": "knife_7a_name",
+		"text": "Новый траншейный нож"
+	},
+	{
+		"id": "knife_7b_name",
+		"text": "Острый траншейный нож"
+	},
+	{
+		"id": "knife_7c_name",
+		"text": "Великолепный траншейный нож"
+	},
+	{
+		"id": "knife_0_description",
+		"text": "Лезвие почти полностью затупилось."
+	},
+	{
+		"id": "knife_0a_description",
+		"text": "У него даже штопора нет."
+	},
+	{
+		"id": "knife_0b_description",
+		"text": "У него даже штопора нет."
+	},
+	{
+		"id": "knife_0c_description",
+		"text": "Ух ты, у него есть штопор!"
+	},
+	{
+		"id": "knife_1_description",
+		"text": "Довольно ржавый."
+	},
+	{
+		"id": "knife_1a_description",
+		"text": "Элегантный и смертоносный..."
+	},
+	{
+		"id": "knife_1b_description",
+		"text": "Элегантный и смертоносный..."
+	},
+	{
+		"id": "knife_1c_description",
+		"text": "Острый как бритва!"
+	},
+	{
+		"id": "knife_2_description",
+		"text": "Лезвие немного болтается."
+	},
+	{
+		"id": "knife_2a_description",
+		"text": "Вот это нож..."
+	},
+	{
+		"id": "knife_2b_description",
+		"text": "Вот это нож..."
+	},
+	{
+		"id": "knife_2c_description",
+		"text": "Произведение искусства!"
+	},
+	{
+		"id": "knife_3_description",
+		"text": "Должно быть, он валялся где-то годами."
+	},
+	{
+		"id": "knife_3a_description",
+		"text": "Немного тяжелый, но хорошо лежит в руке."
+	},
+	{
+		"id": "knife_3b_description",
+		"text": "Немного тяжелый, но хорошо лежит в руке."
+	},
+	{
+		"id": "knife_3c_description",
+		"text": "Высшее качество!"
+	},
+	{
+		"id": "knife_4_description",
+		"text": "Очень нуждается в заточке."
+	},
+	{
+		"id": "knife_4a_description",
+		"text": "Режет кость, как масло!"
+	},
+	{
+		"id": "knife_4b_description",
+		"text": "Режет кость, как масло!"
+	},
+	{
+		"id": "knife_4c_description",
+		"text": "Как-будто взят прямо с кухни."
+	},
+	{
+		"id": "knife_5_description",
+		"text": "Это оружие знало лучшие дни."
+	},
+	{
+		"id": "knife_5a_description",
+		"text": "Стандартное оружие ужасных воинов Гуркхов: проворное и смертоносное."
+	},
+	{
+		"id": "knife_5b_description",
+		"text": "Стандартное оружие ужасных воинов Гуркхов: проворное и смертоносное."
+	},
+	{
+		"id": "knife_5c_description",
+		"text": "Ужасающе острый!"
+	},
+	{
+		"id": "knife_6_description",
+		"text": "Лезвие заржавело."
+	},
+	{
+		"id": "knife_6a_description",
+		"text": "Малайский нож для кустарников. Идеальное оружие для войны в джунглях!"
+	},
+	{
+		"id": "knife_6b_description",
+		"text": "Малайский нож для кустарников. Идеальное оружие для войны в джунглях!"
+	},
+	{
+		"id": "knife_6c_description",
+		"text": "Лезвие имеет хороший вес."
+	},
+	{
+		"id": "knife_7_description",
+		"text": "К сожалению, кончик лезвия отломился."
+	},
+	{
+		"id": "knife_7a_description",
+		"text": "Реликвия траншейных боев Мировой Войны."
+	},
+	{
+		"id": "knife_7b_description",
+		"text": "Реликвия траншейных боев Мировой Войны."
+	},
+	{
+		"id": "knife_7c_description",
+		"text": "За этим ножом ухаживали с любовью!"
+	},
+	{
+		"id": "pistol_0_name",
+		"text": "Ветхий служебный пистолет Хастингса"
+	},
+	{
+		"id": "pistol_0a_name",
+		"text": "Новый служебный пистолет Хастингса"
+	},
+	{
+		"id": "pistol_0b_name",
+		"text": "Улучшенный служебный пистолет Хастингса"
+	},
+	{
+		"id": "pistol_0c_name",
+		"text": "Великолепный служебный пистолет Хастингса"
+	},
+	{
+		"id": "pistol_1_name",
+		"text": "Ветхий Происиш-Маузер M1907"
+	},
+	{
+		"id": "pistol_1a_name",
+		"text": "Новый Происиш-Маузер M1907"
+	},
+	{
+		"id": "pistol_1b_name",
+		"text": "Улучшенный Происиш-Маузер M1907"
+	},
+	{
+		"id": "pistol_1c_name",
+		"text": "Великолепный Происиш-Маузер M1907"
+	},
+	{
+		"id": "pistol_2_name",
+		"text": "Ветхий Пистолет Штайнера 34"
+	},
+	{
+		"id": "pistol_2a_name",
+		"text": "Новый Пистолет Штайнера 34"
+	},
+	{
+		"id": "pistol_2b_name",
+		"text": "Улучшенный Пистолет Штайнера 34"
+	},
+	{
+		"id": "pistol_2c_name",
+		"text": "Великолепный Пистолет Штайнера 34"
+	},
+	{
+		"id": "pistol_3_name",
+		"text": "Ветхий Невель 9mm"
+	},
+	{
+		"id": "pistol_3a_name",
+		"text": "Новый Невель 9mm"
+	},
+	{
+		"id": "pistol_3b_name",
+		"text": "Улучшенный Невель 9mm"
+	},
+	{
+		"id": "pistol_3c_name",
+		"text": "Великолепный Невель 9mm"
+	},
+	{
+		"id": "pistol_4_name",
+		"text": "Ветхий Доминик .425 Парабеллум"
+	},
+	{
+		"id": "pistol_4a_name",
+		"text": "Новый Доминик .425 Парабеллум"
+	},
+	{
+		"id": "pistol_4b_name",
+		"text": "Улучшенный Доминик .425 Парабеллум"
+	},
+	{
+		"id": "pistol_4c_name",
+		"text": "Великолепный Доминик .425 Парабеллум"
+	},
+	{
+		"id": "pistol_5_name",
+		"text": "Ветхий Магнум Морлея-Бюрке"
+	},
+	{
+		"id": "pistol_5a_name",
+		"text": "Новый Магнум Морлея-Бюрке"
+	},
+	{
+		"id": "pistol_5b_name",
+		"text": "Улучшенный Магнум Морлея-Бюрке"
+	},
+	{
+		"id": "pistol_5c_name",
+		"text": "Великолепный Магнум Морлея-Бюрке"
+	},
+	{
+		"id": "pistol_6_name",
+		"text": "Ветхий Скользящий Затвор Блейка"
+	},
+	{
+		"id": "pistol_6a_name",
+		"text": "Новый Скользящий Затвор Блейка"
+	},
+	{
+		"id": "pistol_6b_name",
+		"text": "Улучшенный Скользящий Затвор Блейка"
+	},
+	{
+		"id": "pistol_6c_name",
+		"text": "Великолепный Скользящий Затвор Блейка"
+	},
+	{
+		"id": "pistol_7_name",
+		"text": "Ветхий Чарльстон .357"
+	},
+	{
+		"id": "pistol_7a_name",
+		"text": "Новый Чарльстон .357"
+	},
+	{
+		"id": "pistol_7b_name",
+		"text": "Улучшенный Чарльстон .357"
+	},
+	{
+		"id": "pistol_7c_name",
+		"text": "Великолепный Чарльстон .357"
+	},
+	{
+		"id": "pistol_0_description",
+		"text": "Этот пистолет прожил долгую и насыщенную жизнь."
+	},
+	{
+		"id": "pistol_0a_description",
+		"text": "Стандартное оружие британских полевых медиков с 1915."
+	},
+	{
+		"id": "pistol_0b_description",
+		"text": "Стандартное оружие британских полевых медиков с 1915."
+	},
+	{
+		"id": "pistol_0c_description",
+		"text": "Необычно хорошо сохранился."
+	},
+	{
+		"id": "pistol_1_description",
+		"text": "Сильно потрепан."
+	},
+	{
+		"id": "pistol_1a_description",
+		"text": "Немецкая классика, тысячу раз проверенная в окопах Фландрии."
+	},
+	{
+		"id": "pistol_1b_description",
+		"text": "Немецкая классика, тысячу раз проверенная в окопах Фландрии."
+	},
+	{
+		"id": "pistol_1c_description",
+		"text": "Предыдущий владелец бережно ухаживал за этим оружием."
+	},
+	{
+		"id": "pistol_2_description",
+		"text": "Этот пистолет лежал в песках пустыни."
+	},
+	{
+		"id": "pistol_2a_description",
+		"text": "Немецкий офицерский корпус в настоящее время оснащается этим современным оружием."
+	},
+	{
+		"id": "pistol_2b_description",
+		"text": "Немецкий офицерский корпус в настоящее время оснащается этим современным оружием."
+	},
+	{
+		"id": "pistol_2c_description",
+		"text": "Как будто его никогда не использовали."
+	},
+	{
+		"id": "pistol_3_description",
+		"text": "Он сильно постарел..."
+	},
+	{
+		"id": "pistol_3a_description",
+		"text": "Он немного староват, но единственный в своем роде: Бретонский Невель 9mm!"
+	},
+	{
+		"id": "pistol_3b_description",
+		"text": "Он немного староват, но единственный в своем роде: Бретонский Невель 9mm!"
+	},
+	{
+		"id": "pistol_3c_description",
+		"text": "Старый добрый Невель - несокрушимый!"
+	},
+	{
+		"id": "pistol_4_description",
+		"text": "В патроннике хрустит песок."
+	},
+	{
+		"id": "pistol_4a_description",
+		"text": "На этом оружии написан девиз: 'Si vis pacem para bellum'. Вы уверены, что это означает что-то остроумное."
+	},
+	{
+		"id": "pistol_4b_description",
+		"text": "На этом оружии написан девиз: 'Si vis pacem para bellum'. Вы уверены, что это означает что-то остроумное."
+	},
+	{
+		"id": "pistol_4c_description",
+		"text": "Кто-то использовал масляную тряпку, чтобы держать его блестящим и ухоженным."
+	},
+	{
+		"id": "pistol_5_description",
+		"text": "К сожалению, он не в очень хорошем состоянии."
+	},
+	{
+		"id": "pistol_5a_description",
+		"text": "Когда вы действительно хотите попасть с первого выстрела - Магнум МБ переопределяет останавливающую силу!"
+	},
+	{
+		"id": "pistol_5b_description",
+		"text": "Когда вы действительно хотите попасть с первого выстрела - Магнум МБ переопределяет останавливающую силу!"
+	},
+	{
+		"id": "pistol_5c_description",
+		"text": "Великолепный образец!"
+	},
+	{
+		"id": "pistol_6_description",
+		"text": "Поврежденное оружие."
+	},
+	{
+		"id": "pistol_6a_description",
+		"text": "Этот мощный револьвер с коротким стволом особенно популярен среди детективов Скотланд-Ярда."
+	},
+	{
+		"id": "pistol_6b_description",
+		"text": "Этот мощный револьвер с коротким стволом особенно популярен среди детективов Скотланд-Ярда."
+	},
+	{
+		"id": "pistol_6c_description",
+		"text": "Этот револьвер в отличном состоянии!"
+	},
+	{
+		"id": "pistol_7_description",
+		"text": "Что-то не так с мушкой..."
+	},
+	{
+		"id": "pistol_7a_description",
+		"text": "Благодаря беспрецедентной огневой мощи, американский Чарльстон .357 стал мировым хитом!"
+	},
+	{
+		"id": "pistol_7b_description",
+		"text": "Благодаря беспрецедентной огневой мощи, американский Чарльстон .357 стал мировым хитом!"
+	},
+	{
+		"id": "pistol_7c_description",
+		"text": "Превосходно изготовленное оружие!"
+	},
+	{
+		"id": "rifle_0_name",
+		"text": "Ветхий Автомат Веннера"
+	},
+	{
+		"id": "rifle_0a_name",
+		"text": "Новый Автомат Веннера"
+	},
+	{
+		"id": "rifle_0b_name",
+		"text": "Улучшенный Автомат Веннера"
+	},
+	{
+		"id": "rifle_0c_name",
+		"text": "Великолепный Автомат Веннера"
+	},
+	{
+		"id": "rifle_1_name",
+		"text": "Ветхий StG-34 Адлера и Шталькнехта"
+	},
+	{
+		"id": "rifle_1a_name",
+		"text": "Новый StG-34 Адлера и Шталькнехта"
+	},
+	{
+		"id": "rifle_1b_name",
+		"text": "Улучшенный StG-34 Адлера и Шталькнехта"
+	},
+	{
+		"id": "rifle_1c_name",
+		"text": "Великолепный StG-34 Адлера и Шталькнехта"
+	},
+	{
+		"id": "rifle_2_name",
+		"text": "Ветхий Штурмовой Карабин Чиж M18"
+	},
+	{
+		"id": "rifle_2a_name",
+		"text": "Новый Штурмовой Карабин Чиж M18"
+	},
+	{
+		"id": "rifle_2b_name",
+		"text": "Улучшенный Штурмовой Карабин Чиж M18"
+	},
+	{
+		"id": "rifle_2c_name",
+		"text": "Великолепный Штурмовой Карабин Чиж M18"
+	},
+	{
+		"id": "rifle_3_name",
+		"text": "Ветхий Полуавтоматический Блейк"
+	},
+	{
+		"id": "rifle_3a_name",
+		"text": "Новый Полуавтоматический Блейк"
+	},
+	{
+		"id": "rifle_3b_name",
+		"text": "Улучшенный Полуавтоматический Блейк"
+	},
+	{
+		"id": "rifle_3c_name",
+		"text": "Великолепный Полуавтоматический Блейк"
+	},
+	{
+		"id": "rifle_4_name",
+		"text": "Ветхая M1 Винтовка Чарльстона"
+	},
+	{
+		"id": "rifle_4a_name",
+		"text": "Новая M1 Винтовка Чарльстона"
+	},
+	{
+		"id": "rifle_4b_name",
+		"text": "Улучшенная M1 Винтовка Чарльстона"
+	},
+	{
+		"id": "rifle_4c_name",
+		"text": "Великолепная M1 Винтовка Чарльстона"
+	},
+	{
+		"id": "rifle_5_name",
+		"text": "Ветхий Престон M1917-SA"
+	},
+	{
+		"id": "rifle_5a_name",
+		"text": "Новый Престон M1917-SA"
+	},
+	{
+		"id": "rifle_5b_name",
+		"text": "Улучшенный Престон M1917-SA"
+	},
+	{
+		"id": "rifle_5c_name",
+		"text": "Великолепный Престон M1917-SA"
+	},
+	{
+		"id": "rifle_6_name",
+		"text": "Ветхий Герцог Скорострел-31D"
+	},
+	{
+		"id": "rifle_6a_name",
+		"text": "Новый Герцог Скорострел-31D"
+	},
+	{
+		"id": "rifle_6b_name",
+		"text": "Улучшенный Герцог Скорострел-31D"
+	},
+	{
+		"id": "rifle_6c_name",
+		"text": "Великолепный Герцог Скорострел-31D"
+	},
+	{
+		"id": "rifle_7_name",
+		"text": "Ветхий Доминик Калибра .30-06"
+	},
+	{
+		"id": "rifle_7a_name",
+		"text": "Новый Доминик Калибра .30-06"
+	},
+	{
+		"id": "rifle_7b_name",
+		"text": "Улучшенный Доминик Калибра .30-06"
+	},
+	{
+		"id": "rifle_7c_name",
+		"text": "Великолепный Доминик Калибра .30-06"
+	},
+	{
+		"id": "rifle_0_description",
+		"text": "Ствол немного деформирован."
+	},
+	{
+		"id": "rifle_0a_description",
+		"text": "Надежность и доступность - это философия дизайна эльзасских заводов Веннера с 1878."
+	},
+	{
+		"id": "rifle_0b_description",
+		"text": "Надежность и доступность - это философия дизайна эльзасских заводов Веннера с 1878."
+	},
+	{
+		"id": "rifle_0c_description",
+		"text": "В отличной форме!"
+	},
+	{
+		"id": "rifle_1_description",
+		"text": "Захваты на прикладе винтовки отвалились."
+	},
+	{
+		"id": "rifle_1a_description",
+		"text": "Невероятно легкий для этого калибра. Еще один пример немецкой инженерии. Тревожный предвестник будущих войн."
+	},
+	{
+		"id": "rifle_1b_description",
+		"text": "Невероятно легкий для этого калибра. Еще один пример немецкой инженерии. Тревожный предвестник будущих войн."
+	},
+	{
+		"id": "rifle_1c_description",
+		"text": "Пахнет как новый..."
+	},
+	{
+		"id": "rifle_2_description",
+		"text": "Кто-то пытался соскоблить пятна ржавчины на стволе с помощью пустынного песка."
+	},
+	{
+		"id": "rifle_2a_description",
+		"text": "Последняя немецкая разработка времен Мировой войны. Максимальная подвижность в окопных боях благодаря радикально укороченному стволу."
+	},
+	{
+		"id": "rifle_2b_description",
+		"text": "Последняя немецкая разработка времен Мировой войны. Максимальная подвижность в окопных боях благодаря радикально укороченному стволу."
+	},
+	{
+		"id": "rifle_2c_description",
+		"text": "За ним хорошо ухаживали."
+	},
+	{
+		"id": "rifle_3_description",
+		"text": "Дерево приклада треснуло от жесткого удара."
+	},
+	{
+		"id": "rifle_3a_description",
+		"text": "Впечатляющая новая разработка бурных послевоенных лет, предназначенная для удовлетворения потребностей британских колониальных войск."
+	},
+	{
+		"id": "rifle_3b_description",
+		"text": "Впечатляющая новая разработка бурных послевоенных лет, предназначенная для удовлетворения потребностей британских колониальных войск."
+	},
+	{
+		"id": "rifle_3c_description",
+		"text": "Он все еще пахнет стружкой. Наверное, прямо из ящика."
+	},
+	{
+		"id": "rifle_4_description",
+		"text": "Спусковой крючок немного расшатан."
+	},
+	{
+		"id": "rifle_4a_description",
+		"text": "Чарльстон M1 считается стандартным оружием Федеральной полиции США в ее борьбе с вооруженными до зубов контрабандистами и мафией."
+	},
+	{
+		"id": "rifle_4b_description",
+		"text": "Чарльстон M1 считается стандартным оружием Федеральной полиции США в ее борьбе с вооруженными до зубов контрабандистами и мафией."
+	},
+	{
+		"id": "rifle_4c_description",
+		"text": "Прям как новый."
+	},
+	{
+		"id": "rifle_5_description",
+		"text": "Это оружие видело историю!"
+	},
+	{
+		"id": "rifle_5a_description",
+		"text": "Солдаты Американского Экспедиционного Корпуса перевезли M1917 с собой через Атлантику. Некоторые называют его оружием, выигравшим Мировую Войну."
+	},
+	{
+		"id": "rifle_5b_description",
+		"text": "Солдаты Американского Экспедиционного Корпуса перевезли M1917 с собой через Атлантику. Некоторые называют его оружием, выигравшим Мировую Войну."
+	},
+	{
+		"id": "rifle_5c_description",
+		"text": "Предположительно послевоенная модель, которая никогда не использовалась на передовой."
+	},
+	{
+		"id": "rifle_6_description",
+		"text": "Оружие кажется неисправным."
+	},
+	{
+		"id": "rifle_6a_description",
+		"text": "SF-31D представляет собой более компактную эволюцию существующих оружейных технологий."
+	},
+	{
+		"id": "rifle_6b_description",
+		"text": "SF-31D представляет собой более компактную эволюцию существующих оружейных технологий."
+	},
+	{
+		"id": "rifle_6c_description",
+		"text": "Кажется, что это оружие принадлежало немецкому офицеру."
+	},
+	{
+		"id": "rifle_7_description",
+		"text": "Барабанный магазин немного болтается!"
+	},
+	{
+		"id": "rifle_7a_description",
+		"text": "Барабанный магазин Доминика обеспечивает впечатляющую скорострельность."
+	},
+	{
+		"id": "rifle_7b_description",
+		"text": "Барабанный магазин Доминика обеспечивает впечатляющую скорострельность."
+	},
+	{
+		"id": "rifle_7c_description",
+		"text": "Отличное оружие!"
+	},
+	{
+		"id": "shotgun_0_name",
+		"text": "Ветхий Гладкоствол Чарльстона"
+	},
+	{
+		"id": "shotgun_0a_name",
+		"text": "Новый Гладкоствол Чарльстона"
+	},
+	{
+		"id": "shotgun_0b_name",
+		"text": "Улучшенный Гладкоствол Чарльстона"
+	},
+	{
+		"id": "shotgun_0c_name",
+		"text": "Великолепный Гладкоствол Чарльстона"
+	},
+	{
+		"id": "shotgun_1_name",
+		"text": "Ветхий Двустволка Морли-Бурка"
+	},
+	{
+		"id": "shotgun_1a_name",
+		"text": "Новый Двустволка Морли-Бурка"
+	},
+	{
+		"id": "shotgun_1b_name",
+		"text": "Улучшенный Двустволка Морли-Бурка"
+	},
+	{
+		"id": "shotgun_1c_name",
+		"text": "Великолепный Двустволка Морли-Бурка"
+	},
+	{
+		"id": "shotgun_2_name",
+		"text": "Ветхий Картечник Веннера"
+	},
+	{
+		"id": "shotgun_2a_name",
+		"text": "Новый Картечник Веннера"
+	},
+	{
+		"id": "shotgun_2b_name",
+		"text": "Улучшенный Картечник Веннера"
+	},
+	{
+		"id": "shotgun_2c_name",
+		"text": "Великолепный Картечник Веннера"
+	},
+	{
+		"id": "shotgun_3_name",
+		"text": "Ветхое Траншейное Ружье Гастингса"
+	},
+	{
+		"id": "shotgun_3a_name",
+		"text": "Новое Траншейное Ружье Гастингса"
+	},
+	{
+		"id": "shotgun_3b_name",
+		"text": "Улучшенное Траншейное Ружье Гастингса"
+	},
+	{
+		"id": "shotgun_3c_name",
+		"text": "Великолепное Траншейное Ружье Гастингса"
+	},
+	{
+		"id": "shotgun_4_name",
+		"text": "Ветхий Дробовик Клюгенштейна"
+	},
+	{
+		"id": "shotgun_4a_name",
+		"text": "Новый Дробовик Клюгенштейна"
+	},
+	{
+		"id": "shotgun_4b_name",
+		"text": "Улучшенный Дробовик Клюгенштейна"
+	},
+	{
+		"id": "shotgun_4c_name",
+		"text": "Великолепный Дробовик Клюгенштейна"
+	},
+	{
+		"id": "shotgun_5_name",
+		"text": "Ветхий Уиллоуби 10-калибра"
+	},
+	{
+		"id": "shotgun_5a_name",
+		"text": "Новый Уиллоуби 10-калибра"
+	},
+	{
+		"id": "shotgun_5b_name",
+		"text": "Улучшенный Уиллоуби 10-калибра"
+	},
+	{
+		"id": "shotgun_5c_name",
+		"text": "Великолепный Уиллоуби 10-калибра"
+	},
+	{
+		"id": "shotgun_6_name",
+		"text": "Ветхий Лупара Капуто"
+	},
+	{
+		"id": "shotgun_6a_name",
+		"text": "Новый Лупара Капуто"
+	},
+	{
+		"id": "shotgun_6b_name",
+		"text": "Улучшенный Лупара Капуто"
+	},
+	{
+		"id": "shotgun_6c_name",
+		"text": "Великолепный Лупара Капуто"
+	},
+	{
+		"id": "shotgun_7_name",
+		"text": "Ветхий Подавитель Бунта Гордона"
+	},
+	{
+		"id": "shotgun_7a_name",
+		"text": "Новый Подавитель Бунта Гордона"
+	},
+	{
+		"id": "shotgun_7b_name",
+		"text": "Улучшенный Подавитель Бунта Гордона"
+	},
+	{
+		"id": "shotgun_7c_name",
+		"text": "Великолепный Подавитель Бунта Гордона"
+	},
+	{
+		"id": "shotgun_0_description",
+		"text": "Ствол ружья помят в нескольких местах."
+	},
+	{
+		"id": "shotgun_0a_description",
+		"text": "Благодаря простой гладкоствольной конструкции, Чарльстон в основном обслуживает внутренний охотничий рынок."
+	},
+	{
+		"id": "shotgun_0b_description",
+		"text": "Благодаря простой гладкоствольной конструкции, Чарльстон в основном обслуживает внутренний охотничий рынок."
+	},
+	{
+		"id": "shotgun_0c_description",
+		"text": "Это ружье в отличном состоянии."
+	},
+	{
+		"id": "shotgun_1_description",
+		"text": "Казенник покрыт следами пороха."
+	},
+	{
+		"id": "shotgun_1a_description",
+		"text": "Переломное охотничье ружье Морли-Бурка со средним креплением."
+	},
+	{
+		"id": "shotgun_1b_description",
+		"text": "Переломное охотничье ружье Морли-Бурка со средним креплением."
+	},
+	{
+		"id": "shotgun_1c_description",
+		"text": "Режье выглядит так, как будто из него никогда не стреляли."
+	},
+	{
+		"id": "shotgun_2_description",
+		"text": "Присмотревшись, можно увидеть на стволе тонкие микротрещины...."
+	},
+	{
+		"id": "shotgun_2a_description",
+		"text": "Картечник Веннера: когда хочешь нанести удар."
+	},
+	{
+		"id": "shotgun_2b_description",
+		"text": "Картечник Веннера: когда хочешь нанести удар."
+	},
+	{
+		"id": "shotgun_2c_description",
+		"text": "Несмотря на свой вес, он на удивление хорошо сбалансирован!"
+	},
+	{
+		"id": "shotgun_3_description",
+		"text": "Ружье выглядит так, будто его не раз использовали в качестве дубинки."
+	},
+	{
+		"id": "shotgun_3a_description",
+		"text": "Британская доработка предыдущих гражданских моделей. Она вызвала страх и хаос в окопных боях Мировой Войны."
+	},
+	{
+		"id": "shotgun_3b_description",
+		"text": "Британская доработка предыдущих гражданских моделей. Она вызвала страх и хаос в окопных боях Мировой Войны."
+	},
+	{
+		"id": "shotgun_3c_description",
+		"text": "Он невероятно хорошо сохранился."
+	},
+	{
+		"id": "shotgun_4_description",
+		"text": "Спусковой крючок слегка заедает."
+	},
+	{
+		"id": "shotgun_4a_description",
+		"text": "Надежный и эффективный, Дробовик Клюгенштейна идеально подходит для преследования."
+	},
+	{
+		"id": "shotgun_4b_description",
+		"text": "Надежный и эффективный, Дробовик Клюгенштейна идеально подходит для преследования."
+	},
+	{
+		"id": "shotgun_4c_description",
+		"text": "Хорошо ложится в ладонь, как естественное продолжение руки..."
+	},
+	{
+		"id": "shotgun_5_description",
+		"text": "Ружье в плачевном состоянии!"
+	},
+	{
+		"id": "shotgun_5a_description",
+		"text": "Шотландские охотничьи традиции с 1721 года - семейный бизнес Уиллоуби гарантирует качество и эффективность."
+	},
+	{
+		"id": "shotgun_5b_description",
+		"text": "Шотландские охотничьи традиции с 1721 года - семейный бизнес Уиллоуби гарантирует качество и эффективность."
+	},
+	{
+		"id": "shotgun_5c_description",
+		"text": "Жемчужина..."
+	},
+	{
+		"id": "shotgun_6_description",
+		"text": "Казенник слегка жестковат."
+	},
+	{
+		"id": "shotgun_6a_description",
+		"text": "Первоначально разработанный для охоты на волков, Лупара наносит разрушительные травмы на близком расстоянии."
+	},
+	{
+		"id": "shotgun_6b_description",
+		"text": "Первоначально разработанный для охоты на волков, Лупара наносит разрушительные травмы на близком расстоянии."
+	},
+	{
+		"id": "shotgun_6c_description",
+		"text": "Идеален для внезапных атак!"
+	},
+	{
+		"id": "shotgun_7_description",
+		"text": "Заметно, что это старое оружие."
+	},
+	{
+		"id": "shotgun_7a_description",
+		"text": "Подавитель Бунта Гордона - специально разработан для тактических боев на пересеченной местности!"
+	},
+	{
+		"id": "shotgun_7b_description",
+		"text": "Подавитель Бунта Гордона - специально разработан для тактических боев на пересеченной местности!"
+	},
+	{
+		"id": "shotgun_7c_description",
+		"text": "Ствол был усилен."
+	},
+	{
+		"id": "sniper_0_name",
+		"text": "Ветхий Адлер и Шталькнехт 8x56"
+	},
+	{
+		"id": "sniper_0a_name",
+		"text": "Новый Адлер и Шталькнехт 8x56"
+	},
+	{
+		"id": "sniper_0b_name",
+		"text": "Улучшенный Адлер и Шталькнехт 8x56"
+	},
+	{
+		"id": "sniper_0c_name",
+		"text": "Великолепный Адлер и Шталькнехт 8x56"
+	},
+	{
+		"id": "sniper_1_name",
+		"text": "Ветхая Снайперка Морлея-Бюрке M08"
+	},
+	{
+		"id": "sniper_1a_name",
+		"text": "Новая Снайперка Морлея-Бюрке M08"
+	},
+	{
+		"id": "sniper_1b_name",
+		"text": "Улучшенная Снайперка Морлея-Бюрке M08"
+	},
+	{
+		"id": "sniper_1c_name",
+		"text": "Великолепная Снайперка Морлея-Бюрке M08"
+	},
+	{
+		"id": "sniper_2_name",
+		"text": "Ветхий Уиллоуби .303 Гилли"
+	},
+	{
+		"id": "sniper_2a_name",
+		"text": "Новый Уиллоуби .303 Гилли"
+	},
+	{
+		"id": "sniper_2b_name",
+		"text": "Улучшенный Уиллоуби .303 Гилли"
+	},
+	{
+		"id": "sniper_2c_name",
+		"text": "Великолепный Уиллоуби .303 Гилли"
+	},
+	{
+		"id": "sniper_3_name",
+		"text": "Ветхий Гастингс 6x32 Тип 1924"
+	},
+	{
+		"id": "sniper_3a_name",
+		"text": "Новый Гастингс 6x32 Тип 1924"
+	},
+	{
+		"id": "sniper_3b_name",
+		"text": "Улучшенный Гастингс 6x32 Тип 1924"
+	},
+	{
+		"id": "sniper_3c_name",
+		"text": "Великолепный Гастингс 6x32 Тип 1924"
+	},
+	{
+		"id": "sniper_4_name",
+		"text": "Ветхий Дальнобой Кларк-Ричфилд"
+	},
+	{
+		"id": "sniper_4a_name",
+		"text": "Новый Дальнобой Кларк-Ричфилд"
+	},
+	{
+		"id": "sniper_4b_name",
+		"text": "Улучшенный Дальнобой Кларк-Ричфилд"
+	},
+	{
+		"id": "sniper_4c_name",
+		"text": "Великолепный Дальнобой Кларк-Ричфилд"
+	},
+	{
+		"id": "sniper_5_name",
+		"text": "Ветхий Штайнер 10x50 Оптик"
+	},
+	{
+		"id": "sniper_5a_name",
+		"text": "Новый Штайнер 10x50 Оптик"
+	},
+	{
+		"id": "sniper_5b_name",
+		"text": "Улучшенный Штайнер 10x50 Оптик"
+	},
+	{
+		"id": "sniper_5c_name",
+		"text": "Великолепный Штайнер 10x50 Оптик"
+	},
+	{
+		"id": "sniper_6_name",
+		"text": "Ветхий Эрико Люнет"
+	},
+	{
+		"id": "sniper_6a_name",
+		"text": "Новый Эрико Люнет"
+	},
+	{
+		"id": "sniper_6b_name",
+		"text": "Улучшенный Эрико Люнет"
+	},
+	{
+		"id": "sniper_6c_name",
+		"text": "Великолепный Эрико Люнет"
+	},
+	{
+		"id": "sniper_7_name",
+		"text": "Ветхий Чиж ZF-32"
+	},
+	{
+		"id": "sniper_7a_name",
+		"text": "Новый Чиж ZF-32"
+	},
+	{
+		"id": "sniper_7b_name",
+		"text": "Улучшенный Чиж ZF-32"
+	},
+	{
+		"id": "sniper_7c_name",
+		"text": "Великолепный Чиж ZF-32"
+	},
+	{
+		"id": "sniper_0_description",
+		"text": "Кому-то следует подтянуть шурупы на этой штуке."
+	},
+	{
+		"id": "sniper_0a_description",
+		"text": "8x56 - доступное по цене оружие для охоты."
+	},
+	{
+		"id": "sniper_0b_description",
+		"text": "8x56 - доступное по цене оружие для охоты."
+	},
+	{
+		"id": "sniper_0c_description",
+		"text": "Практичный и надежный."
+	},
+	{
+		"id": "sniper_1_description",
+		"text": "К сожалению, прицел неисправен."
+	},
+	{
+		"id": "sniper_1a_description",
+		"text": "Стандартное оружие британских снайперов времен Мировой Войны."
+	},
+	{
+		"id": "sniper_1b_description",
+		"text": "Стандартное оружие британских снайперов времен Мировой Войны."
+	},
+	{
+		"id": "sniper_1c_description",
+		"text": "Винтовка легче, чем ожидалось."
+	},
+	{
+		"id": "sniper_2_description",
+		"text": "Песок пустыни плохо сказался на механизме этой винтовки."
+	},
+	{
+		"id": "sniper_2a_description",
+		"text": ".303 Гилли - классическое шотландское охотничье ружье для высокогорных районов, выпущенное старинной компанией Уиллоуби."
+	},
+	{
+		"id": "sniper_2b_description",
+		"text": ".303 Гилли - классическое шотландское охотничье ружье для высокогорных районов, выпущенное старинной компанией Уиллоуби."
+	},
+	{
+		"id": "sniper_2c_description",
+		"text": "Красивый экземпляр!"
+	},
+	{
+		"id": "sniper_3_description",
+		"text": "К сожалению, не очень хорошо сохранился.."
+	},
+	{
+		"id": "sniper_3a_description",
+		"text": "Ультрасовременная разработка от поставщика британской армии Гастингса, уравновешивающая калибр и отдачу."
+	},
+	{
+		"id": "sniper_3b_description",
+		"text": "Ультрасовременная разработка от поставщика британской армии Гастингса, уравновешивающая калибр и отдачу."
+	},
+	{
+		"id": "sniper_3c_description",
+		"text": "Вероятно, только что украден у британской армии."
+	},
+	{
+		"id": "sniper_4_description",
+		"text": "Такое оружие заслуживает лучшего ухода..."
+	},
+	{
+		"id": "sniper_4a_description",
+		"text": "Американские инженеры разработали Кларк-Ричфилд в последние месяцы Мировой Войны для борьбы с немецкими снайперами. Однако было слишком поздно, чтобы увидеть действия на фронте."
+	},
+	{
+		"id": "sniper_4b_description",
+		"text": "Американские инженеры разработали Кларк-Ричфилд в последние месяцы Мировой Войны для борьбы с немецкими снайперами. Однако было слишком поздно, чтобы увидеть действия на фронте."
+	},
+	{
+		"id": "sniper_4c_description",
+		"text": "Яркий образец американского мастерства!"
+	},
+	{
+		"id": "sniper_5_description",
+		"text": "Эта винтовка выглядит так, будто пролежала несколько лет во фламандском окопе!"
+	},
+	{
+		"id": "sniper_5a_description",
+		"text": "Легендарное оружие немецких снайперов на Полях Смерти Мировой Войны 1914 - 1918."
+	},
+	{
+		"id": "sniper_5b_description",
+		"text": "Легендарное оружие немецких снайперов на Полях Смерти Мировой Войны 1914 - 1918."
+	},
+	{
+		"id": "sniper_5c_description",
+		"text": "Единственный в своем роде прицел!"
+	},
+	{
+		"id": "sniper_6_description",
+		"text": "Невероятно, что оружие все еще стреляет..."
+	},
+	{
+		"id": "sniper_6a_description",
+		"text": "Эрико Люнет снайперская винтовка Французского Иностранного Легиона."
+	},
+	{
+		"id": "sniper_6b_description",
+		"text": "Эрико Люнет снайперская винтовка Французского Иностранного Легиона."
+	},
+	{
+		"id": "sniper_6c_description",
+		"text": "Превосходная тонкая работа!"
+	},
+	{
+		"id": "sniper_7_description",
+		"text": "К сожалению, песок пустыни поцарапал прицел!"
+	},
+	{
+		"id": "sniper_7a_description",
+		"text": "По последнему слову техники и оснащена лучшей оптикой - Чиж ZF-32!"
+	},
+	{
+		"id": "sniper_7b_description",
+		"text": "По последнему слову техники и оснащена лучшей оптикой - Чиж ZF-32!"
+	},
+	{
+		"id": "sniper_7c_description",
+		"text": "Это оружие отлично сбалансировано!"
+	},
+	{
+		"id": "heavyArmor_0_name",
+		"text": "Ветхий Боевой Жилет"
+	},
+	{
+		"id": "heavyArmor_0a_name",
+		"text": "Новый Боевой Жилет"
+	},
+	{
+		"id": "heavyArmor_0b_name",
+		"text": "Улучшенный Боевой Жилет"
+	},
+	{
+		"id": "heavyArmor_0c_name",
+		"text": "Великолепный Боевой Жилет"
+	},
+	{
+		"id": "heavyArmor_1_name",
+		"text": "Ветхий Пуленепробиваемый Жилет"
+	},
+	{
+		"id": "heavyArmor_1a_name",
+		"text": "Новый Пуленепробиваемый Жилет"
+	},
+	{
+		"id": "heavyArmor_1b_name",
+		"text": "Улучшенный Пуленепробиваемый Жилет"
+	},
+	{
+		"id": "heavyArmor_1c_name",
+		"text": "Великолепный Пуленепробиваемый Жилет"
+	},
+	{
+		"id": "heavyArmor_2_name",
+		"text": "Ветхий Боевой Мундир"
+	},
+	{
+		"id": "heavyArmor_2a_name",
+		"text": "Новый Боевой Мундир"
+	},
+	{
+		"id": "heavyArmor_2b_name",
+		"text": "Улучшенный Боевой Мундир"
+	},
+	{
+		"id": "heavyArmor_2c_name",
+		"text": "Великолепный Боевой Мундир"
+	},
+	{
+		"id": "heavyArmor_3_name",
+		"text": "Ветхая Тактическая Броня"
+	},
+	{
+		"id": "heavyArmor_3a_name",
+		"text": "Новая Тактическая Броня"
+	},
+	{
+		"id": "heavyArmor_3b_name",
+		"text": "Улучшенная Тактическая Броня"
+	},
+	{
+		"id": "heavyArmor_3c_name",
+		"text": "Великолепная Тактическая Броня"
+	},
+	{
+		"id": "heavyArmor_4_name",
+		"text": "Ветхая Гидравлическая Броня"
+	},
+	{
+		"id": "heavyArmor_4a_name",
+		"text": "Новая Гидравлическая Броня"
+	},
+	{
+		"id": "heavyArmor_4b_name",
+		"text": "Улучшенная Гидравлическая Броня"
+	},
+	{
+		"id": "heavyArmor_4c_name",
+		"text": "Великолепная Гидравлическая Броня"
+	},
+	{
+		"id": "heavyArmor_5_name",
+		"text": "Ветхая Броня Теслаборга"
+	},
+	{
+		"id": "heavyArmor_5a_name",
+		"text": "Новая Броня Теслаборга"
+	},
+	{
+		"id": "heavyArmor_5b_name",
+		"text": "Улучшенная Броня Теслаборга"
+	},
+	{
+		"id": "heavyArmor_5c_name",
+		"text": "Великолепная Броня Теслаборга"
+	},
+	{
+		"id": "heavyArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4_description",
+		"text": "Немного потрепанная, но все равно очень впечатляющая!"
+	},
+	{
+		"id": "heavyArmor_4a_description",
+		"text": "Вы не можете поверить, что такая передовая технология действительно существует..."
+	},
+	{
+		"id": "heavyArmor_4b_description",
+		"text": "Вы не можете поверить, что такая передовая технология действительно существует..."
+	},
+	{
+		"id": "heavyArmor_4c_description",
+		"text": "Тусклая арматура из черной стали кажется специальной задумкой."
+	},
+	{
+		"id": "heavyArmor_5_description",
+		"text": "Масло вытекло из плечевых суставов."
+	},
+	{
+		"id": "heavyArmor_5a_description",
+		"text": "Массивный и впечатляющий - настоящий титан на полях битвы!"
+	},
+	{
+		"id": "heavyArmor_5b_description",
+		"text": "Массивный и впечатляющий - настоящий титан на полях битвы!"
+	},
+	{
+		"id": "heavyArmor_5c_description",
+		"text": "Что-то выгравировано на стальном нагруднике: 'НЕУСТРАШИМЫЙ'."
+	},
+	{
+		"id": "heavyArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_name",
+		"text": "Ветхий Костюм для Сафари"
+	},
+	{
+		"id": "lightArmor_0a_name",
+		"text": "Новый Костюм для Сафари"
+	},
+	{
+		"id": "lightArmor_0b_name",
+		"text": "Стильный Костюм для Сафари"
+	},
+	{
+		"id": "lightArmor_0c_name",
+		"text": "Великолепный Костюм для Сафари"
+	},
+	{
+		"id": "lightArmor_1_name",
+		"text": "Ветхое Пальто Ассистента"
+	},
+	{
+		"id": "lightArmor_1a_name",
+		"text": "Новое Пальто Ассистента"
+	},
+	{
+		"id": "lightArmor_1b_name",
+		"text": "Стильное Пальто Ассистента"
+	},
+	{
+		"id": "lightArmor_1c_name",
+		"text": "Великолепное Пальто Ассистента"
+	},
+	{
+		"id": "lightArmor_2_name",
+		"text": "Ветхий Полевой Костюм"
+	},
+	{
+		"id": "lightArmor_2a_name",
+		"text": "Новый Полевой Костюм"
+	},
+	{
+		"id": "lightArmor_2b_name",
+		"text": "Стильный Полевой Костюм"
+	},
+	{
+		"id": "lightArmor_2c_name",
+		"text": "Великолепный Полевой Костюм"
+	},
+	{
+		"id": "lightArmor_3_name",
+		"text": "Ветхий Твидовый Костюм"
+	},
+	{
+		"id": "lightArmor_3a_name",
+		"text": "Новый Твидовый Костюм"
+	},
+	{
+		"id": "lightArmor_3b_name",
+		"text": "Стильный Твидовый Костюм"
+	},
+	{
+		"id": "lightArmor_3c_name",
+		"text": "Великолепный Твидовый Костюм"
+	},
+	{
+		"id": "lightArmor_4_name",
+		"text": "Ветхий Анорак"
+	},
+	{
+		"id": "lightArmor_4a_name",
+		"text": "Новый Анорак"
+	},
+	{
+		"id": "lightArmor_4b_name",
+		"text": "Стильный Анорак"
+	},
+	{
+		"id": "lightArmor_4c_name",
+		"text": "Великолепный Анорак"
+	},
+	{
+		"id": "lightArmor_5_name",
+		"text": "Ветхий Наряд для Джунглей"
+	},
+	{
+		"id": "lightArmor_5a_name",
+		"text": "Новый Наряд для Джунглей"
+	},
+	{
+		"id": "lightArmor_5b_name",
+		"text": "Стильный Наряд для Джунглей"
+	},
+	{
+		"id": "lightArmor_5c_name",
+		"text": "Великолепный Наряд для Джунглей"
+	},
+	{
+		"id": "lightArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_name",
+		"text": "Ветхий Бушлат"
+	},
+	{
+		"id": "mediumArmor_0a_name",
+		"text": "Новый Бушлат"
+	},
+	{
+		"id": "mediumArmor_0b_name",
+		"text": "Стильный Бушлат"
+	},
+	{
+		"id": "mediumArmor_0c_name",
+		"text": "Великолепный Бушлат"
+	},
+	{
+		"id": "mediumArmor_1_name",
+		"text": "Ветхая Кожаная Куртка"
+	},
+	{
+		"id": "mediumArmor_1a_name",
+		"text": "Новая Кожаная Куртка"
+	},
+	{
+		"id": "mediumArmor_1b_name",
+		"text": "Стильная Кожаная Куртка"
+	},
+	{
+		"id": "mediumArmor_1c_name",
+		"text": "Великолепная Кожаная Куртка"
+	},
+	{
+		"id": "mediumArmor_2_name",
+		"text": "Ветхий Жилет из Овчины"
+	},
+	{
+		"id": "mediumArmor_2a_name",
+		"text": "Новый Жилет из Овчины"
+	},
+	{
+		"id": "mediumArmor_2b_name",
+		"text": "Стильный Жилет из Овчины"
+	},
+	{
+		"id": "mediumArmor_2c_name",
+		"text": "Великолепный Жилет из Овчины"
+	},
+	{
+		"id": "mediumArmor_3_name",
+		"text": "Ветхий Джинсовый Комбинезон"
+	},
+	{
+		"id": "mediumArmor_3a_name",
+		"text": "Новый Джинсовый Комбинезон"
+	},
+	{
+		"id": "mediumArmor_3b_name",
+		"text": "Стильный Джинсовый Комбинезон"
+	},
+	{
+		"id": "mediumArmor_3c_name",
+		"text": "Великолепный Джинсовый Комбинезон"
+	},
+	{
+		"id": "mediumArmor_4_name",
+		"text": "Ветхая Куртка Бомбер"
+	},
+	{
+		"id": "mediumArmor_4a_name",
+		"text": "Новая Куртка Бомбер"
+	},
+	{
+		"id": "mediumArmor_4b_name",
+		"text": "Стильная Куртка Бомбер"
+	},
+	{
+		"id": "mediumArmor_4c_name",
+		"text": "Великолепная Куртка Бомбер"
+	},
+	{
+		"id": "mediumArmor_5_name",
+		"text": "Ветхий Пустынный Кафтан"
+	},
+	{
+		"id": "mediumArmor_5a_name",
+		"text": "Новый Пустынный Кафтан"
+	},
+	{
+		"id": "mediumArmor_5b_name",
+		"text": "Стильный Пустынный Кафтан"
+	},
+	{
+		"id": "mediumArmor_5c_name",
+		"text": "Великолепный Пустынный Кафтан"
+	},
+	{
+		"id": "mediumArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "RU_item_test_desc",
+		"text": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя"
+	}
+]
+}
