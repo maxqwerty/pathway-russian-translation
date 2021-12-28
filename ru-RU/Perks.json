@@ -19,59 +19,59 @@
 	},
 	{
 		"id": "ArmorType_Light_Plural",
-		"text": "Легкую Броню"
+		"text": "Легкая Броня"
 	},
 	{
 		"id": "ArmorType_Medium_Plural",
-		"text": "Среднюю Броню"
+		"text": "Средняя Броня"
 	},
 	{
 		"id": "ArmorType_Heavy_Plural",
-		"text": "Тяжелую Броню"
+		"text": "Тяжелая Броня"
 	},
 	{
 		"id": "EventAdjustmentType_Daredevil",
-		"text": "Смельчака"
+		"text": "Смельчак"
 	},
 	{
 		"id": "EventAdjustmentType_RawStrength",
-		"text": "Грубияна"
+		"text": "Силач"
 	},
 	{
 		"id": "EventAdjustmentType_Stealth",
-		"text": "Тени"
+		"text": "Скрытность"
 	},
 	{
 		"id": "EventAdjustmentType_Medical",
-		"text": "Мед эксперта"
+		"text": "Мед эксперт"
 	},
 	{
 		"id": "EventAdjustmentType_Technical",
-		"text": "Инженера"
+		"text": "Инженер"
 	},
 	{
 		"id": "EventAdjustmentType_TrickNPC",
-		"text": "Ловкача"
+		"text": "Ловкач"
 	},
 	{
 		"id": "EventAdjustmentType_Detection",
-		"text": "Шестого Чувства"
+		"text": "Шестое Чувство"
 	},
 	{
 		"id": "EventAdjustmentType_Intimidate",
-		"text": "Шантажа"
+		"text": "Шантаж"
 	},
 	{
 		"id": "EventAdjustmentType_Languages",
-		"text": "Древних Языков"
+		"text": "Древние Языки"
 	},
 	{
 		"id": "EventAdjustmentType_Survival",
-		"text": "Выживальщика"
+		"text": "Выживальщик"
 	},
 	{
 		"id": "EventAdjustmentType_Occult",
-		"text": "Запретных Преданий"
+		"text": "Запретные Предания"
 	},
 	{
 		"id": "GrenadeAdjustmentType_Damage",
@@ -631,7 +631,7 @@
 	},
 	{
 		"id": "rawStrengthStarter_name",
-		"text": "Грубиян"
+		"text": "Силач"
 	},
 	{
 		"id": "technicalStarter_name",
@@ -659,7 +659,7 @@
 	},
 	{
 		"id": "stealthStarter_name",
-		"text": "Тень"
+		"text": "Скрытность"
 	},
 	{
 		"id": "medicalStarter_name",
@@ -1163,7 +1163,7 @@
 	},
 	{
 		"id": "miscSkillMoraleBoost_name",
-		"text": "Усилитель Морали"
+		"text": "Усиление Морали"
 	},
 	{
 		"id": "miscSkillCripplingShot_name",
@@ -1183,7 +1183,7 @@
 	},
 	{
 		"id": "miscSkillReactionShot_name",
-		"text": "Выстрел Реакции"
+		"text": "Ответный Выстрел"
 	},
 	{
 		"id": "miscSkillParry_name",
@@ -1215,7 +1215,7 @@
 	},
 	{
 		"id": "miscSkillVanish_name",
-		"text": "Исчезнуть"
+		"text": "Скрыться"
 	},
 	{
 		"id": "miscSkillBait_name",
