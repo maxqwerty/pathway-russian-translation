@@ -19,15 +19,15 @@
 	},
 	{
 		"id": "ArmorType_Light_Plural",
-		"text": "Легкая Броня"
+		"text": "Легкую Броню"
 	},
 	{
 		"id": "ArmorType_Medium_Plural",
-		"text": "Средняя Броня"
+		"text": "Среднюю Броню"
 	},
 	{
 		"id": "ArmorType_Heavy_Plural",
-		"text": "Тяжелая Броня"
+		"text": "Тяжелую Броню"
 	},
 	{
 		"id": "EventAdjustmentType_Daredevil",
@@ -103,7 +103,7 @@
 	},
 	{
 		"id": "GrenadeAdjustmentType_Shredding",
-		"text": "Разрушение Брони"
+		"text": "Урон Броне"
 	},
 	{
 		"id": "HealthKitAdjustmentType_Strength",
@@ -219,7 +219,7 @@
 	},
 	{
 		"id": "RepairKitAdjustmentType_Strength",
-		"text": "Объем Ремонта"
+		"text": "Сила Ремонта"
 	},
 	{
 		"id": "RepairKitAdjustmentType_Range",
@@ -263,35 +263,35 @@
 	},
 	{
 		"id": "WeaponType_Pistol",
-		"text": "Пистолет"
+		"text": "Пистолета"
 	},
 	{
 		"id": "WeaponType_AssaultRifle",
-		"text": "Штурмовая Винтовка"
+		"text": "Штурмовой Винтовки"
 	},
 	{
 		"id": "WeaponType_SniperRifle",
-		"text": "Снайперская Винтовка"
+		"text": "Снайперской Винтовки"
 	},
 	{
 		"id": "WeaponType_Shotgun",
-		"text": "Дробовик"
+		"text": "Дробовика"
 	},
 	{
 		"id": "WeaponType_Flamethrower",
-		"text": "Огнемет"
+		"text": "Огнемета"
 	},
 	{
 		"id": "WeaponType_Disintegrator",
-		"text": "Дезинтегратор"
+		"text": "Дезинтегратора"
 	},
 	{
 		"id": "WeaponType_Lightning",
-		"text": "Электрический Пистолет"
+		"text": "Электрического Пистолета"
 	},
 	{
 		"id": "WeaponType_CloseCombat",
-		"text": "Нож"
+		"text": "Ножа"
 	},
 	{
 		"id": "WeaponType_SniperRifle_Plural",
@@ -375,7 +375,7 @@
 	},
 	{
 		"id": "ArmorAdjustmentType_ArmorAmount",
-		"text": "Сила Брони"
+		"text": "Броня"
 	},
 	{
 		"id": "ArmorAdjustmentType_ArmorAmount_Amount",
@@ -799,31 +799,31 @@
 	},
 	{
 		"id": "endurance01_name",
-		"text": "Усиление Выносливости"
+		"text": "Бонус Выносливости"
 	},
 	{
 		"id": "vitality01_name",
-		"text": "Усиление Живучести"
+		"text": "Бонус Живучести"
 	},
 	{
 		"id": "dexterity01_name",
-		"text": "Усиление Сноровки"
+		"text": "Бонус Сноровки"
 	},
 	{
 		"id": "reflexes01_name",
-		"text": "Усиление Рефлексов"
+		"text": "Бонус Рефлексов"
 	},
 	{
 		"id": "intelligence01_name",
-		"text": "Усиление Интеллекта"
+		"text": "Бонус Интеллекта"
 	},
 	{
 		"id": "bravery01_name",
-		"text": "Усиление Воли"
+		"text": "Бонус Воли"
 	},
 	{
 		"id": "agility01_name",
-		"text": "Усиление Ловкости"
+		"text": "Бонус Ловкости"
 	},
 	{
 		"id": "pistolDamage01_name",
@@ -1087,67 +1087,67 @@
 	},
 	{
 		"id": "IconCaption_ExpDex",
-		"text": "DEX"
+		"text": "СНР"
 	},
 	{
 		"id": "IconCaption_ExpEnd",
-		"text": "END"
+		"text": "ВЫН"
 	},
 	{
 		"id": "IconCaption_ExpInt",
-		"text": "INT"
+		"text": "ИНТ"
 	},
 	{
 		"id": "IconCaption_ExpRfx",
-		"text": "RFX"
+		"text": "РЕФ"
 	},
 	{
 		"id": "IconCaption_ExpVit",
-		"text": "VIT"
+		"text": "ЖИВ"
 	},
 	{
 		"id": "IconCaption_ExpWil",
-		"text": "WIL"
+		"text": "ВОЛ"
 	},
 	{
 		"id": "IconCaption_SpecDmg",
-		"text": "DMG"
+		"text": "УРОН"
 	},
 	{
 		"id": "IconCaption_SpecCritPlus",
-		"text": "CRT+"
+		"text": "КРИ+"
 	},
 	{
 		"id": "IconCaption_SpecCritChance",
-		"text": "CRT%"
+		"text": "КРИ%"
 	},
 	{
 		"id": "IconCaption_SpecAcc",
-		"text": "ACC"
+		"text": "ТОЧН"
 	},
 	{
 		"id": "IconCaption_SpecRng",
-		"text": "RNG"
+		"text": "ДАЛЬ"
 	},
 	{
 		"id": "IconCaption_SpecMag",
-		"text": "MAG"
+		"text": "МАГ"
 	},
 	{
 		"id": "IconCaption_SpecRec",
-		"text": "MED"
+		"text": "АПТ"
 	},
 	{
 		"id": "IconCaption_SpecRep",
-		"text": "REP"
+		"text": "РЕМ"
 	},
 	{
 		"id": "IconCaption_SpecArm",
-		"text": "ARM"
+		"text": "ПАТ"
 	},
 	{
 		"id": "IconCaption_SpecShredding",
-		"text": "SHR"
+		"text": "УРБ"
 	},
 	{
 		"id": "miscSkillMeditate_name",
