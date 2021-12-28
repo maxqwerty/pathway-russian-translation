@@ -1,0 +1,165 @@
+{
+"id": "Tutorial",
+"rows": [
+	{
+		"id": "LoadingScreen_Hint_0",
+		"text": "On the exploration map you can manage your party by pressing I or clicking on the bottom bar."
+	},
+	{
+		"id": "LoadingScreen_Hint_0_Controller",
+		"text": "To manage your Team while on the exploration map, press Y."
+	},
+	{
+		"id": "LoadingScreen_Hint_1",
+		"text": "Once you are engaged in a battle you can't switch your gear. Choose wisely!"
+	},
+	{
+		"id": "LoadingScreen_Hint_2",
+		"text": "Every weapon and armor type has a unique special ability that can make the difference between success and failure!"
+	},
+	{
+		"id": "LoadingScreen_Hint_3",
+		"text": "If one of your party members is knocked out you can bring them back by using a medkit on them when standing next to them. If you wait too long, they will die!"
+	},
+	{
+		"id": "LoadingScreen_Hint_4",
+		"text": "You can use medkits outside of battle by right-clicking them on the team screen!"
+	},
+	{
+		"id": "LoadingScreen_Hint_4_Controller",
+		"text": "You can use medkits outside of battle from the Team page in your Journal!"
+	},
+	{
+		"id": "LoadingScreen_Hint_5",
+		"text": "Sell your unused items at the trader by right-clicking them. The cash will come in handy later!"
+	},
+	{
+		"id": "LoadingScreen_Hint_5_Controller",
+		"text": "Sell your unused items at the trader by pressing A. The cash will come in handy later!"
+	},
+	{
+		"id": "LoadingScreen_Hint_6",
+		"text": "Keep an eye on your ammo and fuel count. If you run out of either resource you will be in trouble!"
+	},
+	{
+		"id": "LoadingScreen_Hint_7",
+		"text": "Every member of your party can perform two actions in one turn. There are three types of actions: Attack, Move and Neutral. Attack and Move can only be done once a turn, Neutral up to two."
+	},
+	{
+		"id": "LoadingScreen_Hint_8",
+		"text": "Cover reduces your chance of hitting a target. If you can aim at a target without cover you have a 100% hit chance. Flanking your enemies is one of the best strategies!"
+	},
+	{
+		"id": "LoadingScreen_Hint_9",
+		"text": "Use walls and large objects to your advantage as they break the line of sight."
+	},
+	{
+		"id": "LoadingScreen_Hint_10",
+		"text": "Armor always absorbs damage first. It is especially effective against splinter damage weapons like Shotguns!"
+	},
+	{
+		"id": "LoadingScreen_Hint_11",
+		"text": "There is a small chance for you to evade an attack independent of hit probability."
+	},
+	{
+		"id": "LoadingScreen_Hint_12",
+		"text": "Every character can carry three items at once: One Weapon, one auxiliary item and one armor. Picking the right gear largely determines your strategy."
+	},
+	{
+		"id": "LoadingScreen_Hint_13",
+		"text": "A character begins with a unique set of skills. As they gain experience and level up they will be able to unlock new perks and skills."
+	},
+	{
+		"id": "LoadingScreen_Hint_14",
+		"text": "In order to equip a weapon a character must have the appropriate skill."
+	},
+	{
+		"id": "LoadingScreen_Hint_15",
+		"text": "Some perks will open up new choices during events. These unique options are marked with an extra border."
+	},
+	{
+		"id": "LoadingScreen_Hint_16",
+		"text": "Pistols have the special ability Double Shot. This performs a hip shot at two different enemies in rapid succession!"
+	},
+	{
+		"id": "LoadingScreen_Hint_17",
+		"text": "Sniper Rifles can be used to set an Ambush. An enemy moving or planning to attack within the ambush area will be attacked!"
+	},
+	{
+		"id": "LoadingScreen_Hint_18",
+		"text": "Rifles allow you to Burst attack. A burst will spread across multiple tiles in a line and damage any units within."
+	},
+	{
+		"id": "LoadingScreen_Hint_19",
+		"text": "Shotguns can perform a powerful Blast attack, damaging all units in a cone straight in front of you."
+	},
+	{
+		"id": "LoadingScreen_Hint_20",
+		"text": "Knives have a special ability called Bleed, which as the name indicates will cause enemies to bleed over a couple of turns."
+	},
+	{
+		"id": "LoadingScreen_Hint_21",
+		"text": "All special abilities cost bravery points. You can gain bravery points by successfully attacking, evading enemy attacks, healing your units, and repairing their armors."
+	},
+	{
+		"id": "LoadingScreen_Hint_22",
+		"text": "Knives have the highest damage potential in the game. You must however expose yourself by moving close!"
+	},
+	{
+		"id": "LoadingScreen_Hint_23",
+		"text": "Sniper Rifles can cover large areas with their high range."
+	},
+	{
+		"id": "LoadingScreen_Hint_24",
+		"text": "Some battle locations contain explosive barrels. Shoot them and they will explode causing damage to surrounding enemies!"
+	},
+	{
+		"id": "LoadingScreen_Hint_25",
+		"text": "Medkits restore health and revive unconscious characters. Repairkits restore armor."
+	},
+	{
+		"id": "LoadingScreen_Hint_26",
+		"text": "You can perform your actions during battle in any order!"
+	},
+	{
+		"id": "LoadingScreen_Hint_27",
+		"text": "Don't forget to take your loot with you after a successful battle!"
+	},
+	{
+		"id": "LoadingScreen_Hint_28",
+		"text": "Knives are a great backup option for when you run out of ammo!"
+	},
+	{
+		"id": "LoadingScreen_Hint_29",
+		"text": "Light Armors enable your character to use the ability Sprint, allowing them to cover a much longer distance in one move."
+	},
+	{
+		"id": "LoadingScreen_Hint_30",
+		"text": "Medium Armors give your character the Low Profile ability. When activated, the character receives a temporary Evade boost."
+	},
+	{
+		"id": "LoadingScreen_Hint_31",
+		"text": "Heavy Armors allow your character to Hunker Down. It temporarily reduces all damage taken!"
+	},
+	{
+		"id": "LoadingScreen_Hint_32",
+		"text": "When your character is out of moves a little tick will appear next to their vitals just above the head."
+	},
+	{
+		"id": "LoadingScreen_Hint_33",
+		"text": "You can see your character's and your enemy's basic vitals hovering above their head."
+	},
+	{
+		"id": "LoadingScreen_Hint_34",
+		"text": "Hovering over a location on the exploration map will reveal some basic info about that location."
+	},
+	{
+		"id": "LoadingScreen_Hint_36",
+		"text": "Resting places, traders and recruiting events can be revisited."
+	},
+	{
+		"id": "LoadingScreen_Hint_37",
+		"text": "If you are at a location that can be revisited (such as a trader), simply click on it again to revisit."
+	}
+]
+}

@@ -1,0 +1,589 @@
+{
+"id": "Codex",
+"rows": [
+	{
+		"id": "GameDescription",
+		"text": "Introduction"
+	},
+	{
+		"id": "GameDescription_Content",
+		"text": "[h1]Background[/h1]The year is 1936 and Nazi activity is increasing in intensity by the day.\nTirelessly, they send their expeditions into the vastness of the deserts and the inhospitable mountains of the Middle East.\nNorth Africa, Arabia - what could the armies of evil be searching for?\n[p][img:codex_atmoshot]\n[p][h1]Every expedition is different[/h1]In Pathway, you send a group of intrepid adventurers on perilous expeditions. They must win turn-based battles, uncover ancient secrets, and manage their fuel supplies to ensure they arrive in time to thwart the evil plans of their merciless enemies.\nEvery expedition is different in Pathway. This is because, in addition to a basic outline, expeditions are always assigned a random series of new events. But even events that you may have encountered before can take an unexpected turn, either through chance or because of the different composition of your team.\n[p][h1]Persistent gameplay[/h1]Even a defeat means progress in Pathway, as characters gain experience even when they fail. Over the course of individual adventures, characters will gain enough experience and equipment to attempt increasingly risky undertakings.\nManage your expedition! Make use of the strengths of its individual members! Make the right decisions on the events you experience during your journey!\n[p][h1]Every decision counts[/h1]The world is on the brink of disaster as an undeclared war rages in the shadows! Victory or defeat – only you and your unsung heroes can decide the outcome!\n[p][img:codex_armor]"
+	},
+	{
+		"id": "KeyBindings",
+		"text": "Key Bindings"
+	},
+	{
+		"id": "KeyBindings_Content",
+		"text": "[h1]Key Bindings[/h1]As you progress through the codex, you will learn in detail how to play the game. You can also configure key bindings under Options / Controls. By default, key bindings are defined as described below:\n[p][h1]Map[/h1]I: Open Team Screen\n[p][h1]Team Screen[/h1]Right-click or left-click on ranged weapon: Reload\nRight-click or left-click on medkit: Heal / revive character\nRight-click or left-click on repairkit: Repair armorRight-click or left-click on any item: Drop item\n[p][h1]Map / Battle[/h1]WASD: Move cameraPress Space + LMB: Free camera move\n[p][h1]Battle[/h1]Right arrow: Next own unit\nLeft arrow: Previous own unit\nReturn: End turn\n1: Standard ranged attack\n2: Special ranged attack\n3: Standard knife attack\n4: Special knife attack\n5: Use item\nF: Armor-related special action\nR: Reload\nB: Fist punch\nLMB: Initiate action\nRMB: Abort action\n[p][h1]Trader[/h1]Right-click on own item: Sell itemRight-click or left-click on trader item: Buy item"
+	},
+	{
+		"id": "KeyBindings_Controller",
+		"text": "Controls"
+	},
+	{
+		"id": "KeyBindings_Content_Controller",
+		"text": "[h1]Controls[/h1][h1]Map[/h1]Y: Open Journal\n[p][h1]Team Page[/h1]A: Show available item actions\n[p][h1]Map / Battle[/h1]Right Stick: Move camera\n[p][h1]Battle[/h1]L/R: Cycle through characters\nZL/ZR: Cycle through character actions\nA: Confirm action\nY: End turn\nX: View details\n[p][h1]Trader[/h1]X: Sell item\nA: Buy item"
+	},
+	{
+		"id": "KeyBindings_Content_Xbox",
+		"text": "[h1]Controls[/h1][h1]Map[/h1]Y: Open Journal\n[p][h1]Team Page[/h1]A: Show available item actions\n[p][h1]Map / Battle[/h1]Right Stick: Move camera\n[p][h1]Battle[/h1]LB/RB: Cycle through characters\nLT/RT: Cycle through character actions\nA: Confirm action\nY: End turn\nX: View details\n[p][h1]Trader[/h1]X: Sell item\nA: Buy item"
+	},
+	{
+		"id": "Adventures",
+		"text": "Adventures"
+	},
+	{
+		"id": "Adventures_Content",
+		"text": "[h1]Teams and adventures[/h1]Pathway consists of a series of individual adventures that gradually increase in difficulty. To start an adventure, you must first assemble a team from the total available unlocked and uninjured characters.\n[p][img:codex_teamselect]\n[p][h1]Unlocking New Adventures[/h1]At the start of the game, all adventures other than the starting adventure are locked. Each completed adventure automatically unlocks the next adventure."
+	},
+	{
+		"id": "JeepStorage",
+		"text": "Car Storage"
+	},
+	{
+		"id": "JeepStorage_Content",
+		"text": "[h1]Car Storage[/h1]Once you have assembled your team, you can equip your characters with any new items that you may have gained during previous adventures.\n[p][img:codex_jeepstorage]\n[p]Click on items not needed by your team to move them to the valuables bag and clear inventory space. Items in the valuables bag can be sold to a trader at a later point. Left-click on the button below the valuables bag to return the last item (but only the last one!) back to the car storage.\n[p]You can also permanently upgrade your car's supplies, fuel and ammo capacity. This option costs money and is thus only available when you have sufficient funds."
+	},
+	{
+		"id": "JeepStorage_Content_Controller",
+		"text": "[h1]Car Storage[/h1]Once you have assembled your team, you can equip your characters with any new items that you may have gained during previous adventures.\n[p][img:codex_jeepstorage]\n[p]To clear up inventory space, you can move unneeded items to the Valuables bag by pressing A and selecting \"Move to valuables.\" Items in the Valuables bag can be sold to a trader at a later point.\n[p]You can also permanently upgrade your car's supplies, fuel and ammo capacity. This option costs money and is thus only available when you have sufficient funds."
+	},
+	{
+		"id": "EquipmentSlots",
+		"text": "Equipment Slots"
+	},
+	{
+		"id": "EquipmentSlots_Content",
+		"text": "[h1]Equipment Slots[/h1]You can equip a character’s first equipment slot with either a ranged weapon or a melee weapon. You can equip a character’s second slot with either a melee weapon or another item. These other items can be hand grenades, medkits and repairkits. The third slot is intended exclusively for armor.\n[p][img:codex_itemslots]"
+	},
+	{
+		"id": "Characters",
+		"text": "Characters"
+	},
+	{
+		"id": "Characters_Content",
+		"text": "[h1]Recruit Info[/h1]When you select a character, their character stats are displayed to the right, along with a brief summary of their strengths and weaknesses. The three colored bars immediately to the right of the character portrait indicate their health (red), armor value (blue), and bravery (orange).\n[p][img:codex_character]"
+	},
+	{
+		"id": "CharacterAttributes",
+		"text": "Character Stats"
+	},
+	{
+		"id": "CharacterAttributes_Content",
+		"text": "[h1]Character Stats[/h1]In addition to their equipment, characters also have different character stats:\n[p][img:codex_charstats]\n[p][h1]Vitality (VIT)[/h1]Determines a character’s health.\n[p][h1]Willpower (WIL)[/h1]Determines a character’s bravery points. Bravery is needed for special actions.\n[p][h1]Dexterity (DEX)[/h1]Affects accuracy for ranged attacks.\n[p][h1]Agility (AGI)[/h1]Affects how far a character can move on their turn.\n[p][h1]Intelligence (INT)[/h1]Affects how many experience points a character receives. The higher the value, the faster a character progresses.\n[p][h1]Reflexes (RFX)[/h1]Affects the probability that a character can dodge an attack.\n[p][h1]Endurance (END)[/h1]Affects the number of turns that an unconscious character remains alive and also the damage that a character suffers when traveling without a jeep."
+	},
+	{
+		"id": "CharacterSkills",
+		"text": "Perks and Skills"
+	},
+	{
+		"id": "CharacterSkills_Content",
+		"text": "[h1]Starter Actions[/h1]At the beginning of the game, each character has an individual special action that is displayed in their skill tree. Over the course of the game, they can unlock up to two more special actions in their skill tree.\n[p][h1]Perks[/h1]Perks further distinguish your characters, giving them various advantages and disadvantages.\n[p][img:codex_perklist]\n[p][h1]Skills[/h1]Left-click on a character’s skill button to open the Skill View.\n[p][h1]Item Skills[/h1]Item skills define which items a character may equip. Skill icons with a green plus sign give advantages, while the ones with red minus signs have certain disadvantages.\nSkills that have both advantages and disadvantages are indicated with a red-green icon.\n[p][img:codex_itemskills]\n[p][h1]Skill Tree and Leveling Up[/h1]Left-click on the Skill Tree button to open the Skill Tree. Every time a character levels up, they gain a new advantage that they can choose from the options in the Skill Tree. In this way, your character can improve their stats and skills or learn how to use new items.\n[p][img:codex_skilltree]"
+	},
+	{
+		"id": "CharacterSkills_Content_Controller",
+		"text": "[h1]Starter Actions[/h1]Each Character starts the game with one Special Action that is displayed in their Skill Tree. Over the course of the game, characters can unlock up to two more Special Actions in their Skill Tree.\n[p][h1]Perks[/h1]Perks further distinguish your characters, giving them various advantages and disadvantages.\n[p][img:codex_perklist]\n[p][h1]Item Skills[/h1]Item Skills define which items a character may equip. Skill icons with a plus sign give advantages, while the ones with minus signs have disadvantages.\nSkills that have both advantages and disadvantages are indicated with a plus/minus icon.\n[p][img:codex_itemskills]\n[p][h1]Skill Tree and Leveling Up[/h1]Press the Skill Tree button to open the Skill Tree. Each time a character levels up, they unlock a new advantage that you can choose from Skill Tree. In this way, your character can improve their stats and skills or learn how to use new items.\n[p][img:codex_skilltree]"
+	},
+	{
+		"id": "CharacterUnlock",
+		"text": "Unlocking New Characters"
+	},
+	{
+		"id": "CharacterUnlock_Content",
+		"text": "[h1]Unlocking New Characters[/h1][img:codex_unlock01]\nYou start the game with a limited number of playable characters. Additional characters are unlocked during the game whenever you satisfy certain conditions. The precise conditions for each character are displayed when you left-click on them or read the achievements list.\n[p][img:codex_unlock02]"
+	},
+	{
+		"id": "CharacterUnlock_Content_Controller",
+		"text": "[h1]Unlocking New Characters[/h1][img:codex_unlock01]\nYou start the game with a limited number of playable characters. You can unlock additional characters during the game by satisfying certain conditions. The precise conditions for each character are displayed on their info sheet and on the Trophies page of the Journal.\n[p][img:codex_unlock02]"
+	},
+	{
+		"id": "HospitalizedChars",
+		"text": "Hospitalized Characters"
+	},
+	{
+		"id": "HospitalizedChars_Content",
+		"text": "[h1]Hospitalized Characters and Recovery[/h1][img:codex_hospitalized01]\nCharacters who are incapacitated during an adventure are locked for the next expedition, as they need to recover from their injuries. You can pay cash to buy better medical care and reduce their time in the hospital.\n[p][img:codex_hospitalized02]"
+	},
+	{
+		"id": "Persistence",
+		"text": "Persistence"
+	},
+	{
+		"id": "Persistence_Content",
+		"text": "[h1]Gaining Experience and Equipment[/h1]Regardless of the outcome of an adventure, every participating character keeps the experience points and items they gain. Only canceling an adventure will reset any experience points and items gained by all participating characters during that adventure.\n[p][img:codex_itemlegendary03]"
+	},
+	{
+		"id": "Achievements",
+		"text": "Achievements"
+	},
+	{
+		"id": "Achievements_Content",
+		"text": "[h1]Achievements[/h1]You can access your trophies from the tab on the bottom right of this Codex Screen. These trophies represent all the achievements you can complete in Pathway. Move the cursor over an achievement to see its name and the actions required to unlock it.\n[p]Every unlocked achievement grants a reward; this is also described in the tooltip. Each reward can be claimed either immediately when an achievement is unlocked or later by left-clicking on the achievement on the Trophy Screen.\n[p][img:codex_achievements]"
+	},
+	{
+		"id": "Achievements_Content_GamePass",
+		"text": "[h1]Achievements[/h1]You can access your achievements from the tab on the bottom right of this Codex Screen. Move the cursor over an achievement to see its name and the actions required to unlock it.\n[p]Every unlocked achievement grants a reward; this is also described in the tooltip. Each reward can be claimed either immediately when an achievement is unlocked or later by left-clicking on the achievement on the Achievement Screen.\n[p][img:codex_achievements]"
+	},
+	{
+		"id": "Achievements_Content_Controller",
+		"text": "[h1]Trophies[/h1]The Trophies page of the Journal contains a list of all in-game achievements, including ones you have not yet obtained. Browse the list of unobtained achievements to see the actions required to unlock them.\n[p]You will receive a reward for each achievement you unlock. To claim a reward, either press Claim immediately after unlocking an achievement, or find the achievement on the Trophies page at a later time.\n[p][img:codex_achievements]"
+	},
+	{
+		"id": "TravelBasics",
+		"text": "Basics"
+	},
+	{
+		"id": "TravelBasics_Content",
+		"text": "[h1]Basics[/h1]Overland travel is depicted in Pathway as a series of events on a map:  Every location that your expedition travels to on the map has its own event. Accessible locations (green) are connected by a dashed travel line to the current location of your characters (orange). All locations and travel lines that you have already visited are also displayed in orange.\n[p][img:codex_travelnodes]\n[p]Overland travel requires some strategic planning (e.g. careful allocation of travel resources, choice of a travel route that meets the goals of your expedition).\n[p]The objective of every journey is to reach the corresponding destination. To complete the corresponding adventure, your travelers must arrive at this location. Longer adventures can consist of several maps that are linked via separate destinations.\n[p]Although each map has a specific pattern of travel lines, no journey is the same as the next, as your events are redetermined at the beginning of each adventure. However, each adventure has its own events that drive the story of that individual adventure, as well as the overarching narrative.\n[p][img:codex_itemlegendary02]"
+	},
+	{
+		"id": "TravelResources",
+		"text": "Travel Resources"
+	},
+	{
+		"id": "TravelResources_Content",
+		"text": "[h1]Travel Resources[/h1]Travel from one location to another costs one unit of fuel. When the expedition’s fuel supply is used up, you may either admit defeat or attempt to make it through the inhospitable desert on foot. Such an endeavor will drain the characters‘ health rapidly (the exact damage depends on each individual’s endurance). If you manage to find new fuel in the near future, you will be able to resume your journey with the jeep. Otherwise, your expedition will end in failure.\n[p][img:codex_travelresources]\n[p]When your characters have used up all their ammunition, they will be forced to resort to knives, fists, and grenades - disintegrators also have unlimited charge.\n[p]An expedition’s supplies are an important mixture of resources: They are consumed through the use of medkits and repairkits, as well as by throwing grenades.\n[p]The expedition needs money to replenish its stocks of fuel and equipment, as well as to hire new recruits.\n[p]Some characters have perks that boost the number of resources you capture."
+	},
+	{
+		"id": "Events",
+		"text": "Event Icons"
+	},
+	{
+		"id": "Events_Content",
+		"text": "[h1]Event Icons[/h1]Events on the map are typically displayed as round symbols. A range of special events also have their own unique icons:\n[p][h1]Destination[/h1][img:codex_destination]\n[p]The destination of your journey, unlike the other possible travel locations, is indicated with a cross rather than a circle. The icon is depicted as a flag on a cross\n[p][h1]Battles[/h1][img:codex_battle]\n[p]Events where you can expect to do battle are indicated by a crosshair icon.\nAll traveling companions that survive and are fully conscious at the end of a battle receive experience points based on the individual character’s intelligence as well as the number of enemies defeated.\n[p][h1]Resting Places[/h1][img:codex_restingplace]\n[p]Resting places allow you to recover health for your expedition. Unconscious characters will heal completely here. Resting places are marked on the map with a tent icon. You can visit resting places as many times as you like.\n[p][h1]New Recruits[/h1][img:codex_recruiter]\n[p]Locations where you can hire new team members are indicated with an icon depicting a friendly potential recruit. If your expedition does not hire the character, you can still do so by returning to the location later on.\n[p][h1]Traders[/h1][img:codex_trader]\n[p]Traders are indicated on the map with a money bag. In addition to fuel and ammunition, traders also sell other valuable items. You can visit each trader as often as you like.\n[p]Buying and selling:\n[p]Right-click on the corresponding icon to sell your own items to a trader.\nYou can right-click or left-click on an item offered by a trader in order to buy it.\n[p][h1]Points of Interest[/h1][img:codex_pointofinterest]\n[p]Points of Interest are a hold-all category. Anything can happen here: dangerous battles, more complex events, but generally also more valuable rewards.\n[p]As a rule of thumb, the greater the risk, the greater the reward…"
+	},
+	{
+		"id": "Events_Content_Controller",
+		"text": "[h1]Event Icons[/h1]Events on the map are typically displayed as round symbols. A range of special events also have their own unique icons:\n[p][h1]Destination[/h1][img:codex_destination]\n[p]The destination of your journey, unlike the other possible travel locations, is indicated with a cross rather than a circle. The icon is depicted as a flag on a cross\n[p][h1]Battles[/h1][img:codex_battle]\n[p]Events where you can expect to do battle are indicated by a crosshair icon.\nAll traveling companions that survive and are fully conscious at the end of a battle receive experience points based on the individual character’s intelligence as well as the number of enemies defeated.\n[p][h1]Resting Places[/h1][img:codex_restingplace]\n[p]Resting places allow you to recover health for your expedition. Unconscious characters will heal completely here. Resting places are marked on the map with a tent icon. You can visit resting places as many times as you like.\n[p][h1]New Recruits[/h1][img:codex_recruiter]\n[p]Locations where you can hire new team members are indicated with an icon depicting a friendly potential recruit. If your expedition does not hire the character, you can still do so by returning to the location later on.\n[p][h1]Traders[/h1][img:codex_trader]\n[p]Traders are indicated on the map with a money bag. In addition to fuel and ammunition, traders also sell other valuable items. You can visit each trader as often as you like.\n[p]Buying and selling:\n[p]When at a Trader, press A on your own items to sell them.\nPress A on the Trader's wares to buy them.\n[p][h1]Points of Interest[/h1][img:codex_pointofinterest]\n[p]Points of Interest are a hold-all category. Anything can happen here: dangerous battles, more complex events, but generally also more valuable rewards.\n[p]As a rule of thumb, the greater the risk, the greater the reward…"
+	},
+	{
+		"id": "IconVisibility",
+		"text": "Event Icons and Visibility"
+	},
+	{
+		"id": "IconVisibility_Content",
+		"text": "[h1]Event Icons and Visibility[/h1]When an expedition enters a new map, you can only see a random number of events, providing you with the initial basis for planning your journey."
+	},
+	{
+		"id": "EventCourses",
+		"text": "Event Outcomes"
+	},
+	{
+		"id": "EventCourses_Content",
+		"text": "[h1]Event Outcomes[/h1]The results of individual events can vary, as the consequences of player decisions are determined randomly.\n[p]Some characters have perks that unlock alternative solutions.\n[p][img:codex_perkchoice]\n[p]As a rule of thumb, the probability of success for these perk decisions is always higher than for the standard options. Characters who use an event perk successfully will also gain a substantial amount of experience points.\n[p]The effects of multiple event perks do not stack."
+	},
+	{
+		"id": "PerkList",
+		"text": "Perk List"
+	},
+	{
+		"id": "PerkList_Content",
+		"text": "[h1]Ancient Languages[/h1]Enables alternative decisions based on the character’s ability to decipher ancient languages or to understand local dialects.\n[p][h1]Daredevil[/h1]Enables alternative decisions based on quick-thinking, unorthodox, and often rash actions. Daredevils often succeed or fail in spectacular fashion.\n[p][h1]Brute[/h1]Enables alternative decisions based on the application of brute force.\n[p][h1]Shadow[/h1]Enables alternative decisions based on stealth and general athletic prowess.\n[p][h1]Medical Expert[/h1]Enables alternative decisions based on medical knowledge that goes beyond the ability to apply improvised bandages.\n[p][h1]Engineer[/h1]Enables alternative decisions based on technical knowledge.\n[p][h1]Trickster[/h1]Enables alternative decisions based on sleight of hand and manipulating the unsuspecting.\n[p][h1]Sixth Sense[/h1]Enables alternative decisions based on intuition and situational awareness.\n[p][h1]Intimidation[/h1]Enables alternative decisions based on the ability to exert psychological pressure on others.\n[p][h1]Survivalist[/h1]Enables alternative decisions based on in-depth knowledge of the natural environment, including weather conditions and the characteristics of various wildlife.\n[p][h1]Forbidden Lore[/h1]Enables alternative decisions that start where school learning ends and the gray area of mystical traditions begins."
+	},
+	{
+		"id": "TeamScreen",
+		"text": "Team Screen"
+	},
+	{
+		"id": "TeamScreen_Content",
+		"text": "[h1]Team Screen[/h1]Left-clicking on the lower info bar during an overland journey takes you to the Team Screen where you can heal characters and repair their armor between battles.\n[p][img:codex_teamopen]\n[p]This is done by clicking on a medkit or repairkit. The desired target person is then selected by left-clicking. Each use of a medkit or repairkit uses up the expedition’s supplies. You can reload weapons by clicking on them and also swap them between the car storage and the characters.\n[p][img:codex_repair]\n[p]Characters can only equip items when they are not in combat. Click on any item to drop it.  Left-clicking on a character portrait will open the corresponding character view."
+	},
+	{
+		"id": "TeamScreen_Content_Controller",
+		"text": "[h1]Character Stats[/h1]In addition to their equipment, characters also have different character stats:\n[p][img:codex_charstats]\n[p][h1]Vitality (VIT)[/h1]Determines a character’s health.\n[p][h1]Willpower (WIL)[/h1]Determines a character’s bravery points. Bravery is needed for special actions.\n[p][h1]Dexterity (DEX)[/h1]Affects accuracy for ranged attacks.\n[p][h1]Agility (AGI)[/h1]Affects how far a character can move on their turn.\n[p][h1]Intelligence (INT)[/h1]Affects how many experience points a character receives. The higher the value, the faster a character progresses.\n[p][h1]Reflexes (RFX)[/h1]Affects the probability that a character can dodge an attack.\n[p][h1]Endurance (END)[/h1]Affects the number of turns that an unconscious character remains alive and also the damage that a character suffers when traveling without a jeep."
+	},
+	{
+		"id": "LevelUp",
+		"text": "Leveling Up"
+	},
+	{
+		"id": "LevelUp_Content",
+		"text": "[h1]Leveling Up[/h1]A small icon on the lower info bar indicates that a character has leveled up.\n[p][img:codex_levelup]\n[p]You can upgrade the character in the team screen by left-clicking on the Level Up button over the corresponding character.\n[p][img:codex_levelupbutton]\n[p]The game then opens the character’s skill tree where you can choose their new advantage."
+	},
+	{
+		"id": "LevelUp_Content_Controller",
+		"text": "[h1]Leveling Up[/h1]A small icon on the lower info bar indicates that a character is ready to level up.\n[p][img:codex_levelup]\n[p]To upgrade the character, select them from the Team page, and press the Level Up button.\n[p][img:codex_levelupbutton]\n[p]This will open the character’s Skill Tree, where you can choose their new advantage."
+	},
+	{
+		"id": "RareItems",
+		"text": "Item Rarities"
+	},
+	{
+		"id": "RareItems_Content",
+		"text": "[h1]Item Rarities[/h1]An item‘s rarity indicates its excellence: rare items are generally better than common ones. Thus, with increasing rarity the worth of an item also increases.\nThere are five categories of rarity in Pathway: Common (white), Rare (blue), Epic (purple), Legendary (golden), and Unique (red).\n[p][img:codex_itemlegendary]\n[p]Weapons and armor also have different levels; a common level four sniper rifle may, therefore, do more damage than a legendary level one sniper rifle. Epic and legendary weapons and armor may often have additional bonuses that make their use attractive, however.\n[p][img:codex_itemlevel]"
+	},
+	{
+		"id": "CharacterPlacement",
+		"text": "Unit Placement"
+	},
+	{
+		"id": "CharacterPlacement_Content",
+		"text": "[h1]Unit Placement[/h1]At the beginning of a battle, you start by placing all characters within the green area. You can use the left and right arrows to switch between the different units to be placed.\n[p][img:codex_placement]\n[p]The size and shape of the placement area depends on the type of encounter: If your expedition surprises the enemy or in encounters that neither side was expecting, you will have an extensive starting area. But if your characters are ambushed, they will have less space for deployment."
+	},
+	{
+		"id": "CharacterPlacement_Content_Controller",
+		"text": "[h1]Character Placement[/h1]At the start of battle, you must choose starting positions for each of your characters. Use L/R to cycle between the available characters. Use Left Stick to navigate the starting area. Press A to place the currently selected character.\n[p][img:codex_placement]\n[p]The size and shape of the placement area depends on the type of encounter: If your expedition surprises the enemy, or if the encounter is a surprise to both sides, you will have an extensive starting area to choose from. If your characters are ambushed, they will have less space for deployment."
+	},
+	{
+		"id": "CharacterPlacement_Content_Xbox",
+		"text": "[h1]Character Placement[/h1]At the start of battle, you must choose starting positions for each of your characters. Use LB/RB to cycle between the available characters. Use Left Stick to navigate the starting area. Press A to place the currently selected character.\n[p][img:codex_placement]\n[p]The size and shape of the placement area depends on the type of encounter: If your expedition surprises the enemy, or if the encounter is a surprise to both sides, you will have an extensive starting area to choose from. If your characters are ambushed, they will have less space for deployment."
+	},
+	{
+		"id": "EnemyInfo",
+		"text": "Enemy Info"
+	},
+	{
+		"id": "EnemyInfo_Content",
+		"text": "[h1]Enemy Info[/h1]During the placement phase, you can view the Enemy Info for all enemies within the field of vision of your characters. During the course of the battle, you can click on the tabs on the left to alternate between the Character Actions and the Enemy Info. Left-clicking on an enemy portrait will focus the camera on the corresponding unit.\n[p][img:codex_enemyinfo]\n[p]Hovering your cursor above an opponent reveals that enemy’s attack range (red area). Press tab to display your enemy’s movement range instead (blue area)."
+	},
+	{
+		"id": "CharacterSelection",
+		"text": "Character Selection"
+	},
+	{
+		"id": "CharacterSelection_Content",
+		"text": "[h1]Character Selection[/h1]During combat, you select a character by left-clicking on it or on its character portrait at the bottom left. Alternatively, you can use the left and right arrows to switch between the different units.\n[p][img:codex_charselect]"
+	},
+	{
+		"id": "CharacterSelection_Content_Controller",
+		"text": "[h1]Character Selection[/h1]During combat, use L/R to cycle between your characters.\n[p][img:codex_charselect]"
+	},
+	{
+		"id": "CharacterSelection_Content_Xbox",
+		"text": "[h1]Character Selection[/h1]During combat, use LB/RB to cycle between your characters.\n[p][img:codex_charselect]"
+	},
+	{
+		"id": "CoverTypes",
+		"text": "Types of Cover"
+	},
+	{
+		"id": "CoverTypes_Content",
+		"text": "[h1]Types of Cover[/h1]When a character is placed directly next to cover, this is indicated as a tooltip. A character that stops immediately adjacent to cover will automatically crouch down and benefit from its protection - diagonal contact with cover does not provide any protection.\n[p][h1]Example[/h1][img:codex_coveruse]\nBrunhilda (kneeling, left) is directly next to the cover to her south. This grants her protection from all attacks from the south.\nJackson (standing, right), is only diagonally adjacent to the cover on his right. Therefore, he is not protected.\n[p]Pathway distinguishes between two types of cover. Walls also provide very effective protection."
+	},
+	{
+		"id": "PartialCovers",
+		"text": "Partial Cover"
+	},
+	{
+		"id": "PartialCovers_Content",
+		"text": "[h1]Low Cover[/h1]Low cover reduces the probability of being hit by a ranged attack by [cover:SmallCover]%. It also provides complete protection from grenade shrapnel. The protection radius includes all frontal attacks. It does not break line of sight and can be jumped over. Characters crouching behind low cover stand up automatically if they want to shoot over it. Grenades can be thrown over low cover, nullifying its protection. Objects between hip and shoulder height are considered to be low cover. Low cover is displayed in the tooltip as a shield.\n[p][img:codex_weakcover]\n[p][h1]High cover[/h1]High cover behaves in much the same way as low cover, but it cannot be jumped over. Objects larger than characters are generally considered to be high cover. High cover is displayed in the tooltip as a shield with a cross in its center.\n[p][img:codex_strongcover]"
+	},
+	{
+		"id": "Walls",
+		"text": "Walls"
+	},
+	{
+		"id": "Walls_Content",
+		"text": "[h1]Walls[/h1]Walls provide complete protection from all ranged attacks carried out from the other side of the wall. The protected area includes all frontal attacks. It is not possible to jump over walls or throw hand grenades over them. If a wall is located along a direct line between two tiles, it breaks the line of sight. Characters standing at the edge of a wall automatically take a side step to shoot past that edge, if necessary to hit their target. (Special attacks and grenades are exceptions to this rule.) Huge objects that are significantly bigger than characters are generally treated as walls. Walls are displayed in the tooltip as a piece of masonry.\n[p][img:codex_wall]"
+	},
+	{
+		"id": "HitChances",
+		"text": "Protected Areas"
+	},
+	{
+		"id": "HitChances_Content",
+		"text": "[h1]Protected Areas and Hit Probabilities[/h1]In Pathway, a visible target that is not in cover and within range is always hit during ranged combat. For ranged combat targets behind high and low cover, the hit probability is calculated using a formula that takes into account the type of cover, the accuracy of the weapon and the dexterity of the shooter. Attacks from adjacent tiles cancel out the protective effects of cover. This is why melee attacks always hit.\n[p][h1]Example[/h1][img:codex_coverangle]\n[p]The Nazi stormtrooper has cover protection from all attacks from the south.\nBecause Annabelle (bottom right, pilot’s cap) is positioned to the south of him, her chance to hit is reduced accordingly.\nNatalya (top right, lab coat), however, is at the same level as the German soldier. She, and all units positioned to the north would have a clear shot.\nGeorgette (left, kneeling) is positioned to the south of the soldier, but she is also in a directly adjacent tile, thereby negating the protective effects of his cover."
+	},
+	{
+		"id": "CharacterActions",
+		"text": "Actions"
+	},
+	{
+		"id": "CharacterActions_Content",
+		"text": "[h1]Character actions[/h1]Combat in Pathway is turn based. Pressing the red button at the end of the action bar ends your turn and begins the enemy turn.\n[p][img:codex_endturn]\n[p]In the OPTIONS, under GAME, you can activate the option \"CONFIRM END TURN\". You must then left-click to confirm the end of the turn if at least one of your characters can still perform an action.\n[p]Each character may perform a maximum of two actions per turn: This can include a maximum of one attack action and one movement action, as well as up to two neutral actions. A character that has used up all their actions is indicated with a small checkmark.\nActions are carried out by left-clicking on the corresponding action button. If this action is connected to a follow-up action (e.g. target selection), you can still cancel the action by right-clicking."
+	},
+	{
+		"id": "CharacterActions_Content_Controller",
+		"text": "[h1]Character actions[/h1]Use ZL/ZR to cycle through the available Actions for the currently selected character. Press A to carry out the selected Action.\n[p]Each character may perform a maximum of two Actions per turn. You may perform two Neutral actions in one turn, but you cannot Attack twice or Move twice in one turn.\n[p]When a character has used up all their actions, a small checkmark will appear above their head.\n[p]Combat in Pathway is turn-based. Press Y to end your turn and begin the enemy's.\n[p][img:codex_endturn]\n[p]To prevent yourself from accidentally ending your turn, you can activate Confirm End Turn in the Options menu."
+	},
+	{
+		"id": "CharacterActions_Content_Xbox",
+		"text": "[h1]Character actions[/h1]Use LT/RT to cycle through the available Actions for the currently selected character. Press A to carry out the selected Action.\n[p]Each character may perform a maximum of two Actions per turn. You may perform two Neutral actions in one turn, but you cannot Attack twice or Move twice in one turn.\n[p]When a character has used up all their actions, a small checkmark will appear above their head.\n[p]Combat in Pathway is turn-based. Press Y to end your turn and begin the enemy's.\n[p][img:codex_endturn]\n[p]To prevent yourself from accidentally ending your turn, you can activate Confirm End Turn in the Options menu."
+	},
+	{
+		"id": "SpecialActions",
+		"text": "Special Actions"
+	},
+	{
+		"id": "SpecialActions_Content",
+		"text": "[h1]Special Actions[/h1]Some actions are special actions and use bravery points.\nA character will regenerate bravery points as a result of the following:\n[p]A successful attack on an enemy:  +[bravery:Hit] bravery\nCritical hit on an enemy: +[bravery:HitCritical] bravery\nSuccessfully evade an enemy attack: +[bravery:Evade] bravery\nHeal yourself or a friend: +[bravery:UseMedKit] bravery\nRepair your armor or that of a friend: +[bravery:UseRepairKit] bravery"
+	},
+	{
+		"id": "MovementActions",
+		"text": "Movement Actions"
+	},
+	{
+		"id": "MovementActions_Content",
+		"text": "[h1]Walk[/h1][img:codex_walk]\nAny activated character can move by moving the cursor to the desired location within the character’s movement radius (blue) and then left-clicking.\n[p]In the OPTIONS, under GAME, you can activate the option \"CONFIRM MOVE\". Movements are now only performed when you left click again in the same field. Activate this option to reduce the risk of accidental movement.\n[p][h1]Sprint (Special)[/h1][img:codex_sprint]\nAny character with light armor can perform the Sprint special action, granting them a significant movement bonus. Important: A sprint does not trigger an enemy ambush.\n[p][h1]Dash[/h1][img:codex_dash]\nAny activated character can dash to a nearby field by moving the cursor to the desired location within the character’s movement radius (blue) and then left-clicking. Important: Unlike all other actions, a dash does not consume an action point - it also does not trigger enemy ambushes.\n[p]This action is not linked to special equipment."
+	},
+	{
+		"id": "MovementActions_Content_Controller",
+		"text": "[h1]Walk[/h1][img:codex_walk]\nCharacters can walk to any location within the highlighted area. Use Left Stick to plan your route, and press A to move the character to the location indicated by the arrow.\n[p]To prevent yourself from accidentally choosing the wrong location, you can activate Confirm Move in the Options menu. Now, the game will ask you if you're certain before confirming a character's move.\n[p][h1]Sprint (Special)[/h1][img:codex_sprint]\nAny character with light armor can perform the Sprint special action, granting them a significant movement bonus. Important: A sprint does not trigger an enemy ambush.\n[p][h1]Dash[/h1][img:codex_dash]\nCharacters can dash to a nearby location within the highlighted area. Use Left Stick to select a location, and press A to move. Important: Unlike all other actions, a dash does not consume an action point - it also does not trigger enemy ambushes.\n[p]This action is not linked to special equipment."
+	},
+	{
+		"id": "AttackActions",
+		"text": "Attack Actions"
+	},
+	{
+		"id": "AttackActions_Content",
+		"text": "[h1]Ranged Attack[/h1][img:codex_ranged]\n[p]Any character equipped with a loaded ranged weapon can perform the Ranged Attack standard action. To do this, position the cursor over an enemy within the character’s field of fire (red) and left-click to trigger the attack. The field of fire is defined by the character’s weapon range and field of vision. The tooltip displays the target’s most important combat values, as well as your hit probability.\n[p]Pressing the Tab key while hovering over an enemy displays further details on damage calculation, such as the impact of damage types or character perks.\n[p][h1]Double Shot (Special)[/h1][img:codex_doubleshot]\n[p]Any character with a pistol can perform the Double Shot special action, which allows two quick shots at two different targets. To do this, you select two enemies and left-click them to trigger the attacks.\n[p][h1]Burst Fire (Special)[/h1][img:codex_rifleburst]\n[p]Any character with an assault rifle can perform the Burst Fire special action, which allows you to attack multiple targets in a straight line. You use the mouse wheel to define the direction of fire and left-click to trigger it.\n[p][h1]Ambush (Special)[/h1][img:codex_ambush]\n[p]Any character with a sniper rifle can perform the Ambush special action, which interrupts enemy actions within a previously defined area. You move the cursor to define the field of fire and left-click to confirm it. The ambush is then triggered during the subsequent enemy turn when an enemy unit tries to move or perform an attack within the defined field of fire. Ambushes are delayed actions and therefore do not trigger an enemy ambush.\n[p]If a character takes damage, their ambush status will be cancelled.\n[p][h1]Shotgun Blast (Special)[/h1][img:codex_blast]\n[p]Any character with a shotgun can perform the Shotgun Blast special action, which fires at all units within a short-range conical field of fire. You move the cursor to define the field of fire and left-click to trigger the attack.\n[p][h1]Meltdown (Special)[/h1][img:codex_meltdown]\n[p]Any character with a disintegrator can perform the Meltdown special action, which fires a ray in a straight line through any number of targets until it hits a wall. You move the cursor to define the direction of fire and left-click to trigger the attack.\n[p][h1]Head Shot (Special)[/h1][img:codex_headshot]\n[p]A targeted head shot kills any enemy regardless of their strength or armor. You perform it in the usual way by positioning the cursor over an enemy within the character’s field of fire (red) and left-clicking to trigger the attack.  Important: Head shots only work against enemies who have already taken health damage.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Crippling Shot (Special)[/h1][img:codex_cripplingshot]\n[p]A crippling shot restricts the movement of a target person during their subsequent turn. You perform it in the usual way by positioning the cursor over an enemy within the character’s field of fire (red) and left-clicking to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Shredding Shot (Special)[/h1][img:codex_shreddinghot]\n[p]A shredding shot increases the armor shredding a weapon inflicts on its next shot. You perform it in the usual way by positioning the cursor over an enemy within the character’s field of fire (red) and left-clicking to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Quantum Leech (Special)[/h1][img:codex_quantumleech]\n[p]A quantum leech adds some of the damage you inflict on enemies to your own health. You perform it in the usual way by positioning the cursor over an enemy within the character’s field of fire (red) and left-clicking to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Reaction Shot (Special)[/h1][img:codex_reactionshot]\n[p]Reaction shots are fired in response to an enemy attack if the attacker is within your own weapon range. This action is queued by left-clicking the respective button.\n[p]This action is not linked to special equipment, but requires a loaded firearm. Reaction shots are delayed actions and therefore do not trigger an enemy ambush.\n[p][h1]Knife Attack[/h1][img:codex_melee]\n[p]Any character with a knife can perform the knife attack standard action when directly adjacent to an enemy unit. To do this, position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack.\n[p][h1]Bleed (Special)[/h1][img:codex_bleed]\nAny character with a knife can perform the Bleed special action, which inflicts additional damage on the enemy in subsequent rounds. To do this, position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack.\n[p][h1]Cleave (Special)[/h1][img:codex_strike]\n[p]You set up a cleave attack on adjacent enemies by moving the cursor within the character’s field of attack (red). The affected fields are displayed. The attack is confirmed by left-clicking.\n[p]This action requires a knife.\n[p][h1]Sudden Strike (Special)[/h1][img:codex_parry]\n[p]If the character is attacked in the next turn by an immediately adjacent enemy, they can inflict a surprise attack before the enemy strikes. The action is queued by left-clicking on the respective button.\n[p]This action requires a knife. Sudden Strikes are delayed actions and therefore do not trigger an enemy ambush.\n[p][h1]Punch[/h1][img:codex_punch]\n[p]Any character without a knife can perform the punch standard action when directly adjacent to an enemy unit. To do this, position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack. Punch attacks cause only minimal damage.\n[p][h1]Sucker Punch (Special)[/h1][img:codex_suckerpunch]\n[p]A sucker punch knocks an enemy back several fields in the direction of the punch. It can cause additional damage if it knocks the enemy against walls, barrels, or other units. Position the cursor over an enemy within the character’s field of attack (red) and left-click to trigger the attack.\n[p]This action is not linked to special equipment.\n[p][h1]Throw Grenade[/h1][img:codex_grenadethrow]\nAny character with a grenade can perform the Throw Grenade standard action. Position the cursor within the field of attack (red), select a target tile, and left-click to trigger the attack. The damage area is displayed. Throwing grenades reduces supplies by one."
+	},
+	{
+		"id": "AttackActions_Content_Controller",
+		"text": "[h1]Ranged Attack[/h1][img:codex_ranged]\n[p]Any character equipped with a loaded ranged weapon can perform the Ranged Attack standard action. Use Left Stick to target an enemy, and press A to trigger the Ranged Attack. The field of fire is defined by the character’s weapon range and field of vision. The tooltip displays the target’s most important combat values, as well as your hit probability.\n[p]To see additional information on damage calculation, press X when selecting an enemy to attack.\n[p][h1]Double Shot (Special)[/h1][img:codex_doubleshot]\n[p]Any character with a pistol can perform the Double Shot special action, which allows a quick shot at two different targets. Use Left Stick and A to browse and select targets.\n[p][h1]Burst Fire (Special)[/h1][img:codex_rifleburst]\n[p]Any character with an assault rifle can perform the Burst Fire special action, which allows you to attack multiple targets in a straight line. Use the Left and Right Directional buttons to rotate the line of fire, and press A to trigger the burst.\n[p][h1]Ambush (Special)[/h1][img:codex_ambush]\n[p]Any character with a sniper rifle can perform the Ambush special action, which interrupts an enemy that moves or attacks within a field of fire that you define. Use Left Stick to select the field of fire, and press A to confirm. The Ambush will trigger if an enemy unit tries to move or attack within the field of fire. Because Ambushes are delayed actions, your Ambush will not trigger an enemy's Ambush.\n[p]If a character takes damage, their ambush status will be cancelled.\n[p][h1]Shotgun Blast (Special)[/h1][img:codex_blast]\n[p]Any character with a shotgun can perform the Shotgun Blast special action, which fires at all units within a short-range conical field of fire. Use Left Stick to define the field of fire, and press A to trigger the attack.\n[p][h1]Meltdown (Special)[/h1][img:codex_meltdown]\n[p]Any character with a disintegrator can perform the Meltdown special action, which fires a ray in a straight line through any number of targets until it hits a wall. Use Left Stick to define the direction of fire, and press A to trigger the attack.\n[p][h1]Head Shot (Special)[/h1][img:codex_headshot]\n[p]A targeted head shot kills any enemy regardless of their strength or armor. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]Important: Head shots only work against enemies who have already taken health damage.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Crippling Shot (Special)[/h1][img:codex_cripplingshot]\n[p]A crippling shot restricts an enemy's movement during their next turn. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Shredding Shot (Special)[/h1][img:codex_shreddinghot]\n[p]A shredding shot increases the armor shredding a weapon inflicts on its next shot. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Quantum Leech (Special)[/h1][img:codex_quantumleech]\n[p]A quantum leech adds some of the damage you inflict on enemies to your own health. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Reaction Shot (Special)[/h1][img:codex_reactionshot]\n[p]Reaction Shots are fired in response to an enemy attack if the attacker is within your own weapon range. To queue a Reaction Shot, select the action from the menu, and press A to confirm.\n[p]This action is not linked to special equipment, but requires a loaded firearm. Because Reaction Shots are delayed actions, they do not trigger an enemy Ambush.\n[p][h1]Knife Attack[/h1][img:codex_melee]\n[p]Any character with a knife can perform the Knife Attack standard action when directly adjacent to an enemy unit. Use Left Stick to select an enemy within the highlighted attack range. Press A to trigger the attack.\n[p][h1]Bleed (Special)[/h1][img:codex_bleed]\nAny character with a knife can perform the Bleed special action, which inflicts additional damage on the enemy over time. Use Left Stick to select an enemy within the highlighted attack range, and press A to trigger the attack.\n[p][h1]Cleave (Special)[/h1][img:codex_strike]\n[p]To set up a Cleave attack, use Left Stick to select adjacent enemies within the highlighted range. The affected fields are displayed. Press A to confirm the attack.\n[p]This action requires a knife.\n[p][h1]Sudden Strike (Special)[/h1][img:codex_parry]\n[p]You can use Sudden Strike to inflict a surprise attack on an enemy that tries to attack your character from an adjacent location. To set up a Sudden Strike, select the action from the menu, and press A to confirm.\n[p]This action requires a knife. Because Sudden Strikes are delayed actions, they do not trigger enemy Ambushes.\n[p][h1]Punch[/h1][img:codex_punch]\n[p]Any character without a knife can perform the Punch standard action when directly adjacent to an enemy unit. Use Left Stick to select an enemy within the highlighted field of attack, and press A to trigger the attack. Punch attacks cause minimal damage.\n[p][h1]Sucker Punch (Special)[/h1][img:codex_suckerpunch]\n[p]A Sucker Punch knocks an enemy back several spaces in the direction of the attack. A Sucker Punch can cause additional damage if the enemy is knocked against a wall, barrel, or other another unit. Use Left Stick to select an enemy within the highlighted field of attack, and press A to trigger the attack.\n[p]This action is not linked to special equipment.\n[p][h1]Throw Grenade[/h1][img:codex_grenadethrow]\nAny character with a grenade can perform the Throw Grenade standard action. Use Left Stick to target a location within the highlighted area, and press A to trigger the attack. The damage area is displayed. This attack will consume 1 x Grenade."
+	},
+	{
+		"id": "AttackActions_Content_Xbox",
+		"text": "[h1]Ranged Attack[/h1][img:codex_ranged]\n[p]Any character equipped with a loaded ranged weapon can perform the Ranged Attack standard action. Use Left Stick to target an enemy, and press A to trigger the Ranged Attack. The field of fire is defined by the character’s weapon range and field of vision. The tooltip displays the target’s most important combat values, as well as your hit probability.\n[p]To see additional information on damage calculation, press X when selecting an enemy to attack.\n[p][h1]Double Shot (Special)[/h1][img:codex_doubleshot]\n[p]Any character with a pistol can perform the Double Shot special action, which allows a quick shot at two different targets. Use Left Stick and A to browse and select targets.\n[p][h1]Burst Fire (Special)[/h1][img:codex_rifleburst]\n[p]Any character with an assault rifle can perform the Burst Fire special action, which allows you to attack multiple targets in a straight line. Use the left and right d-pad to rotate the line of fire, and press A to trigger the burst.\n[p][h1]Ambush (Special)[/h1][img:codex_ambush]\n[p]Any character with a sniper rifle can perform the Ambush special action, which interrupts an enemy that moves or attacks within a field of fire that you define. Use Left Stick to select the field of fire, and press A to confirm. The Ambush will trigger if an enemy unit tries to move or attack within the field of fire. Because Ambushes are delayed actions, your Ambush will not trigger an enemy's Ambush.\n[p]If a character takes damage, their ambush status will be cancelled.\n[p][h1]Shotgun Blast (Special)[/h1][img:codex_blast]\n[p]Any character with a shotgun can perform the Shotgun Blast special action, which fires at all units within a short-range conical field of fire. Use Left Stick to define the field of fire, and press A to trigger the attack.\n[p][h1]Meltdown (Special)[/h1][img:codex_meltdown]\n[p]Any character with a disintegrator can perform the Meltdown special action, which fires a ray in a straight line through any number of targets until it hits a wall. Use Left Stick to define the direction of fire, and press A to trigger the attack.\n[p][h1]Head Shot (Special)[/h1][img:codex_headshot]\n[p]A targeted head shot kills any enemy regardless of their strength or armor. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]Important: Head shots only work against enemies who have already taken health damage.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Crippling Shot (Special)[/h1][img:codex_cripplingshot]\n[p]A crippling shot restricts an enemy's movement during their next turn. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Shredding Shot (Special)[/h1][img:codex_shreddinghot]\n[p]A shredding shot increases the armor shredding a weapon inflicts on its next shot. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Quantum Leech (Special)[/h1][img:codex_quantumleech]\n[p]A quantum leech adds some of the damage you inflict on enemies to your own health. Use Left Stick to select an enemy within the highlighted field of fire, and press A to trigger the attack.\n[p]This action is not linked to special equipment, but requires a loaded firearm.\n[p][h1]Reaction Shot (Special)[/h1][img:codex_reactionshot]\n[p]Reaction Shots are fired in response to an enemy attack if the attacker is within your own weapon range. To queue a Reaction Shot, select the action from the menu, and press A to confirm.\n[p]This action is not linked to special equipment, but requires a loaded firearm. Because Reaction Shots are delayed actions, they do not trigger an enemy Ambush.\n[p][h1]Knife Attack[/h1][img:codex_melee]\n[p]Any character with a knife can perform the Knife Attack standard action when directly adjacent to an enemy unit. Use Left Stick to select an enemy within the highlighted attack range. Press A to trigger the attack.\n[p][h1]Bleed (Special)[/h1][img:codex_bleed]\nAny character with a knife can perform the Bleed special action, which inflicts additional damage on the enemy over time. Use Left Stick to select an enemy within the highlighted attack range, and press A to trigger the attack.\n[p][h1]Cleave (Special)[/h1][img:codex_strike]\n[p]To set up a Cleave attack, use Left Stick to select adjacent enemies within the highlighted range. The affected fields are displayed. Press A to confirm the attack.\n[p]This action requires a knife.\n[p][h1]Sudden Strike (Special)[/h1][img:codex_parry]\n[p]You can use Sudden Strike to inflict a surprise attack on an enemy that tries to attack your character from an adjacent location. To set up a Sudden Strike, select the action from the menu, and press A to confirm.\n[p]This action requires a knife. Because Sudden Strikes are delayed actions, they do not trigger enemy Ambushes.\n[p][h1]Punch[/h1][img:codex_punch]\n[p]Any character without a knife can perform the Punch standard action when directly adjacent to an enemy unit. Use Left Stick to select an enemy within the highlighted field of attack, and press A to trigger the attack. Punch attacks cause minimal damage.\n[p][h1]Sucker Punch (Special)[/h1][img:codex_suckerpunch]\n[p]A Sucker Punch knocks an enemy back several spaces in the direction of the attack. A Sucker Punch can cause additional damage if the enemy is knocked against a wall, barrel, or other another unit. Use Left Stick to select an enemy within the highlighted field of attack, and press A to trigger the attack.\n[p]This action is not linked to special equipment.\n[p][h1]Throw Grenade[/h1][img:codex_grenadethrow]\nAny character with a grenade can perform the Throw Grenade standard action. Use Left Stick to target a location within the highlighted area, and press A to trigger the attack. The damage area is displayed. This attack will consume 1 x Grenade."
+	},
+	{
+		"id": "NeutralActions",
+		"text": "Neutral Actions"
+	},
+	{
+		"id": "NeutralActions_Content",
+		"text": "[h1]Reload[/h1][img:codex_reload]\nAny character equipped with a ranged weapon can perform the Reload standard action. The weapon’s magazine is completely reloaded, provided there are sufficient general ammunition supplies.\n[p][h1]Use Medkit[/h1][img:codex_healkit]\nAny character with a Medkit can perform the Use Medkit standard action to heal themselves or their team members. Left-click on a target in the field of effect (green) to trigger the healing. This action can be used to revive unconscious companions. Each use of a Medkit reduces supplies by one.\n[p][h1]Use Repairkit[/h1][img:codex_repairkit]\nAny character with a Repairkit can perform the Repair special action to repair their armor or a companion’s armor. Left-click on a target in the field of effect (green) to trigger the repair. Each use of a Repairkit reduces supplies by one.\n[p][h1]Low Profile (Special)[/h1][img:codex_lowprofile]\nAny character with medium armor can perform the Low Profile special action that grants them a significant evade bonus in the current and subsequent turn.\n[p][h1]Hunker Down (Special)[/h1][img:codex_hunkerdown]\nAny character with heavy armor can perform the Hunker Down special action that significantly reduces all damage the character receives in the current and subsequent turn.\n[p][h1]Bait (Special)[/h1][img:codex_bait]\n[p]Bait can be thrown to distract dogs and zombies for one round. Position the cursor within the field of attack (red), select a target tile, and left-click to trigger the throw. The area of effect is displayed.\n[p]This action is not linked to special equipment.\n[p][h1]Vanish (Special)[/h1][img:codex_vanish]\n[p]The character disappears and is ignored by enemies in the next turn. This action is confirmed by left-clicking the respective button.\n[p]This action is not linked to special equipment.\n[p][h1]Psychic Control (Special)[/h1][img:codex_psychiccontrol]\n[p]The character can take control of any enemy on the battle screen who is also within attack range of another enemy. The controlled enemy will then attack their former ally. If the controlled enemy can attack several allies, the target is selected randomly.\n[p]This action is not linked to special equipment.\n[p][h1]Morale Boost (Special)[/h1][img:codex_moraleboost]\n[p]A morale boost significantly increases the movement of any desired expedition member for a short period of time. This effect can stack with Sprint. You select the target person by left-clicking them.\n[p]This action is not linked to special equipment.\n[p][h1]Concentrate (Special)[/h1][img:codex_meditate]\n[p]The character instantly regenerates a bravery point. This action is confirmed by left-clicking the respective button.\n[p]This action is not linked to special equipment.\n[p][h1]First Aid (Special)[/h1][img:codex_firstaid]\n[p]You can use first aid to provide injured and unconscious characters with provisional healing. This will also remove all negative status effects impacting the corresponding character. You must choose a target within the healing zone (green) and left-click to perform the healing.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Resuscitate (Special)[/h1][img:codex_revive]\n[p]You can use resuscitate to provide injured and unconscious characters with provisional healing. You must choose a target within the healing zone (green) and left-click to perform the healing.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Healing Shot (Special)[/h1][img:codex_healingshot]\n[p]Shoots a small adrenaline ampule that restores health to the target in spurts. You must choose a target within the healing zone (green) and left-click to perform the healing.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Warning Shot (Special)[/h1][img:codex_warningshot]\n[p]Warning shots suppress enemy movements within a previously defined area. You move the cursor to define the field of fire and left-click to confirm it. Warning shots are fired during the subsequent enemy turn as soon as enemy units move within the defined area. Unlike an ambush, warning shots do not cause damage, but can be fired at multiple targets.\n[p]This action is not linked to special equipment, but requires a loaded firearm. Warning shots are delayed actions and therefore do not trigger an enemy ambush."
+	},
+	{
+		"id": "NeutralActions_Content_Controller",
+		"text": "[h1]Reload[/h1][img:codex_reload]\nAny character equipped with a ranged weapon can perform the Reload standard action. This will completely reload a weapon’s magazine, provided you have enough ammunition supply.\n[p][h1]Use Medkit[/h1][img:codex_healkit]\nAny character with a Medkit item can perform the Use Medkit standard action to heal themselves or their team members. Use Left Stick to select a target within the highlighted area, and press A to trigger the healing. Medkits can revive unconscious companions. Each use consumes 1 x Medkit supply.\n[p][h1]Use Repairkit[/h1][img:codex_repairkit]\nAny character with a Repairkit can perform the Repair special action to repair their armor or a companion’s armor. Use Left Stick to select a target within the highlighted field of effect, and press A to trigger the repair. Each use consumes 1 x Repairkit supply.\n[p][h1]Low Profile (Special)[/h1][img:codex_lowprofile]\nAny character with medium armor can perform the Low Profile special action, which grants a significant evade bonus in the current and subsequent turn. Press A to confirm this action.\n[p][h1]Hunker Down (Special)[/h1][img:codex_hunkerdown]\nAny character with heavy armor can perform the Hunker Down special action that significantly reduces all damage the character receives in the current and subsequent turn. Press A to confirm this action.\n[p][h1]Bait (Special)[/h1][img:codex_bait]\n[p]Bait can be thrown to distract dogs and zombies for one round. Use Left Stick to select a target within the highlighted area, and press A to throw the bait. The area of effect is displayed.\n[p]This action is not linked to special equipment.\n[p][h1]Vanish (Special)[/h1][img:codex_vanish]\n[p]The character disappears and is ignored by enemies in the next turn. Press A to confirm this action.\n[p]This action is not linked to special equipment.\n[p][h1]Psychic Control (Special)[/h1][img:codex_psychiccontrol]\n[p]The character can take control of any enemy who is also within attack range of another enemy. Use Left Stick to select and enemy, and press A to confirm. The controlled enemy will then attack their former ally. If the controlled enemy can attack several allies, the target is selected randomly.\n[p]This action is not linked to special equipment.\n[p][h1]Morale Boost (Special)[/h1][img:codex_moraleboost]\n[p]A morale boost significantly increases the movement of any desired expedition member for a short period of time. Use Left Stick to select a target, and press A to trigger the effect. Morale Boost can stack with Sprint.\n[p]This action is not linked to special equipment.\n[p][h1]Concentrate (Special)[/h1][img:codex_meditate]\n[p]The character instantly regenerates a Bravery point. Press A to confirm.\n[p]This action is not linked to special equipment.\n[p][h1]First Aid (Special)[/h1][img:codex_firstaid]\n[p]You can use First Aid to provide injured and unconscious characters with provisional healing. This will also remove all negative status effects impacting the corresponding character. Use Left Stick to select a target within the highlighted healing zone, and press A to confirm.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Resuscitate (Special)[/h1][img:codex_revive]\n[p]You can use Resuscitate to provide injured and unconscious characters with provisional healing. Use Left Stick to select a target within the highlighted zone, and press A to perform the action.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Healing Shot (Special)[/h1][img:codex_healingshot]\n[p]Shoots a small adrenaline ampule that restores health to the target in spurts. Use Left Stick to select a target within the highlighted area, and press A to trigger the shot.\n[p]This action is not linked to special equipment and does not use up supplies.\n[p][h1]Warning Shot (Special)[/h1][img:codex_warningshot]\n[p]Warning shots suppress enemy movements within a previously defined area. Use Left Stick to define the field of fire, and press A to confirm. Warning shots are fired during the subsequent enemy turn as soon as enemy units move within the defined area. Unlike an ambush, Warning Shots do not cause damage, but can be fired at multiple targets.\n[p]This action is not linked to special equipment, but requires a loaded firearm. Because Warning Shots are delayed actions, they will not trigger an enemy Ambush."
+	},
+	{
+		"id": "DamageClasses",
+		"text": "Types of Damage"
+	},
+	{
+		"id": "DamageClasses_Content",
+		"text": "[h1]Primary Damage (DMG) and Armor Shredding[/h1]In Pathway, each weapon inflicts two types of damage: primary damage (DMG) and armor shredding.\n[p][img:codex_weapondamage]\n[p]When an enemy is hit, their armor value (if any) is usually deducted from the weapon damage (DMG) they receive. The difference is then deducted from the enemy’s health.\n[p]Irrespective of this, every hit also damages the armor worn by the target person based on the armor shredding inflicted by the corresponding weapon.\n[p]There are four types of damage in Pathway:\n[p][h1]Standard[/h1]Standard damage causes average damage that must first penetrate armor, as described above.\n[p][h1]Splinter[/h1]Splinter damage tends to cause more damage to unarmored targets - but enemy armor receives a bonus of ([damage:Splinter:1]%) against splinter damage. Shotguns inflict splinter damage by default, as do special models of other weapon classes.\n[p][h1]Corrosion[/h1]Corrosion rays generally only inflict medium damage, but inflict significant armor shredding. It is predominantly disintegrators that cause corrosion damage.\n[p][h1]Armor Piercing[/h1]Armor-piercing damage works differently to the other damage types: it completely ignores armor, inflicting damage directly to its target instead. Special designs of all weapon classes can cause armor-piercing damage. All knives do this by default."
+	},
+	{
+		"id": "WeaponTypeIntro",
+		"text": "Weapon classes"
+	},
+	{
+		"id": "WeaponTypeIntro_Content",
+		"text": "[h1]Advantages and Disadvantages of Different Weapon Classes[/h1]In Pathway, the characters can draw on an arsenal of five different ranged weapon classes and one melee weapon class.  There is also one item class (grenades) that can be used to inflict damage.\n[p]Each weapon has a specific chance to inflict a critical hit. Crits generate additional damage. The general crit chance varies from weapon class to weapon class, as described below."
+	},
+	{
+		"id": "WeaponTypePistol",
+		"text": "Pistols"
+	},
+	{
+		"id": "WeaponTypePistol_Content",
+		"text": "[h1]Pistols[/h1]Pistols have large magazines and a high crit chance. However, they only inflict moderate standard damage at medium range and accuracy. Their Double Shot special action makes pistols an extremely flexible weapon class.\n[p][img:codex_pistol]"
+	},
+	{
+		"id": "WeaponTypeShotgun",
+		"text": "Shotguns"
+	},
+	{
+		"id": "WeaponTypeShotgun_Content",
+		"text": "[h1]Shotguns[/h1]Shotguns inflict high splinter damage but are very limited in terms of range, accuracy, crit chance and magazine size. Their Shotgun Blast special action is devastating to groups of nearby, unarmored opponents.\n[p][img:codex_shotgun]"
+	},
+	{
+		"id": "WeaponTypeAssault",
+		"text": "Assault Rifles"
+	},
+	{
+		"id": "WeaponTypeAssault_Content",
+		"text": "[h1]Assault Rifles[/h1]Assault rifles are mid-range weapons in terms of range, accuracy, crit chance and magazine size; they inflict average standard damage. Their Burst Fire special action is moderately flexible and can provide an effective means of dealing with groups of enemies at medium distance.\n[p][img:codex_rifle]"
+	},
+	{
+		"id": "WeaponTypeSniper",
+		"text": "Sniper Rifles"
+	},
+	{
+		"id": "WeaponTypeSniper_Content",
+		"text": "[h1]Sniper Rifles[/h1]Sniper Rifles combine high accuracy and range with average crit chance, but they only have a small magazine and moderate standard damage. Their Ambush special action is a good way to control your enemies.\n[p][img:codex_sniperrifle]"
+	},
+	{
+		"id": "WeaponTypeDisintegrator",
+		"text": "Disintegrators"
+	},
+	{
+		"id": "WeaponTypeDisintegrator_Content",
+		"text": "[h1]Disintegrators[/h1]Disintegrators inflict high corrosion damage, but they only have a moderate range and crit chance. They have a medium magazine size and accuracy. Their Meltdown special action is extremely dependent upon enemy positioning but in optimum conditions it provides an effective means of dealing with heavily armored enemies at almost any distance. Disintegrators have internal accumulators and therefore do not need regular ammunition.\n[p][img:codex_disintegrator]"
+	},
+	{
+		"id": "WeaponTypeKnife",
+		"text": "Knives"
+	},
+	{
+		"id": "WeaponTypeKnife_Content",
+		"text": "[h1]Knives[/h1]Knives combine medium standard damage with good crit chances but they inflict armor-piercing damage that ignores enemy armor. However, they require proximity with the enemy along with all the risks that entails. The Bleed special action inflicts additional damage.\n[p][img:codex_knife]"
+	},
+	{
+		"id": "WeaponTypeGrenade",
+		"text": "Grenades"
+	},
+	{
+		"id": "WeaponTypeGrenade_Content",
+		"text": "[h1]Grenades[/h1]Grenades inflict medium damage at medium distances. Low and high cover both provide complete protection from grenade shrapnel. Grenades can, however, bypass this protection if they are thrown behind the cover. Grenades cannot be targeted on cover tiles. They cause area damage, but no critical hits.\n[p][img:codex_grenade]"
+	},
+	{
+		"id": "TheNazis",
+		"text": "The Nazis"
+	},
+	{
+		"id": "TheNazis_Content",
+		"text": "[h1]The Valkyrium Question[/h1]The German Reich’s secret obsession is called Valkyrium.\nWhat is this strange substance? What powers does it grant to those who possess it?\nIt seems the Nazis have found answers to these questions - terrible answers...\n[p][img:codex_valkyrium]"
+	},
+	{
+		"id": "Infanterist",
+		"text": "Nazi Trooper"
+	},
+	{
+		"id": "Infanterist_Content",
+		"text": "[h1]Nazi Trooper[/h1]Armed with assault rifles, these jackbooted German troops are excellently equipped for battle in the desert. Nazi troopers are the backbone of the German expeditionary forces. Their discipline and resolve make them formidable opponents in any situation.\n[p][img:codex_nazitroopers]"
+	},
+	{
+		"id": "Dog",
+		"text": "Attack dog"
+	},
+	{
+		"id": "Dog_Content",
+		"text": "[h1]Attack dog[/h1]German attack dogs are fearsome beasts: Once they have latched on to their target, they will not let go until it is lying bleeding and defenseless in the desert sands. Unlike their masters, they have no concept of tactics and cover.\n[p][img:codex_dogs]"
+	},
+	{
+		"id": "Shotgunner",
+		"text": "Shock Trooper"
+	},
+	{
+		"id": "Shotgunner_Content",
+		"text": "[h1]Shock Trooper[/h1]Shock troopers are the most aggressive German troop contingent.  Mobile and well-armored, they advance relentlessly to engage the enemy with their shotguns. Shock troopers are fearless and deadly close-quarters fighters, especially against unarmored opponents.\n[p][img:codex_shocktroopers]"
+	},
+	{
+		"id": "Sniper",
+		"text": "Sniper"
+	},
+	{
+		"id": "Sniper_Content",
+		"text": "[h1]Sniper[/h1]Unfortunately, there is not much cover that can reliably protect you from the accuracy of German snipers. While they are not particularly tough or mobile, they dominate the battlefield thanks to the superior range of their precision rifles.\n[p][img:codex_snipers]"
+	},
+	{
+		"id": "Medic",
+		"text": "Medic"
+	},
+	{
+		"id": "Medic_Content",
+		"text": "[h1]Medic[/h1]The uniform insignia of the German field medics makes them easily recognizable from afar. Their main task is to care for their wounded comrades – but that does not mean they don’t know how to use their service pistols...\n[p][img:codex_medics]"
+	},
+	{
+		"id": "Officer",
+		"text": "Officer"
+	},
+	{
+		"id": "Officer_Content",
+		"text": "[h1]Officer[/h1]German officers lead their troops with merciless discipline – the slightest of transgressions is met with severe punishment. Nevertheless, German officers have excellent tactical training – a German army unit will fight noticeably more efficiently if commanded by an officer.\n[p][img:codex_officers]"
+	},
+	{
+		"id": "EliteDog",
+		"text": "Battle Hound"
+	},
+	{
+		"id": "EliteDog_Content",
+		"text": "[h1]Battle Hound[/h1]The Nazis must have done something unspeakable to these monstrous creatures! There is no training program in the world that could induce such implacable bloodlust. Not to mention their strangely lifeless eyes...\n[p][img:codex_elitedogs]"
+	},
+	{
+		"id": "Teslaborg",
+		"text": "Teslaborg"
+	},
+	{
+		"id": "Teslaborg_Content",
+		"text": "[h1]Teslaborg[/h1]The absolute elite of terror. Highly mobile and well-armored stormtroopers of the German expeditionary forces. The Teslaborg is a steel nightmare in combat due to its monstrous armor and devastating firepower.\n[p][img:codex_teslaborgs]"
+	},
+	{
+		"id": "TheBrotherhood",
+		"text": "The Brotherhood"
+	},
+	{
+		"id": "TheBrotherhood_Content",
+		"text": "[h1]The Menace in the Shadows[/h1]The true goals of the Brotherhood of Khonesh remain shrouded in darkness - but that darkness is filled with loathsome rumors...\nRumors that rob you of your sleep and gnaw at the edges of your soul!\n[p][img:codex_ring]"
+	},
+	{
+		"id": "Cultist",
+		"text": "Cultist"
+	},
+	{
+		"id": "Cultist_Content",
+		"text": "[h1]Cultist[/h1]The foot soldiers of the Brotherhood – fanatical, hate-filled and willing to fight to the death. Unlike their horrific undead allies, cultists fight tactically, use cover or flee when it makes sense. Cultists are master knife throwers and their blazing sulfur pots rain death and destruction over their enemies!\n[p][img:codex_cultists]"
+	},
+	{
+		"id": "Zombie",
+		"text": "Zombie"
+	},
+	{
+		"id": "Zombie_Content",
+		"text": "[h1]Zombie[/h1]What gives the Brotherhood its unholy power over the dead? One thing is certain: wherever they appear, the zombie hordes are not far behind. Tormented and mindless, they are driven by a constant hunger and hate for the living. Few things are as dangerous as an injured zombie...\n[p][img:codex_zombies]"
+	},
+	{
+		"id": "Infected",
+		"text": "Infected"
+	},
+	{
+		"id": "Infected_Content",
+		"text": "[h1]Infected[/h1]Death and destruction follow the Brotherhood wherever it goes. The infected clearly play an important role in their sinister plans. Bloated and decayed, they spread their sickness by spewing forth vile putrescence over their enemies.\n[p][img:codex_infecteds]"
+	},
+	{
+		"id": "Sporebearer",
+		"text": "Spore Bearer"
+	},
+	{
+		"id": "Sporebearer_Content",
+		"text": "[h1]Spore Bearer[/h1]With their unspeakable rituals, the Brotherhood have created a parasitic abomination that paralyzes its enemies in a cloud of poisonous spores. What affliction possesses these unfortunate souls? What final form will their metamorphosis reveal?\n[p][img:codex_sporebearers]"
+	},
+	{
+		"id": "HighPriestess",
+		"text": "High Priestess"
+	},
+	{
+		"id": "HighPriestess_Content",
+		"text": "[h1]High Priestess[/h1]Through years of study and ineffable practices, these abhorrent leaders of the Brotherhood have learned the darkest mysteries of the occult. They now command the secrets of life and death – they will not hesitate to unleash their unholy powers to achieve their goals...\n[p][img:codex_highpriestesses]"
+	},
+	{
+		"id": "TravelSummary",
+		"text": "Introduction"
+	},
+	{
+		"id": "TravelSummary_Content",
+		"text": "[h1]Objective[/h1]The goal of each adventure is to reach the destination point of the map. On the way there, the team travels from location to location.\n[p][img:codex_encounter]\n[p][h1]Events[/h1]Each location presents a new event. The event may be a simple flavor text without any gameplay consequences, or more significant occurrences, such as loot, traders, resting places and challenging battles.\n[p]Some events are short and to the point whilst others provide complex branching options. Character perks like Daredevil or Survivalist may open additional choices and event branches.\n[p][h1]Fuel Reserves[/h1]The journey will slowly drain fuel reserves. Once depleted, you may give up or continue with the expedition on foot at the cost of the team's health.\n[p][h1]Failure[/h1]The expedition fails as soon as the last of your characters dies either due to the harsh conditions of foot travel or at the hands of your enemies."
+	},
+	{
+		"id": "CombatSummary",
+		"text": "Introduction"
+	},
+	{
+		"id": "CombatSummary_Content",
+		"text": "[h1]Turn-based Combat[/h1]Combat in Pathway is turn-based: The player first enters a planning phase in which they may place their characters inside a marked  area (green). The player and the enemy then each take their turns sequentially. The battle is over when one of the teams has lost all their units.\n[p][img:codex_battleimpression]\n[p]During their turn, the player can move their characters in any order. When the player turn is over, the enemy proceeds to perform their actions.\n[p][h1]Actions[/h1]Each unit can execute a maximum of two actions per turn: Attacks and moves are limited to one per turn. Neutral actions, such as reloading or healing an allied character, can be done up to two times per turn.\n[p]Each character has several special actions. These require additional bravery points to use. Bravery is regenerated through various actions such as successful attacks and evades.\n[p][h1]Cover[/h1]Characters positioned directly (not diagonally) next to cover receive some protection from ranged weapons. Low and high cover reduce the enemy’s hit probability. Walls break line of sight and therefore also prevent ranged attacks.\n[p][h1]Heal, Repair, and Revive[/h1]If a character is equipped with medkits such a bandages, they may use them to heal nearby allies, if there are sufficient supplies. Additionally, medkits can be used to revive unconscious characters. Characters with repairkits such as needle and thread can repair armor.\n[p]When not in combat, medkits and repairkits can be used by anyone by clicking on the item in the team screen.\n[p]Some characters also have special actions that allow them to provide allies with provisional healing during combat."
+	},
+	{
+		"id": "CombatSummary_Content_Controller",
+		"text": "[h1]Turn-based Combat[/h1]Combat in Pathway is turn-based: The player first enters a planning phase in which they may place their characters inside a marked  area (green). The player and the enemy then each take their turns sequentially. The battle is over when one of the teams has lost all their units.\n[p][img:codex_battleimpression]\n[p]During their turn, the player can move their characters in any order. When the player turn is over, the enemy proceeds to perform their actions.\n[p][h1]Actions[/h1]Each unit can execute a maximum of two actions per turn: Attacks and moves are limited to one per turn. Neutral actions, such as reloading or healing an allied character, can be done up to two times per turn.\n[p]Each character has several special actions. These require additional bravery points to use. Bravery is regenerated through various actions such as successful attacks and evades.\n[p][h1]Cover[/h1]Characters positioned directly (not diagonally) next to cover receive some protection from ranged weapons. Low and high cover reduce the enemy’s hit probability. Walls break line of sight and therefore also prevent ranged attacks.\n[p][h1]Heal, Repair, and Revive[/h1]If a character is equipped with Medkits such as bandages, they may use them to heal nearby allies. Additionally, Medkits can be used to revive unconscious characters. Characters can use Repairkits, such as needle and thread, to repair armor.\n[p]When not in combat, you can use Medkits and Repairkits to heal Team members and repair armor. On the Team page of the Journal, press A to view an item's available actions, and select Use.\n[p]Some characters also have special actions that allow them to provide allies with provisional healing during combat."
+	},
+	{
+		"id": "GameOptions",
+		"text": "Game Options"
+	},
+	{
+		"id": "GameOptions_Content",
+		"text": "[h1]Game Settings[/h1]Under Options / Game, there are various settings that you can use to adjust the game to your individual preferences:\n[p]Show Codex Notifications: Activate if you want the game to display tutorial messages.\n[p]Confirm Move: Activate to confirm you own unit movements by double-clicking.\n[p]Confirm End Turn: Activate to avoid ending your own turn by accident.\n[p]Dog Friendly Mode: Activate to deactivate violence against dogs.\n[p]No Bloodshed: Activate to reduce the general level of violence portrayed.\n[p]Border-Scrolling: Activate to move the map view by moving the cursor to the edges of the screen."
+	},
+	{
+		"id": "GameOptions_Content_Controller",
+		"text": "[h1]Game Settings[/h1]Under Options / Game, there are various settings that you can use to adjust the game to your individual preferences:\n[p]Show Codex Notifications: Activate if you want the game to display tutorial messages.\n[p]Confirm Move: Activate to avoid moving a character to the wrong location by accident.\n[p]Confirm End Turn: Activate to avoid ending your own turn by accident."
+	},
+	{
+		"id": "BattleModes",
+		"text": "Combat Modes"
+	},
+	{
+		"id": "BattleModes_Content",
+		"text": "Combat differs in terms of the number of enemies: Therefore, always read the initial text before starting combat - if it mentions a LARGE group of enemies, then you need to be extra careful!\n[p]In Pathway, there are three different combat scenarios:\n[p][h1]Advantage[/h1]When the characters surprise an unsuspecting enemy, they can usually also choose to avoid the fight. If, however, they decide to attack, they can start an attack with a full, free turn.\n[p][h1]Tumult[/h1]A spontaneous meeting of two surprised parties is less clear cut: After placing your characters, your opponents move first - only then does the regular player turn begin.\n[p][h1]Blindsided[/h1]If the characters are ambushed, each character can only perform ONE SINGLE action. The opponent then starts the fight with a free turn.\n[p]In the first player turn, the characters are marked with a special icon indicating their handicap.\n[p][img:codex_ambushdebufficon]"
+	},
+	{
+		"id": "Credits",
+		"text": "[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[p][br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Writing & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"Midio\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"Leth\" Griffin[/h2]Marketing/PR Director\n[p][h2]Hassan DuRant[/h2]Additional Writing\n[p][br]\n[p][br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rolf Klischewski[/h2]Additional German Translation\n[p][h2]Akebono Translation Service[/h2]Chinese and Japanese Translation\n[p][h2]Karnie[/h2]Additional Chinese Translation\n[p][h2]satojomov[/h2]Additional Japanese Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[p][br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Alexis Trust[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][h2]Caoimhe Roddy[/h2]Publishing Producer\n[p][h2]Shona Feltham[/h2]Quality Assurance\n[p][br]\n[p][br]\n[p][h1]Universally Speaking[/h1][br]\n[p][h2]Chandler James[/h2]QA Lead\n[p][h2]Alix Saunders[/h2]QA Tester\n[p][h2]Michael Wilkinson[/h2]QA Tester\n[p][h2]Nathan Hill[/h2]CQA Tester\n[p][br]\n[p][br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"Matchet\" Gallardo Vargas\nAaron Aslett\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"Redacted\" Draconis\nKamil Sztuczka\nKarl Willers\nKarnie\nLaw_4x\nMatej \"Retro\" Jan\nPablo Barea\nPhilipp \"murks\" Überbacher\nsatojomov\nTobias Gut\n[p][br]\n[p][br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[p][br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[p][br]\n[p][h1]Thank you[/h1]Oliver Franzke\nSergei Klimov\nMario Zechner\nRolf Klischewski\nMatthias Kaestner\nLili Ibrahim\nChristian Verling\nTimo Krahl\nDaniel Kvarfordt\nDouble Fine\nThomas “Cyangmou” Feichtmeir\nAlex Vostrov\nSeriouslyClara\nDune\nAndrew Ferguson\nPawel Pastuszak\nIoannis Tsakpinis\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\nHans-Juergen & Elvira Zuelch\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[p][br]\n[p][br]\n[p][br]\n[p][br]\n[p][h2]Thank you for playing Pathway![/h2][br]\n[p][br]\n[p][br]"
+	}
+]
+}

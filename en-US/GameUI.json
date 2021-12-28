@@ -1,0 +1,4217 @@
+{
+"id": "GameUI",
+"rows": [
+	{
+		"id": "select.party.member",
+		"text": "Select: [0]"
+	},
+	{
+		"id": "cursor.interact",
+		"text": "Interact"
+	},
+	{
+		"id": "Combat_PlaceCharacter",
+		"text": "Position [entity:name] inside\ngreen area"
+	},
+	{
+		"id": "Combat_HitChance",
+		"text": "Hit chance: [0]%"
+	},
+	{
+		"id": "ExplorationStats_FuelTitle",
+		"text": "Fuel"
+	},
+	{
+		"id": "ExplorationStats_CashTitle",
+		"text": "Cash"
+	},
+	{
+		"id": "ExplorationStats_AmmoTitle",
+		"text": "Ammo"
+	},
+	{
+		"id": "ExplorationStats_SuppliesTitle",
+		"text": "Supplies"
+	},
+	{
+		"id": "ExplorationStats_Fuel",
+		"text": "x[0]"
+	},
+	{
+		"id": "ExplorationStats_Cash",
+		"text": "$[1]"
+	},
+	{
+		"id": "ExplorationStats_Ammo",
+		"text": "x[2]"
+	},
+	{
+		"id": "ExplorationStats_Supplies",
+		"text": "x[3]"
+	},
+	{
+		"id": "ExplorationStats_Day",
+		"text": "Day [0]"
+	},
+	{
+		"id": "ExplorationStats_Time",
+		"text": "Time: [1:2]:[2:2]"
+	},
+	{
+		"id": "EventDialog_Button_Continue",
+		"text": "Continue ..."
+	},
+	{
+		"id": "EventDialog_Button_Done",
+		"text": "Done ..."
+	},
+	{
+		"id": "EventDialog_Button_Ignore",
+		"text": "Ignore"
+	},
+	{
+		"id": "EventDialog_PerkTitle",
+		"text": "Perk"
+	},
+	{
+		"id": "EventDialog_TakeAll",
+		"text": "Take all items"
+	},
+	{
+		"id": "EventDialog_RevealAll",
+		"text": "Reveal all items"
+	},
+	{
+		"id": "EventDialog_SellValuables",
+		"text": "Sell Valuables"
+	},
+	{
+		"id": "CharacterPanel_Label_Stats",
+		"text": "Stats"
+	},
+	{
+		"id": "CharacterPanel_Label_Equipment",
+		"text": "Equipment"
+	},
+	{
+		"id": "CharacterPanel_Label_Perks",
+		"text": "Perks"
+	},
+	{
+		"id": "CharacterPanel_Label_WeaponSkills",
+		"text": "Weapons"
+	},
+	{
+		"id": "CharacterPanel_Label_MiscSkills",
+		"text": "Misc"
+	},
+	{
+		"id": "CharacterPanel_Label_ArmorSkills",
+		"text": "Armors"
+	},
+	{
+		"id": "CharacterPanel_Label_Skills",
+		"text": "Skills"
+	},
+	{
+		"id": "CharacterPanel_Label_ItemSkills",
+		"text": "Item Skills"
+	},
+	{
+		"id": "CharacterPanel_Label_SkillTree",
+		"text": "Skill Tree"
+	},
+	{
+		"id": "CharacterPanel_Label_TeamJournal",
+		"text": "Team"
+	},
+	{
+		"id": "CharacterPanel_Label_Codex",
+		"text": "Codex"
+	},
+	{
+		"id": "CharacterPanel_Label_Achievements",
+		"text": "Trophies"
+	},
+	{
+		"id": "CharacterPanel_Label_LevelUp",
+		"text": "Level Up"
+	},
+	{
+		"id": "CharacterPanel_Label_XP",
+		"text": "XP:"
+	},
+	{
+		"id": "CharacterPanel_Label_JournalNotAvailable",
+		"text": "Team Screen is not available here."
+	},
+	{
+		"id": "GlobalInventory_Label_Inventory",
+		"text": "Car Storage"
+	},
+	{
+		"id": "VaultInventory_Label_Inventory",
+		"text": "Your Vault"
+	},
+	{
+		"id": "LootInventory_Label_YourLoot",
+		"text": "Your Loot"
+	},
+	{
+		"id": "MerchantInventory_Label_Wares",
+		"text": "Merchant Wares"
+	},
+	{
+		"id": "CharacterLevelUpPanel_Label_Pick",
+		"text": "Pick a Perk"
+	},
+	{
+		"id": "Notebook_Label_Resources",
+		"text": "Resources"
+	},
+	{
+		"id": "Notebook_Label_Progress",
+		"text": "Progress"
+	},
+	{
+		"id": "Notebook_Fuel_Tooltip",
+		"text": "Travel from one location to another costs one unit of fuel. Fuel can be found during events or at merchants in exchange for money.\n\nMax Fuel Capacity: [0]"
+	},
+	{
+		"id": "Notebook_Cash_Tooltip",
+		"text": "The expedition needs money to replenish its stocks of fuel and equipment, as well as to hire new recruits.\n\nMax Cash Capacity: $[0]"
+	},
+	{
+		"id": "Notebook_Ammo_Tooltip",
+		"text": "All weapons with the exception of Knives and Disintegrators require Ammo to reload.\n\nMax Ammo Capacity: [0]"
+	},
+	{
+		"id": "Notebook_Supplies_Tooltip",
+		"text": "Supplies are consumed through the use of medkits and repairkits, as well as by throwing grenades.\n\nMax Supplies Capacity: [0]"
+	},
+	{
+		"id": "Notebook_Sector",
+		"text": "Sector [0]/[1]"
+	},
+	{
+		"id": "CharacterRecruit_Button_NotEnoughMoney",
+		"text": "Not enough money"
+	},
+	{
+		"id": "CharacterRecruit_Button_AddToTeam",
+		"text": "Add to team"
+	},
+	{
+		"id": "CharacterRecruit_Button_Recruit",
+		"text": "Recruit ($[0])"
+	},
+	{
+		"id": "CharacterDismiss_Question",
+		"text": "Are you sure you would like to dismiss [entity:name]?"
+	},
+	{
+		"id": "CharacterDismiss_Ok",
+		"text": "Dismiss"
+	},
+	{
+		"id": "CharacterDismiss_Cancel",
+		"text": "Cancel"
+	},
+	{
+		"id": "CharacterDismiss_Title",
+		"text": "Team Full"
+	},
+	{
+		"id": "CharacterDismiss_Message",
+		"text": "Select team member to dismiss:"
+	},
+	{
+		"id": "CharacterDismiss_PartyTitle",
+		"text": "Party"
+	},
+	{
+		"id": "CharacterStats_Name",
+		"text": "Name: [entity:name]"
+	},
+	{
+		"id": "CharacterStats_XP",
+		"text": "XP: [entity:EXP]"
+	},
+	{
+		"id": "CharacterStats_Level",
+		"text": "Level: [entity:level]"
+	},
+	{
+		"id": "CharacterStats_HP",
+		"text": "Health: [entity:CHEA]/[entity:HEA]"
+	},
+	{
+		"id": "CharacterStats_AR",
+		"text": "Armor: [entity:CARM]/[entity:ARM]"
+	},
+	{
+		"id": "CharacterStats_BR",
+		"text": "Bravery: [entity:CBRA]/[entity:BRA]"
+	},
+	{
+		"id": "CharacterStats_Aim",
+		"text": "Dexterity"
+	},
+	{
+		"id": "CharacterStats_Agility",
+		"text": "Agility: [entity:AGI:N]"
+	},
+	{
+		"id": "CharacterStats_Intelligence",
+		"text": "Intelligence: [entity:INT:N]"
+	},
+	{
+		"id": "CharacterStats_Endurance",
+		"text": "Endurance: [entity:END:N]"
+	},
+	{
+		"id": "CharacterStats_Reflex",
+		"text": "Reflexes: [entity:EVA:N]"
+	},
+	{
+		"id": "CharacterStats_Vitality",
+		"text": "Vitality: [entity:HEA:N]"
+	},
+	{
+		"id": "CharacterStats_Will",
+		"text": "Willpower: [entity:BRA:N]"
+	},
+	{
+		"id": "CharacterStatsShort_Agility",
+		"text": "AGI"
+	},
+	{
+		"id": "CharacterStatsShort_Intelligence",
+		"text": "INT"
+	},
+	{
+		"id": "CharacterStatsShort_Dexterity",
+		"text": "DEX"
+	},
+	{
+		"id": "CharacterStatsShort_Willpower",
+		"text": "WIL"
+	},
+	{
+		"id": "CharacterStatsShort_Reflex",
+		"text": "RFX"
+	},
+	{
+		"id": "CharacterStatsShort_Endurance",
+		"text": "END"
+	},
+	{
+		"id": "CharacterStatsShort_Vitality",
+		"text": "VIT"
+	},
+	{
+		"id": "CharacterStats_CHEA",
+		"text": "Current Health"
+	},
+	{
+		"id": "CharacterStats_CARM",
+		"text": "Current Armor"
+	},
+	{
+		"id": "CharacterStats_CBRA",
+		"text": "Current Bravery"
+	},
+	{
+		"id": "CharacterStats_HEA",
+		"text": "Vitality"
+	},
+	{
+		"id": "CharacterStats_BRA",
+		"text": "Willpower"
+	},
+	{
+		"id": "CharacterStats_AGI",
+		"text": "Agility"
+	},
+	{
+		"id": "CharacterStats_AIM",
+		"text": "Dexterity"
+	},
+	{
+		"id": "CharacterStats_EVA",
+		"text": "Reflexes"
+	},
+	{
+		"id": "CharacterStats_INT",
+		"text": "Intelligence"
+	},
+	{
+		"id": "CharacterStats_END",
+		"text": "Endurance"
+	},
+	{
+		"id": "CharacterLevelUp_Title",
+		"text": "Skill Selection"
+	},
+	{
+		"id": "CharacterLevelUp_ConfirmSkill",
+		"text": "Confirm skill choice"
+	},
+	{
+		"id": "CharacterLevelUp_CancelWindow",
+		"text": "Close"
+	},
+	{
+		"id": "CharacterXPGain_Title",
+		"text": "Experience Reward"
+	},
+	{
+		"id": "Equipment_Label_Weapon",
+		"text": "Weapon"
+	},
+	{
+		"id": "Equipment_Label_Item",
+		"text": "Item"
+	},
+	{
+		"id": "Equipment_Label_Armor",
+		"text": "Armor"
+	},
+	{
+		"id": "PerksPane_Label_Name",
+		"text": "[perk:name]"
+	},
+	{
+		"id": "PerksPane_TemporaryPerk",
+		"text": "This is a temporary perk that only lasts until the end of the adventure."
+	},
+	{
+		"id": "EndOfTurn_Confirm_Question",
+		"text": "Some of your characters are still able to perform an action. Are you sure you'd like to finish this turn?"
+	},
+	{
+		"id": "EndOfTurn_Confirm",
+		"text": "Confirm"
+	},
+	{
+		"id": "EndOfTurn_Cancel",
+		"text": "Cancel"
+	},
+	{
+		"id": "PickupLoot_Confirm_Question",
+		"text": "If you continue this loot will be irretrievable. Are you sure?"
+	},
+	{
+		"id": "SellValuables_Confirm_Question",
+		"text": "You have unsold valuables in your car storage. Are you sure you'd like to continue without selling them?"
+	},
+	{
+		"id": "SellValuables_Tooltip",
+		"text": "Right click to sell valuables."
+	},
+	{
+		"id": "AmbushCancel_Question",
+		"text": "Moving will cancel the currently active Ambush. Are you sure?"
+	},
+	{
+		"id": "WarningShotCancel_Question",
+		"text": "Moving will cancel the currently active Warning Shots. Are you sure?"
+	},
+	{
+		"id": "Tooltip_Weapon_Damage",
+		"text": "DMG:"
+	},
+	{
+		"id": "Tooltip_Weapon_BaseDamage",
+		"text": "BASE DMG:"
+	},
+	{
+		"id": "Tooltip_Weapon_DamageCompleteAmount",
+		"text": "DMG: [0]-[1]"
+	},
+	{
+		"id": "Tooltip_Weapon_Shredding",
+		"text": "Armor Shredding:"
+	},
+	{
+		"id": "Tooltip_Weapon_DamageTypeName",
+		"text": "[item:damageType]:"
+	},
+	{
+		"id": "Tooltip_Weapon_DamageTypeArmorPiercing",
+		"text": "Ignores Armor"
+	},
+	{
+		"id": "Tooltip_Entity_ArmorSplinter",
+		"text": "Armor (Splinter x2):"
+	},
+	{
+		"id": "Tooltip_Weapon_PercentagePositive",
+		"text": " +[0]%"
+	},
+	{
+		"id": "Tooltip_Weapon_Percentage",
+		"text": "[0]%"
+	},
+	{
+		"id": "Tooltip_Weapon_EntityTypeBoostName",
+		"text": "vs. [entity:entityType]:"
+	},
+	{
+		"id": "Tooltip_Weapon_DamageBoostName",
+		"text": "vs. All:"
+	},
+	{
+		"id": "Tooltip_Attack_MoreDetails",
+		"text": "Tab for details"
+	},
+	{
+		"id": "Tooltip_Attack_MoreDetails_Controller",
+		"text": "for details"
+	},
+	{
+		"id": "Tooltip_Weapon_Accuracy",
+		"text": "Accuracy:"
+	},
+	{
+		"id": "Tooltip_Weapon_CoverEffectiveness",
+		"text": "Cover Effectiveness:"
+	},
+	{
+		"id": "Tooltip_Weapon_Range",
+		"text": "Range:"
+	},
+	{
+		"id": "Tooltip_Weapon_Mag",
+		"text": "Mag Size:"
+	},
+	{
+		"id": "Tooltip_Weapon_Crit",
+		"text": "Crit Chance:"
+	},
+	{
+		"id": "Tooltip_Weapon_CritDamage",
+		"text": "Crit Damage:"
+	},
+	{
+		"id": "Tooltip_Weapon_WeaponTypeLabel",
+		"text": "Item Type:"
+	},
+	{
+		"id": "Tooltip_Weapon_WeaponType",
+		"text": "[item:WeaponType]"
+	},
+	{
+		"id": "Tooltip_Weapon_AmbushAngle",
+		"text": "Ambush Reach:"
+	},
+	{
+		"id": "Tooltip_Weapon_BlastAngle",
+		"text": "Blast Reach:"
+	},
+	{
+		"id": "Tooltip_Weapon_BurstSpread",
+		"text": "Burst Spread:"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDuration",
+		"text": "Bleed Duration:"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDamage",
+		"text": "Bleed Damage:"
+	},
+	{
+		"id": "Tooltip_Weapon_DamageAmount",
+		"text": "[item:MinDamage]-[item:MaxDamage]"
+	},
+	{
+		"id": "Tooltip_Weapon_ShreddingAmount",
+		"text": "[item:Shredding]"
+	},
+	{
+		"id": "Tooltip_Weapon_AccuracyAmount",
+		"text": "[item:AimModifier]%"
+	},
+	{
+		"id": "Tooltip_Weapon_CoverEffectivenessAmount",
+		"text": "[item:AimModifier]%"
+	},
+	{
+		"id": "Tooltip_Weapon_RangeAmount",
+		"text": "[item:Range] tiles"
+	},
+	{
+		"id": "Tooltip_Weapon_MagAmount",
+		"text": "[item:CurrentMag]/[item:MagSize]"
+	},
+	{
+		"id": "Tooltip_Weapon_CritAmount",
+		"text": "[item:CritChance]%"
+	},
+	{
+		"id": "Tooltip_Weapon_CritDamageAmount",
+		"text": "[item:MaxCritDamage]"
+	},
+	{
+		"id": "Tooltip_Weapon_AmbushAngleAmount",
+		"text": "[item:AmbushAngle]"
+	},
+	{
+		"id": "Tooltip_Weapon_BlastAngleAmount",
+		"text": "[item:BlastAngle]"
+	},
+	{
+		"id": "Tooltip_Weapon_BurstSpreadAmount",
+		"text": "[item:BurstSpread]"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDurationAmount",
+		"text": "[item:BleedDuration] turn(s)"
+	},
+	{
+		"id": "Tooltip_Weapon_BleedDamageAmount",
+		"text": "[item:BleedPercentage]% of DMG"
+	},
+	{
+		"id": "Tooltip_Grenade_Damage",
+		"text": "DMG:"
+	},
+	{
+		"id": "Tooltip_Grenade_DamageArea",
+		"text": "Area of DMG:"
+	},
+	{
+		"id": "Tooltip_Grenade_ThrowRange",
+		"text": "Throw Range:"
+	},
+	{
+		"id": "Tooltip_Grenade_DamageAmount",
+		"text": "[item:MinDamage]-[item:MaxDamage]"
+	},
+	{
+		"id": "Tooltip_Grenade_DamageAreaAmount",
+		"text": "[item:DamageRadius] tiles"
+	},
+	{
+		"id": "Tooltip_Grenade_ThrowRangeAmount",
+		"text": "[item:ThrowDistance] tiles"
+	},
+	{
+		"id": "Tooltip_Repairkit_RepairAmount",
+		"text": "Repair:"
+	},
+	{
+		"id": "Tooltip_Repairkit_RepairValue",
+		"text": "[item:RepairAmount]"
+	},
+	{
+		"id": "Tooltip_Medkit_HealAmount",
+		"text": "Heal:"
+	},
+	{
+		"id": "Tooltip_Medkit_HealValue",
+		"text": "[item:healthAmount]"
+	},
+	{
+		"id": "Tooltip_Armor_Amount",
+		"text": "Armor:"
+	},
+	{
+		"id": "Tooltip_Armor_Type",
+		"text": "Armor Type: [item:armorType]"
+	},
+	{
+		"id": "Tooltip_Armor_AmountValue",
+		"text": "[item:currentArmorAmount]/[item:armorAmount]"
+	},
+	{
+		"id": "Tooltip_Armor_TypeLabel",
+		"text": "Armor Type:"
+	},
+	{
+		"id": "Tooltip_Armor_TypeValue",
+		"text": "[item:armorType]"
+	},
+	{
+		"id": "Tooltip_Item_Name",
+		"text": "[item:name]"
+	},
+	{
+		"id": "Tooltip_Item_ShortName",
+		"text": "[item:shortName]"
+	},
+	{
+		"id": "Tooltip_Item_Value",
+		"text": "Value:"
+	},
+	{
+		"id": "Tooltip_Item_Fame",
+		"text": "Fame:"
+	},
+	{
+		"id": "Tooltip_Item_Rarity",
+		"text": "Rarity:"
+	},
+	{
+		"id": "Tooltip_Item_Level",
+		"text": "Item Level:"
+	},
+	{
+		"id": "Tooltip_Item_Stacksize",
+		"text": "Max Stack Size:"
+	},
+	{
+		"id": "Tooltip_Item_Uses",
+		"text": "Combat Uses:"
+	},
+	{
+		"id": "Tooltip_Item_ValueAmount",
+		"text": "$[item:value]"
+	},
+	{
+		"id": "Tooltip_Item_FameAmount",
+		"text": "[item:fame]"
+	},
+	{
+		"id": "Tooltip_Item_RarityAmount",
+		"text": "[item:rarity]"
+	},
+	{
+		"id": "Tooltip_Item_LevelAmount",
+		"text": "[item:level]"
+	},
+	{
+		"id": "Tooltip_Item_StacksizeAmount",
+		"text": "[item:stackCapacity]"
+	},
+	{
+		"id": "Tooltip_Item_UsesAmount",
+		"text": "x[item:uses]"
+	},
+	{
+		"id": "Tooltip_Entity_Health",
+		"text": "Health:"
+	},
+	{
+		"id": "Tooltip_Entity_Armor",
+		"text": "Armor:"
+	},
+	{
+		"id": "Tooltip_Entity_HealthAmount",
+		"text": "[entity:CHEA]/[entity:HEA]"
+	},
+	{
+		"id": "Tooltip_Entity_ArmorAmount",
+		"text": "[entity:CARM]/[entity:ARM]"
+	},
+	{
+		"id": "Tooltip_Item_SkillRequirement",
+		"text": "Skill Req"
+	},
+	{
+		"id": "Tooltip_Skill_SkillType",
+		"text": "Skill Type:"
+	},
+	{
+		"id": "Tooltip_Skill_SkillCategory",
+		"text": "Skill Category:"
+	},
+	{
+		"id": "Tooltip_Skill_SkillTraits",
+		"text": "Skill Traits:"
+	},
+	{
+		"id": "Tooltip_SkillCategory_Weapon",
+		"text": "Weapon"
+	},
+	{
+		"id": "Tooltip_SkillCategory_Grenade",
+		"text": "Item"
+	},
+	{
+		"id": "Tooltip_SkillCategory_Armor",
+		"text": "Armor"
+	},
+	{
+		"id": "Tooltip_SkillCategory_Medkit",
+		"text": "Item"
+	},
+	{
+		"id": "Tooltip_SkillCategory_Repairkit",
+		"text": "Item"
+	},
+	{
+		"id": "Tooltip_ActionTab",
+		"text": "Show Character Actions"
+	},
+	{
+		"id": "Tooltip_EnemyTab",
+		"text": "Show Enemy Info"
+	},
+	{
+		"id": "Tooltip_EquippedLabel",
+		"text": "Equipped"
+	},
+	{
+		"id": "Rarity_Common",
+		"text": "Common"
+	},
+	{
+		"id": "Rarity_Rare",
+		"text": "Rare"
+	},
+	{
+		"id": "Rarity_Epic",
+		"text": "Epic"
+	},
+	{
+		"id": "Rarity_Legendary",
+		"text": "Legendary"
+	},
+	{
+		"id": "Rarity_Unique",
+		"text": "Unique"
+	},
+	{
+		"id": "DamageType_Standard",
+		"text": "Standard"
+	},
+	{
+		"id": "DamageType_Splinter",
+		"text": "Splinter"
+	},
+	{
+		"id": "DamageType_ArmorPiercing",
+		"text": "Armor-Piercing"
+	},
+	{
+		"id": "DamageType_Corrosion",
+		"text": "Corrosion"
+	},
+	{
+		"id": "ArmorType_Light",
+		"text": "Light Armor"
+	},
+	{
+		"id": "ArmorType_Medium",
+		"text": "Medium Armor"
+	},
+	{
+		"id": "ArmorType_Heavy",
+		"text": "Heavy Armor"
+	},
+	{
+		"id": "ArmorType_Light_Plural",
+		"text": "Light Armors"
+	},
+	{
+		"id": "ArmorType_Medium_Plural",
+		"text": "Medium Armors"
+	},
+	{
+		"id": "ArmorType_Heavy_Plural",
+		"text": "Heavy Armors"
+	},
+	{
+		"id": "ItemType_Grenade",
+		"text": "Grenade"
+	},
+	{
+		"id": "ItemType_Medkit",
+		"text": "Medkit"
+	},
+	{
+		"id": "ItemType_Repairkit",
+		"text": "Repairkit"
+	},
+	{
+		"id": "ItemType_Grenade_Plural",
+		"text": "Grenades"
+	},
+	{
+		"id": "ItemType_Medkit_Plural",
+		"text": "Medkits"
+	},
+	{
+		"id": "ItemType_Repairkit_Plural",
+		"text": "Repairkits"
+	},
+	{
+		"id": "ItemType_Offhand",
+		"text": "Off-hand Item"
+	},
+	{
+		"id": "WeaponType_SniperRifle",
+		"text": "Sniper Rifle"
+	},
+	{
+		"id": "WeaponType_Pistol",
+		"text": "Pistol"
+	},
+	{
+		"id": "WeaponType_CloseCombat",
+		"text": "Knife"
+	},
+	{
+		"id": "WeaponType_AssaultRifle",
+		"text": "Assault Rifle"
+	},
+	{
+		"id": "WeaponType_Shotgun",
+		"text": "Shotgun"
+	},
+	{
+		"id": "WeaponType_Disintegrator",
+		"text": "Disintegrator"
+	},
+	{
+		"id": "WeaponType_SniperRifle_Plural",
+		"text": "Sniper Rifles"
+	},
+	{
+		"id": "WeaponType_Pistol_Plural",
+		"text": "Pistols"
+	},
+	{
+		"id": "WeaponType_CloseCombat_Plural",
+		"text": "Knives"
+	},
+	{
+		"id": "WeaponType_AssaultRifle_Plural",
+		"text": "Assault Rifles"
+	},
+	{
+		"id": "WeaponType_Shotgun_Plural",
+		"text": "Shotguns"
+	},
+	{
+		"id": "WeaponType_Disintegrator_Plural",
+		"text": "Disintegrators"
+	},
+	{
+		"id": "AmbushAngle_Low",
+		"text": "Low"
+	},
+	{
+		"id": "AmbushAngle_Medium",
+		"text": "Medium"
+	},
+	{
+		"id": "AmbushAngle_High",
+		"text": "High"
+	},
+	{
+		"id": "BlastAngle_Low",
+		"text": "Low"
+	},
+	{
+		"id": "BlastAngle_Medium",
+		"text": "Medium"
+	},
+	{
+		"id": "BlastAngle_High",
+		"text": "High"
+	},
+	{
+		"id": "BurstSpread_Low",
+		"text": "Low"
+	},
+	{
+		"id": "BurstSpread_Medium",
+		"text": "Medium"
+	},
+	{
+		"id": "BurstSpread_High",
+		"text": "High"
+	},
+	{
+		"id": "PerkType_Knowledge",
+		"text": "New Item Skill"
+	},
+	{
+		"id": "PerkType_Event",
+		"text": "Event"
+	},
+	{
+		"id": "PerkType_Vendetta",
+		"text": "Vendetta"
+	},
+	{
+		"id": "PerkType_Specialisation",
+		"text": "Skill Specialisation"
+	},
+	{
+		"id": "PerkType_Experience",
+		"text": "Stat Bonus"
+	},
+	{
+		"id": "PerkType_Exploration",
+		"text": "Exploration"
+	},
+	{
+		"id": "PerkType_Skill",
+		"text": "Special Ability"
+	},
+	{
+		"id": "PerkEffect_Attribute_Dummy",
+		"text": "This perk has an effect"
+	},
+	{
+		"id": "PerkEffect_Attribute_ArmorSkill",
+		"text": "Can equip [perk:attributeTypePlural]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Event",
+		"text": "May use [perk:attributeType] Event Options"
+	},
+	{
+		"id": "PerkEffect_Attribute_Grenade",
+		"text": "Grenades [perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Medkit",
+		"text": "Medkits [perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_ItemSkill",
+		"text": "May use [perk:attributeTypePlural]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Map",
+		"text": "[perk:attributeType]"
+	},
+	{
+		"id": "PerkEffect_Attribute_PlayerAttribute",
+		"text": "[perk:attributeAmount] starter [perk:attributeType]"
+	},
+	{
+		"id": "PerkEffect_Attribute_RepairKit",
+		"text": "Repairkits [perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Stats",
+		"text": "[perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Weapon",
+		"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_WeaponSkill",
+		"text": "Can equip [perk:attributeTypePlural]"
+	},
+	{
+		"id": "PerkEffect_Attribute_Armor",
+		"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
+	},
+	{
+		"id": "PerkEffect_Attribute_EntityTypeDamage",
+		"text": "[perk:attributeAmount]% damage vs. [perk:attributeType]"
+	},
+	{
+		"id": "PerkEffect_DamageAdjustment",
+		"text": "[perk:attributeAmount]% damage"
+	},
+	{
+		"id": "PerkEffect_DamageReceivedAdjustment",
+		"text": "[perk:attributeAmount]% received damage"
+	},
+	{
+		"id": "PerkEffect_RndWeaponAttributeAdjustment",
+		"text": "[perk:attributeType] [perk:attributeAmount]% "
+	},
+	{
+		"id": "PerkEffect_RndArmorAttributeAdjustment",
+		"text": "[perk:attributeType] [perk:attributeAmount]%"
+	},
+	{
+		"id": "PerkEffect_AdjustDamageType",
+		"text": "[perk:attributeType] damage"
+	},
+	{
+		"id": "WeaponSkillAdjustment_Pistol",
+		"text": "Pistol Skill"
+	},
+	{
+		"id": "WeaponSkillAdjustment_AssaultRifle",
+		"text": "Assault Rifle Skill"
+	},
+	{
+		"id": "WeaponSkillAdjustment_SniperRifle",
+		"text": "Sniper Rifle Skill"
+	},
+	{
+		"id": "WeaponSkillAdjustment_Shotgun",
+		"text": "Shotgun Skill"
+	},
+	{
+		"id": "WeaponSkillAdjustment_CloseCombat",
+		"text": "Knife Skill"
+	},
+	{
+		"id": "WeaponSkillAdjustment_Disintegrator",
+		"text": "Disintegrator Skill"
+	},
+	{
+		"id": "ItemSkillAdjustment_Grenade",
+		"text": "Grenade Skill"
+	},
+	{
+		"id": "ItemSkillAdjustment_Medkit",
+		"text": "Medkit Skill"
+	},
+	{
+		"id": "ItemSkillAdjustment_Repairkit",
+		"text": "Repairkit Skill"
+	},
+	{
+		"id": "ArmorSkillAdjustment_Light",
+		"text": "Light Armor Skill"
+	},
+	{
+		"id": "ArmorSkillAdjustment_Medium",
+		"text": "Medium Armor Skill"
+	},
+	{
+		"id": "ArmorSkillAdjustment_Heavy",
+		"text": "Heavy Armor Skill"
+	},
+	{
+		"id": "WeaponSkillDescription_Pistol",
+		"text": "Can equip Pistols. Pistols have the special ability Double Shot, which allows firing two rapid shots in one turn on two different enemies."
+	},
+	{
+		"id": "WeaponSkillDescription_AssaultRifle",
+		"text": "Can equip Assault Rifles. Assault Rifles have the special ability Burst Fire, which allows targeting multiple adjacent tiles."
+	},
+	{
+		"id": "WeaponSkillDescription_SniperRifle",
+		"text": "Can equip Sniper Rifles. Sniper Rifles have the special ability Ambush, which fires at any enemy moving or attacking inside the ambush area during the next turn."
+	},
+	{
+		"id": "WeaponSkillDescription_Shotgun",
+		"text": "Can equip Shotguns. Shotguns have the special ability Blast, which damages all enemies within a cone."
+	},
+	{
+		"id": "WeaponSkillDescription_CloseCombat",
+		"text": "Can equip Knives. Knives have the special ability Bleed, causing the target to take additional damage in the subsequent turn."
+	},
+	{
+		"id": "WeaponSkillDescription_Disintegrator",
+		"text": "Can equip Disintegrators. Disintegrators have the special ability Meltdown, which damages everyone in a straight line until stopped by a wall. Disintegrators have internal accumulators and therefore do not need regular ammunition."
+	},
+	{
+		"id": "ArmorSkillDescription_Light",
+		"text": "Can equip Light Armors. Light Armors enable the special ability Sprint. Sprinting allows to cover a much larger distance than a normal move."
+	},
+	{
+		"id": "ArmorSkillDescription_Medium",
+		"text": "Can equip Medium Armors. Medium Armors enable the special ability Low Profile. When Low Profile is activated, the character receives a guaranteed evade on the next attack in the current turn or during the next enemy turn."
+	},
+	{
+		"id": "ArmorSkillDescription_Heavy",
+		"text": "Can equip Heavy Armors. Heavy Armors enable the special ability Hunker Down. When active, all damage taken in the current turn and during the next enemy turn is reduced by 75%."
+	},
+	{
+		"id": "ItemSkillDescription_Grenade",
+		"text": "May use Grenades. Grenades can be thrown at a distance and cause area damage.\n\nThrowing grenades reduces supplies by one."
+	},
+	{
+		"id": "ItemSkillDescription_Medkit",
+		"text": "May use Medkits in combat. Medkits can be used to heal and revive people when they are knocked out.\n\nEach use of a Medkit reduces supplies by one."
+	},
+	{
+		"id": "ItemSkillDescription_Repairkit",
+		"text": "May use Repairkits in combat. Repairkits can be used to restore armor.\n\nEach use of a Repairkit reduces supplies by one."
+	},
+	{
+		"id": "EventTooltip_UnvisitedLocationTitle",
+		"text": "Unvisited location"
+	},
+	{
+		"id": "EventTooltip_CurrentLocation",
+		"text": "This is your current location."
+	},
+	{
+		"id": "EventTooltip_UnvisitedLocation",
+		"text": "You have not yet visited this location."
+	},
+	{
+		"id": "EventTooltip_VisitedLocation",
+		"text": "You have visited this location."
+	},
+	{
+		"id": "EventTooltip_TraderLocation",
+		"text": "There is a trader at this location."
+	},
+	{
+		"id": "EventTooltip_RecruiterLocation",
+		"text": "You may recruit a new team member at this location."
+	},
+	{
+		"id": "EventTooltip_RestingPlaceLocation",
+		"text": "This location allows resting."
+	},
+	{
+		"id": "EventTooltip_POILocation",
+		"text": "There appears to be something interesting at this location."
+	},
+	{
+		"id": "EventTooltip_EndPointLocation",
+		"text": "Travel here to finish this adventure."
+	},
+	{
+		"id": "EventTooltip_CanBeRevisited",
+		"text": "This location can be revisited multiple times."
+	},
+	{
+		"id": "Action_Attack",
+		"text": "Ranged Attack"
+	},
+	{
+		"id": "Action_Melee",
+		"text": "Knife Attack"
+	},
+	{
+		"id": "Action_Bleed",
+		"text": "Bleed"
+	},
+	{
+		"id": "Action_Reload",
+		"text": "Reload"
+	},
+	{
+		"id": "Action_Walk",
+		"text": "Walk"
+	},
+	{
+		"id": "Action_Sprint",
+		"text": "Sprint"
+	},
+	{
+		"id": "Action_LowProfile",
+		"text": "Low Profile"
+	},
+	{
+		"id": "Action_HunkerDown",
+		"text": "Hunker Down"
+	},
+	{
+		"id": "Action_Burst",
+		"text": "Burst Fire"
+	},
+	{
+		"id": "Action_Blast",
+		"text": "Shotgun Blast"
+	},
+	{
+		"id": "Action_EnergyLance",
+		"text": "Meltdown"
+	},
+	{
+		"id": "Action_Ambush",
+		"text": "Ambush"
+	},
+	{
+		"id": "Action_DoubleShot",
+		"text": "Double Shot"
+	},
+	{
+		"id": "Action_Medkit",
+		"text": "Use Medkit"
+	},
+	{
+		"id": "Action_Repairkit",
+		"text": "Use Repairkit"
+	},
+	{
+		"id": "Action_Grenade",
+		"text": "Throw Grenade"
+	},
+	{
+		"id": "Action_Punch",
+		"text": "Punch"
+	},
+	{
+		"id": "Action_Meditate",
+		"text": "Concentrate"
+	},
+	{
+		"id": "Action_HealingShot",
+		"text": "Healing Shot"
+	},
+	{
+		"id": "Action_MoraleBoost",
+		"text": "Morale Boost"
+	},
+	{
+		"id": "Action_ShreddingShot",
+		"text": "Shredding Shot"
+	},
+	{
+		"id": "Action_CripplingShot",
+		"text": "Crippling Shot"
+	},
+	{
+		"id": "Action_Revive",
+		"text": "Resuscitate"
+	},
+	{
+		"id": "Action_ReactionShot",
+		"text": "Reaction Shot"
+	},
+	{
+		"id": "Action_Parry",
+		"text": "Sudden Strike"
+	},
+	{
+		"id": "Action_Dash",
+		"text": "Dash"
+	},
+	{
+		"id": "Action_Strike",
+		"text": "Cleave"
+	},
+	{
+		"id": "Action_Headshot",
+		"text": "Headshot"
+	},
+	{
+		"id": "Action_QuantumLeech",
+		"text": "Quantum Leech"
+	},
+	{
+		"id": "Action_FirstAid",
+		"text": "First Aid"
+	},
+	{
+		"id": "Action_WarningShot",
+		"text": "Warning Shots"
+	},
+	{
+		"id": "Action_Vanish",
+		"text": "Vanish"
+	},
+	{
+		"id": "Action_PsychicControl",
+		"text": "Psychic Control"
+	},
+	{
+		"id": "Action_SuckerPunch",
+		"text": "Sucker Punch"
+	},
+	{
+		"id": "Action_Bait",
+		"text": "Bait"
+	},
+	{
+		"id": "ActionDescription_Attack",
+		"text": "Attack a single target within the weapon's range."
+	},
+	{
+		"id": "ActionDescription_Melee",
+		"text": "Knife attack a target on a neighbouring tile. "
+	},
+	{
+		"id": "ActionDescription_Bleed",
+		"text": "Bleed causes melee damage and additional damage the following turn."
+	},
+	{
+		"id": "ActionDescription_Reload",
+		"text": "Reload your weapon's magazine.\n\nAmmo Available: [0]"
+	},
+	{
+		"id": "ActionDescription_Walk",
+		"text": "Move within the character's walk range. The range is determined by the character's agility."
+	},
+	{
+		"id": "ActionDescription_Sprint",
+		"text": "Sprint allows you to move with an additional range bonus and does not trigger Ambushes."
+	},
+	{
+		"id": "ActionDescription_LowProfile",
+		"text": "When in Low Profile, this character will receive a guaranteed evade on the next attack."
+	},
+	{
+		"id": "ActionDescription_HunkerDown",
+		"text": "When hunkered down, you take 75% less damage in the current turn and during the next enemy turn."
+	},
+	{
+		"id": "ActionDescription_Burst",
+		"text": "Burst Fire allows you to target enemies within a straight connected line. It uses 1 ammo for every target inside the target area.\nMousewheel to rotate orientation."
+	},
+	{
+		"id": "ActionDescription_Burst_Controller",
+		"text": "Burst Fire allows you to target enemies within a straight connected line. It consumes 1 x Ammo for every target inside the target area. \nUse the left and right directional buttons to rotate the line of fire."
+	},
+	{
+		"id": "ActionDescription_Blast",
+		"text": "A powerful blast damaging targets in a conical shape in front of you. It uses 2 ammo. Blast damage is reduced by 20%."
+	},
+	{
+		"id": "ActionDescription_EnergyLance",
+		"text": "A meltdown damages all units in a straight line until it hits an obstacle. Each successive unit shot reduces the remaining damage by 40%. "
+	},
+	{
+		"id": "ActionDescription_Ambush",
+		"text": "Ambush lets you place a conical area to observe. The first enemy trying to move or attack in this area will be interrupted and trigger a counter attack from your character. \n\nIf your character takes damage, their ambush status will be cancelled."
+	},
+	{
+		"id": "ActionDescription_DoubleShot",
+		"text": "Attacks two different targets in rapid succession. A Double Shot uses 2 ammo."
+	},
+	{
+		"id": "ActionDescription_Medkit",
+		"text": "Use Medkit on target to heal or revive people when they are knocked out.\n\nEach use of a Medkit reduces supplies by one.\n\nSupplies Available: [0]"
+	},
+	{
+		"id": "ActionDescription_Repairkit",
+		"text": "Use Repairkit on target to restore armor.\n\nEach use of a Repairkit reduces supplies by one.\n\nSupplies Available: [0]"
+	},
+	{
+		"id": "ActionDescription_Grenade",
+		"text": "Throw grenade at target tile causing area damage.\n\nThrowing grenades reduces supplies by one.\n\nSupplies Available: [0]"
+	},
+	{
+		"id": "ActionDescription_Punch",
+		"text": "Attack a neighbouring target with your fist. Does little damage, but sometimes that's all you need."
+	},
+	{
+		"id": "ActionDescription_Meditate",
+		"text": "Concentrating restores 1 bravery point for this character."
+	},
+	{
+		"id": "ActionDescription_HealingShot",
+		"text": "Shoot a healing projectile at an ally. Restores 20% HP for 3 turns. Does not require or consume supplies."
+	},
+	{
+		"id": "ActionDescription_ShreddingShot",
+		"text": "A powerful attack tripling damage done to the enemy's armor."
+	},
+	{
+		"id": "ActionDescription_MoraleBoost",
+		"text": "The target ally will receive a morale boost giving them +5 agility this turn."
+	},
+	{
+		"id": "ActionDescription_CripplingShot",
+		"text": "A crippling attack causing the target to lose 75% movement range for 2 turns."
+	},
+	{
+		"id": "ActionDescription_Revive",
+		"text": "Revive a downed ally and restore 10 HP. Does not require or consume supplies."
+	},
+	{
+		"id": "ActionDescription_ReactionShot",
+		"text": "During the next turn this character will perform a counter attack on the first enemy attacking them."
+	},
+	{
+		"id": "ActionDescription_Parry",
+		"text": "When attacked in close range this character will perform a sudden strike before the enemy's attack."
+	},
+	{
+		"id": "ActionDescription_Dash",
+		"text": "Move to an adjacent position up to 2 tiles away. Dash doesn't trigger ambushes. Does not use any action points but does cost 1 bravery point."
+	},
+	{
+		"id": "ActionDescription_QuantumLeech",
+		"text": "Attack enemy with a Quantum Leech that turns 50% of Body Damage into health for the attacker."
+	},
+	{
+		"id": "ActionDescription_Strike",
+		"text": "Attack up to 3 targets right in front of you. Damage is reduced by 20%."
+	},
+	{
+		"id": "ActionDescription_Headshot",
+		"text": "If attack is successful, the target will be killed instantly. You may only target already injured enemies with this ability."
+	},
+	{
+		"id": "ActionDescription_FirstAid",
+		"text": "Restore 25% of target's HP. Also removes any negative status effects. Does not require or consume supplies."
+	},
+	{
+		"id": "ActionDescription_WarningShot",
+		"text": "Warning Shots let you place a conical area to observe during the next turn. Any enemy moving in this area will receive a warning shot stopping their movement. Warning shots will not deal any damage."
+	},
+	{
+		"id": "ActionDescription_Vanish",
+		"text": "The character vanishes out of sight and is invisible to enemies for the next turn. Vanished characters can move unseen. If this character attacks an enemy, however, the vanish effect will be neutralised."
+	},
+	{
+		"id": "ActionDescription_PsychicControl",
+		"text": "Use your psychic powers to force an enemy to attack one of their allies. The ally is selected randomly."
+	},
+	{
+		"id": "ActionDescription_SuckerPunch",
+		"text": "A mighty fist punch pushing your enemy back 2 tiles. May cause additional damage if the pushed back target hits a wall or other units."
+	},
+	{
+		"id": "ActionDescription_Bait",
+		"text": "Throw a bait that attracts dogs and zombies in the effect area for one turn."
+	},
+	{
+		"id": "ActionBuff_Meditate",
+		"text": "Allows use of Concentrate ability."
+	},
+	{
+		"id": "ActionBuff_FirstAid",
+		"text": "Allows use of First Aid ability."
+	},
+	{
+		"id": "ActionBuff_Vanish",
+		"text": "Allows use of Vanish ability."
+	},
+	{
+		"id": "ActionBuff_PsychicControl",
+		"text": "Allows use of Psychic Control ability."
+	},
+	{
+		"id": "ActionType_Attack",
+		"text": "Attack Action"
+	},
+	{
+		"id": "ActionType_Move",
+		"text": "Move Action"
+	},
+	{
+		"id": "ActionType_Neutral",
+		"text": "Misc Action"
+	},
+	{
+		"id": "ActionTooltip_Attack",
+		"text": "Chance"
+	},
+	{
+		"id": "ActionTooltip_Melee",
+		"text": "Melee"
+	},
+	{
+		"id": "ActionTooltip_Heal",
+		"text": "Heal"
+	},
+	{
+		"id": "ActionTooltip_Repair",
+		"text": "Repair"
+	},
+	{
+		"id": "ActionTooltip_PsychicControl",
+		"text": "Psychic Control"
+	},
+	{
+		"id": "ActionTooltip_ReviveInfo",
+		"text": "This character is KO. You may revive them by using a medkit."
+	},
+	{
+		"id": "ActionTooltip_AlternateView",
+		"text": "[key:AlternateView]: toggle move range"
+	},
+	{
+		"id": "ActionTooltip_BurstFireRotation",
+		"text": "Mouse Wheel: Rotate direction"
+	},
+	{
+		"id": "ActionTooltip_BurstFireRotation_Controller",
+		"text": "Rotate direction"
+	},
+	{
+		"id": "ActionTooltip_ContextMenu",
+		"text": "RMB: Show Actions"
+	},
+	{
+		"id": "CharacterStatsDescription_INT",
+		"text": "Determines the amount of experience points a character receives. The higher the intelligence the quicker a character will level up."
+	},
+	{
+		"id": "CharacterStatsDescription_AGI",
+		"text": "Determines how far a character can move per turn."
+	},
+	{
+		"id": "CharacterStatsDescription_END",
+		"text": "If a character is knocked out, endurance determines how many turns a character stays alive."
+	},
+	{
+		"id": "CharacterStatsDescription_AIM",
+		"text": "Higher dexterity means your character has a better aim and improved hit probabilities."
+	},
+	{
+		"id": "CharacterStatsDescription_HEA",
+		"text": "Determines the character's health points."
+	},
+	{
+		"id": "CharacterStatsDescription_BRA",
+		"text": "Determines the number of bravery points. Bravery points are used to execute special abilities."
+	},
+	{
+		"id": "CharacterStatsDescription_EVA",
+		"text": "Determines your evade chance. Every attack against your character has a small chance of evading."
+	},
+	{
+		"id": "ActionRequirement_Generic",
+		"text": "Requires:"
+	},
+	{
+		"id": "ActionRequirement_Bravery",
+		"text": "x[0] Bravery"
+	},
+	{
+		"id": "Tooltip_EndTurn",
+		"text": "End Player Turn"
+	},
+	{
+		"id": "Tooltip_HelpOverlay",
+		"text": "Help"
+	},
+	{
+		"id": "Tooltip_Menu",
+		"text": "Show Menu"
+	},
+	{
+		"id": "Bio_Natalya_Description",
+		"text": "Natalya Shushkova, Russian Scientist"
+	},
+	{
+		"id": "Bio_Natalya_Positive",
+		"text": "Capable healer and fighter"
+	},
+	{
+		"id": "Bio_Natalya_Negative",
+		"text": "Starts with Bait special ability"
+	},
+	{
+		"id": "Bio_Leonora_Description",
+		"text": "Leonora De Quincey, British Amateur Archeologist"
+	},
+	{
+		"id": "Bio_Leonora_Positive",
+		"text": "Flexible supporter, capable with assault rifles"
+	},
+	{
+		"id": "Bio_Leonora_Negative",
+		"text": "Starts with Shredding Shot special ability"
+	},
+	{
+		"id": "Bio_Veduti_Description",
+		"text": "Monsignor Carlo Veduti, Italian Vatican Legate"
+	},
+	{
+		"id": "Bio_Veduti_Positive",
+		"text": "Great healer, strong vs. undead"
+	},
+	{
+		"id": "Bio_Veduti_Negative",
+		"text": "Starts with Resuscitate special ability"
+	},
+	{
+		"id": "Bio_Brunhilda_Description",
+		"text": "Brunhilda, Queen of the Valkyries, Icelandic Fairground Wrestler"
+	},
+	{
+		"id": "Bio_Brunhilda_Positive",
+		"text": "Robust melee, heavy armor"
+	},
+	{
+		"id": "Bio_Brunhilda_Negative",
+		"text": "Starts with Sucker Punch special ability"
+	},
+	{
+		"id": "Bio_Pereira_Description",
+		"text": "Captain Luiz 'Piranha' Pereira, Brazilian Steamboat Smuggler"
+	},
+	{
+		"id": "Bio_Pereira_Positive",
+		"text": "Shotgun expert, very resilient"
+	},
+	{
+		"id": "Bio_Pereira_Negative",
+		"text": "Starts with Cleave special ability"
+	},
+	{
+		"id": "Bio_Jackson_Description",
+		"text": "Jackson Sheffield, American Globetrotter"
+	},
+	{
+		"id": "Bio_Jackson_Positive",
+		"text": "Assault rifle expert"
+	},
+	{
+		"id": "Bio_Jackson_Negative",
+		"text": "Starts with Dash special ability"
+	},
+	{
+		"id": "Bio_Georgette_Description",
+		"text": "Agent Georgette Remy, Belgian Secret Agent"
+	},
+	{
+		"id": "Bio_Georgette_Positive",
+		"text": "Excellent sniper, finds more ammo"
+	},
+	{
+		"id": "Bio_Georgette_Negative",
+		"text": "Starts with Reaction Shot special ability"
+	},
+	{
+		"id": "Bio_Professor_Description",
+		"text": "Professor Mortimer Bellamy, American Inventor"
+	},
+	{
+		"id": "Bio_Professor_Positive",
+		"text": "Disintegrator expert, finds more fuel"
+	},
+	{
+		"id": "Bio_Professor_Negative",
+		"text": "Starts with Concentrate special ability"
+	},
+	{
+		"id": "Bio_DrChandra_Description",
+		"text": "Dr. Gopal Chandraputra, Anglo-Indian Antiquarian"
+	},
+	{
+		"id": "Bio_DrChandra_Positive",
+		"text": "Capable with shotguns, flexible healer"
+	},
+	{
+		"id": "Bio_DrChandra_Negative",
+		"text": "Starts with Psychic Control special ability"
+	},
+	{
+		"id": "Bio_Shaneeka_Description",
+		"text": "Shani, African Steppe Huntress"
+	},
+	{
+		"id": "Bio_Shaneeka_Positive",
+		"text": "Agile melee fighter, strong vs. undead"
+	},
+	{
+		"id": "Bio_Shaneeka_Negative",
+		"text": "Starts with Sudden Strike special ability"
+	},
+	{
+		"id": "Bio_Baron_Description",
+		"text": "Baron von B., German Gentleman Imposter"
+	},
+	{
+		"id": "Bio_Baron_Positive",
+		"text": "Capable sniper, finds more money"
+	},
+	{
+		"id": "Bio_Baron_Negative",
+		"text": "Starts with Crippling Shot special ability"
+	},
+	{
+		"id": "Bio_Rose_Description",
+		"text": "Rose Sheffield, American Adventuress and Mystic"
+	},
+	{
+		"id": "Bio_Rose_Positive",
+		"text": "Versatile fighter"
+	},
+	{
+		"id": "Bio_Rose_Negative",
+		"text": "Starts with Healing Shot special ability"
+	},
+	{
+		"id": "Bio_Caballero_Description",
+		"text": "Miguel Ignacio Caballero, Spanish Civil War Poet"
+	},
+	{
+		"id": "Bio_Caballero_Positive",
+		"text": "Robust grenade expert, strong vs. Nazis"
+	},
+	{
+		"id": "Bio_Caballero_Negative",
+		"text": "Starts with Warning Shots special ability"
+	},
+	{
+		"id": "Bio_Omar_Description",
+		"text": "Prince Omar Abu al-Jarabi, Arabian Art Collector"
+	},
+	{
+		"id": "Bio_Omar_Positive",
+		"text": "Multiple weapons, flexible armor repair"
+	},
+	{
+		"id": "Bio_Omar_Negative",
+		"text": "Starts with First Aid special ability"
+	},
+	{
+		"id": "Bio_Annabelle_Description",
+		"text": "Annabelle Césaire Montserrat, Caribbean Freelance Aviatrix"
+	},
+	{
+		"id": "Bio_Annabelle_Positive",
+		"text": "Mobile pistol expert"
+	},
+	{
+		"id": "Bio_Annabelle_Negative",
+		"text": "Starts with Headshot special ability"
+	},
+	{
+		"id": "Bio_LeFantome_Description",
+		"text": "Le Fantôme, French Burglar Legend"
+	},
+	{
+		"id": "Bio_LeFantome_Positive",
+		"text": "Deadly melee fighter"
+	},
+	{
+		"id": "Bio_LeFantome_Negative",
+		"text": "Starts with Vanish special ability"
+	},
+	{
+		"id": "Adv_adventureTutorial_Title",
+		"text": "A Friend in Need!"
+	},
+	{
+		"id": "Adv_adventureTutorial_Desc",
+		"text": "Casablanca, Morocco: \nYou receive a desperate plea for help – your old friend Morten has been abducted by the Nazis and taken to the Moroccan desert!\nYou decide to travel to North Africa immediately to find Morten before the Germans execute him!"
+	},
+	{
+		"id": "Adv_adventureTutorial_Intro",
+		"text": "You take a break in a provincial backwater, a few miles beyond Casablanca. This is the last outpost of civilization – beyond this point is nothing but merciless desert. Morten is out there somewhere..."
+	},
+	{
+		"id": "Adv_adventureTutorial_Extro",
+		"text": "Chattering excitedly, you stroll back to your jeep. You get in and drive into the setting sun while Morten entertains you with his absurd anecdotes."
+	},
+	{
+		"id": "Adv_adventure02_Title",
+		"text": "The Wrath of God"
+	},
+	{
+		"id": "Adv_adventure02_Desc",
+		"text": "Jerusalem, Palestine:\nMorten was quite right: The Nazis are up to something sinister…\nThat's why you are hot on the heels of a German expedition to Mount Ararat. They are searching for a mysterious object known as the Wrath of God. \nFoil their plans!"
+	},
+	{
+		"id": "Adv_adventure02_Intro",
+		"text": "Your vantage point on the hill provides an excellent view of the heights and valleys of Palestine. A large cloud of dust on the dirt track below marks out a large German convoy."
+	},
+	{
+		"id": "Adv_adventure02_Extro",
+		"text": "The Wrath of God! The artifact should be buried forever under tons of rock - your only consolation is that the Nazis will never get their hands on it... "
+	},
+	{
+		"id": "Adv_adventure03_Title",
+		"text": "Night of the Black Pharaoh"
+	},
+	{
+		"id": "Adv_adventure03_Desc",
+		"text": "Cairo, Egypt:\nThe wild rumours circulating among local occultists over the past few weeks lead you to one terrifying conclusion:\nThe unholy cultists of the Khonesh Brotherhood plan to reawaken Turash-Ra, the Black Pharaoh! \nYou travel to the stone desert of Meroe to stop them! "
+	},
+	{
+		"id": "Adv_adventure03_Intro",
+		"text": "You leave the hustle and noise of Cairo behind you; before you stretch the lazy bends of the Nile, lifeline of ancient Egypt. The mighty river disappears into the eternal expanse of the Egyptian desert."
+	},
+	{
+		"id": "Adv_adventure03_Extro",
+		"text": "Your engine roars as you leave the pyramid behind forever! Turash-Ra will never see the light of day again..."
+	},
+	{
+		"id": "Adv_adventure04_Title",
+		"text": "Desecrated Ground"
+	},
+	{
+		"id": "Adv_adventure04_Desc",
+		"text": "Port Said, Egypt:\nA Nazi expedition has joined forces with the Brotherhood! They are planning an unholy ritual on Mount Sinai. Who knows what evil they intend to summon? You fear the worst!"
+	},
+	{
+		"id": "Adv_adventure04_Intro",
+		"text": "Why are the Germans working with the Brotherhood? What are they planning on Mount Sinai? Will you be able to thwart their plans?"
+	},
+	{
+		"id": "Adv_adventure04_Extro",
+		"text": "Confused, you prepare to head back down. Maybe not every riddle needs to be solved..."
+	},
+	{
+		"id": "Adv_adventure05_Title",
+		"text": "Dreams in the Desert Sand"
+	},
+	{
+		"id": "Adv_adventure05_Desc",
+		"text": "Jeddah, Arabia:\nWith his dying breath, the old caravan guide swore that he had seen Kharga Serabit with his own eyes. Kharga Serabit, swallowed by the desert sands so many millennia ago!\nThe very next day, you set off on a journey that leads you deep into the heart of the merciless desert!"
+	},
+	{
+		"id": "Adv_adventure05_Intro",
+		"text": "The dusty desert path leads you out of Jeddah, away from the lush greenery of its walled gardens and the turquoise waves of the Red Sea that break against the gleaming white quay walls of the proud harbor city."
+	},
+	{
+		"id": "Adv_adventure05_Extro",
+		"text": "Gritting your teeth, you turn your back on this cursed place forever to set out on your long journey to the coast..."
+	},
+	{
+		"id": "Adv_adventure06_Title",
+		"text": "The Final Frontier"
+	},
+	{
+		"id": "Adv_adventure06_Desc",
+		"text": "Djibouti, East Africa:\nThe cultists of the Khonesh Brotherhood are searching the Abyssinian Highlands for the final resting place of the Queen of Sheba. According to legend, her temple grave is the repository of the Divine Chariot, Merkabah. \nYou must stop them!"
+	},
+	{
+		"id": "Adv_adventure06_Intro",
+		"text": "You sigh with relief as your dilapidated sailboat approaches the massive harbor walls of Djibouti: Dry land under your feet again at last!"
+	},
+	{
+		"id": "Adv_adventure06_Extro",
+		"text": "Sighing, you start your journey back - all the richer for this mysterious experience..."
+	},
+	{
+		"id": "OptionsMenu_Confirm",
+		"text": "Confirm changes"
+	},
+	{
+		"id": "OptionsMenu_Cancel",
+		"text": "Cancel"
+	},
+	{
+		"id": "GameOptions_Language_en-us",
+		"text": "English"
+	},
+	{
+		"id": "GameOptions_Language_de-de",
+		"text": "Deutsch"
+	},
+	{
+		"id": "GameOptions_Language_fr-fr",
+		"text": "Français"
+	},
+	{
+		"id": "GameOptions_Language_ja-jp",
+		"text": "日本語"
+	},
+	{
+		"id": "GameOptions_Language_zh-cn",
+		"text": "中文"
+	},
+	{
+		"id": "GameOptions_AISpeed_0",
+		"text": "x1"
+	},
+	{
+		"id": "GameOptions_AISpeed_1",
+		"text": "x2"
+	},
+	{
+		"id": "GameOptions_AISpeed_2",
+		"text": "x3"
+	},
+	{
+		"id": "GameOptions_Tab_1",
+		"text": "GAME"
+	},
+	{
+		"id": "GameOptions_Tab_2",
+		"text": "VIDEO"
+	},
+	{
+		"id": "GameOptions_Tab_3",
+		"text": "AUDIO"
+	},
+	{
+		"id": "GameOptions_Tab_4",
+		"text": "CONTROLS"
+	},
+	{
+		"id": "GameOptions_Global",
+		"text": "GLOBAL"
+	},
+	{
+		"id": "GameOptions_Global_Language",
+		"text": "LANGUAGE"
+	},
+	{
+		"id": "GameOptions_Global_ShowCodexNotifications",
+		"text": "SHOW CODEX NOTIFICATIONS"
+	},
+	{
+		"id": "GameOptions_Global_DoubleConfirmActions",
+		"text": "CONFIRM MOVE"
+	},
+	{
+		"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
+		"text": "Moves require an additional press to confirm."
+	},
+	{
+		"id": "GameOptions_Global_DogFriendly",
+		"text": "DOG FRIENDLY MODE"
+	},
+	{
+		"id": "GameOptions_Global_DogFriendlyTooltip",
+		"text": "Disables dog sfx hit/die sounds. Dogs dissappear instead of dying during combat."
+	},
+	{
+		"id": "GameOptions_Global_NonViolent",
+		"text": "NO BLOODSHED"
+	},
+	{
+		"id": "GameOptions_Global_NonViolentTooltip",
+		"text": "Disables or replaces gore effects."
+	},
+	{
+		"id": "GameOptions_Global_ConfirmEndTurn",
+		"text": "CONFIRM END TURN"
+	},
+	{
+		"id": "GameOptions_Global_ConfirmEndTurnTooltip",
+		"text": "Will ask for confirmation to end turn if one of your characters can still perform an action"
+	},
+	{
+		"id": "GameOptions_Global_DefaultAISpeed",
+		"text": "DEFAULT AI TURN SPEED"
+	},
+	{
+		"id": "GameOptions_Global_DefaultAISpeedTooltip",
+		"text": "Increase the default enemy movement speed during the AI turn."
+	},
+	{
+		"id": "GameOptions_Global_ScreenBorderScrolling",
+		"text": "BORDER SCROLLING"
+	},
+	{
+		"id": "GameOptions_Global_ScreenBorderScrollingTooltip",
+		"text": "When enabled, you may scroll around the map by moving the mouse cursor to the window borders."
+	},
+	{
+		"id": "VideoOptions_Window",
+		"text": "WINDOW SETTINGS"
+	},
+	{
+		"id": "VideoOptions_Window_Monitor",
+		"text": "DISPLAY"
+	},
+	{
+		"id": "VideoOptions_Window_Resolution",
+		"text": "RESOLUTION"
+	},
+	{
+		"id": "VideoOptions_Window_RefreshRate",
+		"text": "REFRESH RATE"
+	},
+	{
+		"id": "VideoOptions_Window_Fullscreen",
+		"text": "FULLSCREEN"
+	},
+	{
+		"id": "VideoOptions_Window_DoubleBuffer",
+		"text": "DOUBLE BUFFERING"
+	},
+	{
+		"id": "VideoOptions_Window_VerticalSync",
+		"text": "VERTICAL SYNC"
+	},
+	{
+		"id": "VideoOptions_Advanced",
+		"text": "ADVANCED SETTINGS"
+	},
+	{
+		"id": "VideoOptions_Shadow",
+		"text": "SHADOWS"
+	},
+	{
+		"id": "VideoOptions_Shadow_Ultra",
+		"text": "Ultra"
+	},
+	{
+		"id": "VideoOptions_Shadow_High",
+		"text": "High"
+	},
+	{
+		"id": "VideoOptions_Shadow_Medium",
+		"text": "Medium"
+	},
+	{
+		"id": "VideoOptions_Shadow_Low",
+		"text": "Low"
+	},
+	{
+		"id": "VideoOptions_Light",
+		"text": "LIGHTS"
+	},
+	{
+		"id": "VideoOptions_Light_StaticOnly",
+		"text": "Static only"
+	},
+	{
+		"id": "VideoOptions_Light_Half",
+		"text": "Medium"
+	},
+	{
+		"id": "VideoOptions_Light_Full",
+		"text": "High"
+	},
+	{
+		"id": "VideoOptions_SmoothScroll",
+		"text": "SMOOTH SCROLLING"
+	},
+	{
+		"id": "VideoOptions_ScaleUI",
+		"text": "UI SCALING"
+	},
+	{
+		"id": "VideoOptionsKeep_Question",
+		"text": "Display settings have been changed. Do you want to keep them?\n\nRevert to previous settings in [0] s..."
+	},
+	{
+		"id": "VideoOptionsKeep_QuestionYes",
+		"text": "Yes"
+	},
+	{
+		"id": "VideoOptionsKeep_QuestionNo",
+		"text": "No"
+	},
+	{
+		"id": "AudioOptions_Volume",
+		"text": "VOLUME"
+	},
+	{
+		"id": "AudioOptions_Volume_Master",
+		"text": "MASTER"
+	},
+	{
+		"id": "AudioOptions_Volume_Effects",
+		"text": "EFFECTS"
+	},
+	{
+		"id": "AudioOptions_Volume_Music",
+		"text": "MUSIC"
+	},
+	{
+		"id": "AudioOptions_Reverb",
+		"text": "REVERB"
+	},
+	{
+		"id": "Tooltip_AudioReverb",
+		"text": "REVERB"
+	},
+	{
+		"id": "Tooltip_AudioReverb_Content",
+		"text": "Toggles audio reverb effect on/off. "
+	},
+	{
+		"id": "ControlOptions_General",
+		"text": "GENERAL"
+	},
+	{
+		"id": "ControlOptions_Option_Cursor",
+		"text": "Mouse Cursor"
+	},
+	{
+		"id": "ControlOptions_Cursor_Default",
+		"text": "Hardware"
+	},
+	{
+		"id": "ControlOptions_Cursor_Software",
+		"text": "Software"
+	},
+	{
+		"id": "ControlOptions_Option_Controls",
+		"text": "Controls Mode"
+	},
+	{
+		"id": "ControlOptions_Controls_MouseAndKeyboard",
+		"text": "Mouse and Keyboard"
+	},
+	{
+		"id": "ControlOptions_Controls_GamepadXbox",
+		"text": "XBox Controller"
+	},
+	{
+		"id": "ControlOptions_Controls_GamepadNX",
+		"text": "Nintendo Controller"
+	},
+	{
+		"id": "ControlOptions_Controls_GamepadPS",
+		"text": "Playstation Controller"
+	},
+	{
+		"id": "ControlOptions_Keys",
+		"text": "KEYBOARD"
+	},
+	{
+		"id": "ControlOptions_Reset_Bindings",
+		"text": "restore defaults"
+	},
+	{
+		"id": "ControlOptions_Reset_Button",
+		"text": "RESET"
+	},
+	{
+		"id": "KeyAction_MouseButtonConfirm",
+		"text": "confirm action"
+	},
+	{
+		"id": "KeyAction_MouseButtonCancel",
+		"text": "cancel action"
+	},
+	{
+		"id": "KeyAction_CameraScrollUp",
+		"text": "move camera up"
+	},
+	{
+		"id": "KeyAction_CameraScrollLeft",
+		"text": "move camera left"
+	},
+	{
+		"id": "KeyAction_CameraScrollDown",
+		"text": "move camera down"
+	},
+	{
+		"id": "KeyAction_CameraScrollRight",
+		"text": "move camera right"
+	},
+	{
+		"id": "KeyAction_CameraFreeLook",
+		"text": "camera free look"
+	},
+	{
+		"id": "KeyAction_Attack",
+		"text": "ranged attack"
+	},
+	{
+		"id": "KeyAction_AttackSpecial",
+		"text": "ranged attack (special)"
+	},
+	{
+		"id": "KeyAction_Melee",
+		"text": "knife attack"
+	},
+	{
+		"id": "KeyAction_MeleeSpecial",
+		"text": "knife attack (bleed)"
+	},
+	{
+		"id": "KeyAction_UseItem",
+		"text": "use item"
+	},
+	{
+		"id": "KeyAction_UseSpecial",
+		"text": "use ability"
+	},
+	{
+		"id": "KeyAction_ReloadWeapon",
+		"text": "reload weapon"
+	},
+	{
+		"id": "KeyAction_SelectPreviousUnit",
+		"text": "select previous unit"
+	},
+	{
+		"id": "KeyAction_SelectNextUnit",
+		"text": "select next unit"
+	},
+	{
+		"id": "KeyAction_EndTurn",
+		"text": "end turn"
+	},
+	{
+		"id": "KeyAction_ShowOptionsMenu",
+		"text": "show options menu"
+	},
+	{
+		"id": "KeyAction_ShowJournal",
+		"text": "toggle team screen"
+	},
+	{
+		"id": "KeyAction_ShowFPSCounter",
+		"text": "toggle fps counter"
+	},
+	{
+		"id": "KeyAction_Punch",
+		"text": "punch"
+	},
+	{
+		"id": "KeyAction_AlternateView",
+		"text": "alternative information"
+	},
+	{
+		"id": "KeyAction_RotateBurstLeft",
+		"text": "rotate burst left"
+	},
+	{
+		"id": "KeyAction_RotateBurstRight",
+		"text": "rotate burst right"
+	},
+	{
+		"id": "MouseBtn0",
+		"text": "LMB"
+	},
+	{
+		"id": "MouseBtn1",
+		"text": "RMB"
+	},
+	{
+		"id": "MouseBtn2",
+		"text": "mouse button 3"
+	},
+	{
+		"id": "MouseBtn3",
+		"text": "mouse button 4"
+	},
+	{
+		"id": "MouseBtn4",
+		"text": "mouse button 5"
+	},
+	{
+		"id": "ControlsOptionsReset_Question",
+		"text": "Reset mouse and keyboard bindings to default settings?"
+	},
+	{
+		"id": "ControlsOptionsReset_QuestionYes",
+		"text": "Yes"
+	},
+	{
+		"id": "ControlsOptionsReset_QuestionNo",
+		"text": "No"
+	},
+	{
+		"id": "MainMenu_DemoVersion",
+		"text": "CLICK TO CONTINUE"
+	},
+	{
+		"id": "LoadingScreen_CTP",
+		"text": "CLICK TO CONTINUE"
+	},
+	{
+		"id": "MainMenu_Btn_Continue",
+		"text": "CONTINUE"
+	},
+	{
+		"id": "MainMenu_Btn_NewGame",
+		"text": "NEW ADVENTURE"
+	},
+	{
+		"id": "MainMenu_Btn_NewGameAlt",
+		"text": "PURSUE A NEW ADVENTURE"
+	},
+	{
+		"id": "MainMenu_Btn_Options",
+		"text": "OPTIONS"
+	},
+	{
+		"id": "MainMenu_Btn_Exit",
+		"text": "EXIT GAME"
+	},
+	{
+		"id": "MainMenu_Btn_ReturnToGame",
+		"text": "RETURN TO GAME"
+	},
+	{
+		"id": "MainMenu_Btn_ExitCurrentGame",
+		"text": "EXIT TO MAIN MENU"
+	},
+	{
+		"id": "MainMenu_Btn_ExitCurrentGameDemo",
+		"text": "RESTART DEMO"
+	},
+	{
+		"id": "MainMenu_Btn_Credits",
+		"text": "CREDITS"
+	},
+	{
+		"id": "MainMenu_Label_Cash",
+		"text": "CASH"
+	},
+	{
+		"id": "MainMenu_Profile_New",
+		"text": "NEW PROFILE"
+	},
+	{
+		"id": "MainMenu_Profile_Change",
+		"text": "CHANGE PROFILE"
+	},
+	{
+		"id": "MainMenu_Cash_Display",
+		"text": "$[0:.]"
+	},
+	{
+		"id": "MainMenu_Paper_Day",
+		"text": "DAY [0]"
+	},
+	{
+		"id": "NewProfile_Title",
+		"text": "NEW PROFILE"
+	},
+	{
+		"id": "NewProfile_Instruction",
+		"text": "ENTER PROFILE NAME"
+	},
+	{
+		"id": "NewProfile_Instruction_Controller",
+		"text": "PROFILE NAME"
+	},
+	{
+		"id": "NewProfile_Confirm",
+		"text": "CONFIRM"
+	},
+	{
+		"id": "NewProfile_Cancel",
+		"text": "CANCEL"
+	},
+	{
+		"id": "NewProfile_HardcoreMode",
+		"text": "HARDCORE MODE"
+	},
+	{
+		"id": "NewProfile_HardcoreMode_Tooltip",
+		"text": "Hardcore Mode provides a different ruleset to standard profiles with increased difficulty and permadeath. \n\nFor experienced players only."
+	},
+	{
+		"id": "ChangeProfile_Title",
+		"text": "CHANGE PROFILE"
+	},
+	{
+		"id": "ChangeProfile_Slot",
+		"text": "SLOT"
+	},
+	{
+		"id": "ChangeProfile_Name",
+		"text": "PROFILE NAME"
+	},
+	{
+		"id": "ChangeProfile_Confirm",
+		"text": "CONFIRM"
+	},
+	{
+		"id": "ChangeProfile_Delete",
+		"text": "DELETE"
+	},
+	{
+		"id": "ChangeProfile_DeleteQuestion",
+		"text": "By deleting this profile you are deleting all character unlocks, items and achievements collected on this profile. Are you sure?"
+	},
+	{
+		"id": "ChangeProfile_DeleteQuestionYes",
+		"text": "Yes"
+	},
+	{
+		"id": "ChangeProfile_DeleteQuestionNo",
+		"text": "No"
+	},
+	{
+		"id": "RestoreBackup_Question",
+		"text": "Restoring a backup overwrites the current save state. This operation can not be undone! Are you sure?"
+	},
+	{
+		"id": "RestoreBackup_QuestionYes",
+		"text": "Yes"
+	},
+	{
+		"id": "RestoreBackup_QuestionNo",
+		"text": "No"
+	},
+	{
+		"id": "NewAdventure_Question",
+		"text": "You are about to abort the current adventure. All items and progress made during this adventure will be lost. Are you sure?"
+	},
+	{
+		"id": "NewAdventure_QuestionYes",
+		"text": "Yes"
+	},
+	{
+		"id": "NewAdventure_QuestionNo",
+		"text": "No"
+	},
+	{
+		"id": "AdventureSelect_Instruction",
+		"text": "Select an adventure!"
+	},
+	{
+		"id": "AdventureSelect_Title",
+		"text": "Title"
+	},
+	{
+		"id": "AdventureSelect_Description",
+		"text": "Description"
+	},
+	{
+		"id": "AdventureSelect_Select",
+		"text": "SELECT"
+	},
+	{
+		"id": "AdventureSelect_SelectDisabled",
+		"text": "LOCKED"
+	},
+	{
+		"id": "AdventureSelect_Brief",
+		"text": "BRIEF"
+	},
+	{
+		"id": "AdventureSelect_Customize",
+		"text": "CUSTOMIZE"
+	},
+	{
+		"id": "AdventureSelect_Length_1",
+		"text": "SHORT"
+	},
+	{
+		"id": "AdventureSelect_Length_2",
+		"text": "MEDIUM"
+	},
+	{
+		"id": "AdventureSelect_Length_3",
+		"text": "LONG"
+	},
+	{
+		"id": "AdventureSelect_Difficulty",
+		"text": "Difficulty"
+	},
+	{
+		"id": "AdventureSelect_UnlockInfo",
+		"text": "- FINISH PREVIOUS ADVENTURE TO UNLOCK  -"
+	},
+	{
+		"id": "AdventureSelect_EnemyStrength",
+		"text": "Enemy Strength"
+	},
+	{
+		"id": "AdventureSelect_EnemyStrengthDescription",
+		"text": "Tweak how strong your opponents are. Their health, damage and group size will be adjusted. Lower for a more casual experience.\n\nEnemy Health: [0]%\nEnemy Damage: [1]%\nEnemy Group Size: [2]"
+	},
+	{
+		"id": "AdventureSelect_EnemyStrengthDescriptionPositive",
+		"text": "Tweak how strong your opponents are. Their health, damage and group size will be adjusted. Lower for a more casual experience.\n\nEnemy Health: +[0]%\nEnemy Damage: +[1]%\nEnemy Group Size: +[2]"
+	},
+	{
+		"id": "AdventureSelect_CombatSize",
+		"text": "Combat Size"
+	},
+	{
+		"id": "AdventureSelect_CombatSizeDescription",
+		"text": "Tweak the amount of enemies appearing in combat. More will make the combat longer and tougher, less will make the combat shorter and easier.\n\nCombat Size: [0]"
+	},
+	{
+		"id": "AdventureSelect_CombatSizeDescriptionPositive",
+		"text": "Tweak the amount of enemies appearing in combat. More will make the combat longer and tougher, less will make the combat shorter and easier.\n\nCombat Size: +[0]"
+	},
+	{
+		"id": "AdventureSelect_Difficulty",
+		"text": "Difficulty"
+	},
+	{
+		"id": "AdventureSelect_DifficultyDescription",
+		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+	},
+	{
+		"id": "AdventureSelect_DifficultyDescriptionHardcore",
+		"text": "Tweak how strong your enemies are. In Hardcore Mode, difficulty does not adjust the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+	},
+	{
+		"id": "AdventureSelect_DifficultyDescriptionDisabled",
+		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nThis option is locked until you complete this adventure for the first time."
+	},
+	{
+		"id": "AdventureSelect_DifficultyDescriptionPositive",
+		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+	},
+	{
+		"id": "AdventureSelect_DifficultyDescriptionHardcorePositive",
+		"text": "Tweak how strong your enemies are. In Hardcore Mode, difficulty does not adjust the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+	},
+	{
+		"id": "AdventureSelect_DifficultyNormal",
+		"text": "Normal"
+	},
+	{
+		"id": "AdventureSelect_DifficultyHard",
+		"text": "Hard"
+	},
+	{
+		"id": "AdventureSelect_DifficultyHardest",
+		"text": "Hardest"
+	},
+	{
+		"id": "AdventureSelect_Resource",
+		"text": "Resource Supply"
+	},
+	{
+		"id": "AdventureSelect_ResourceDescription",
+		"text": "Tweak your starting resources amount. Increased resources will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: [0]\nStarting Ammo: [1]\nStarting Supplies: [2]"
+	},
+	{
+		"id": "AdventureSelect_ResourceDescriptionPositive",
+		"text": "Tweak your starting resources amount. Increased resources will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: +[0]\nStarting Ammo: +[1]\nStarting Supplies: +[2]"
+	},
+	{
+		"id": "AdventureSelect_DayTime",
+		"text": "Daytime"
+	},
+	{
+		"id": "AdventureSelect_DayTimeDescriptionDisabled",
+		"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nThis option is locked until you complete this adventure for the first time."
+	},
+	{
+		"id": "AdventureSelect_DayTimeDescription",
+		"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nDaytime: [0] Hour(s)"
+	},
+	{
+		"id": "AdventureSelect_DayTimeDescriptionPositive",
+		"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nDaytime: +[0] Hour(s)"
+	},
+	{
+		"id": "TeamSelect_Adventurers",
+		"text": "ADVENTURERS"
+	},
+	{
+		"id": "TeamSelect_Instruction",
+		"text": "Select your team members!"
+	},
+	{
+		"id": "TeamSelect_RecruitInfo",
+		"text": "RECRUIT INFO"
+	},
+	{
+		"id": "TeamSelect_Recruit",
+		"text": "RECRUIT"
+	},
+	{
+		"id": "TeamSelect_Dismiss",
+		"text": "DISMISS"
+	},
+	{
+		"id": "TeamSelect_Reskill",
+		"text": "RESET SKILL TREE - $[0]"
+	},
+	{
+		"id": "TeamSelect_Equip",
+		"text": "CONTINUE"
+	},
+	{
+		"id": "TeamSelect_ViewSkillTree",
+		"text": "VIEW SKILL TREE"
+	},
+	{
+		"id": "TeamSelect_Party_Size",
+		"text": "PARTY [0]/[1]"
+	},
+	{
+		"id": "TeamSelect_SizeQuestion",
+		"text": "You must select [0] characters for this adventure."
+	},
+	{
+		"id": "TeamSelect_SizeQuestionOk",
+		"text": "Ok"
+	},
+	{
+		"id": "TeamSelect_Recruit_NotEnoughMoney",
+		"text": "INSUFFICIENT FUNDS - $[0] REQUIRED"
+	},
+	{
+		"id": "TeamSelect_Recruit_Buy",
+		"text": "UNLOCK - $[0]"
+	},
+	{
+		"id": "TeamSelect_DeadInfo",
+		"text": "KILLED IN ACTION"
+	},
+	{
+		"id": "TeamSelect_HospitalizedInfo",
+		"text": "UNIT IS HOSPITALIZED."
+	},
+	{
+		"id": "TeamSelect_HospitalizedTime",
+		"text": "RECOVERS AFTER THIS ADVENTURE"
+	},
+	{
+		"id": "TeamSelect_HospitalizedRecover",
+		"text": "HEAL - $[0]"
+	},
+	{
+		"id": "TeamSelect_LockedInfo",
+		"text": "UNIT IS LOCKED."
+	},
+	{
+		"id": "TeamSelect_Toggle_Character",
+		"text": "CHARACTER"
+	},
+	{
+		"id": "TeamSelect_Toggle_Storage",
+		"text": "STORAGE"
+	},
+	{
+		"id": "TeamEquip_Tab",
+		"text": "LOADOUT"
+	},
+	{
+		"id": "TeamEquip_Instruction",
+		"text": "Manage your team's equipment:"
+	},
+	{
+		"id": "TeamEquip_PaperHeader",
+		"text": "[entity:name]'s Equipment"
+	},
+	{
+		"id": "TeamEquip_Depart",
+		"text": "DEPART"
+	},
+	{
+		"id": "TeamEquip_Fuel",
+		"text": "FUEL"
+	},
+	{
+		"id": "TeamEquip_Ammo",
+		"text": "AMMO"
+	},
+	{
+		"id": "TeamEquip_Supplies",
+		"text": "SUPPLIES"
+	},
+	{
+		"id": "TeamEquip_AmountLabel",
+		"text": " +[0]"
+	},
+	{
+		"id": "TeamEquip_CostLabel",
+		"text": "$[0]"
+	},
+	{
+		"id": "ResourceUpgrade_AmmoTitle",
+		"text": "Ammo Storage Upgrade"
+	},
+	{
+		"id": "ResourceUpgrade_AmmoDescription",
+		"text": "Permanently upgrade your jeep's ammo capacity. More bullets for everyone!"
+	},
+	{
+		"id": "ResourceUpgrade_FuelTitle",
+		"text": "Fuel Storage Upgrade"
+	},
+	{
+		"id": "ResourceUpgrade_FuelDescription",
+		"text": "Permanently upgrade your jeep's fuel capacity. Never run out of fuel again!"
+	},
+	{
+		"id": "ResourceUpgrade_SuppliesTitle",
+		"text": "Supplies Storage Upgrade"
+	},
+	{
+		"id": "ResourceUpgrade_SuppliesDescription",
+		"text": "Permanently upgrade your jeep's supplies capacity. More consumables for everyone!"
+	},
+	{
+		"id": "TeamEquip_StorageUpgradeDescription",
+		"text": "Upgrade the item storage capacity of your jeep."
+	},
+	{
+		"id": "TeamEquip_StorageUpgradeDescriptionLocked",
+		"text": "Item storage capacity can only be upgraded at load out."
+	},
+	{
+		"id": "Tooltip_Language_Title",
+		"text": "Language"
+	},
+	{
+		"id": "Tooltip_Language_Content",
+		"text": "[cs:#FF8080FF]* Changing this option is only available from the main menu.[ce]"
+	},
+	{
+		"id": "Tooltip_DefaultAISpeed_Title",
+		"text": "Default AI Speed"
+	},
+	{
+		"id": "Tooltip_DefaultAISpeed_Content",
+		"text": "Increase the default enemy movement speed during the AI turn."
+	},
+	{
+		"id": "Tooltip_DoubleBuffer_Title",
+		"text": "Double Buffering"
+	},
+	{
+		"id": "Tooltip_DoubleBuffer_Content",
+		"text": "Double Buffering.\n\n[cs:#FF8080FF]* This option is not available right now on Windows 7.\n\n* Requires the game to be restarted to take effect.[ce]"
+	},
+	{
+		"id": "Tooltip_VSync_Title",
+		"text": "Vertical Synchronization"
+	},
+	{
+		"id": "Tooltip_VSync_Content",
+		"text": "Enables vertical synchronization."
+	},
+	{
+		"id": "Tooltip_SmoothScroll_Title",
+		"text": "Smooth Scrolling"
+	},
+	{
+		"id": "Tooltip_SmoothScroll_Content",
+		"text": "Shader effect to smoothen camera scrolling.\n\nTurning off this option can slightly improve render performance."
+	},
+	{
+		"id": "Tooltip_ScaleUI_Title",
+		"text": "UI Scaling"
+	},
+	{
+		"id": "Tooltip_ScaleUI_Content",
+		"text": "If this option is enabled, the user interface is rendered at an increased resolution.\n\n[cs:#FF8080FF]* Changing this option is only available from the main menu.[ce]"
+	},
+	{
+		"id": "NPC_monk_name",
+		"text": "Monk"
+	},
+	{
+		"id": "NPC_guardian_name",
+		"text": "Guardian"
+	},
+	{
+		"id": "NPC_officer_name",
+		"text": "Officer"
+	},
+	{
+		"id": "NPC_soldier_name",
+		"text": "Soldier"
+	},
+	{
+		"id": "NPC_nun_name",
+		"text": "Nun"
+	},
+	{
+		"id": "NPC_customsOfficer_name",
+		"text": "Customs officer"
+	},
+	{
+		"id": "NPC_stranger_name",
+		"text": "Stranger"
+	},
+	{
+		"id": "NPC_agentCooper_name",
+		"text": "Agent Cooper"
+	},
+	{
+		"id": "NPC_angryOriental_name",
+		"text": "Angry Man"
+	},
+	{
+		"id": "NPC_friendlyOriental_name",
+		"text": "Friendly Man"
+	},
+	{
+		"id": "NPC_ephrem_name",
+		"text": "Ephrem"
+	},
+	{
+		"id": "NPC_oriental_name",
+		"text": "Man"
+	},
+	{
+		"id": "NPC_mitch_name",
+		"text": "Morten"
+	},
+	{
+		"id": "NPC_naziOfficer_name",
+		"text": "German Officer"
+	},
+	{
+		"id": "NPC_naziTrooper_name",
+		"text": "German Soldier"
+	},
+	{
+		"id": "NPC_radioOperator_name",
+		"text": "Radio Operator"
+	},
+	{
+		"id": "NPC_colonelOrtzen_name",
+		"text": "Colonel von Ortzen"
+	},
+	{
+		"id": "NPC_captainZettler_name",
+		"text": "Captain Zettler"
+	},
+	{
+		"id": "NPC_captainRueckert_name",
+		"text": "Captain Rueckert"
+	},
+	{
+		"id": "NPC_strangeBeing_name",
+		"text": "Strange Being"
+	},
+	{
+		"id": "NPC_naziSergeant_name",
+		"text": "German Sergeant"
+	},
+	{
+		"id": "NPC_guard_name",
+		"text": "Guard"
+	},
+	{
+		"id": "NPC_dyingSoldier_name",
+		"text": "Dying Soldier"
+	},
+	{
+		"id": "NPC_deserter_name",
+		"text": "Deserter"
+	},
+	{
+		"id": "NPC_priest_name",
+		"text": "Priest"
+	},
+	{
+		"id": "NPC_oldBeduin_name",
+		"text": "Old Man"
+	},
+	{
+		"id": "NPC_nomad_name",
+		"text": "Nomad"
+	},
+	{
+		"id": "NPC_oldWoman_name",
+		"text": "Old Woman"
+	},
+	{
+		"id": "NPC_woman_name",
+		"text": "Woman"
+	},
+	{
+		"id": "NPC_ghostlyVoice_name",
+		"text": "Ghostly Voice"
+	},
+	{
+		"id": "Enemy_infantrist_0_name",
+		"text": "Nazi Trooper I"
+	},
+	{
+		"id": "Enemy_infantrist_1_name",
+		"text": "Nazi Trooper II"
+	},
+	{
+		"id": "Enemy_infantrist_2_name",
+		"text": "Nazi Trooper III"
+	},
+	{
+		"id": "Enemy_infantrist_3_name",
+		"text": "Nazi Trooper IV"
+	},
+	{
+		"id": "Enemy_infantrist_4_name",
+		"text": "Nazi Trooper V"
+	},
+	{
+		"id": "Enemy_infantrist_5_name",
+		"text": "Nazi Trooper VI"
+	},
+	{
+		"id": "Enemy_infantrist_6_name",
+		"text": "Nazi Trooper VII"
+	},
+	{
+		"id": "Enemy_infantrist_7_name",
+		"text": "Nazi Trooper VIII"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_0_name",
+		"text": "Teslaborg I"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_1_name",
+		"text": "Teslaborg II"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_2_name",
+		"text": "Teslaborg III"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_3_name",
+		"text": "Teslaborg IV"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_4_name",
+		"text": "Teslaborg V"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_5_name",
+		"text": "Teslaborg VI"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_6_name",
+		"text": "Teslaborg VII"
+	},
+	{
+		"id": "Enemy_eliteInfantrist_7_name",
+		"text": "Teslaborg VIII"
+	},
+	{
+		"id": "Enemy_officer_0_name",
+		"text": "Officer I"
+	},
+	{
+		"id": "Enemy_officer_1_name",
+		"text": "Officer II"
+	},
+	{
+		"id": "Enemy_officer_2_name",
+		"text": "Officer III"
+	},
+	{
+		"id": "Enemy_officer_3_name",
+		"text": "Officer IV"
+	},
+	{
+		"id": "Enemy_officer_4_name",
+		"text": "Officer V"
+	},
+	{
+		"id": "Enemy_officer_5_name",
+		"text": "Officer VI"
+	},
+	{
+		"id": "Enemy_officer_6_name",
+		"text": "Officer VII"
+	},
+	{
+		"id": "Enemy_officer_7_name",
+		"text": "Officer VIII"
+	},
+	{
+		"id": "Enemy_sniper_0_name",
+		"text": "Sniper I"
+	},
+	{
+		"id": "Enemy_sniper_1_name",
+		"text": "Sniper II"
+	},
+	{
+		"id": "Enemy_sniper_2_name",
+		"text": "Sniper III"
+	},
+	{
+		"id": "Enemy_sniper_3_name",
+		"text": "Sniper IV"
+	},
+	{
+		"id": "Enemy_sniper_4_name",
+		"text": "Sniper V"
+	},
+	{
+		"id": "Enemy_sniper_5_name",
+		"text": "Sniper VI"
+	},
+	{
+		"id": "Enemy_sniper_6_name",
+		"text": "Sniper VII"
+	},
+	{
+		"id": "Enemy_sniper_7_name",
+		"text": "Sniper VIII"
+	},
+	{
+		"id": "Enemy_dog_0_name",
+		"text": "Attack Dog I"
+	},
+	{
+		"id": "Enemy_dog_1_name",
+		"text": "Attack Dog II"
+	},
+	{
+		"id": "Enemy_dog_2_name",
+		"text": "Attack Dog III"
+	},
+	{
+		"id": "Enemy_dog_3_name",
+		"text": "Attack Dog IV"
+	},
+	{
+		"id": "Enemy_dog_4_name",
+		"text": "Attack Dog V"
+	},
+	{
+		"id": "Enemy_dog_5_name",
+		"text": "Attack Dog VI"
+	},
+	{
+		"id": "Enemy_dog_6_name",
+		"text": "Attack Dog VII"
+	},
+	{
+		"id": "Enemy_dog_7_name",
+		"text": "Attack Dog VIII"
+	},
+	{
+		"id": "Enemy_eliteDog_0_name",
+		"text": "Battle Hound I"
+	},
+	{
+		"id": "Enemy_eliteDog_1_name",
+		"text": "Battle Hound II"
+	},
+	{
+		"id": "Enemy_eliteDog_2_name",
+		"text": "Battle Hound III"
+	},
+	{
+		"id": "Enemy_eliteDog_3_name",
+		"text": "Battle Hound IV"
+	},
+	{
+		"id": "Enemy_eliteDog_4_name",
+		"text": "Battle Hound V"
+	},
+	{
+		"id": "Enemy_eliteDog_5_name",
+		"text": "Battle Hound VI"
+	},
+	{
+		"id": "Enemy_eliteDog_6_name",
+		"text": "Battle Hound VII"
+	},
+	{
+		"id": "Enemy_eliteDog_7_name",
+		"text": "Battle Hound VIII"
+	},
+	{
+		"id": "Enemy_shotgunner_0_name",
+		"text": "Shock Trooper I"
+	},
+	{
+		"id": "Enemy_shotgunner_1_name",
+		"text": "Shock Trooper II"
+	},
+	{
+		"id": "Enemy_shotgunner_2_name",
+		"text": "Shock Trooper III"
+	},
+	{
+		"id": "Enemy_shotgunner_3_name",
+		"text": "Shock Trooper IV"
+	},
+	{
+		"id": "Enemy_shotgunner_4_name",
+		"text": "Shock Trooper V"
+	},
+	{
+		"id": "Enemy_shotgunner_5_name",
+		"text": "Shock Trooper VI"
+	},
+	{
+		"id": "Enemy_shotgunner_6_name",
+		"text": "Shock Trooper VII"
+	},
+	{
+		"id": "Enemy_shotgunner_7_name",
+		"text": "Shock Trooper VIII"
+	},
+	{
+		"id": "Enemy_medic_0_name",
+		"text": "Medic I"
+	},
+	{
+		"id": "Enemy_medic_1_name",
+		"text": "Medic II"
+	},
+	{
+		"id": "Enemy_medic_2_name",
+		"text": "Medic III"
+	},
+	{
+		"id": "Enemy_medic_3_name",
+		"text": "Medic IV"
+	},
+	{
+		"id": "Enemy_medic_4_name",
+		"text": "Medic V"
+	},
+	{
+		"id": "Enemy_medic_5_name",
+		"text": "Medic VI"
+	},
+	{
+		"id": "Enemy_medic_6_name",
+		"text": "Medic VII"
+	},
+	{
+		"id": "Enemy_medic_7_name",
+		"text": "Medic VIII"
+	},
+	{
+		"id": "Enemy_zombie_0_name",
+		"text": "Zombie I"
+	},
+	{
+		"id": "Enemy_zombie_1_name",
+		"text": "Zombie II"
+	},
+	{
+		"id": "Enemy_zombie_2_name",
+		"text": "Zombie III"
+	},
+	{
+		"id": "Enemy_zombie_3_name",
+		"text": "Zombie IV"
+	},
+	{
+		"id": "Enemy_zombie_4_name",
+		"text": "Zombie V"
+	},
+	{
+		"id": "Enemy_zombie_5_name",
+		"text": "Zombie VI"
+	},
+	{
+		"id": "Enemy_zombie_6_name",
+		"text": "Zombie VII"
+	},
+	{
+		"id": "Enemy_zombie_7_name",
+		"text": "Zombie VIII"
+	},
+	{
+		"id": "Enemy_infected_0_name",
+		"text": "Infected I"
+	},
+	{
+		"id": "Enemy_infected_1_name",
+		"text": "Infected II"
+	},
+	{
+		"id": "Enemy_infected_2_name",
+		"text": "Infected III"
+	},
+	{
+		"id": "Enemy_infected_3_name",
+		"text": "Infected IV"
+	},
+	{
+		"id": "Enemy_infected_4_name",
+		"text": "Infected V"
+	},
+	{
+		"id": "Enemy_infected_5_name",
+		"text": "Infected VI"
+	},
+	{
+		"id": "Enemy_infected_6_name",
+		"text": "Infected VII"
+	},
+	{
+		"id": "Enemy_infected_7_name",
+		"text": "Infected VIII"
+	},
+	{
+		"id": "Enemy_cultist_0_name",
+		"text": "Cultist I"
+	},
+	{
+		"id": "Enemy_cultist_1_name",
+		"text": "Cultist II"
+	},
+	{
+		"id": "Enemy_cultist_2_name",
+		"text": "Cultist III"
+	},
+	{
+		"id": "Enemy_cultist_3_name",
+		"text": "Cultist IV"
+	},
+	{
+		"id": "Enemy_cultist_4_name",
+		"text": "Cultist V"
+	},
+	{
+		"id": "Enemy_cultist_5_name",
+		"text": "Cultist VI"
+	},
+	{
+		"id": "Enemy_cultist_6_name",
+		"text": "Cultist VII"
+	},
+	{
+		"id": "Enemy_cultist_7_name",
+		"text": "Cultist VIII"
+	},
+	{
+		"id": "Enemy_sporeBearer_0_name",
+		"text": "Spore Bearer I"
+	},
+	{
+		"id": "Enemy_sporeBearer_1_name",
+		"text": "Spore Bearer II"
+	},
+	{
+		"id": "Enemy_sporeBearer_2_name",
+		"text": "Spore Bearer III"
+	},
+	{
+		"id": "Enemy_sporeBearer_3_name",
+		"text": "Spore Bearer IV"
+	},
+	{
+		"id": "Enemy_sporeBearer_4_name",
+		"text": "Spore Bearer V"
+	},
+	{
+		"id": "Enemy_sporeBearer_5_name",
+		"text": "Spore Bearer VI"
+	},
+	{
+		"id": "Enemy_sporeBearer_6_name",
+		"text": "Spore Bearer VII"
+	},
+	{
+		"id": "Enemy_sporeBearer_7_name",
+		"text": "Spore Bearer VIII"
+	},
+	{
+		"id": "Enemy_necromancer_0_name",
+		"text": "High Priestess I"
+	},
+	{
+		"id": "Enemy_necromancer_1_name",
+		"text": "High Priestess II"
+	},
+	{
+		"id": "Enemy_necromancer_2_name",
+		"text": "High Priestess III"
+	},
+	{
+		"id": "Enemy_necromancer_3_name",
+		"text": "High Priestess IV"
+	},
+	{
+		"id": "Enemy_necromancer_4_name",
+		"text": "High Priestess V"
+	},
+	{
+		"id": "Enemy_necromancer_5_name",
+		"text": "High Priestess VI"
+	},
+	{
+		"id": "Enemy_necromancer_6_name",
+		"text": "High Priestess VII"
+	},
+	{
+		"id": "Enemy_necromancer_7_name",
+		"text": "High Priestess VIII"
+	},
+	{
+		"id": "Enemy_Asshole_name",
+		"text": "Infanterist"
+	},
+	{
+		"id": "Enemy_Asshole2_name",
+		"text": "Infanterist"
+	},
+	{
+		"id": "Player_natalya_name",
+		"text": "Natalya"
+	},
+	{
+		"id": "Player_leonora_name",
+		"text": "Leonora"
+	},
+	{
+		"id": "Player_veduti_name",
+		"text": "Veduti"
+	},
+	{
+		"id": "Player_brunhilda_name",
+		"text": "Brunhilda"
+	},
+	{
+		"id": "Player_pereira_name",
+		"text": "Pereira"
+	},
+	{
+		"id": "Player_jackson_name",
+		"text": "Jackson"
+	},
+	{
+		"id": "Player_georgette_name",
+		"text": "Georgette"
+	},
+	{
+		"id": "Player_professor_name",
+		"text": "Bellamy"
+	},
+	{
+		"id": "Player_drChandra_name",
+		"text": "Dr. Chandra"
+	},
+	{
+		"id": "Player_shaneeka_name",
+		"text": "Shani"
+	},
+	{
+		"id": "Player_baron_name",
+		"text": "Baron"
+	},
+	{
+		"id": "Player_rose_name",
+		"text": "Rose"
+	},
+	{
+		"id": "Player_caballero_name",
+		"text": "Miguel"
+	},
+	{
+		"id": "Player_omar_name",
+		"text": "Omar"
+	},
+	{
+		"id": "Player_anabelle_name",
+		"text": "Annabelle"
+	},
+	{
+		"id": "Player_leFantome_name",
+		"text": "Le Fantôme"
+	},
+	{
+		"id": "Player_snowWhite_name",
+		"text": "Donut"
+	},
+	{
+		"id": "Player_fenris_name",
+		"text": "Fenris"
+	},
+	{
+		"id": "Player_jacksonTrailer_name",
+		"text": "Jackson"
+	},
+	{
+		"id": "Player_professorTrailer_name",
+		"text": "Professor"
+	},
+	{
+		"id": "Player_jacksonWeaponTester_name",
+		"text": "Jackson"
+	},
+	{
+		"id": "Player_pereiraWeaponTester_name",
+		"text": "Capt. Pereira"
+	},
+	{
+		"id": "Player_proffesorWeaponTester_name",
+		"text": "Professor"
+	},
+	{
+		"id": "Player_leFantomeWeaponTester_name",
+		"text": "Le Fantôme"
+	},
+	{
+		"id": "Codex_Label",
+		"text": "CODEX"
+	},
+	{
+		"id": "Codex_Tab_1",
+		"text": "BASICS"
+	},
+	{
+		"id": "Codex_Tab_2",
+		"text": "TRAVEL"
+	},
+	{
+		"id": "Codex_Tab_3",
+		"text": "COMBAT"
+	},
+	{
+		"id": "Codex_Tab_4",
+		"text": "ENEMIES"
+	},
+	{
+		"id": "Codex_Category_1",
+		"text": "TOPIC"
+	},
+	{
+		"id": "Codex_Category_2",
+		"text": "INFORMATION"
+	},
+	{
+		"id": "Achievement_Reward_Label",
+		"text": "Reward:"
+	},
+	{
+		"id": "Achievement_Info_Label",
+		"text": "Click here to claim"
+	},
+	{
+		"id": "Achievement_Unlock_Label",
+		"text": "Unlocks:"
+	},
+	{
+		"id": "Achievement_Info_Claim_Label",
+		"text": "Click to claim your reward"
+	},
+	{
+		"id": "Achievement_Info_NoClaim_Label",
+		"text": "Reward can't be claimed in menu"
+	},
+	{
+		"id": "Achievement_Info_InventoryFull_Label",
+		"text": "Can't claim: Full Inventory."
+	},
+	{
+		"id": "Achievement_Info_ResourceFull_Label",
+		"text": "Can't claim: Resource maxed out."
+	},
+	{
+		"id": "Achievement_AdventureUnlock_Label",
+		"text": "New Adventure Unlocked"
+	},
+	{
+		"id": "Achievements_TabLabel",
+		"text": "Achievements"
+	},
+	{
+		"id": "Achievements_Label_Filters",
+		"text": "Filters"
+	},
+	{
+		"id": "Achievements_Label_Information",
+		"text": "Information"
+	},
+	{
+		"id": "Achievement_Type_AdventureUnlocks",
+		"text": "Adventure Unlocks"
+	},
+	{
+		"id": "Achievement_Type_CharacterUnlocks",
+		"text": "Character Unlocks"
+	},
+	{
+		"id": "Achievement_Type_ExplorationAchievements",
+		"text": "Exploration Achievements"
+	},
+	{
+		"id": "Achievement_Type_EncounterAchievements",
+		"text": "Tactical Achievements"
+	},
+	{
+		"id": "Achievement_Type_AdventureUnlocks_Short",
+		"text": "Adventures"
+	},
+	{
+		"id": "Achievement_Type_CharacterUnlocks_Short",
+		"text": "Characters"
+	},
+	{
+		"id": "Achievement_Type_ExplorationAchievements_Short",
+		"text": "Exploration"
+	},
+	{
+		"id": "Achievement_Type_EncounterAchievements_Short",
+		"text": "Tactical"
+	},
+	{
+		"id": "CodexTutorial_Title",
+		"text": "More info in Codex"
+	},
+	{
+		"id": "CodexTutorial_Title_Controller",
+		"text": "Your first adventure!"
+	},
+	{
+		"id": "CodexTutorial_Description",
+		"text": "Whenever you see this notification blinking you can click on this button to see more information on the current context.\n\nYou can disable this in the options screen."
+	},
+	{
+		"id": "CodexTutorial_Description_Controller",
+		"text": "Use L/R to cycle through available adventures. \n\nAs you progress through the game, you will unlock new adventures to play. For now, you only have one adventure to choose from.\n \nThroughout the game, tutorial pop-ups like this one will introduce core gameplay elements. You can disable these at any time in the Options menu. \n\nExtensive gameplay information is always available in the in-game Codex."
+	},
+	{
+		"id": "CombatStats_Kills",
+		"text": "Kills"
+	},
+	{
+		"id": "CombatStats_Hospitalized",
+		"text": "Hospitalized"
+	},
+	{
+		"id": "CombatStats_DamageDealtLabel",
+		"text": "Damage Dealt"
+	},
+	{
+		"id": "CombatStats_DamageDealtAmount",
+		"text": "[0]"
+	},
+	{
+		"id": "CombatStats_ShotAccuracyLabel",
+		"text": "Shot Accuracy"
+	},
+	{
+		"id": "CombatStats_ShotAccuracyAmount",
+		"text": "[1]%"
+	},
+	{
+		"id": "CombatStats_EvadesLabel",
+		"text": "Evades"
+	},
+	{
+		"id": "CombatStats_EvadesAmount",
+		"text": "x[2]"
+	},
+	{
+		"id": "CombatStats_CritsLabel",
+		"text": "Crits"
+	},
+	{
+		"id": "CombatStats_CritsAmount",
+		"text": "x[3]"
+	},
+	{
+		"id": "CombatStats_TimeTakenLabel",
+		"text": "Time taken"
+	},
+	{
+		"id": "CombatStats_TimeTakenAmount",
+		"text": "[ms:4] ([7] Turns)"
+	},
+	{
+		"id": "CombatStats_ReloadLabel",
+		"text": "Reload all weapons"
+	},
+	{
+		"id": "CombatStats_ContinueLabel",
+		"text": "Back to map"
+	},
+	{
+		"id": "AdventureStats_Valuables",
+		"text": "Valuables"
+	},
+	{
+		"id": "AdventureStats_ValuablesAmount",
+		"text": " +$[0]"
+	},
+	{
+		"id": "AdventureStats_CombatTitle",
+		"text": "Combat"
+	},
+	{
+		"id": "AdventureStats_AdventureTitle",
+		"text": "Adventure"
+	},
+	{
+		"id": "AdventureStats_TimeTakenLabel",
+		"text": "Time taken"
+	},
+	{
+		"id": "AdventureStats_TimeTakenAmount",
+		"text": "[hms:0]"
+	},
+	{
+		"id": "AdventureStats_FuelUsedLabel",
+		"text": "Fuel used"
+	},
+	{
+		"id": "AdventureStats_FuelUsedAmount",
+		"text": "x[0]"
+	},
+	{
+		"id": "AdventureStats_AmmoUsedLabel",
+		"text": "Ammo used"
+	},
+	{
+		"id": "AdventureStats_AmmoUsedAmount",
+		"text": "[0]"
+	},
+	{
+		"id": "AdventureStats_ItemsCollectedLabel",
+		"text": "Items collected"
+	},
+	{
+		"id": "AdventureStats_ItemsCollectedAmount",
+		"text": "x[0]"
+	},
+	{
+		"id": "AdventureStats_MoneyCollectedLabel",
+		"text": "Money collected"
+	},
+	{
+		"id": "AdventureStats_MoneyCollectedAmount",
+		"text": "$[0]"
+	},
+	{
+		"id": "AdventureStats_ExperienceGainedLabel",
+		"text": "Experience gained"
+	},
+	{
+		"id": "AdventureStats_ExperienceGainedAmount",
+		"text": "[0] XP"
+	},
+	{
+		"id": "AdventureStats_DamageDealtLabel",
+		"text": "Total damage dealt"
+	},
+	{
+		"id": "AdventureStats_DamageDealtAmount",
+		"text": "[0]"
+	},
+	{
+		"id": "AdventureStats_ShotAccuracyLabel",
+		"text": "Avg Shot accuracy"
+	},
+	{
+		"id": "AdventureStats_ShotAccuracyAmount",
+		"text": "[0]%"
+	},
+	{
+		"id": "AdventureStats_EvadesLabel",
+		"text": "Total Evades"
+	},
+	{
+		"id": "AdventureStats_EvadesAmount",
+		"text": "x[0]"
+	},
+	{
+		"id": "AdventureStats_CritsLabel",
+		"text": "Total Crits"
+	},
+	{
+		"id": "AdventureStats_CritsAmount",
+		"text": "x[0]"
+	},
+	{
+		"id": "AdventureStats_KillCounter",
+		"text": "x[0]"
+	},
+	{
+		"id": "AdventureStats_ContinueButton",
+		"text": "Back to Menu"
+	},
+	{
+		"id": "AdventureStats_StartAdventure",
+		"text": "Begin Adventure"
+	},
+	{
+		"id": "AdventureStats_ContinueButtonHardcore",
+		"text": "Next Adventure"
+	},
+	{
+		"id": "AdventureStats_AdventureStats",
+		"text": "Show Stats"
+	},
+	{
+		"id": "Trashbag_Value",
+		"text": "$[0]"
+	},
+	{
+		"id": "Trashbag_Title",
+		"text": "Valuables"
+	},
+	{
+		"id": "Trashbag_Empty",
+		"text": "Empty :("
+	},
+	{
+		"id": "Trashbag_UndoDescription",
+		"text": "Return last item from the valuables bag back to your inventory."
+	},
+	{
+		"id": "EventEffect_ItemReceived",
+		"text": "[item:name] received"
+	},
+	{
+		"id": "EventEffect_ItemRemoved",
+		"text": "[item:name] removed"
+	},
+	{
+		"id": "EventEffect_ItemOfTypeRemoved",
+		"text": ""
+	},
+	{
+		"id": "EventEffect_AttributeRestored",
+		"text": "replenished"
+	},
+	{
+		"id": "EventEffect_UnitRevived",
+		"text": "revived"
+	},
+	{
+		"id": "EventEffect_Fuel",
+		"text": "Fuel"
+	},
+	{
+		"id": "EventEffect_Cash",
+		"text": "Cash"
+	},
+	{
+		"id": "EventEffect_Ammo",
+		"text": "Ammo"
+	},
+	{
+		"id": "EventEffect_Party",
+		"text": "Party"
+	},
+	{
+		"id": "ItemContext_UseWith",
+		"text": "Use on"
+	},
+	{
+		"id": "ItemContext_Reload",
+		"text": "Reload"
+	},
+	{
+		"id": "ItemContext_ConvertToTrash",
+		"text": "Send to Valuables"
+	},
+	{
+		"id": "ItemContext_Caption",
+		"text": "Actions"
+	},
+	{
+		"id": "ItemContext_SplitStack",
+		"text": "Split Stack"
+	},
+	{
+		"id": "ItemContext_MoveTo",
+		"text": "Move to"
+	},
+	{
+		"id": "ItemContext_MoveToPage",
+		"text": "Page [0]"
+	},
+	{
+		"id": "GambleOption_Info",
+		"text": "This choice may yield a positive or negative outcome."
+	},
+	{
+		"id": "GamblePerkOption_Info",
+		"text": "This option uses a character perk. It generally yields a positive outcome but in some instances may result in unexpected situations."
+	},
+	{
+		"id": "GamblePerkOption_LockedInfo",
+		"text": "This option uses a character perk. Your team does not possess the appropriate perk."
+	},
+	{
+		"id": "GambleInfo_Title",
+		"text": "Gamble"
+	},
+	{
+		"id": "CodexTopic_LockedInfo",
+		"text": "This topic is locked because you have not yet encountered the enemies described."
+	},
+	{
+		"id": "FastForward_Button_Tooltip",
+		"text": "Speed up the AI turn.\n\nYou may change the default speed in the game options."
+	},
+	{
+		"id": "SplitStack_Split_Button",
+		"text": "Split"
+	},
+	{
+		"id": "SplitStack_Cancel_Button",
+		"text": "Cancel"
+	},
+	{
+		"id": "Tutorial_CodexButton",
+		"text": "Learn more about this in the Codex..."
+	},
+	{
+		"id": "Tutorial_Hint",
+		"text": "Click anywhere outside the tooltip to continue."
+	},
+	{
+		"id": "Tutorial_Hint_Controller",
+		"text": "Press any button to dismiss tutorial."
+	},
+	{
+		"id": "Tutorial_Checkbox",
+		"text": "Show more tips"
+	},
+	{
+		"id": "Tutorial_TeamSelectScreen_Title",
+		"text": "Team selection"
+	},
+	{
+		"id": "Tutorial_TeamSelectScreen_Desc",
+		"text": "Double click on three characters to assemble your expedition."
+	},
+	{
+		"id": "Tutorial_TeamSelectScreen_Desc_Controller",
+		"text": "Before you can begin an adventure, you must assemble a Team of three characters.\n \nUse L/R to cycle through the available characters.\nPress Recruit to add a character to your Team."
+	},
+	{
+		"id": "Tutorial_TeamEquipScreen_Title",
+		"text": "Team: Equipment"
+	},
+	{
+		"id": "Tutorial_TeamEquipScreen_Desc",
+		"text": "Equip your characters with items from the car storage if you have already collected any.\n\nIncrease the upper limit of your travel resources and car storage as soon as you have enough money."
+	},
+	{
+		"id": "Tutorial_TeamEquipScreen_Desc_Controller",
+		"text": "After every adventure, you can equip your characters with items you've collected from previous adventures. Press Y to toggle between the character overview and your car storage.\n\nYou can also increase the upper limit of your travel resources and car storage capacity as soon as you have enough money."
+	},
+	{
+		"id": "Tutorial_TravelGoal_Title",
+		"text": "Destination"
+	},
+	{
+		"id": "Tutorial_TravelGoal_Desc",
+		"text": "Get to the destination on the other side of the map to complete the adventure."
+	},
+	{
+		"id": "Tutorial_TravelToNext_Title",
+		"text": "Travel"
+	},
+	{
+		"id": "Tutorial_TravelToNext_Desc",
+		"text": "Left click on a green location: Travel to location. \n\nThe journey there consumes one fuel."
+	},
+	{
+		"id": "Tutorial_TravelToNext_Desc_Controller",
+		"text": "Rotate the Left Stick to browse nearby locations on the map. Press A to travel.\n\nTraveling to an adjacent location consumes 1 x Fuel."
+	},
+	{
+		"id": "Tutorial_InventoryOpen_Title",
+		"text": "Inventory"
+	},
+	{
+		"id": "Tutorial_InventoryOpen_Title_Controller",
+		"text": "Open Journal"
+	},
+	{
+		"id": "Tutorial_InventoryOpen_Desc",
+		"text": "Left click on the bar at the bottom of the screen: Open the team screen. (Alternatively: Press I)"
+	},
+	{
+		"id": "Tutorial_InventoryOpen_Desc_Controller",
+		"text": "Press Y to access the Journal. \n- The Team page lets you manage items and skills. \n- The Codex page lets you review tutorial info and learn more about the world. \n- The Trophies page lists your achievements. "
+	},
+	{
+		"id": "Tutorial_InventoryUse_Title",
+		"text": "Inventory"
+	},
+	{
+		"id": "Tutorial_InventoryUse_Title_Controller",
+		"text": "Journal"
+	},
+	{
+		"id": "Tutorial_InventoryUse_Desc",
+		"text": "Select character: Left-click on the character portrait.\n\nEquip character: Drag an item from the car storage to the equipment slots of a character qualified to use it.\n\nHeal character: Left click on medkit, select target character."
+	},
+	{
+		"id": "Tutorial_InventoryUse_Desc_Controller",
+		"text": "The Team page lets you equip items, manage your inventory, and customize character skills.\n\nNavigation: \nUse L/R to cycle through Team members. \nUse Left Stick to browse equipment and storage.\n\nEquip / Use items:\nPress A to see all available actions for the currently selected item.\nMost items can be equipped. Some items, such as medkits, will let you heal outside of combat."
+	},
+	{
+		"id": "Tutorial_EventMultiChoice_Title",
+		"text": "Decisions"
+	},
+	{
+		"id": "Tutorial_EventMultiChoice_Desc",
+		"text": "Decisions with consequences that vary for the better or the worse, are indicated as gamble decisions."
+	},
+	{
+		"id": "Tutorial_EventLoot_Title",
+		"text": "Loot"
+	},
+	{
+		"id": "Tutorial_EventLoot_Desc",
+		"text": "Left click to open the loot boxes and click on your loot to take it with you – either individually or by clicking on the Take All button below."
+	},
+	{
+		"id": "Tutorial_EventLoot_Desc_Controller",
+		"text": "Loot obtained from an event is displayed at the top of the screen, above your car storage.\n\nTo take a piece of Loot individually, navigate with Left Stick and select with A. Alternatively, you can use the Take All button."
+	},
+	{
+		"id": "Tutorial_EventTrader_Title",
+		"text": "Trader"
+	},
+	{
+		"id": "Tutorial_EventTrader_Desc",
+		"text": "Right-click on the bag with your valuables: Sell. \n\nRight-click on one of your items: Sell. \n\nClick on one of the trader’s items: Purchase."
+	},
+	{
+		"id": "Tutorial_EventTrader_Desc_Controller",
+		"text": "Use Left Stick to browse the Trader menu.\n\nPress A to buy items from the Trader's inventory and to sell items from your car storage.\n\nSell Valuables with the Sell Valuables button."
+	},
+	{
+		"id": "Tutorial_LevelUp_Title",
+		"text": "Level Up"
+	},
+	{
+		"id": "Tutorial_LevelUp_Desc",
+		"text": "Left click on the bar at the bottom of the screen: Open the team screen. (Alternatively: Press I)\n\nLeft click the Level Up button above the character portrait: Open the skill tree"
+	},
+	{
+		"id": "Tutorial_LevelUp_Desc_Controller",
+		"text": "Once a character gains enough experience points, you can choose to increase their Level. This will improve their stats and unlock new skills.\n\nTo increase a character's Level, open the Journal and select that character from the Team page. Press Level Up to open the Level Up menu."
+	},
+	{
+		"id": "Tutorial_LevelUpSkills_Title",
+		"text": "Skills"
+	},
+	{
+		"id": "Tutorial_LevelUpSkills_Desc",
+		"text": "Each time you level up, you can choose a new advantage for your character.\n\nIn the skill tree, left click the desired advantage and confirm your choice."
+	},
+	{
+		"id": "Tutorial_LevelUpSkills_Desc_Controller",
+		"text": "When characters level up, they can learn new Skills.\n\nIn the Skill Tree, use Left Stick to browse Skills, and press A to choose one. Select Confirm Changes to finalize your choice."
+	},
+	{
+		"id": "Tutorial_Placement_Title",
+		"text": "Placement"
+	},
+	{
+		"id": "Tutorial_Placement_Desc",
+		"text": "Click on the green starting tiles to place your characters."
+	},
+	{
+		"id": "Tutorial_Placement_Desc_Controller",
+		"text": "Choose the starting locations for each of your characters.\n\nUse Left Stick to navigate the starting area. \nUse L/R to cycle between available characters.\nPress A to place the currently selected character.\n"
+	},
+	{
+		"id": "Tutorial_Cover_Title",
+		"text": "Cover"
+	},
+	{
+		"id": "Tutorial_Cover_Desc",
+		"text": "A unit is in cover protection as soon as it is directly horizontally or vertically adjacent to a piece of cover.\n\nDiagonal adjacency does not provide cover."
+	},
+	{
+		"id": "Tutorial_ActionBar_Title",
+		"text": "Action points"
+	},
+	{
+		"id": "Tutorial_ActionBar_Desc",
+		"text": "Each character may perform a maximum of two actions per turn: a maximum of one attack action and one movement action, or up to two neutral actions."
+	},
+	{
+		"id": "Tutorial_Bravery_Title",
+		"text": "Bravery points"
+	},
+	{
+		"id": "Tutorial_Bravery_Desc",
+		"text": "Some actions are special actions and require bravery points.\n\nSuccessful attacks or healing of allied characters will regenerate bravery points during combat."
+	},
+	{
+		"id": "Tutorial_TabView_Title",
+		"text": "Tab"
+	},
+	{
+		"id": "Tutorial_TabView_Title_Controller",
+		"text": "Details View"
+	},
+	{
+		"id": "Tutorial_TabView_Desc",
+		"text": "When planning your movement to a new position, press Tab to see what enemies can be attacked at what hit probability. This will also indicate enemies out of range or sight. \n\nMove your cursor over an enemy to see their attack range (red). Then press Tab to see their movement range (blue).\n\nWhen you attack an enemy, the tooltip above the enemy displays the expected damage and hit probability. Press Tab for more details."
+	},
+	{
+		"id": "Tutorial_TabView_Desc_Controller",
+		"text": "In certain situations, the X button can reveal more details about how your character engages with the enemy.\n\nWhile moving a character: Hold X to see the probability of hitting an enemy from the current location. This will also indicate whether an enemy is out of attack range or out of the selected character's sight.\n\nWhen attacking an enemy: Hold X to see more information about damage calculation."
+	},
+	{
+		"id": "Tutorial_ArmorSystem_Title",
+		"text": "Armor"
+	},
+	{
+		"id": "Tutorial_ArmorSystem_Desc",
+		"text": "Enemy armor reduces their damage. Each hit reduces the armor protection, however.\n\nSome types of damage are impeded more or less by armor than others."
+	},
+	{
+		"id": "Tutorial_Ambush_Title",
+		"text": "Blindsided Combat"
+	},
+	{
+		"id": "Tutorial_Ambush_Desc",
+		"text": "Blindsided: In your first turn, you can only EITHER move OR perform an action before the enemy attacks!"
+	},
+	{
+		"id": "Tutorial_Neutral_Title",
+		"text": "Tumult Combat"
+	},
+	{
+		"id": "Tutorial_Neutral_Desc",
+		"text": "Tumult: The enemy moves after you have placed your characters. Only then can you start your turn."
+	},
+	{
+		"id": "Tutorial_Advantage_Title",
+		"text": "Advantage Combat"
+	},
+	{
+		"id": "Tutorial_Advantage_Desc",
+		"text": "Advantage: You start the battle with your own turn before the enemy can react."
+	},
+	{
+		"id": "Tutorial_KO_Title",
+		"text": "Unconscious characters"
+	},
+	{
+		"id": "Tutorial_KO_Desc",
+		"text": "The number over the head of an unconscious character indicates the number of turns until they perish.\n\nMove a character with the ability to heal next to the unconscious character and bring back your friend!"
+	},
+	{
+		"id": "Tutorial_OldProfiles_Title",
+		"text": "Old profiles"
+	},
+	{
+		"id": "Tutorial_OldProfiles_Desc",
+		"text": "Much has changed in Pathway and there’s a whole host of new features. You may notice that we've had to reset your characters skill trees and some of your items have been updated. \n\nWhilst you can continue on your previous adventure, we recommend creating a new profile to get the most out of your Pathway experience."
+	},
+	{
+		"id": "Tutorial_HardcoreMode_Desc",
+		"text": "Hardcore Mode follows different rules than standard Pathway: All adventures play in a sequence one after the other. Everything carries over to the next adventure and you have to survive with only the things you find during your travels. Some additional changes:\n\n- Failing/Winning will lock the profile.\n- All jeep upgrades and characters are unlocked from the start.\n- Permadeath: When a character dies, they are dead for good.\n- No achievements\n- Higher base difficulty\n\nWe highly recommend to only try this mode after spending some time exploring the standard game."
+	},
+	{
+		"id": "Tutorial_HardcoreModeUpdate_Desc",
+		"text": "Pathway has received a new Hardcore Mode! It is a fresh and challenging new way to play the game. \n\nIn order to play in Hardcore Mode you have to create a new profile with the Hardcore Mode checkmark selected."
+	},
+	{
+		"id": "HardcoreMode_PerkRemoval",
+		"text": "One random positive and negative perk have been removed."
+	},
+	{
+		"id": "HardcoreMode_NewAdventureDisabled_Tooltip",
+		"text": "Hardcore Mode does not allow restarting of an adventure."
+	},
+	{
+		"id": "Extra_Chars",
+		"text": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяÈÉÙÌÒÀèéùìòà¿¡ÑÁÉÍÓÚÜñáéíóúü"
+	},
+	{
+		"id": "Controller_Help_CycleOptions",
+		"text": "Cycle Options Pages"
+	},
+	{
+		"id": "Controller_Help_EndTurn",
+		"text": "End turn"
+	},
+	{
+		"id": "Controller_Help_ConfirmPlacement",
+		"text": "Confirm Placement"
+	},
+	{
+		"id": "Controller_Help_AttackTarget",
+		"text": "Attack Target"
+	},
+	{
+		"id": "Controller_Help_ThrowBait",
+		"text": "Throw Bait"
+	},
+	{
+		"id": "Controller_Help_RotateBurst",
+		"text": "Rotate Burst"
+	},
+	{
+		"id": "Controller_Help_Move",
+		"text": "Move"
+	},
+	{
+		"id": "Controller_Help_ToggleView",
+		"text": "Toggle View"
+	},
+	{
+		"id": "Controller_Help_SelectTargets",
+		"text": "Select Target(s)"
+	},
+	{
+		"id": "Controller_Help_HealTarget",
+		"text": "Heal Target"
+	},
+	{
+		"id": "Controller_Help_SelectTarget",
+		"text": "Select Target"
+	},
+	{
+		"id": "Controller_Help_HunkerDown",
+		"text": "Hunker Down"
+	},
+	{
+		"id": "Controller_Help_LowProfile",
+		"text": "Low Profile"
+	},
+	{
+		"id": "Controller_Help_Meditate",
+		"text": "Meditate"
+	},
+	{
+		"id": "Controller_Help_FirstStrike",
+		"text": "Sudden Strike"
+	},
+	{
+		"id": "Controller_Help_Confirm",
+		"text": "Confirm"
+	},
+	{
+		"id": "Controller_Help_ReloadWeapon",
+		"text": "Reload Weapon"
+	},
+	{
+		"id": "Controller_Help_RepairTarget",
+		"text": "Repair Target"
+	},
+	{
+		"id": "Controller_Help_ReviveTarget",
+		"text": "Revive Target"
+	},
+	{
+		"id": "Controller_Help_AttackTargets",
+		"text": "Attack Target(s)"
+	},
+	{
+		"id": "Controller_Help_ThrowGrenade",
+		"text": "Throw Grenade"
+	},
+	{
+		"id": "Controller_Help_SpeedUpAI",
+		"text": "Speed Up AI"
+	},
+	{
+		"id": "Controller_Help_Vanish",
+		"text": "Vanish"
+	},
+	{
+		"id": "Controller_Help_ForceTooltips",
+		"text": "Force Tooltips"
+	},
+	{
+		"id": "Controller_Help_ToggleJournal",
+		"text": "Toggle Journal"
+	},
+	{
+		"id": "Controller_Help_CycleJournal",
+		"text": "Cycle Journal Pages"
+	},
+	{
+		"id": "Controller_Help_CycleCharacters",
+		"text": "Cycle Characters"
+	},
+	{
+		"id": "Controller_Help_CycleTopics",
+		"text": "Cycle Topics"
+	},
+	{
+		"id": "Controller_Help_CustomizeDifficulty",
+		"text": "Customize Difficulty"
+	},
+	{
+		"id": "Controller_Help_CycleAdventure",
+		"text": "Cycle Adventure"
+	},
+	{
+		"id": "Controller_Help_Back",
+		"text": "Back"
+	},
+	{
+		"id": "Controller_Help_NewProfile",
+		"text": "New Profile"
+	},
+	{
+		"id": "Controller_Help_Delete",
+		"text": "Delete Profile"
+	},
+	{
+		"id": "Controller_Help_ToggleJeepStorage",
+		"text": "Toggle Storage/Character"
+	},
+	{
+		"id": "Controller_Help_DropZonePlace",
+		"text": "Place Character"
+	},
+	{
+		"id": "Controller_Help_BuyItem",
+		"text": "Buy Item"
+	},
+	{
+		"id": "Controller_Help_SellItem",
+		"text": "Sell Item"
+	},
+	{
+		"id": "Controller_Help_CodingCyclePages",
+		"text": "Cycle Codex Pages"
+	},
+	{
+		"id": "Controller_Help_CloseMenu",
+		"text": "Close Menu"
+	},
+	{
+		"id": "Controller_Profile_Name",
+		"text": "SAVE"
+	}
+]
+}
