@@ -1,19 +1,5 @@
 # Pathway Russian Translation
 
-Перевод на русский игры Pathway
-
-Спасибо @botuhok за первую версию перевода.
-
-https://store.steampowered.com/app/546430/Pathway/
-
-Отказ от прав:
-
-Pathway принадлежит [Robotality](http://robotality.com/blog/about/)
-
-Этот перевод не принадлежит никому.
-
-* * *
-
 Rusian translation for Pathway game
 
 https://store.steampowered.com/app/546430/Pathway/
@@ -24,16 +10,30 @@ Disclaimer:
 
 No one owns this translation.
 
+* * *
+
+# Перевод на русский для игры Pathway
+https://store.steampowered.com/app/546430/Pathway/
+
+Спасибо [@botuhok](https://github.com/botuhok) за первую версию перевода.
+
+Отказ от прав:
+
+Pathway принадлежит [Robotality](http://robotality.com/blog/about/)
+
+Этот перевод не принадлежит никому.
+
 # Как установить
 
-Папку ru-RU поместить в папке с игрой по пути:
-<ПУТЬ_К_ИГРАМ_STEAM>/common/Pathway/i18n/
+Найти папке с игрой по пути:
 
-В этой же папке есть другие переводы:
+*<ПУТЬ_К_БИБЛИОТЕКЕ_STEAM>/steamapps/common/Pathway/i18n*
+
+В этой же папке лежат переводы на другие языки:
 - de-DE
 - en-US
-- fr-FR
-- ja-JP
-- zh-CN
+- и т.д.
+
+Нужно положить папку **ru-RU** из этого репозитория рядом с этими папками.
 
 Теперь можно запускать игру и в настройках выбирать язык "Русский".
