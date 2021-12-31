@@ -251,7 +251,7 @@
 	},
 	{
 		"id": "CharacterStats_BR",
-		"text": "Отвага: [entity:CBRA]/[entity:BRA]"
+		"text": "Храбрость: [entity:CBRA]/[entity:BRA]"
 	},
 	{
 		"id": "CharacterStats_Aim",
@@ -319,7 +319,7 @@
 	},
 	{
 		"id": "CharacterStats_CBRA",
-		"text": "Текущая Отвага"
+		"text": "Текущая Храбрость"
 	},
 	{
 		"id": "CharacterStats_HEA",
