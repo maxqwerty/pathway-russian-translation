@@ -463,11 +463,11 @@
 	},
 	{
 		"id": "Tooltip_Attack_MoreDetails",
-		"text": "Tab - описание"
+		"text": "Tab - детально"
 	},
 	{
 		"id": "Tooltip_Attack_MoreDetails_Controller",
-		"text": "описание"
+		"text": "детально"
 	},
 	{
 		"id": "Tooltip_Weapon_Accuracy",
@@ -1866,10 +1866,6 @@
 		"text": "English"
 	},
 	{
-		"id": "GameOptions_Language_ru-ru",
-		"text": "Русский"
-	},
-	{
 		"id": "GameOptions_Language_de-de",
 		"text": "Deutsch"
 	},
@@ -2215,7 +2211,7 @@
 	},
 	{
 		"id": "KeyAction_ShowFPSCounter",
-		"text": "счётчик fps"
+		"text": "счетчик fps"
 	},
 	{
 		"id": "KeyAction_Punch",
@@ -2467,11 +2463,11 @@
 	},
 	{
 		"id": "AdventureSelect_EnemyStrengthDescription",
-		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для лёгкой игры.\n\nЗдоровье: [0]%\nУрон: [1]%\nОтряды: [2]"
+		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для легкой игры.\n\nЗдоровье: [0]%\nУрон: [1]%\nОтряды: [2]"
 	},
 	{
 		"id": "AdventureSelect_EnemyStrengthDescriptionPositive",
-		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для лёгкой игры.\n\nЗдоровье: +[0]%\nУрон: +[1]%\nОтряды: +[2]"
+		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для легкой игры.\n\nЗдоровье: +[0]%\nУрон: +[1]%\nОтряды: +[2]"
 	},
 	{
 		"id": "AdventureSelect_CombatSize",
@@ -2519,7 +2515,7 @@
 	},
 	{
 		"id": "AdventureSelect_DifficultyHardest",
-		"text": "Тяжёлая"
+		"text": "Тяжелая"
 	},
 	{
 		"id": "AdventureSelect_Resource",
@@ -2995,35 +2991,35 @@
 	},
 	{
 		"id": "Enemy_dog_0_name",
-		"text": "Боевой Пёс I"
+		"text": "Боевой Пес I"
 	},
 	{
 		"id": "Enemy_dog_1_name",
-		"text": "Боевой Пёс II"
+		"text": "Боевой Пес II"
 	},
 	{
 		"id": "Enemy_dog_2_name",
-		"text": "Боевой Пёс III"
+		"text": "Боевой Пес III"
 	},
 	{
 		"id": "Enemy_dog_3_name",
-		"text": "Боевой Пёс IV"
+		"text": "Боевой Пес IV"
 	},
 	{
 		"id": "Enemy_dog_4_name",
-		"text": "Боевой Пёс V"
+		"text": "Боевой Пес V"
 	},
 	{
 		"id": "Enemy_dog_5_name",
-		"text": "Боевой Пёс VI"
+		"text": "Боевой Пес VI"
 	},
 	{
 		"id": "Enemy_dog_6_name",
-		"text": "Боевой Пёс VII"
+		"text": "Боевой Пес VII"
 	},
 	{
 		"id": "Enemy_dog_7_name",
-		"text": "Боевой Пёс VIII"
+		"text": "Боевой Пес VIII"
 	},
 	{
 		"id": "Enemy_eliteDog_0_name",
@@ -3155,35 +3151,35 @@
 	},
 	{
 		"id": "Enemy_infected_0_name",
-		"text": "Заражённый I"
+		"text": "Зараженный I"
 	},
 	{
 		"id": "Enemy_infected_1_name",
-		"text": "Заражённый II"
+		"text": "Зараженный II"
 	},
 	{
 		"id": "Enemy_infected_2_name",
-		"text": "Заражённый III"
+		"text": "Зараженный III"
 	},
 	{
 		"id": "Enemy_infected_3_name",
-		"text": "Заражённый IV"
+		"text": "Зараженный IV"
 	},
 	{
 		"id": "Enemy_infected_4_name",
-		"text": "Заражённый V"
+		"text": "Зараженный V"
 	},
 	{
 		"id": "Enemy_infected_5_name",
-		"text": "Заражённый VI"
+		"text": "Зараженный VI"
 	},
 	{
 		"id": "Enemy_infected_6_name",
-		"text": "Заражённый VII"
+		"text": "Зараженный VII"
 	},
 	{
 		"id": "Enemy_infected_7_name",
-		"text": "Заражённый VIII"
+		"text": "Зараженный VIII"
 	},
 	{
 		"id": "Enemy_cultist_0_name",
@@ -3407,7 +3403,7 @@
 	},
 	{
 		"id": "Codex_Category_1",
-		"text": "ТЕМА"
+		"text": "СПРАВКА"
 	},
 	{
 		"id": "Codex_Category_2",
@@ -3627,7 +3623,7 @@
 	},
 	{
 		"id": "AdventureStats_DamageDealtLabel",
-		"text": "Общий нанесённый урон"
+		"text": "Общий нанесенный урон"
 	},
 	{
 		"id": "AdventureStats_DamageDealtAmount",
@@ -3699,7 +3695,7 @@
 	},
 	{
 		"id": "EventEffect_ItemRemoved",
-		"text": "Удалён [item:name]"
+		"text": "Удален [item:name]"
 	},
 	{
 		"id": "EventEffect_ItemOfTypeRemoved",
@@ -3775,7 +3771,7 @@
 	},
 	{
 		"id": "CodexTopic_LockedInfo",
-		"text": "Этот пункт закрыт, потому что вы ещё не встретили описанного персонажа."
+		"text": "Этот пункт закрыт, потому что вы еще не встретили описанного персонажа."
 	},
 	{
 		"id": "FastForward_Button_Tooltip",
@@ -3795,7 +3791,7 @@
 	},
 	{
 		"id": "Tutorial_Hint",
-		"text": "Щёлкните за пределами подсказки, чтобы продолжить."
+		"text": "Щелкните за пределами подсказки, чтобы продолжить."
 	},
 	{
 		"id": "Tutorial_Hint_Controller",
@@ -3807,171 +3803,171 @@
 	},
 	{
 		"id": "Tutorial_TeamSelectScreen_Title",
-		"text": "Team selection"
+		"text": "Набор команды"
 	},
 	{
 		"id": "Tutorial_TeamSelectScreen_Desc",
-		"text": "Double click on three characters to assemble your expedition."
+		"text": "Двойным кликом выберите персонажей для экспедиции."
 	},
 	{
 		"id": "Tutorial_TeamSelectScreen_Desc_Controller",
-		"text": "Before you can begin an adventure, you must assemble a Team of three characters.\n \nUse L/R to cycle through the available characters.\nPress Recruit to add a character to your Team."
+		"text": "Перед тем как начать приключение вы должны собрать команду из трех персонажей.\n \nИспользуйте L/R для переключений между доступными персонажами.\nНажмите "Нанять" чтобы добавить персонажа в команду."
 	},
 	{
 		"id": "Tutorial_TeamEquipScreen_Title",
-		"text": "Team: Equipment"
+		"text": "Команда: Снаряжение"
 	},
 	{
 		"id": "Tutorial_TeamEquipScreen_Desc",
-		"text": "Equip your characters with items from the car storage if you have already collected any.\n\nIncrease the upper limit of your travel resources and car storage as soon as you have enough money."
+		"text": "Если вы подобрали вещи, то вы можете снарядить ими ваших персонажей, взяв вещи из багажника.\n\nУвеличивайте вместимость ресурсов и багажника по мере появления достаточного количества денег."
 	},
 	{
 		"id": "Tutorial_TeamEquipScreen_Desc_Controller",
-		"text": "After every adventure, you can equip your characters with items you've collected from previous adventures. Press Y to toggle between the character overview and your car storage.\n\nYou can also increase the upper limit of your travel resources and car storage capacity as soon as you have enough money."
+		"text": "После каждого приключения вы можете снарядить ваших персонажей вещами, собранными в предыдущих приключениях. Нажмите Y для переключения между экраном персонажа и багажником.\n\nВы можете увеличить вместимость ресурсов и багажника по мере появления достаточного количества денег."
 	},
 	{
 		"id": "Tutorial_TravelGoal_Title",
-		"text": "Destination"
+		"text": "Путь назначения"
 	},
 	{
 		"id": "Tutorial_TravelGoal_Desc",
-		"text": "Get to the destination on the other side of the map to complete the adventure."
+		"text": "Отправьтесь к своей цели на другом конце карты, чтобы завершить приключение."
 	},
 	{
 		"id": "Tutorial_TravelToNext_Title",
-		"text": "Travel"
+		"text": "Путешествие"
 	},
 	{
 		"id": "Tutorial_TravelToNext_Desc",
-		"text": "Left click on a green location: Travel to location. \n\nThe journey there consumes one fuel."
+		"text": "Клик по локации: переместиться в эту локацию. \n\nПутешествие тратит топливо."
 	},
 	{
 		"id": "Tutorial_TravelToNext_Desc_Controller",
-		"text": "Rotate the Left Stick to browse nearby locations on the map. Press A to travel.\n\nTraveling to an adjacent location consumes 1 x Fuel."
+		"text": "Используйте Левый Стик для выбора локации. Нажмите A для путешествия.\n\nПутшуствие в соседнюю локацию потребляет 1 единицу Топлива."
 	},
 	{
 		"id": "Tutorial_InventoryOpen_Title",
-		"text": "Inventory"
+		"text": "Инвентарь"
 	},
 	{
 		"id": "Tutorial_InventoryOpen_Title_Controller",
-		"text": "Open Journal"
+		"text": "Открыть Журнал"
 	},
 	{
 		"id": "Tutorial_InventoryOpen_Desc",
-		"text": "Left click on the bar at the bottom of the screen: Open the team screen. (Alternatively: Press I)"
+		"text": "Клик по панели внизу экрана: открыть окно команды. (Альтернатива: нажмите I)"
 	},
 	{
 		"id": "Tutorial_InventoryOpen_Desc_Controller",
-		"text": "Press Y to access the Journal. \n- The Team page lets you manage items and skills. \n- The Codex page lets you review tutorial info and learn more about the world. \n- The Trophies page lists your achievements. "
+		"text": "Нажмите Y, чтобы открыть Журнал. \n- Окно Команды позволит распределять вещи и способности. \n- Страница Кодекса позволит вам просмотреть справочную информацию и узнать больше о мире. \n- Страница Трофеев содержит список ваших достижений. "
 	},
 	{
 		"id": "Tutorial_InventoryUse_Title",
-		"text": "Inventory"
+		"text": "Инвентарь"
 	},
 	{
 		"id": "Tutorial_InventoryUse_Title_Controller",
-		"text": "Journal"
+		"text": "Журнал"
 	},
 	{
 		"id": "Tutorial_InventoryUse_Desc",
-		"text": "Select character: Left-click on the character portrait.\n\nEquip character: Drag an item from the car storage to the equipment slots of a character qualified to use it.\n\nHeal character: Left click on medkit, select target character."
+		"text": "Выбор персонажа: клик по потртрету персонажа.\n\nСнарядить персонажа: переместить предмет из багажника в слот снаряжения персонажа, способного использовать этот предмет.\n\nВылечить персонажа: кликните по аптечке, затем выберите, кого подлечить."
 	},
 	{
 		"id": "Tutorial_InventoryUse_Desc_Controller",
-		"text": "The Team page lets you equip items, manage your inventory, and customize character skills.\n\nNavigation: \nUse L/R to cycle through Team members. \nUse Left Stick to browse equipment and storage.\n\nEquip / Use items:\nPress A to see all available actions for the currently selected item.\nMost items can be equipped. Some items, such as medkits, will let you heal outside of combat."
+		"text": "Окно Команды позволяет снаряжать персонажей, управлять вещами и выбирать навыки.\n\nУправление: \nИспользуйте L/R для переключений между членами команды. \nИспользуйте Левый Стик для переключений между багажником и вещами.\n\nСнарядить / Использовать предмет:\nНажмите A, чтобы увидеть все доступные действия для текущего предмета.\nБольшинство предметов можно снарядить. Некоторые предметы, такие как Аптечки, позволят вам полечить персонажей вне боя."
 	},
 	{
 		"id": "Tutorial_EventMultiChoice_Title",
-		"text": "Decisions"
+		"text": "Принятие решений"
 	},
 	{
 		"id": "Tutorial_EventMultiChoice_Desc",
-		"text": "Decisions with consequences that vary for the better or the worse, are indicated as gamble decisions."
+		"text": "Решения, который могут привести как к хорошим, так и к плохим последствиям, обозначены как случайные."
 	},
 	{
 		"id": "Tutorial_EventLoot_Title",
-		"text": "Loot"
+		"text": "Добыча"
 	},
 	{
 		"id": "Tutorial_EventLoot_Desc",
-		"text": "Left click to open the loot boxes and click on your loot to take it with you – either individually or by clicking on the Take All button below."
+		"text": "Клик, чтобы открыть коробку добычи, клик по самой добыче, чтобы забрать ее – можно щелкать по отдельности, или нажать на кнопку Забрать Все."
 	},
 	{
 		"id": "Tutorial_EventLoot_Desc_Controller",
-		"text": "Loot obtained from an event is displayed at the top of the screen, above your car storage.\n\nTo take a piece of Loot individually, navigate with Left Stick and select with A. Alternatively, you can use the Take All button."
+		"text": "Полученная в событии Добыча отображается вверху экрана, над вашим багажником.\n\nИспользуйте Левый Стик и кнопку A, чтобы забирать добычу по отдельности. Ну или нажмите кнопку Забрать Все."
 	},
 	{
 		"id": "Tutorial_EventTrader_Title",
-		"text": "Trader"
+		"text": "Торговец"
 	},
 	{
 		"id": "Tutorial_EventTrader_Desc",
-		"text": "Right-click on the bag with your valuables: Sell. \n\nRight-click on one of your items: Sell. \n\nClick on one of the trader’s items: Purchase."
+		"text": "Клик правой кнопкой по мешку с ценностями: Продать. \n\nКлик правой кнопкой по вашему предмету: Продать. \n\nКлик по предмету торговца: Купить."
 	},
 	{
 		"id": "Tutorial_EventTrader_Desc_Controller",
-		"text": "Use Left Stick to browse the Trader menu.\n\nPress A to buy items from the Trader's inventory and to sell items from your car storage.\n\nSell Valuables with the Sell Valuables button."
+		"text": "Используйте Левый Стик для навигации в меню торговца.\n\nНажмите A, чтобы купить предмет у торговца или продать предмет из багажника.\n\nПродавайте ценности с помощью кнопки Продать Ценности."
 	},
 	{
 		"id": "Tutorial_LevelUp_Title",
-		"text": "Level Up"
+		"text": "Повышение Уровня"
 	},
 	{
 		"id": "Tutorial_LevelUp_Desc",
-		"text": "Left click on the bar at the bottom of the screen: Open the team screen. (Alternatively: Press I)\n\nLeft click the Level Up button above the character portrait: Open the skill tree"
+		"text": "Клик по панели внизу экрана: открыть окно команды. (Альтернатива: нажмите I)\n\nЛевый клик по кнопке Новый Уровень над портретом персонажа: открыть Дерево Навыков"
 	},
 	{
 		"id": "Tutorial_LevelUp_Desc_Controller",
-		"text": "Once a character gains enough experience points, you can choose to increase their Level. This will improve their stats and unlock new skills.\n\nTo increase a character's Level, open the Journal and select that character from the Team page. Press Level Up to open the Level Up menu."
+		"text": "Как только персонаж накопит достаточно очков опыта вы сможете повысить его Уровень. Это улучшит его характеристики и откроет новые навыки.\n\nЧтобы повысить уровень откройте Журнал и выберите персонажа кв окне Команды. Нажмите Новый Уровень, чтобы открыть меню повышения уровня."
 	},
 	{
 		"id": "Tutorial_LevelUpSkills_Title",
-		"text": "Skills"
+		"text": "Навыки"
 	},
 	{
 		"id": "Tutorial_LevelUpSkills_Desc",
-		"text": "Each time you level up, you can choose a new advantage for your character.\n\nIn the skill tree, left click the desired advantage and confirm your choice."
+		"text": "Повысив уровень вы сможете выбирать улучшения для персонажей.\n\nКликните по желаемому улучшению на Дереве Навыков и подтвердите свой выбор."
 	},
 	{
 		"id": "Tutorial_LevelUpSkills_Desc_Controller",
-		"text": "When characters level up, they can learn new Skills.\n\nIn the Skill Tree, use Left Stick to browse Skills, and press A to choose one. Select Confirm Changes to finalize your choice."
+		"text": "Повышая уровень персонажы могут изучать новые Навыки.\n\nИспользуйте Левый Стик на дереве Навыков, чтобы осмотреть Навыки, и нажмите A, чтобы выбрать новый навык. Нажмите Подтвердить Выбор, чтобы завершить."
 	},
 	{
 		"id": "Tutorial_Placement_Title",
-		"text": "Placement"
+		"text": "Размещение"
 	},
 	{
 		"id": "Tutorial_Placement_Desc",
-		"text": "Click on the green starting tiles to place your characters."
+		"text": "Кликните по стартовым зеленым клеткам, чтобы разместить персонажей."
 	},
 	{
 		"id": "Tutorial_Placement_Desc_Controller",
-		"text": "Choose the starting locations for each of your characters.\n\nUse Left Stick to navigate the starting area. \nUse L/R to cycle between available characters.\nPress A to place the currently selected character.\n"
+		"text": "Выберите начальное расположение для персонажей.\n\nИспользуйте Левый Стик для перемещения по стартовой зоне. \nИспользуйте L/R для переключений между персонажами.\nНажмите A, чтобы разместить персонажа.\n"
 	},
 	{
 		"id": "Tutorial_Cover_Title",
-		"text": "Cover"
+		"text": "Укрытие"
 	},
 	{
 		"id": "Tutorial_Cover_Desc",
-		"text": "A unit is in cover protection as soon as it is directly horizontally or vertically adjacent to a piece of cover.\n\nDiagonal adjacency does not provide cover."
+		"text": "Персонаж находится в укрытии, если он примыкает по вертикали или по горизонтали к клетке укрытия.\n\nПо диагонали укрытие не работает."
 	},
 	{
 		"id": "Tutorial_ActionBar_Title",
-		"text": "Action points"
+		"text": "Очки действия"
 	},
 	{
 		"id": "Tutorial_ActionBar_Desc",
-		"text": "Each character may perform a maximum of two actions per turn: a maximum of one attack action and one movement action, or up to two neutral actions."
+		"text": "Каждый персонаж может совершить до двух действий в свой ход: максимум одну атаку, максимум одно перемещение, и до двух нейтральных действий."
 	},
 	{
 		"id": "Tutorial_Bravery_Title",
-		"text": "Bravery points"
+		"text": "Очки Храбрости"
 	},
 	{
 		"id": "Tutorial_Bravery_Desc",
-		"text": "Some actions are special actions and require bravery points.\n\nSuccessful attacks or healing of allied characters will regenerate bravery points during combat."
+		"text": "Некоторые Навыки являются специальными и требуют очки Храбрости.\n\nУспешная атака врагов или лечение союзников дает очки храбрости в бою."
 	},
 	{
 		"id": "Tutorial_TabView_Title",
@@ -3979,79 +3975,79 @@
 	},
 	{
 		"id": "Tutorial_TabView_Title_Controller",
-		"text": "Details View"
+		"text": "Детальный Вид"
 	},
 	{
 		"id": "Tutorial_TabView_Desc",
-		"text": "When planning your movement to a new position, press Tab to see what enemies can be attacked at what hit probability. This will also indicate enemies out of range or sight. \n\nMove your cursor over an enemy to see their attack range (red). Then press Tab to see their movement range (blue).\n\nWhen you attack an enemy, the tooltip above the enemy displays the expected damage and hit probability. Press Tab for more details."
+		"text": "Планирую передвижение нажмите Tab, чтобы увидеть, каких противником можно будет атаковать и с какой вероятностью. Также можно будет увидеть, какие враги будут находиться вне поля зрения. \n\nНаведите курсор на противника, чтобы увидеть зону его атаки (красная). Затем нажмите Tab, чтобы увидеть зону его перемещения (синяя).\n\nПри атаке врага подсказка над ним отображает ожидаемый урон и вероятность попадания. Нажмите Tab для подробного описания."
 	},
 	{
 		"id": "Tutorial_TabView_Desc_Controller",
-		"text": "In certain situations, the X button can reveal more details about how your character engages with the enemy.\n\nWhile moving a character: Hold X to see the probability of hitting an enemy from the current location. This will also indicate whether an enemy is out of attack range or out of the selected character's sight.\n\nWhen attacking an enemy: Hold X to see more information about damage calculation."
+		"text": "В некоторых ситуациях нажатие кнопки X может дать больше информации о том, как ваши персонажи взаимодействую с врагами.\n\nПри перемещении: зажмите X, чтобы увидеть вероятность попадания по противнику из текущего положения. Также можно увидеть, если враг будет находиться вне зоны атаки или вне поля зрения выбранного персонажа.\n\nПри атаке врага: зажмите X, чтобы увидеть больше информации о расчете урона."
 	},
 	{
 		"id": "Tutorial_ArmorSystem_Title",
-		"text": "Armor"
+		"text": "Броня"
 	},
 	{
 		"id": "Tutorial_ArmorSystem_Desc",
-		"text": "Enemy armor reduces their damage. Each hit reduces the armor protection, however.\n\nSome types of damage are impeded more or less by armor than others."
+		"text": "Броня врагов уменьшает получаемый ими урон. Но каждое попадание уменьшает силу брони.\n\Разным типам урона броня может препятствовать больше или меньше."
 	},
 	{
 		"id": "Tutorial_Ambush_Title",
-		"text": "Blindsided Combat"
+		"text": "Бой Вслепую"
 	},
 	{
 		"id": "Tutorial_Ambush_Desc",
-		"text": "Blindsided: In your first turn, you can only EITHER move OR perform an action before the enemy attacks!"
+		"text": "Бой Вслепую: в свой первый ход вы можете ИЛИ переместиться, ИЛИ совершить действие до атаки противника!"
 	},
 	{
 		"id": "Tutorial_Neutral_Title",
-		"text": "Tumult Combat"
+		"text": "Суматоха"
 	},
 	{
 		"id": "Tutorial_Neutral_Desc",
-		"text": "Tumult: The enemy moves after you have placed your characters. Only then can you start your turn."
+		"text": "Суматоха: противник ходит сразу после того, как вы расставите персонажей. Только потом вы сможете сделать свой первый ход."
 	},
 	{
 		"id": "Tutorial_Advantage_Title",
-		"text": "Advantage Combat"
+		"text": "Преимущество в бою"
 	},
 	{
 		"id": "Tutorial_Advantage_Desc",
-		"text": "Advantage: You start the battle with your own turn before the enemy can react."
+		"text": "Преимущество: вы начинаете бой своим ходом до того, как враги смогут среагировать."
 	},
 	{
 		"id": "Tutorial_KO_Title",
-		"text": "Unconscious characters"
+		"text": "Персонаж без сознания"
 	},
 	{
 		"id": "Tutorial_KO_Desc",
-		"text": "The number over the head of an unconscious character indicates the number of turns until they perish.\n\nMove a character with the ability to heal next to the unconscious character and bring back your friend!"
+		"text": "Число над головой персонажа без сознания показывает количество раундов до его гибели.\n\nПоместите персонажа со способностью к лечению рядом с персонажем без сознания и верните к жизни своего друга!"
 	},
 	{
 		"id": "Tutorial_OldProfiles_Title",
-		"text": "Old profiles"
+		"text": "Старые профили"
 	},
 	{
 		"id": "Tutorial_OldProfiles_Desc",
-		"text": "Much has changed in Pathway and there’s a whole host of new features. You may notice that we've had to reset your characters skill trees and some of your items have been updated. \n\nWhilst you can continue on your previous adventure, we recommend creating a new profile to get the most out of your Pathway experience."
+		"text": "Многое изменилось в Pathway и появилось много новых функций. Вы могли заметить, что нам пришлось сбросить навыки персонажей в Дереве Навыков, а некоторые из ваших предметов были изменены. \n\nХотя вы можете продолжить свое старое приключение, мы рекомендуем создать новый профиль, чтобы получить задуманный нами опыт игры в Pathway."
 	},
 	{
 		"id": "Tutorial_HardcoreMode_Desc",
-		"text": "Hardcore Mode follows different rules than standard Pathway: All adventures play in a sequence one after the other. Everything carries over to the next adventure and you have to survive with only the things you find during your travels. Some additional changes:\n\n- Failing/Winning will lock the profile.\n- All jeep upgrades and characters are unlocked from the start.\n- Permadeath: When a character dies, they are dead for good.\n- No achievements\n- Higher base difficulty\n\nWe highly recommend to only try this mode after spending some time exploring the standard game."
+		"text": "Режим Хардкора следует другим правилам Pathway: все приключения играются последовательно, одно за другим. Все переносится на следующее приключение, и вам придется выживать с теми вещами, которые вы найдете в путешествии. Некоторые дополнительные изменения:\n\n- Проигрыш/Победа заблокируют профиль.\n- Все улусшения джипа и персонажи открыты с самого начала.\n- Окончательная смерть: при смерти персонажа он погибает навсегда.\n- Нет достижений\n- Повышенная базовая сложность\n\nМы настоятельно рекомендуем включать этот режим только после исследования игры в обычном режиме."
 	},
 	{
 		"id": "Tutorial_HardcoreModeUpdate_Desc",
-		"text": "Pathway has received a new Hardcore Mode! It is a fresh and challenging new way to play the game. \n\nIn order to play in Hardcore Mode you have to create a new profile with the Hardcore Mode checkmark selected."
+		"text": "Pathway получил новый Режим Хардкора! Это новый и интересный способ пройти игру. \n\nЧтобы сыграть в Режиме Хардкора вам нужно создать новый Профиль и поставить соответствующую галочку."
 	},
 	{
 		"id": "HardcoreMode_PerkRemoval",
-		"text": "One random positive and negative perk have been removed."
+		"text": "Были удалены один случайный положительный и отрицательный перки."
 	},
 	{
 		"id": "HardcoreMode_NewAdventureDisabled_Tooltip",
-		"text": "Hardcore Mode does not allow restarting of an adventure."
+		"text": "Нельзя перезапустить приключение в Режиме Хардкора."
 	},
 	{
 		"id": "Extra_Chars",
@@ -4059,163 +4055,163 @@
 	},
 	{
 		"id": "Controller_Help_CycleOptions",
-		"text": "Cycle Options Pages"
+		"text": "Переключить Страницу Настроек"
 	},
 	{
 		"id": "Controller_Help_EndTurn",
-		"text": "End turn"
+		"text": "Завершить ход"
 	},
 	{
 		"id": "Controller_Help_ConfirmPlacement",
-		"text": "Confirm Placement"
+		"text": "Подтвердить Размещение"
 	},
 	{
 		"id": "Controller_Help_AttackTarget",
-		"text": "Attack Target"
+		"text": "Атаковать Цель"
 	},
 	{
 		"id": "Controller_Help_ThrowBait",
-		"text": "Throw Bait"
+		"text": "Бросить Приманку"
 	},
 	{
 		"id": "Controller_Help_RotateBurst",
-		"text": "Rotate Burst"
+		"text": "Повернуть Очередь"
 	},
 	{
 		"id": "Controller_Help_Move",
-		"text": "Move"
+		"text": "Переместиться"
 	},
 	{
 		"id": "Controller_Help_ToggleView",
-		"text": "Toggle View"
+		"text": "Переключить Вид"
 	},
 	{
 		"id": "Controller_Help_SelectTargets",
-		"text": "Select Target(s)"
+		"text": "Выбрать Цель(и)"
 	},
 	{
 		"id": "Controller_Help_HealTarget",
-		"text": "Heal Target"
+		"text": "Лечить Цель"
 	},
 	{
 		"id": "Controller_Help_SelectTarget",
-		"text": "Select Target"
+		"text": "Выбрать Цель"
 	},
 	{
 		"id": "Controller_Help_HunkerDown",
-		"text": "Hunker Down"
+		"text": "Присесть"
 	},
 	{
 		"id": "Controller_Help_LowProfile",
-		"text": "Low Profile"
+		"text": "Уворот"
 	},
 	{
 		"id": "Controller_Help_Meditate",
-		"text": "Meditate"
+		"text": "Медитировать"
 	},
 	{
 		"id": "Controller_Help_FirstStrike",
-		"text": "Sudden Strike"
+		"text": "Внезапный Удар"
 	},
 	{
 		"id": "Controller_Help_Confirm",
-		"text": "Confirm"
+		"text": "Подтвердить"
 	},
 	{
 		"id": "Controller_Help_ReloadWeapon",
-		"text": "Reload Weapon"
+		"text": "Перезарядить Оружие"
 	},
 	{
 		"id": "Controller_Help_RepairTarget",
-		"text": "Repair Target"
+		"text": "Чинить Цель"
 	},
 	{
 		"id": "Controller_Help_ReviveTarget",
-		"text": "Revive Target"
+		"text": "Оживить Цель"
 	},
 	{
 		"id": "Controller_Help_AttackTargets",
-		"text": "Attack Target(s)"
+		"text": "Атаковать Цель(и)"
 	},
 	{
 		"id": "Controller_Help_ThrowGrenade",
-		"text": "Throw Grenade"
+		"text": "Бросить Гранату"
 	},
 	{
 		"id": "Controller_Help_SpeedUpAI",
-		"text": "Speed Up AI"
+		"text": "Ускорить Ход ИИ"
 	},
 	{
 		"id": "Controller_Help_Vanish",
-		"text": "Vanish"
+		"text": "Скрыться"
 	},
 	{
 		"id": "Controller_Help_ForceTooltips",
-		"text": "Force Tooltips"
+		"text": "Показывать Подсказки"
 	},
 	{
 		"id": "Controller_Help_ToggleJournal",
-		"text": "Toggle Journal"
+		"text": "Переключить Журнал"
 	},
 	{
 		"id": "Controller_Help_CycleJournal",
-		"text": "Cycle Journal Pages"
+		"text": "Перелистнуть Страницу Журнала"
 	},
 	{
 		"id": "Controller_Help_CycleCharacters",
-		"text": "Cycle Characters"
+		"text": "Переключить Персонажа"
 	},
 	{
 		"id": "Controller_Help_CycleTopics",
-		"text": "Cycle Topics"
+		"text": "Переключить Справку"
 	},
 	{
 		"id": "Controller_Help_CustomizeDifficulty",
-		"text": "Customize Difficulty"
+		"text": "Изменить Сложность"
 	},
 	{
 		"id": "Controller_Help_CycleAdventure",
-		"text": "Cycle Adventure"
+		"text": "Переключить Приключение"
 	},
 	{
 		"id": "Controller_Help_Back",
-		"text": "Back"
+		"text": "Назад"
 	},
 	{
 		"id": "Controller_Help_NewProfile",
-		"text": "New Profile"
+		"text": "Новый Профиль"
 	},
 	{
 		"id": "Controller_Help_Delete",
-		"text": "Delete Profile"
+		"text": "Удалить Профиль"
 	},
 	{
 		"id": "Controller_Help_ToggleJeepStorage",
-		"text": "Toggle Storage/Character"
+		"text": "Переключить Багажник/Персонажи"
 	},
 	{
 		"id": "Controller_Help_DropZonePlace",
-		"text": "Place Character"
+		"text": "Разместить Персонажа"
 	},
 	{
 		"id": "Controller_Help_BuyItem",
-		"text": "Buy Item"
+		"text": "Купить Предмет"
 	},
 	{
 		"id": "Controller_Help_SellItem",
-		"text": "Sell Item"
+		"text": "Продать Предмет"
 	},
 	{
 		"id": "Controller_Help_CodingCyclePages",
-		"text": "Cycle Codex Pages"
+		"text": "Перелистнуть Страницу Кодекса"
 	},
 	{
 		"id": "Controller_Help_CloseMenu",
-		"text": "Close Menu"
+		"text": "Закрыть Меню"
 	},
 	{
 		"id": "Controller_Profile_Name",
-		"text": "SAVE"
+		"text": "СОХРАНИТЬ"
 	}
 ]
 }
