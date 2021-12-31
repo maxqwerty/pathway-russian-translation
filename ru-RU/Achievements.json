@@ -3,319 +3,319 @@
 "rows": [
 	{
 		"id": "adventure01Clue01_desc",
-		"text": "What on earth are the Nazis up to?"
+		"text": "Что, черт возьми, затевают нацисты??"
 	},
 	{
 		"id": "adventure01Clue01_title",
-		"text": "The Armenian Trail"
+		"text": "Армянская тропа"
 	},
 	{
 		"id": "adventure01Clue03_desc",
-		"text": "The circling vultures put us on his trail..."
+		"text": "Кружащиеся стервятники указали нам его след..."
 	},
 	{
 		"id": "adventure01Clue03_title",
-		"text": "Hubris"
+		"text": "Гордыня"
 	},
 	{
 		"id": "adventure02Clue01_desc",
-		"text": "They thought they could catch us unawares!"
+		"text": "Они думали, что могут застать нас врасплох!"
 	},
 	{
 		"id": "adventure02Clue01_title",
-		"text": "Sword of Flames"
+		"text": "Пламенный Меч"
 	},
 	{
 		"id": "adventure02Clue02_desc",
-		"text": "Their solitary radio station was tucked away in a sea of dunes."
+		"text": "Их одинокая радиостанция была спрятана в море дюн."
 	},
 	{
 		"id": "adventure02Clue02_title",
-		"text": "Tip of the Iceberg"
+		"text": "Верхушка айсберга"
 	},
 	{
 		"id": "adventure02Clue03_desc",
-		"text": "They were hard on his heels..."
+		"text": "Тяжело идти по пятам..."
 	},
 	{
 		"id": "adventure02Clue03_title",
-		"text": "The Coming War"
+		"text": "Грядущая Война"
 	},
 	{
 		"id": "adventure03MapArrival02_desc",
-		"text": "The stench of death hung over the desolate custom house."
+		"text": "Зловоние смерти нависло над заброшенной таможней."
 	},
 	{
 		"id": "adventure03MapArrival02_title",
-		"text": "Realm of Torment"
+		"text": "Царство Мучений"
 	},
 	{
 		"id": "adventure05Clue01_desc",
-		"text": "It was the only well for miles!"
+		"text": "Единственный колодец на несколько миль!"
 	},
 	{
 		"id": "adventure05Clue01_title",
-		"text": "The Fountain of Youth"
+		"text": "Фонтан Юности"
 	},
 	{
 		"id": "adventure05Clue02_desc",
-		"text": "The rocks loomed like a clenched fist."
+		"text": "Скалы выглядели, как сжатый кулак."
 	},
 	{
 		"id": "adventure05Clue02_title",
-		"text": "The Brothers‘ Betrayal"
+		"text": "Предательство Братства"
 	},
 	{
 		"id": "adventure05Clue03_desc",
-		"text": "An eerie silence lay over the huts."
+		"text": "Над хижинами стояла жуткая тишина."
 	},
 	{
 		"id": "adventure05Clue03_title",
-		"text": "Project Valhalla"
+		"text": "Проект Вальхалла"
 	},
 	{
 		"id": "adventure06Clue01_desc",
-		"text": "The ruins drew them like vermin."
+		"text": "Руины привлекали их, как паразитов."
 	},
 	{
 		"id": "adventure06Clue01_title",
-		"text": "A Fresh Track"
+		"text": "Свежий След"
 	},
 	{
 		"id": "adventureFail01_desc",
-		"text": "Finish [amount] adventures."
+		"text": "Завершить [amount] приключений."
 	},
 	{
 		"id": "adventureFail01_title",
-		"text": "An Ending and a New Beginning I"
+		"text": "Конец и Новой Начало I"
 	},
 	{
 		"id": "adventureFail02_desc",
-		"text": "Finish [amount] adventures."
+		"text": "Завершить [amount] приключений."
 	},
 	{
 		"id": "adventureFail02_title",
-		"text": "An Ending and a New Beginning II"
+		"text": "Конец и Новой Начало II"
 	},
 	{
 		"id": "adventureFail03_desc",
-		"text": "Finish [amount] adventures."
+		"text": "Завершить [amount] приключений."
 	},
 	{
 		"id": "adventureFail03_title",
-		"text": "An Ending and a New Beginning III"
+		"text": "Конец и Новой Начало III"
 	},
 	{
 		"id": "aloneRescue01_desc",
-		"text": "Never give up hope."
+		"text": "Никогда не теряй надежду."
 	},
 	{
 		"id": "aloneRescue01_title",
-		"text": "Lost & Found"
+		"text": "Потерять и Найти"
 	},
 	{
 		"id": "armorRestored01_desc",
-		"text": "Restore [amount] AR."
+		"text": "Восстановить [amount] Брони."
 	},
 	{
 		"id": "armorRestored01_title",
-		"text": "Tinker I"
+		"text": "Жестянщик I"
 	},
 	{
 		"id": "armorRestored02_desc",
-		"text": "Restore [amount] AR."
+		"text": "Восстановить [amount] Брони."
 	},
 	{
 		"id": "armorRestored02_title",
-		"text": "Tinker II"
+		"text": "Жестянщик II"
 	},
 	{
 		"id": "armorRestored03_desc",
-		"text": "Restore [amount] AR."
+		"text": "Восстановить [amount] Брони."
 	},
 	{
 		"id": "armorRestored03_title",
-		"text": "Tinker III"
+		"text": "Жестянщик III"
 	},
 	{
 		"id": "deadNaziCourier01_desc",
-		"text": "Who knows what really killed the courier?"
+		"text": "Кто знает, что на самом деле убило курьера?"
 	},
 	{
 		"id": "deadNaziCourier01_title",
-		"text": "Drug Fiend"
+		"text": "Наркоман"
 	},
 	{
 		"id": "disintegratorKills01_desc",
-		"text": "Kill [amount] enemies with a Disintegrator."
+		"text": "Убить [amount] врагов Дезинтегратором."
 	},
 	{
 		"id": "disintegratorKills01_title",
-		"text": "Relentless Progress"
+		"text": "Безжалостный Прогресс"
 	},
 	{
 		"id": "donutFound01_desc",
-		"text": "Sometimes salvation comes when you least expect it..."
+		"text": "Иногда спасение приходит, когда уже не ждёшь..."
 	},
 	{
 		"id": "donutFound01_title",
-		"text": "A loyal companion"
+		"text": "Верный компаньон"
 	},
 	{
 		"id": "fenrisFound01_desc",
-		"text": "Just when you think it’s all over..."
+		"text": "Когда ты думаешь, что все кончено..."
 	},
 	{
 		"id": "fenrisFound01_title",
-		"text": "A Friend and Helper"
+		"text": "Друг и Помощник"
 	},
 	{
 		"id": "firstBlood01_desc",
-		"text": "Kill a Nazi."
+		"text": "Убить Нациста."
 	},
 	{
 		"id": "firstBlood01_title",
-		"text": "First Blood"
+		"text": "Первая Кровь"
 	},
 	{
 		"id": "fourKillsInOne01_desc",
-		"text": "Kill 4+ enemies with one attack."
+		"text": "Убить 4+ врагов одной атакой."
 	},
 	{
 		"id": "fourKillsInOne01_title",
-		"text": "Killer III"
+		"text": "Убийца III"
 	},
 	{
 		"id": "friendlyBeduins01_desc",
-		"text": "A game between friends..."
+		"text": "Игра между друзьями..."
 	},
 	{
 		"id": "friendlyBeduins01_title",
-		"text": "A Sly Fox"
+		"text": "Хитрый Лис"
 	},
 	{
 		"id": "healthRestored01_desc",
-		"text": "Restore [amount] HP."
+		"text": "Восстановить [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored01_title",
-		"text": "Healer I"
+		"text": "Целитель I"
 	},
 	{
 		"id": "healthRestored02_desc",
-		"text": "Restore [amount] HP."
+		"text": "Восстановить [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored02_title",
-		"text": "Healer II"
+		"text": "Целитель II"
 	},
 	{
 		"id": "healthRestored03_desc",
-		"text": "Restore [amount] HP."
+		"text": "Восстановить [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored03_title",
-		"text": "Healer III"
+		"text": "Целитель III"
 	},
 	{
 		"id": "knifeKills01_desc",
-		"text": "Kill [amount] enemies with a Knife."
+		"text": "Убить [amount] врагов Ножом."
 	},
 	{
 		"id": "knifeKills01_title",
-		"text": "Butcher"
+		"text": "Мясник"
 	},
 	{
 		"id": "lostRockTemple01_desc",
-		"text": "The huge boulder rumbled towards us..."
+		"text": "Огромный валун катился навстречу нам..."
 	},
 	{
 		"id": "lostRockTemple01_title",
-		"text": "The Power of Desperation"
+		"text": "Сила Отчаяния"
 	},
 	{
 		"id": "moneyCollected01_desc",
-		"text": "Collect $[amount]."
+		"text": "Собрать $[amount]."
 	},
 	{
 		"id": "moneyCollected01_title",
-		"text": "Interest I"
+		"text": "Доход I"
 	},
 	{
 		"id": "moneyCollected02_desc",
-		"text": "Collect $[amount]."
+		"text": "Собрать $[amount]."
 	},
 	{
 		"id": "moneyCollected02_title",
-		"text": "Interest II"
+		"text": "Доход II"
 	},
 	{
 		"id": "moneyCollected03_desc",
-		"text": "Collect $[amount]."
+		"text": "Собрать $[amount]."
 	},
 	{
 		"id": "moneyCollected03_title",
-		"text": "Interest III"
+		"text": "Доход III"
 	},
 	{
 		"id": "murderousIdol_desc",
-		"text": "The idol’s empty eyes seemed to follow us everywhere..."
+		"text": "Пустые глаза идола, казалось, следили за нами повсюду..."
 	},
 	{
 		"id": "murderousIdol_title",
-		"text": "You Never Know"
+		"text": "Никогда Не Знаешь Наверняка"
 	},
 	{
 		"id": "naziKills01_desc",
-		"text": "Kill [amount] Nazis."
+		"text": "Убить [amount] Нацистов."
 	},
 	{
 		"id": "naziKills01_title",
-		"text": "Nazi Hunter I"
+		"text": "Охотник на Нацистов I"
 	},
 	{
 		"id": "naziKills02_desc",
-		"text": "Kill [amount] Nazis."
+		"text": "Убить [amount] Нацистов."
 	},
 	{
 		"id": "naziKills02_title",
-		"text": "Nazi Hunter II"
+		"text": "Охотник на Нацистов II"
 	},
 	{
 		"id": "naziKills03_desc",
-		"text": "Kill [amount] Nazis."
+		"text": "Убить [amount] Нацистов."
 	},
 	{
 		"id": "naziKills03_title",
-		"text": "Nazi Hunter III"
+		"text": "Охотник на Нацистов III"
 	},
 	{
 		"id": "pistolKills01_desc",
-		"text": "Kill [amount] enemies with a Pistol."
+		"text": "Убить [amount] врагов Пистолетом."
 	},
 	{
 		"id": "pistolKills01_title",
-		"text": "Pistolero"
+		"text": "Пистолеро"
 	},
 	{
 		"id": "recruit01_desc",
-		"text": "Recruit [amount] characters."
+		"text": "Нанять [amount] персонажей."
 	},
 	{
 		"id": "recruit01_title",
-		"text": "Through Thick and Thin"
+		"text": "Во что бы то ни стало"
 	},
 	{
 		"id": "restingPlace01_desc",
-		"text": "Rest [amount] times."
+		"text": "Отдохнуть [amount] раз."
 	},
 	{
 		"id": "restingPlace01_title",
-		"text": "Campfire Tales"
+		"text": "Рассказы у Костра"
 	},
 	{
 		"id": "rifleKills01_desc",
-		"text": "Kill [amount] enemies with an Assault Rifle."
+		"text": "Убить [amount] врагов с помощьюn Assault Rifle."
 	},
 	{
 		"id": "rifleKills01_title",
@@ -323,283 +323,283 @@
 	},
 	{
 		"id": "shotgunKills01_desc",
-		"text": "Kill [amount] enemies with a Shotgun."
+		"text": "Убить [amount] врагов с помощью Дробовика."
 	},
 	{
 		"id": "shotgunKills01_title",
-		"text": "Shotgunner"
+		"text": "Дробовик"
 	},
 	{
 		"id": "sickBeduinCamel01_desc",
-		"text": "Once the fever has passed, it is already too late."
+		"text": "Как только лихорадка прошла, уже было слишком поздно."
 	},
 	{
 		"id": "sickBeduinCamel01_title",
-		"text": "Camel Whisperer"
+		"text": "Заклинатель Верблюдов"
 	},
 	{
 		"id": "singleShotKills01_desc",
-		"text": "Kill [amount] enemies with a single shot."
+		"text": "Убить [amount] врагов с помощью одного выстрела."
 	},
 	{
 		"id": "singleShotKills01_title",
-		"text": "One Shot Killer I"
+		"text": "Убийца Одним Выстрелом I"
 	},
 	{
 		"id": "singleShotKills02_desc",
-		"text": "Kill [amount] enemies with a single shot."
+		"text": "Убить [amount] врагов с помощью одного выстрела."
 	},
 	{
 		"id": "singleShotKills02_title",
-		"text": "One Shot Killer II"
+		"text": "Убийца Одним Выстрелом II"
 	},
 	{
 		"id": "singleShotKills03_desc",
-		"text": "Kill [amount] enemies with a single shot."
+		"text": "Убить [amount] врагов с помощью одного выстрела."
 	},
 	{
 		"id": "singleShotKills03_title",
-		"text": "One Shot Killer III"
+		"text": "Убийца Одним Выстрелом III"
 	},
 	{
 		"id": "sniperKills01_desc",
-		"text": "Kill [amount] enemies with a Sniper Rifle."
+		"text": "Убить [amount] врагов с помощью Снайперской Винтовки."
 	},
 	{
 		"id": "sniperKills01_title",
-		"text": "Sniper"
+		"text": "Снайпер"
 	},
 	{
 		"id": "stargateFragment01_desc",
-		"text": "The fragments lay strewn in a circle on the desert sand."
+		"text": "В песке пустыни валялись разбросанные фрагменты."
 	},
 	{
 		"id": "stargateFragment01_title",
-		"text": "Kissed By The Eons"
+		"text": "Благословлённый Эонами"
 	},
 	{
 		"id": "tankLeak01_desc",
-		"text": "Lose [amount] fuel in an accident."
+		"text": "Потерять [amount] топлива в аварии."
 	},
 	{
 		"id": "tankLeak01_title",
-		"text": "Environmental Hazard"
+		"text": "Опасность для Окружающей Среды"
 	},
 	{
 		"id": "tarantulaCorpse_desc",
-		"text": "They are probably nesting inside the body..."
+		"text": "Возможно они гнездятся внутри тел..."
 	},
 	{
 		"id": "tarantulaCorpse_title",
-		"text": "Arachnophobia"
+		"text": "Арахнофобия"
 	},
 	{
 		"id": "threeKillsInOne01_desc",
-		"text": "Kill 3 enemies with one attack."
+		"text": "Убить 3 врагов одной атакой."
 	},
 	{
 		"id": "threeKillsInOne01_title",
-		"text": "Killer II"
+		"text": "Убийца II"
 	},
 	{
 		"id": "trashSold01_desc",
-		"text": "Collect [amount] trash items."
+		"text": "Собрать [amount] мусора."
 	},
 	{
 		"id": "trashSold01_title",
-		"text": "Trash Collector"
+		"text": "Мусорщик"
 	},
 	{
 		"id": "twoKillsInOne01_desc",
-		"text": "Kill 2 enemies with one attack."
+		"text": "Убить 2 врагов одной атакой."
 	},
 	{
 		"id": "twoKillsInOne01_title",
-		"text": "Killer I"
+		"text": "Убийца I"
 	},
 	{
 		"id": "undeadKills01_desc",
-		"text": "Kill [amount] Undead."
+		"text": "Убить [amount] Нежити."
 	},
 	{
 		"id": "undeadKills01_title",
-		"text": "Exorcist I"
+		"text": "Экзорцист I"
 	},
 	{
 		"id": "undeadKills02_desc",
-		"text": "Kill [amount] Undead."
+		"text": "Убить [amount] Нежити."
 	},
 	{
 		"id": "undeadKills02_title",
-		"text": "Exorcist II"
+		"text": "Экзорцист II"
 	},
 	{
 		"id": "undeadKills03_desc",
-		"text": "Kill [amount] Undead."
+		"text": "Убить [amount] Нежити."
 	},
 	{
 		"id": "undeadKills03_title",
-		"text": "Exorcist III"
+		"text": "Экзорцист III"
 	},
 	{
 		"id": "unholyVault01_desc",
-		"text": "The single guard was not really alone in the temple."
+		"text": "Единственный стражник был не одинок в храме."
 	},
 	{
 		"id": "unholyVault01_title",
-		"text": "Run, you fools!"
+		"text": "Бегите, глупцы!"
 	},
 	{
 		"id": "unlockAdventure02_desc",
-		"text": "Finish Adventure I"
+		"text": "Звершить Приключение I"
 	},
 	{
 		"id": "unlockAdventure02_title",
-		"text": "Adventure II"
+		"text": "Приключение II"
 	},
 	{
 		"id": "unlockAdventure03_desc",
-		"text": "Finish Adventure II"
+		"text": "Звершить Приключение II"
 	},
 	{
 		"id": "unlockAdventure03_title",
-		"text": "Adventure III"
+		"text": "Приключение III"
 	},
 	{
 		"id": "unlockAdventure05_desc",
-		"text": "Finish Adventure III"
+		"text": "Звершить Приключение III"
 	},
 	{
 		"id": "unlockAdventure05_title",
-		"text": "Adventure IV"
+		"text": "Приключение IV"
 	},
 	{
 		"id": "unlockAdventure06_desc",
-		"text": "Finish Adventure IV"
+		"text": "Звершить Приключение IV"
 	},
 	{
 		"id": "unlockAdventure06_title",
-		"text": "Adventure V"
+		"text": "Приключение V"
 	},
 	{
 		"id": "unlockAnnabelle_desc",
-		"text": "Kill [amount] enemies with Double Shot to unlock Annabelle."
+		"text": "Убить [amount] врагов Двойным Выстрелом, чтобы открыть Аннабель."
 	},
 	{
 		"id": "unlockAnnabelle_title",
-		"text": "Annabelle"
+		"text": "Аннабель"
 	},
 	{
 		"id": "unlockBellamy_desc",
-		"text": "Find a Disintegrator to unlock Bellamy."
+		"text": "Найдите Дезинтегратор, чтобы открыть Беллами."
 	},
 	{
 		"id": "unlockBellamy_title",
-		"text": "Bellamy"
+		"text": "Беллами"
 	},
 	{
 		"id": "unlockBrunhilda_desc",
-		"text": "Bleed kill [amount] enemies to unlock Brunhilda."
+		"text": "Убейте кровотечением [amount] врагов, чтобы открыть Брунхильду."
 	},
 	{
 		"id": "unlockBrunhilda_title",
-		"text": "Brunhilda"
+		"text": "Брунхильда"
 	},
 	{
 		"id": "unlockDrChandra_desc",
-		"text": "Revive [amount] characters to unlock Dr Chandra."
+		"text": "Оживить [amount] персонажей, чтобы открыть Док Хандра."
 	},
 	{
 		"id": "unlockDrChandra_title",
-		"text": "Dr Chandra"
+		"text": "Док Хандра"
 	},
 	{
 		"id": "unlockFantome_desc",
-		"text": "Evade [amount] attacks to unlock Le Fantôme."
+		"text": "Избежать [amount] атак, чтобы открыть Ле Фантома."
 	},
 	{
 		"id": "unlockFantome_title",
-		"text": "Le Fantôme"
+		"text": "Ле Фантом"
 	},
 	{
 		"id": "unlockGeorgette_desc",
-		"text": "Kill [amount] enemies with Ambush ability to unlock Georgette."
+		"text": "Убить [amount] врагов с помощью навыка Засады, чтобы открыть Жеоржетту."
 	},
 	{
 		"id": "unlockGeorgette_title",
-		"text": "Georgette"
+		"text": "Жеоржетта"
 	},
 	{
 		"id": "unlockLeonora_desc",
-		"text": "Kill [amount] Nazis to unlock Leonora."
+		"text": "Убить [amount] Нацистов, чтобы открыть Леонору."
 	},
 	{
 		"id": "unlockLeonora_title",
-		"text": "Leonora"
+		"text": "Леонора"
 	},
 	{
 		"id": "unlockRose_desc",
-		"text": "Finish any Adventure with women only to unlock Rose."
+		"text": "Завершите любое Приключение только с женщинами, чтобы открыть Розу."
 	},
 	{
 		"id": "unlockRose_title",
-		"text": "Rose"
+		"text": "Роза"
 	},
 	{
 		"id": "unlockShani_desc",
-		"text": "Kill [amount] enemies with melee attacks to unlock Shani."
+		"text": "Убить [amount] врагов ближней атакой, чтобы открыть Шани."
 	},
 	{
 		"id": "unlockShani_title",
-		"text": "Shani"
+		"text": "Шани"
 	},
 	{
 		"id": "unlockVeduti_desc",
-		"text": "Kill [amount] undead to unlock Monsignor Veduti."
+		"text": "Убить [amount] нежити, чтобы открыть Монсеньор Ведути."
 	},
 	{
 		"id": "unlockVeduti_title",
-		"text": "Veduti"
+		"text": "Ведути"
 	},
 	{
 		"id": "watchesSold01_desc",
-		"text": "Collect [amount] watches."
+		"text": "Собрать [amount] часов."
 	},
 	{
 		"id": "watchesSold01_title",
-		"text": "Watch Collector"
+		"text": "Коллекционер Часов"
 	},
 	{
 		"id": "nodesTravelled01_desc",
-		"text": "Travel to [amount] locations."
+		"text": "Посетить [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled01_title",
-		"text": "Traveller I"
+		"text": "Путешественник I"
 	},
 	{
 		"id": "nodesTravelled02_desc",
-		"text": "Travel to [amount] locations."
+		"text": "Посетить [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled02_title",
-		"text": "Traveller II"
+		"text": "Путешественник II"
 	},
 	{
 		"id": "nodesTravelled03_desc",
-		"text": "Travel to [amount] locations."
+		"text": "Посетить [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled03_title",
-		"text": "Traveller III"
+		"text": "Путешественник III"
 	},
 	{
 		"id": "hardcoreModeFinished_desc",
-		"text": "Finish the game in Hardcore mode."
+		"text": "Завершить игру в Режиме Хардкора."
 	},
 	{
 		"id": "hardcoreModeFinished_title",
-		"text": "Hardcore Mode Survivor"
+		"text": "Переживший Режиме Хардкора"
 	}
 ]
 }
