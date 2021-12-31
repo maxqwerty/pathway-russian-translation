@@ -59,6 +59,7 @@ Daredevil;Смельчак
 Daredevil;Смельчак
 Dash;Бросок
 Deadly;Смертоносный
+Desecrated Ground;Оскверненная Земля
 DEX;СНР
 Dexterity;Сноровка
 Disintegrator;Дезинтегратор
@@ -96,6 +97,8 @@ Intelligence;Интеллект
 Intimidation;Шантаж
 Intimidation;Шантаж
 Italian Vatican Legate;Итальянский Посол Ватикана
+Kharga Serabit;Харга Серабит
+Khonesh Brotherhood;Братство Хонеш
 Kissed by the eons;Благословленный эонами
 Knife;Нож
 Knocked out;Без сознания
@@ -113,6 +116,7 @@ Medical Expert;Мед эксперт
 Medkit;Аптечка
 Medkit Range;Дальность Аптечки
 Medkit Strength;Сила Аптечки
+melee;Ближний бой
 Merchant;Торговец
 Misc;Разное
 Morale Boost;Усиление Морали
@@ -127,6 +131,7 @@ Psychic Control;Психический Контроль
 Pulsating amulet;Пульсирующий амулет
 Qualms;Сомнение
 Quantum Leech;Квантовая Пиявка
+Queen of Sheba;царицы Савской
 Reaction Shot;Ответный Выстрел
 Recruit;Нанять
 Reflexes;Рефлексы
@@ -175,6 +180,7 @@ Throw Range;Дальность Броска
 Tinker;Лудильщик
 Trickster;Ловкач
 Trickster;Ловкач
+Turash-Ra;Тураш-Ра
 Undead;Нежить
 Ungarnished ring;Простое кольцо
 Valkyrium;Валькирий
@@ -188,4 +194,4 @@ Warding amulet;Амулет Оберег
 Warning Shots;Предупредительные выстрелы
 WIL;ВОЛ
 Willpower;Воля
-melee;Ближний бой
+Wrath of God;Божий Гнев

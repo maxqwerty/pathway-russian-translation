@@ -1351,7 +1351,7 @@
 	},
 	{
 		"id": "ActionDescription_EnergyLance",
-		"text": "Энерголуч урон всем стоящим на прямой линии, пока не столкнётся с препятствием. Каждое попадание уменьшает урон следующего на 40%. "
+		"text": "Энерголуч урон всем стоящим на прямой линии, пока не столкнется с препятствием. Каждое попадание уменьшает урон следующего на 40%. "
 	},
 	{
 		"id": "ActionDescription_Ambush",
@@ -1375,7 +1375,7 @@
 	},
 	{
 		"id": "ActionDescription_Punch",
-		"text": "Ударить противника на соседней клетке кулаком. Наносит маленький урон, но иногда это всё, что нужно."
+		"text": "Ударить противника на соседней клетке кулаком. Наносит маленький урон, но иногда это все, что нужно."
 	},
 	{
 		"id": "ActionDescription_Meditate",
@@ -1403,11 +1403,11 @@
 	},
 	{
 		"id": "ActionDescription_ReactionShot",
-		"text": "В следующий ход этот персонаж произведёт Ответную атаку по первому противнику, атаковавшему его."
+		"text": "В следующий ход этот персонаж произведет Ответную атаку по первому противнику, атаковавшему его."
 	},
 	{
 		"id": "ActionDescription_Parry",
-		"text": "Когда этот персонаж будет атакован в ближнем бою, он произведёт внезапную атаку до атаки противника."
+		"text": "Когда этот персонаж будет атакован в ближнем бою, он произведет внезапную атаку до атаки противника."
 	},
 	{
 		"id": "ActionDescription_Dash",
@@ -1415,7 +1415,7 @@
 	},
 	{
 		"id": "ActionDescription_QuantumLeech",
-		"text": "Атака по противнику Квантовой Пиявкой, которая восстанавливает атакующему 50% здоровья в от нанесённого Урона Телу."
+		"text": "Атака по противнику Квантовой Пиявкой, которая восстанавливает атакующему 50% здоровья в от нанесенного Урона Телу."
 	},
 	{
 		"id": "ActionDescription_Strike",
@@ -1447,23 +1447,23 @@
 	},
 	{
 		"id": "ActionDescription_Bait",
-		"text": "Бросить приманку, которая привлечёт собак и зомби в зоне досягаемости на один ход."
+		"text": "Бросить приманку, которая привлечет собак и зомби в зоне досягаемости на один ход."
 	},
 	{
 		"id": "ActionBuff_Meditate",
-		"text": "Даёт навык Концентрация."
+		"text": "Дает навык Концентрация."
 	},
 	{
 		"id": "ActionBuff_FirstAid",
-		"text": "Даёт навык Первая Помощь."
+		"text": "Дает навык Первая Помощь."
 	},
 	{
 		"id": "ActionBuff_Vanish",
-		"text": "Даёт навык Скрыться."
+		"text": "Дает навык Скрыться."
 	},
 	{
 		"id": "ActionBuff_PsychicControl",
-		"text": "Даёт навык Психический Контроль."
+		"text": "Дает навык Психический Контроль."
 	},
 	{
 		"id": "ActionType_Attack",
@@ -1567,7 +1567,7 @@
 	},
 	{
 		"id": "Bio_Natalya_Description",
-		"text": "Наталья Шушкова, Русский Учёный"
+		"text": "Наталья Шушкова, Русский Ученый"
 	},
 	{
 		"id": "Bio_Natalya_Positive",
@@ -1583,7 +1583,7 @@
 	},
 	{
 		"id": "Bio_Leonora_Positive",
-		"text": "Надёжный помощник, владеющий снайперскими винтовками"
+		"text": "Надежный помощник, владеющий снайперскими винтовками"
 	},
 	{
 		"id": "Bio_Leonora_Negative",
@@ -1595,7 +1595,7 @@
 	},
 	{
 		"id": "Bio_Veduti_Positive",
-		"text": "Отличный целитель, силён против нежити"
+		"text": "Отличный целитель, силен против нежити"
 	},
 	{
 		"id": "Bio_Veduti_Negative",
@@ -1607,11 +1607,11 @@
 	},
 	{
 		"id": "Bio_Brunhilda_Positive",
-		"text": "Стойкий борец ближнего боя в тяжёлой броне"
+		"text": "Стойкий борец ближнего боя в тяжелой броне"
 	},
 	{
 		"id": "Bio_Brunhilda_Negative",
-		"text": "Начинает с навыком Запрещённый Приём"
+		"text": "Начинает с навыком Запрещенный Прием"
 	},
 	{
 		"id": "Bio_Pereira_Description",
@@ -1715,7 +1715,7 @@
 	},
 	{
 		"id": "Bio_Caballero_Positive",
-		"text": "Стоёкий эксперт по гранатам, силён против нацистов"
+		"text": "Стоекий эксперт по гранатам, силен против нацистов"
 	},
 	{
 		"id": "Bio_Caballero_Negative",
@@ -1735,7 +1735,7 @@
 	},
 	{
 		"id": "Bio_Annabelle_Description",
-		"text": "Аннабель Сизар Монсеррат, Карибский Внештатная Лётчица"
+		"text": "Аннабель Сизар Монсеррат, Карибский Внештатная Летчица"
 	},
 	{
 		"id": "Bio_Annabelle_Positive",
@@ -1759,107 +1759,107 @@
 	},
 	{
 		"id": "Adv_adventureTutorial_Title",
-		"text": "A Friend in Need!"
+		"text": "Друг в Беде!"
 	},
 	{
 		"id": "Adv_adventureTutorial_Desc",
-		"text": "Casablanca, Morocco: \nYou receive a desperate plea for help – your old friend Morten has been abducted by the Nazis and taken to the Moroccan desert!\nYou decide to travel to North Africa immediately to find Morten before the Germans execute him!"
+		"text": "Касабланка, Марокко: \nВы получили отчаянную просьбу о помощи: ваш старый друг Мортен был схвачен нацистами и увезен в марокканскую пустыню!\nВы решили немедленно отправится в путешествие по Сереной Африке, чтобы найти Мортена до того как немцы его казнят!"
 	},
 	{
 		"id": "Adv_adventureTutorial_Intro",
-		"text": "You take a break in a provincial backwater, a few miles beyond Casablanca. This is the last outpost of civilization – beyond this point is nothing but merciless desert. Morten is out there somewhere..."
+		"text": "Вы остановились у глухой заводи в нескольких милях от Касабланки. Это последнее цивилизованное место – дальше нет ничего кроме безжалостной пустыни. Где-то там находится Мортен..."
 	},
 	{
 		"id": "Adv_adventureTutorial_Extro",
-		"text": "Chattering excitedly, you stroll back to your jeep. You get in and drive into the setting sun while Morten entertains you with his absurd anecdotes."
+		"text": "Радостно болтая, вы возвращаетесь в джип. Вы едите вслед заходящему солнцу, пока Мортен развлекает вас абсурдными анекдотами."
 	},
 	{
 		"id": "Adv_adventure02_Title",
-		"text": "The Wrath of God"
+		"text": "Божий Гнев"
 	},
 	{
 		"id": "Adv_adventure02_Desc",
-		"text": "Jerusalem, Palestine:\nMorten was quite right: The Nazis are up to something sinister…\nThat's why you are hot on the heels of a German expedition to Mount Ararat. They are searching for a mysterious object known as the Wrath of God. \nFoil their plans!"
+		"text": "Иерусалим, Палестина:\nМортен был прав: нацисты замышляют что-то зловещее…\nИменно поэтому вы идете по пятам немецкой экспедиции к горе Арарат. Они заняты поиском мистического объекта под названием Божий Гнев.\nНужно сорвать их планы!"
 	},
 	{
 		"id": "Adv_adventure02_Intro",
-		"text": "Your vantage point on the hill provides an excellent view of the heights and valleys of Palestine. A large cloud of dust on the dirt track below marks out a large German convoy."
+		"text": "С наблюдательного пункта на холме открывается прекрасный вид возвышенности и долины Палестины. Внизу видно высокое облако пыли на грунтовой дороге, которое оставляет большой немецкий конвой."
 	},
 	{
 		"id": "Adv_adventure02_Extro",
-		"text": "The Wrath of God! The artifact should be buried forever under tons of rock - your only consolation is that the Nazis will never get their hands on it... "
+		"text": "Божий Гнев! Этот артефакт должен быть навсегда погребен под тоннами камня. Единственное утешение в том, что нацисты никогда не смогут прибрать его к рукам... "
 	},
 	{
 		"id": "Adv_adventure03_Title",
-		"text": "Night of the Black Pharaoh"
+		"text": "Ночь Черного Фараона"
 	},
 	{
 		"id": "Adv_adventure03_Desc",
-		"text": "Cairo, Egypt:\nThe wild rumours circulating among local occultists over the past few weeks lead you to one terrifying conclusion:\nThe unholy cultists of the Khonesh Brotherhood plan to reawaken Turash-Ra, the Black Pharaoh! \nYou travel to the stone desert of Meroe to stop them! "
+		"text": "Каир, Египет:\nСтранные слухи, которые стали ходить среди местных окультистов последние несколько недель, приводят вас к ужасному выводу:\nНечестивые культисты из Братства Хонеш хотят пробудить Тураш-Ра, Черного Фараона! \nВы отправляетесь в каменную пустыню Мероэ, чтобы остановить их! "
 	},
 	{
 		"id": "Adv_adventure03_Intro",
-		"text": "You leave the hustle and noise of Cairo behind you; before you stretch the lazy bends of the Nile, lifeline of ancient Egypt. The mighty river disappears into the eternal expanse of the Egyptian desert."
+		"text": "Вы оставляете позади суету и шум Каира; перед вами растянулись ленивые изгибы Нила, источник жизни древнего Египта. Могучая река теряется на просторах египетской пустыни."
 	},
 	{
 		"id": "Adv_adventure03_Extro",
-		"text": "Your engine roars as you leave the pyramid behind forever! Turash-Ra will never see the light of day again..."
+		"text": "Двигатель джипа ревет, а вы навсегда оставляете пирамиду позади! Тураш-Ра больше никогда не увидит дневного света..."
 	},
 	{
 		"id": "Adv_adventure04_Title",
-		"text": "Desecrated Ground"
+		"text": "Оскверненная Земля"
 	},
 	{
 		"id": "Adv_adventure04_Desc",
-		"text": "Port Said, Egypt:\nA Nazi expedition has joined forces with the Brotherhood! They are planning an unholy ritual on Mount Sinai. Who knows what evil they intend to summon? You fear the worst!"
+		"text": "Порт-Саид, Египет:\nНацистская экспедиция объединила свои силы с Братсвом! Они хотят совершить нечестивый ритуал на горе Синай. Кто знает, какое зло они собираются призвать? Вы ожидаете худшего!"
 	},
 	{
 		"id": "Adv_adventure04_Intro",
-		"text": "Why are the Germans working with the Brotherhood? What are they planning on Mount Sinai? Will you be able to thwart their plans?"
+		"text": "Почему немцы объединились с Братством? Что они планируют сделать на горе Синай? Сможете ли вы разрушить их планы?"
 	},
 	{
 		"id": "Adv_adventure04_Extro",
-		"text": "Confused, you prepare to head back down. Maybe not every riddle needs to be solved..."
+		"text": "Сбитые с толку, вы спускаетесь с горы обратно. Может, не все тайны стоит раскрывать..."
 	},
 	{
 		"id": "Adv_adventure05_Title",
-		"text": "Dreams in the Desert Sand"
+		"text": "Сны в Песках Пустыни"
 	},
 	{
 		"id": "Adv_adventure05_Desc",
-		"text": "Jeddah, Arabia:\nWith his dying breath, the old caravan guide swore that he had seen Kharga Serabit with his own eyes. Kharga Serabit, swallowed by the desert sands so many millennia ago!\nThe very next day, you set off on a journey that leads you deep into the heart of the merciless desert!"
+		"text": "Джидда, Аравия:\nНа последнем издыхании старый проводник каравана поклялся, что собственными глазами видел Харга Серабит. Этот город был погребен под песками пустыни многие тысячелетия назад!\nНа следующих же день вы отправляетесь в путешествие в самое сердце безжалостной пустыни!"
 	},
 	{
 		"id": "Adv_adventure05_Intro",
-		"text": "The dusty desert path leads you out of Jeddah, away from the lush greenery of its walled gardens and the turquoise waves of the Red Sea that break against the gleaming white quay walls of the proud harbor city."
+		"text": "Пульная пустынная тропа идет вас из Джидды прочь от зелени окруженных стенами садов и бирюзовых волн Красного моря, разбивающихся о блестящие белые набережные стены гордого портового города."
 	},
 	{
 		"id": "Adv_adventure05_Extro",
-		"text": "Gritting your teeth, you turn your back on this cursed place forever to set out on your long journey to the coast..."
+		"text": "Стиснув зубы, вы навсегда отворачиваетесь от этого проклятого места, чтобы отправиться в долгий обратный путь к побережью..."
 	},
 	{
 		"id": "Adv_adventure06_Title",
-		"text": "The Final Frontier"
+		"text": "Последний рубеж"
 	},
 	{
 		"id": "Adv_adventure06_Desc",
-		"text": "Djibouti, East Africa:\nThe cultists of the Khonesh Brotherhood are searching the Abyssinian Highlands for the final resting place of the Queen of Sheba. According to legend, her temple grave is the repository of the Divine Chariot, Merkabah. \nYou must stop them!"
+		"text": "Джибути, Восточная Африка:\nКультисты Братства Хонеш ищут в Абиссинском нагорье место упокоения царицы Савской. Согласно легенде, в ее храмовой могиле хранится Божественная колесница - Меркава. \nВы должны их остановить!"
 	},
 	{
 		"id": "Adv_adventure06_Intro",
-		"text": "You sigh with relief as your dilapidated sailboat approaches the massive harbor walls of Djibouti: Dry land under your feet again at last!"
+		"text": "Вы вздыхаете с облегчением, когда ваша полуразрушенная парусная лодка приближается к массивным стенам гавани Джибути: наконец-то под вашими ногами суша!"
 	},
 	{
 		"id": "Adv_adventure06_Extro",
-		"text": "Sighing, you start your journey back - all the richer for this mysterious experience..."
+		"text": "Вздохнув, вы отправляетесь в обратное путешествие - ваш мистический опыт стал богаче..."
 	},
 	{
 		"id": "OptionsMenu_Confirm",
-		"text": "Confirm changes"
+		"text": "Подтвердить"
 	},
 	{
 		"id": "OptionsMenu_Cancel",
-		"text": "Cancel"
+		"text": "Отмена"
 	},
 	{
 		"id": "GameOptions_Language_en-us",
