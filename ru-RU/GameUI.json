@@ -775,19 +775,19 @@
 	},
 	{
 		"id": "DamageType_Standard",
-		"text": "Стандартный"
+		"text": "Стандартное"
 	},
 	{
 		"id": "DamageType_Splinter",
-		"text": "Осколочный"
+		"text": "Осколочное"
 	},
 	{
 		"id": "DamageType_ArmorPiercing",
-		"text": "Бронебойный"
+		"text": "Бронебойное"
 	},
 	{
 		"id": "DamageType_Corrosion",
-		"text": "Коррозийный"
+		"text": "Коррозийное"
 	},
 	{
 		"id": "ArmorType_Light",
@@ -1099,7 +1099,7 @@
 	},
 	{
 		"id": "WeaponSkillDescription_Disintegrator",
-		"text": "Может использовать Дезинтеграторы. У Дезинтеграторов есть специальный навык - Энерголуч, который наносит урон всем в одну линию, пока не упрется в стену. Дезинтеграторы имеют встроенный аккумулятор, и поэтому не нуждаются в боеприпасах."
+		"text": "Может использовать Дезинтеграторы. У Дезинтеграторов есть специальный навык - Энерголуч, который наносит урон всем в одну линию, пока не упрется в стену. Дезинтеграторы имеют встроенный аккумулятор, и поэтому не нуждаются в патронах."
 	},
 	{
 		"id": "ArmorSkillDescription_Light",
@@ -1899,427 +1899,427 @@
 	},
 	{
 		"id": "GameOptions_Tab_1",
-		"text": "GAME"
+		"text": "ИГРА"
 	},
 	{
 		"id": "GameOptions_Tab_2",
-		"text": "VIDEO"
+		"text": "ВИДЕО"
 	},
 	{
 		"id": "GameOptions_Tab_3",
-		"text": "AUDIO"
+		"text": "АУДИО"
 	},
 	{
 		"id": "GameOptions_Tab_4",
-		"text": "CONTROLS"
+		"text": "УПРАВЛЕНИЕ"
 	},
 	{
 		"id": "GameOptions_Global",
-		"text": "GLOBAL"
+		"text": "ГЛОБАЛЬНЫЕ"
 	},
 	{
 		"id": "GameOptions_Global_Language",
-		"text": "LANGUAGE"
+		"text": "ЯЗЫК"
 	},
 	{
 		"id": "GameOptions_Global_ShowCodexNotifications",
-		"text": "SHOW CODEX NOTIFICATIONS"
+		"text": "ПОКАЗЫВАТЬ УВЕДОМЛЕНИЯ КОДЕКСА"
 	},
 	{
 		"id": "GameOptions_Global_DoubleConfirmActions",
-		"text": "CONFIRM MOVE"
+		"text": "ПОДТВЕРЖДАТЬ ПЕРЕДВИЖЕНИЕ"
 	},
 	{
 		"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
-		"text": "Moves require an additional press to confirm."
+		"text": "Передвижение потребует дополнительное подтверждение."
 	},
 	{
 		"id": "GameOptions_Global_DogFriendly",
-		"text": "DOG FRIENDLY MODE"
+		"text": "РЕЖИМ ЛЮБВИ К ЖИВОТНЫМ"
 	},
 	{
 		"id": "GameOptions_Global_DogFriendlyTooltip",
-		"text": "Disables dog sfx hit/die sounds. Dogs dissappear instead of dying during combat."
+		"text": "Отключает звуковые эффекты при ударе/смерти собак. Вместо смерти собаки исчезают."
 	},
 	{
 		"id": "GameOptions_Global_NonViolent",
-		"text": "NO BLOODSHED"
+		"text": "БЕЗ КРОВИ"
 	},
 	{
 		"id": "GameOptions_Global_NonViolentTooltip",
-		"text": "Disables or replaces gore effects."
+		"text": "Отключить эффекты кровопролития."
 	},
 	{
 		"id": "GameOptions_Global_ConfirmEndTurn",
-		"text": "CONFIRM END TURN"
+		"text": "ПОДТВЕРЖДАТЬ КОНЕЦ ХОДА"
 	},
 	{
 		"id": "GameOptions_Global_ConfirmEndTurnTooltip",
-		"text": "Will ask for confirmation to end turn if one of your characters can still perform an action"
+		"text": "Просить подтверждение закончить ход, если у одного из персонажей остались неиспользованные действия"
 	},
 	{
 		"id": "GameOptions_Global_DefaultAISpeed",
-		"text": "DEFAULT AI TURN SPEED"
+		"text": "СКОРОСТЬ ХОДА ИИ"
 	},
 	{
 		"id": "GameOptions_Global_DefaultAISpeedTooltip",
-		"text": "Increase the default enemy movement speed during the AI turn."
+		"text": "Увеличивает скорость по умолчанию, с которой действуют противники в свой ход."
 	},
 	{
 		"id": "GameOptions_Global_ScreenBorderScrolling",
-		"text": "BORDER SCROLLING"
+		"text": "ПЕРЕМЩЕНИЕ У ГРАНИЦ"
 	},
 	{
 		"id": "GameOptions_Global_ScreenBorderScrollingTooltip",
-		"text": "When enabled, you may scroll around the map by moving the mouse cursor to the window borders."
+		"text": "Перемещать камеру при перемещении курсора к краям экрана."
 	},
 	{
 		"id": "VideoOptions_Window",
-		"text": "WINDOW SETTINGS"
+		"text": "ИЗОБРАЖЕНИЕ"
 	},
 	{
 		"id": "VideoOptions_Window_Monitor",
-		"text": "DISPLAY"
+		"text": "ЭКРАН"
 	},
 	{
 		"id": "VideoOptions_Window_Resolution",
-		"text": "RESOLUTION"
+		"text": "РАЗРЕШЕНИЕ"
 	},
 	{
 		"id": "VideoOptions_Window_RefreshRate",
-		"text": "REFRESH RATE"
+		"text": "ЧАСТОТА ОБНОВЛЕНИЯ"
 	},
 	{
 		"id": "VideoOptions_Window_Fullscreen",
-		"text": "FULLSCREEN"
+		"text": "ПОЛНЫЙ ЭКРАН"
 	},
 	{
 		"id": "VideoOptions_Window_DoubleBuffer",
-		"text": "DOUBLE BUFFERING"
+		"text": "ДВОЙНАЯ БУФФЕРИЗАЦИЯ"
 	},
 	{
 		"id": "VideoOptions_Window_VerticalSync",
-		"text": "VERTICAL SYNC"
+		"text": "ВЕРТИКАЛЬНАЯ СИНХРОНИЗАЦИЯ"
 	},
 	{
 		"id": "VideoOptions_Advanced",
-		"text": "ADVANCED SETTINGS"
+		"text": "ДОПОЛНИТЕЛЬНО"
 	},
 	{
 		"id": "VideoOptions_Shadow",
-		"text": "SHADOWS"
+		"text": "ТЕНИ"
 	},
 	{
 		"id": "VideoOptions_Shadow_Ultra",
-		"text": "Ultra"
+		"text": "Ультра"
 	},
 	{
 		"id": "VideoOptions_Shadow_High",
-		"text": "High"
+		"text": "Высоко"
 	},
 	{
 		"id": "VideoOptions_Shadow_Medium",
-		"text": "Medium"
+		"text": "Средне"
 	},
 	{
 		"id": "VideoOptions_Shadow_Low",
-		"text": "Low"
+		"text": "Низко"
 	},
 	{
 		"id": "VideoOptions_Light",
-		"text": "LIGHTS"
+		"text": "СВЕТ"
 	},
 	{
 		"id": "VideoOptions_Light_StaticOnly",
-		"text": "Static only"
+		"text": "Статичный"
 	},
 	{
 		"id": "VideoOptions_Light_Half",
-		"text": "Medium"
+		"text": "Средне"
 	},
 	{
 		"id": "VideoOptions_Light_Full",
-		"text": "High"
+		"text": "Высоко"
 	},
 	{
 		"id": "VideoOptions_SmoothScroll",
-		"text": "SMOOTH SCROLLING"
+		"text": "ПЛАВНОЕ ПЕРЕМЕЩЕНИЕ"
 	},
 	{
 		"id": "VideoOptions_ScaleUI",
-		"text": "UI SCALING"
+		"text": "МАСШТАБ"
 	},
 	{
 		"id": "VideoOptionsKeep_Question",
-		"text": "Display settings have been changed. Do you want to keep them?\n\nRevert to previous settings in [0] s..."
+		"text": "Настройки изображения изменились. Хотите их сохранить?\n\nВозврат к предыдущим настройкам через [0] сек..."
 	},
 	{
 		"id": "VideoOptionsKeep_QuestionYes",
-		"text": "Yes"
+		"text": "Да"
 	},
 	{
 		"id": "VideoOptionsKeep_QuestionNo",
-		"text": "No"
+		"text": "Нет"
 	},
 	{
 		"id": "AudioOptions_Volume",
-		"text": "VOLUME"
+		"text": "ГРОМКОСТЬ"
 	},
 	{
 		"id": "AudioOptions_Volume_Master",
-		"text": "MASTER"
+		"text": "ОБЩАЯ"
 	},
 	{
 		"id": "AudioOptions_Volume_Effects",
-		"text": "EFFECTS"
+		"text": "ЭФФЕКТЫ"
 	},
 	{
 		"id": "AudioOptions_Volume_Music",
-		"text": "MUSIC"
+		"text": "МУЗЫКА"
 	},
 	{
 		"id": "AudioOptions_Reverb",
-		"text": "REVERB"
+		"text": "РЕВЕРБЕРАЦИЯ"
 	},
 	{
 		"id": "Tooltip_AudioReverb",
-		"text": "REVERB"
+		"text": "РЕВЕРБЕРАЦИЯ ЗВУКА"
 	},
 	{
 		"id": "Tooltip_AudioReverb_Content",
-		"text": "Toggles audio reverb effect on/off. "
+		"text": "Переключает эффект эхо вкл/выкл. "
 	},
 	{
 		"id": "ControlOptions_General",
-		"text": "GENERAL"
+		"text": "ОБЩИЕ"
 	},
 	{
 		"id": "ControlOptions_Option_Cursor",
-		"text": "Mouse Cursor"
+		"text": "Курсор"
 	},
 	{
 		"id": "ControlOptions_Cursor_Default",
-		"text": "Hardware"
+		"text": "Аппаратный"
 	},
 	{
 		"id": "ControlOptions_Cursor_Software",
-		"text": "Software"
+		"text": "Программный"
 	},
 	{
 		"id": "ControlOptions_Option_Controls",
-		"text": "Controls Mode"
+		"text": "Тип управления"
 	},
 	{
 		"id": "ControlOptions_Controls_MouseAndKeyboard",
-		"text": "Mouse and Keyboard"
+		"text": "Мышь и Клавиатура"
 	},
 	{
 		"id": "ControlOptions_Controls_GamepadXbox",
-		"text": "XBox Controller"
+		"text": "Контроллер XBox"
 	},
 	{
 		"id": "ControlOptions_Controls_GamepadNX",
-		"text": "Nintendo Controller"
+		"text": "Контроллер Nintendo"
 	},
 	{
 		"id": "ControlOptions_Controls_GamepadPS",
-		"text": "Playstation Controller"
+		"text": "Контроллер Playstation"
 	},
 	{
 		"id": "ControlOptions_Keys",
-		"text": "KEYBOARD"
+		"text": "КЛАВИАТУРА"
 	},
 	{
 		"id": "ControlOptions_Reset_Bindings",
-		"text": "restore defaults"
+		"text": "восстановить по умолчанию"
 	},
 	{
 		"id": "ControlOptions_Reset_Button",
-		"text": "RESET"
+		"text": "СБРОСИТЬ"
 	},
 	{
 		"id": "KeyAction_MouseButtonConfirm",
-		"text": "confirm action"
+		"text": "подтвердить"
 	},
 	{
 		"id": "KeyAction_MouseButtonCancel",
-		"text": "cancel action"
+		"text": "отменить"
 	},
 	{
 		"id": "KeyAction_CameraScrollUp",
-		"text": "move camera up"
+		"text": "камера вверх"
 	},
 	{
 		"id": "KeyAction_CameraScrollLeft",
-		"text": "move camera left"
+		"text": "камера влево"
 	},
 	{
 		"id": "KeyAction_CameraScrollDown",
-		"text": "move camera down"
+		"text": "камера вниз"
 	},
 	{
 		"id": "KeyAction_CameraScrollRight",
-		"text": "move camera right"
+		"text": "камера вправо"
 	},
 	{
 		"id": "KeyAction_CameraFreeLook",
-		"text": "camera free look"
+		"text": "свободная вверх"
 	},
 	{
 		"id": "KeyAction_Attack",
-		"text": "ranged attack"
+		"text": "дальняя атака"
 	},
 	{
 		"id": "KeyAction_AttackSpecial",
-		"text": "ranged attack (special)"
+		"text": "дальняя атака (спец.)"
 	},
 	{
 		"id": "KeyAction_Melee",
-		"text": "knife attack"
+		"text": "атака ножом"
 	},
 	{
 		"id": "KeyAction_MeleeSpecial",
-		"text": "knife attack (bleed)"
+		"text": "атака ножом (кровот.)"
 	},
 	{
 		"id": "KeyAction_UseItem",
-		"text": "use item"
+		"text": "использовать предмет"
 	},
 	{
 		"id": "KeyAction_UseSpecial",
-		"text": "use ability"
+		"text": "использовать навык"
 	},
 	{
 		"id": "KeyAction_ReloadWeapon",
-		"text": "reload weapon"
+		"text": "перезарядить"
 	},
 	{
 		"id": "KeyAction_SelectPreviousUnit",
-		"text": "select previous unit"
+		"text": "предыдущий персонаж"
 	},
 	{
 		"id": "KeyAction_SelectNextUnit",
-		"text": "select next unit"
+		"text": "следующий персонаж"
 	},
 	{
 		"id": "KeyAction_EndTurn",
-		"text": "end turn"
+		"text": "завершить ход"
 	},
 	{
 		"id": "KeyAction_ShowOptionsMenu",
-		"text": "show options menu"
+		"text": "открыть настройки"
 	},
 	{
 		"id": "KeyAction_ShowJournal",
-		"text": "toggle team screen"
+		"text": "экран команды"
 	},
 	{
 		"id": "KeyAction_ShowFPSCounter",
-		"text": "toggle fps counter"
+		"text": "счётчик fps"
 	},
 	{
 		"id": "KeyAction_Punch",
-		"text": "punch"
+		"text": "удар"
 	},
 	{
 		"id": "KeyAction_AlternateView",
-		"text": "alternative information"
+		"text": "доп. информация"
 	},
 	{
 		"id": "KeyAction_RotateBurstLeft",
-		"text": "rotate burst left"
+		"text": "зона против часовой"
 	},
 	{
 		"id": "KeyAction_RotateBurstRight",
-		"text": "rotate burst right"
+		"text": "зона по часовой"
 	},
 	{
 		"id": "MouseBtn0",
-		"text": "LMB"
+		"text": "ЛКМ"
 	},
 	{
 		"id": "MouseBtn1",
-		"text": "RMB"
+		"text": "ПКМ"
 	},
 	{
 		"id": "MouseBtn2",
-		"text": "mouse button 3"
+		"text": "кнопка мыши 3"
 	},
 	{
 		"id": "MouseBtn3",
-		"text": "mouse button 4"
+		"text": "кнопка мыши 4"
 	},
 	{
 		"id": "MouseBtn4",
-		"text": "mouse button 5"
+		"text": "кнопка мыши 5"
 	},
 	{
 		"id": "ControlsOptionsReset_Question",
-		"text": "Reset mouse and keyboard bindings to default settings?"
+		"text": "Восстановить стандартные настройки клавиатуры и мыши?"
 	},
 	{
 		"id": "ControlsOptionsReset_QuestionYes",
-		"text": "Yes"
+		"text": "Да"
 	},
 	{
 		"id": "ControlsOptionsReset_QuestionNo",
-		"text": "No"
+		"text": "Нет"
 	},
 	{
 		"id": "MainMenu_DemoVersion",
-		"text": "CLICK TO CONTINUE"
+		"text": "ПРОДОЛЖИТЬ"
 	},
 	{
 		"id": "LoadingScreen_CTP",
-		"text": "CLICK TO CONTINUE"
+		"text": "ПРОДОЛЖИТЬ"
 	},
 	{
 		"id": "MainMenu_Btn_Continue",
-		"text": "CONTINUE"
+		"text": "ПРОДОЛЖИТЬ"
 	},
 	{
 		"id": "MainMenu_Btn_NewGame",
-		"text": "NEW ADVENTURE"
+		"text": "НОВОЕ ПРИКЛЮЧЕНИЕ"
 	},
 	{
 		"id": "MainMenu_Btn_NewGameAlt",
-		"text": "PURSUE A NEW ADVENTURE"
+		"text": "К НОВЫМ ПРИКЛЮЧЕНИЯМ"
 	},
 	{
 		"id": "MainMenu_Btn_Options",
-		"text": "OPTIONS"
+		"text": "НАСТРОЙКИ"
 	},
 	{
 		"id": "MainMenu_Btn_Exit",
-		"text": "EXIT GAME"
+		"text": "ВЫЙТИ ИЗ ИГРЫ"
 	},
 	{
 		"id": "MainMenu_Btn_ReturnToGame",
-		"text": "RETURN TO GAME"
+		"text": "ВЕРНУТЬСЯ К ИГРЕ"
 	},
 	{
 		"id": "MainMenu_Btn_ExitCurrentGame",
-		"text": "EXIT TO MAIN MENU"
+		"text": "ВЫЙТИ В ГЛАВНОЕ МЕНЮ"
 	},
 	{
 		"id": "MainMenu_Btn_ExitCurrentGameDemo",
-		"text": "RESTART DEMO"
+		"text": "ПЕРЕЗАПУСТИТЬ ДЕМО"
 	},
 	{
 		"id": "MainMenu_Btn_Credits",
-		"text": "CREDITS"
+		"text": "ТИТРЫ"
 	},
 	{
 		"id": "MainMenu_Label_Cash",
-		"text": "CASH"
+		"text": "ДЕНЬГИ"
 	},
 	{
 		"id": "MainMenu_Profile_New",
-		"text": "NEW PROFILE"
+		"text": "НОВЫЙ ПРОФИЛЬ"
 	},
 	{
 		"id": "MainMenu_Profile_Change",
-		"text": "CHANGE PROFILE"
+		"text": "СМЕНИТЬ ПРОФИЛЬ"
 	},
 	{
 		"id": "MainMenu_Cash_Display",
@@ -2327,219 +2327,219 @@
 	},
 	{
 		"id": "MainMenu_Paper_Day",
-		"text": "DAY [0]"
+		"text": "ДЕНЬ [0]"
 	},
 	{
 		"id": "NewProfile_Title",
-		"text": "NEW PROFILE"
+		"text": "НОВЫЙ ПРОФИЛЬ"
 	},
 	{
 		"id": "NewProfile_Instruction",
-		"text": "ENTER PROFILE NAME"
+		"text": "ВВЕДИТЕ ИМЯ ПРОФИЛЯ"
 	},
 	{
 		"id": "NewProfile_Instruction_Controller",
-		"text": "PROFILE NAME"
+		"text": "ИМЯ ПРОФИЛЯ"
 	},
 	{
 		"id": "NewProfile_Confirm",
-		"text": "CONFIRM"
+		"text": "ПОДТВЕРДИТЬ"
 	},
 	{
 		"id": "NewProfile_Cancel",
-		"text": "CANCEL"
+		"text": "ОТМЕНИТЬ"
 	},
 	{
 		"id": "NewProfile_HardcoreMode",
-		"text": "HARDCORE MODE"
+		"text": "РЕЖИМ ХАРДКОРА"
 	},
 	{
 		"id": "NewProfile_HardcoreMode_Tooltip",
-		"text": "Hardcore Mode provides a different ruleset to standard profiles with increased difficulty and permadeath. \n\nFor experienced players only."
+		"text": "Режим Хардкора меняет стандартные правила, увеличивая сложность и добавляя окончательную смерть. \n\nТолько для опытных игроков."
 	},
 	{
 		"id": "ChangeProfile_Title",
-		"text": "CHANGE PROFILE"
+		"text": "СМЕНИТЬ ПРОФИЛЬ"
 	},
 	{
 		"id": "ChangeProfile_Slot",
-		"text": "SLOT"
+		"text": "СЛОТ"
 	},
 	{
 		"id": "ChangeProfile_Name",
-		"text": "PROFILE NAME"
+		"text": "ИМЯ ПРОФИЛЯ"
 	},
 	{
 		"id": "ChangeProfile_Confirm",
-		"text": "CONFIRM"
+		"text": "ПОДТВЕРДИТЬ"
 	},
 	{
 		"id": "ChangeProfile_Delete",
-		"text": "DELETE"
+		"text": "УДАЛИТЬ"
 	},
 	{
 		"id": "ChangeProfile_DeleteQuestion",
-		"text": "By deleting this profile you are deleting all character unlocks, items and achievements collected on this profile. Are you sure?"
+		"text": "Удалив этот профиль вы удалите всех его открытых персонажей, предметы и достижения. Вы уверены?"
 	},
 	{
 		"id": "ChangeProfile_DeleteQuestionYes",
-		"text": "Yes"
+		"text": "Да"
 	},
 	{
 		"id": "ChangeProfile_DeleteQuestionNo",
-		"text": "No"
+		"text": "Нет"
 	},
 	{
 		"id": "RestoreBackup_Question",
-		"text": "Restoring a backup overwrites the current save state. This operation can not be undone! Are you sure?"
+		"text": "Восстановление резервной копии перезапишет текущие сохранения. Это действие нельзя отменить! Вы уверены?"
 	},
 	{
 		"id": "RestoreBackup_QuestionYes",
-		"text": "Yes"
+		"text": "Да"
 	},
 	{
 		"id": "RestoreBackup_QuestionNo",
-		"text": "No"
+		"text": "Нет"
 	},
 	{
 		"id": "NewAdventure_Question",
-		"text": "You are about to abort the current adventure. All items and progress made during this adventure will be lost. Are you sure?"
+		"text": "Вы собираетесь покинуть текущее приключение. Все предметы и прогресс будут потеряны. Вы уверены?"
 	},
 	{
 		"id": "NewAdventure_QuestionYes",
-		"text": "Yes"
+		"text": "Да"
 	},
 	{
 		"id": "NewAdventure_QuestionNo",
-		"text": "No"
+		"text": "Нет"
 	},
 	{
 		"id": "AdventureSelect_Instruction",
-		"text": "Select an adventure!"
+		"text": "Выбрать приключение!"
 	},
 	{
 		"id": "AdventureSelect_Title",
-		"text": "Title"
+		"text": "Название"
 	},
 	{
 		"id": "AdventureSelect_Description",
-		"text": "Description"
+		"text": "Описание"
 	},
 	{
 		"id": "AdventureSelect_Select",
-		"text": "SELECT"
+		"text": "ВЫБРАТЬ"
 	},
 	{
 		"id": "AdventureSelect_SelectDisabled",
-		"text": "LOCKED"
+		"text": "ЗАКРЫТО"
 	},
 	{
 		"id": "AdventureSelect_Brief",
-		"text": "BRIEF"
+		"text": "ИНСТРУКТАЖ"
 	},
 	{
 		"id": "AdventureSelect_Customize",
-		"text": "CUSTOMIZE"
+		"text": "ИЗМЕНИТЬ"
 	},
 	{
 		"id": "AdventureSelect_Length_1",
-		"text": "SHORT"
+		"text": "КОРОТКОЕ"
 	},
 	{
 		"id": "AdventureSelect_Length_2",
-		"text": "MEDIUM"
+		"text": "СРЕДНЕЕ"
 	},
 	{
 		"id": "AdventureSelect_Length_3",
-		"text": "LONG"
+		"text": "ДЛИННОЕ"
 	},
 	{
 		"id": "AdventureSelect_Difficulty",
-		"text": "Difficulty"
+		"text": "Сложность"
 	},
 	{
 		"id": "AdventureSelect_UnlockInfo",
-		"text": "- FINISH PREVIOUS ADVENTURE TO UNLOCK  -"
+		"text": "-   ЗАВЕРШИТЕ ПРЕДЫДУЩЕЕ ПРИКЛЮЧЕНИЕ   -"
 	},
 	{
 		"id": "AdventureSelect_EnemyStrength",
-		"text": "Enemy Strength"
+		"text": "Сила врагов"
 	},
 	{
 		"id": "AdventureSelect_EnemyStrengthDescription",
-		"text": "Tweak how strong your opponents are. Their health, damage and group size will be adjusted. Lower for a more casual experience.\n\nEnemy Health: [0]%\nEnemy Damage: [1]%\nEnemy Group Size: [2]"
+		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для лёгкой игры.\n\nЗдоровье: [0]%\nУрон: [1]%\nОтряды: [2]"
 	},
 	{
 		"id": "AdventureSelect_EnemyStrengthDescriptionPositive",
-		"text": "Tweak how strong your opponents are. Their health, damage and group size will be adjusted. Lower for a more casual experience.\n\nEnemy Health: +[0]%\nEnemy Damage: +[1]%\nEnemy Group Size: +[2]"
+		"text": "Настройка силы противников. Их здоровье, наносимый урон и размер отрядов будут изменены. Уменьшите для лёгкой игры.\n\nЗдоровье: +[0]%\nУрон: +[1]%\nОтряды: +[2]"
 	},
 	{
 		"id": "AdventureSelect_CombatSize",
-		"text": "Combat Size"
+		"text": "Масштаб Боев"
 	},
 	{
 		"id": "AdventureSelect_CombatSizeDescription",
-		"text": "Tweak the amount of enemies appearing in combat. More will make the combat longer and tougher, less will make the combat shorter and easier.\n\nCombat Size: [0]"
+		"text": "Настройка количества врагов, появляющихся в бою. Чем больше, тем бои дольше и сложнее, а чем меньше, тем бои короче и проще.\n\nМасштаб Боев: [0]"
 	},
 	{
 		"id": "AdventureSelect_CombatSizeDescriptionPositive",
-		"text": "Tweak the amount of enemies appearing in combat. More will make the combat longer and tougher, less will make the combat shorter and easier.\n\nCombat Size: +[0]"
+		"text": "Настройка количества врагов, появляющихся в бою. Чем больше, тем бои дольше и сложнее, а чем меньше, тем бои короче и проще.\n\nМасштаб Боев: +[0]"
 	},
 	{
 		"id": "AdventureSelect_Difficulty",
-		"text": "Difficulty"
+		"text": "Сложность"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescription",
-		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionHardcore",
-		"text": "Tweak how strong your enemies are. In Hardcore Mode, difficulty does not adjust the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionDisabled",
-		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nThis option is locked until you complete this adventure for the first time."
+		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\nЭта настройка заблокирована, пока вы хотя бы раз не завершите это приключение."
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionPositive",
-		"text": "Tweak how strong your enemies are. This also increases the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionHardcorePositive",
-		"text": "Tweak how strong your enemies are. In Hardcore Mode, difficulty does not adjust the level of loot you can find.\n\nEach difficulty level plays during a different time of day.\n\nDifficulty: [str:0]"
+		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyNormal",
-		"text": "Normal"
+		"text": "Нормальная"
 	},
 	{
 		"id": "AdventureSelect_DifficultyHard",
-		"text": "Hard"
+		"text": "Сложная"
 	},
 	{
 		"id": "AdventureSelect_DifficultyHardest",
-		"text": "Hardest"
+		"text": "Тяжёлая"
 	},
 	{
 		"id": "AdventureSelect_Resource",
-		"text": "Resource Supply"
+		"text": "Количество Ресурсов"
 	},
 	{
 		"id": "AdventureSelect_ResourceDescription",
-		"text": "Tweak your starting resources amount. Increased resources will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: [0]\nStarting Ammo: [1]\nStarting Supplies: [2]"
+		"text": "Настройка начальных ресурсов. Увеличение ресурсов упростит игровой процесс, уменьшение сделает игру более сложной.\n\nНачальное Топливо: [0]\nНачальные Патроны: [1]\nНачальные Припасы: [2]"
 	},
 	{
 		"id": "AdventureSelect_ResourceDescriptionPositive",
-		"text": "Tweak your starting resources amount. Increased resources will yield a more casual experience, lowering will make it more challenging.\n\nStarting Fuel: +[0]\nStarting Ammo: +[1]\nStarting Supplies: +[2]"
+		"text": "Настройка начальных ресурсов. Увеличение ресурсов упростит игровой процесс, уменьшение сделает игру более сложной.\n\nНачальное Топливо: +[0]\nНачальные Патроны: +[1]\nНачальные Припасы: +[2]"
 	},
 	{
 		"id": "AdventureSelect_DayTime",
-		"text": "Daytime"
+		"text": "Время Суток"
 	},
 	{
 		"id": "AdventureSelect_DayTimeDescriptionDisabled",
-		"text": "Tweak the daytime of the adventure. This is a purely visual tweak but lets you experience the adventure in a fresh way!\n\nThis option is locked until you complete this adventure for the first time."
+		"text": "Настройка времени суток приключения. Это просто визуальное измнение, но оно позволит по-новому ощутить приключения!\n\nЭта настройка заблокирована, пока вы хотя бы раз не завершите это приключение."
 	},
 	{
 		"id": "AdventureSelect_DayTimeDescription",
@@ -2551,43 +2551,43 @@
 	},
 	{
 		"id": "TeamSelect_Adventurers",
-		"text": "ADVENTURERS"
+		"text": "АВАНТЮРИСТЫ"
 	},
 	{
 		"id": "TeamSelect_Instruction",
-		"text": "Select your team members!"
+		"text": "Выберите членов команды!"
 	},
 	{
 		"id": "TeamSelect_RecruitInfo",
-		"text": "RECRUIT INFO"
+		"text": "О НОВОБРАНЦЕ"
 	},
 	{
 		"id": "TeamSelect_Recruit",
-		"text": "RECRUIT"
+		"text": "НАНЯТЬ"
 	},
 	{
 		"id": "TeamSelect_Dismiss",
-		"text": "DISMISS"
+		"text": "УВОЛИТЬ"
 	},
 	{
 		"id": "TeamSelect_Reskill",
-		"text": "RESET SKILL TREE - $[0]"
+		"text": "СБРОСИТЬ НАВЫКИ - $[0]"
 	},
 	{
 		"id": "TeamSelect_Equip",
-		"text": "CONTINUE"
+		"text": "ПРОДОЛЖИТЬ"
 	},
 	{
 		"id": "TeamSelect_ViewSkillTree",
-		"text": "VIEW SKILL TREE"
+		"text": "ПОСМОТРЕТЬ НАВЫКИ"
 	},
 	{
 		"id": "TeamSelect_Party_Size",
-		"text": "PARTY [0]/[1]"
+		"text": "КОМАНДА [0]/[1]"
 	},
 	{
 		"id": "TeamSelect_SizeQuestion",
-		"text": "You must select [0] characters for this adventure."
+		"text": "Вы должны выбрать [0] персонажей для этого приключения."
 	},
 	{
 		"id": "TeamSelect_SizeQuestionOk",
@@ -2595,67 +2595,67 @@
 	},
 	{
 		"id": "TeamSelect_Recruit_NotEnoughMoney",
-		"text": "INSUFFICIENT FUNDS - $[0] REQUIRED"
+		"text": "НЕ ХВАТАЕТ СРЕДСТВ- ТРЕБУЕТСЯ $[0]"
 	},
 	{
 		"id": "TeamSelect_Recruit_Buy",
-		"text": "UNLOCK - $[0]"
+		"text": "РАЗБЛОКИРОВАТЬ - $[0]"
 	},
 	{
 		"id": "TeamSelect_DeadInfo",
-		"text": "KILLED IN ACTION"
+		"text": "УБИТ В БОЮ"
 	},
 	{
 		"id": "TeamSelect_HospitalizedInfo",
-		"text": "UNIT IS HOSPITALIZED."
+		"text": "ГОСПИТАЛИЗИРОВАН."
 	},
 	{
 		"id": "TeamSelect_HospitalizedTime",
-		"text": "RECOVERS AFTER THIS ADVENTURE"
+		"text": "ВОССТАНАВЛИВАЕТСЯ ПОСЛЕ ПРИКЛЮЧЕНИЯ"
 	},
 	{
 		"id": "TeamSelect_HospitalizedRecover",
-		"text": "HEAL - $[0]"
+		"text": "ЛЕЧИТЬ - $[0]"
 	},
 	{
 		"id": "TeamSelect_LockedInfo",
-		"text": "UNIT IS LOCKED."
+		"text": "ЗАБЛОКИРОВАН."
 	},
 	{
 		"id": "TeamSelect_Toggle_Character",
-		"text": "CHARACTER"
+		"text": "ПЕРСОНАЖ"
 	},
 	{
 		"id": "TeamSelect_Toggle_Storage",
-		"text": "STORAGE"
+		"text": "ИНВЕНТАРЬ"
 	},
 	{
 		"id": "TeamEquip_Tab",
-		"text": "LOADOUT"
+		"text": "СНАРЯЖЕНИЕ"
 	},
 	{
 		"id": "TeamEquip_Instruction",
-		"text": "Manage your team's equipment:"
+		"text": "Смените снаряжение команды:"
 	},
 	{
 		"id": "TeamEquip_PaperHeader",
-		"text": "[entity:name]'s Equipment"
+		"text": "Снаряжение [entity:name]"
 	},
 	{
 		"id": "TeamEquip_Depart",
-		"text": "DEPART"
+		"text": "СНАРЯДИТЬ"
 	},
 	{
 		"id": "TeamEquip_Fuel",
-		"text": "FUEL"
+		"text": "ТОПЛИВО"
 	},
 	{
 		"id": "TeamEquip_Ammo",
-		"text": "AMMO"
+		"text": "ПАТРОНЫ"
 	},
 	{
 		"id": "TeamEquip_Supplies",
-		"text": "SUPPLIES"
+		"text": "ПРИПАСЫ"
 	},
 	{
 		"id": "TeamEquip_AmountLabel",
@@ -2667,83 +2667,83 @@
 	},
 	{
 		"id": "ResourceUpgrade_AmmoTitle",
-		"text": "Ammo Storage Upgrade"
+		"text": "Увеличение Хранилища Патронов"
 	},
 	{
 		"id": "ResourceUpgrade_AmmoDescription",
-		"text": "Permanently upgrade your jeep's ammo capacity. More bullets for everyone!"
+		"text": "Увеличивает вместимость патронов у джипа. Больше пуль для всех и каждого!"
 	},
 	{
 		"id": "ResourceUpgrade_FuelTitle",
-		"text": "Fuel Storage Upgrade"
+		"text": "Увеличение Хранилища Топлива"
 	},
 	{
 		"id": "ResourceUpgrade_FuelDescription",
-		"text": "Permanently upgrade your jeep's fuel capacity. Never run out of fuel again!"
+		"text": "Увеличивает вместимость топлива у джипа. Не оставайтесь без горючего!"
 	},
 	{
 		"id": "ResourceUpgrade_SuppliesTitle",
-		"text": "Supplies Storage Upgrade"
+		"text": "Увеличение Хранилища Припасов"
 	},
 	{
 		"id": "ResourceUpgrade_SuppliesDescription",
-		"text": "Permanently upgrade your jeep's supplies capacity. More consumables for everyone!"
+		"text": "Увеличивает вместимость припасов у джипа. Больше расходников для всех и каждого!"
 	},
 	{
 		"id": "TeamEquip_StorageUpgradeDescription",
-		"text": "Upgrade the item storage capacity of your jeep."
+		"text": "Увеличивает вместимость количества предметов у джипа."
 	},
 	{
 		"id": "TeamEquip_StorageUpgradeDescriptionLocked",
-		"text": "Item storage capacity can only be upgraded at load out."
+		"text": "Вместимость количества предметов может быть улучшена только в меню снаряжения."
 	},
 	{
 		"id": "Tooltip_Language_Title",
-		"text": "Language"
+		"text": "Язык"
 	},
 	{
 		"id": "Tooltip_Language_Content",
-		"text": "[cs:#FF8080FF]* Changing this option is only available from the main menu.[ce]"
+		"text": "[cs:#FF8080FF]* Эту настройку можно изменить только в главном меню.[ce]"
 	},
 	{
 		"id": "Tooltip_DefaultAISpeed_Title",
-		"text": "Default AI Speed"
+		"text": "Скорость Хода ИИ"
 	},
 	{
 		"id": "Tooltip_DefaultAISpeed_Content",
-		"text": "Increase the default enemy movement speed during the AI turn."
+		"text": "Увеличить скорость по умолчанию, с которой действуют противники в свой ход."
 	},
 	{
 		"id": "Tooltip_DoubleBuffer_Title",
-		"text": "Double Buffering"
+		"text": "Двойная Буфферизация"
 	},
 	{
 		"id": "Tooltip_DoubleBuffer_Content",
-		"text": "Double Buffering.\n\n[cs:#FF8080FF]* This option is not available right now on Windows 7.\n\n* Requires the game to be restarted to take effect.[ce]"
+		"text": "Двойная Буфферизация.\n\n[cs:#FF8080FF]* Эта настройка недоступна на Windows 7.\n\n* Требует перезагрузки для применения изменений.[ce]"
 	},
 	{
 		"id": "Tooltip_VSync_Title",
-		"text": "Vertical Synchronization"
+		"text": "Вертикальная Синхронизация"
 	},
 	{
 		"id": "Tooltip_VSync_Content",
-		"text": "Enables vertical synchronization."
+		"text": "Включить вертикальную синхронизация."
 	},
 	{
 		"id": "Tooltip_SmoothScroll_Title",
-		"text": "Smooth Scrolling"
+		"text": "Плавное Перемещение"
 	},
 	{
 		"id": "Tooltip_SmoothScroll_Content",
-		"text": "Shader effect to smoothen camera scrolling.\n\nTurning off this option can slightly improve render performance."
+		"text": "Шейжер для плавного перемещения камеры.\n\nВыключение этой настройки может немного улучшить производительность."
 	},
 	{
 		"id": "Tooltip_ScaleUI_Title",
-		"text": "UI Scaling"
+		"text": "Масштаб Интерфейса"
 	},
 	{
 		"id": "Tooltip_ScaleUI_Content",
-		"text": "If this option is enabled, the user interface is rendered at an increased resolution.\n\n[cs:#FF8080FF]* Changing this option is only available from the main menu.[ce]"
+		"text": "Если эта настройка включена, то интерфейс будет отрисован в большем разрешении.\n\n[cs:#FF8080FF]* Эту настройку можно изменить только в главном меню.[ce]"
 	},
 	{
 		"id": "NPC_monk_name",
