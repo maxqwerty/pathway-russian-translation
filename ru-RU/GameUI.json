@@ -2747,643 +2747,643 @@
 	},
 	{
 		"id": "NPC_monk_name",
-		"text": "Monk"
+		"text": "Монах"
 	},
 	{
 		"id": "NPC_guardian_name",
-		"text": "Guardian"
+		"text": "Страж"
 	},
 	{
 		"id": "NPC_officer_name",
-		"text": "Officer"
+		"text": "Офицер"
 	},
 	{
 		"id": "NPC_soldier_name",
-		"text": "Soldier"
+		"text": "Солдат"
 	},
 	{
 		"id": "NPC_nun_name",
-		"text": "Nun"
+		"text": "Монахиня"
 	},
 	{
 		"id": "NPC_customsOfficer_name",
-		"text": "Customs officer"
+		"text": "Таможенник"
 	},
 	{
 		"id": "NPC_stranger_name",
-		"text": "Stranger"
+		"text": "Незнакомец"
 	},
 	{
 		"id": "NPC_agentCooper_name",
-		"text": "Agent Cooper"
+		"text": "Агент Купер"
 	},
 	{
 		"id": "NPC_angryOriental_name",
-		"text": "Angry Man"
+		"text": "Злой Человек"
 	},
 	{
 		"id": "NPC_friendlyOriental_name",
-		"text": "Friendly Man"
+		"text": "Дружелюбный Человек"
 	},
 	{
 		"id": "NPC_ephrem_name",
-		"text": "Ephrem"
+		"text": "Ефрем"
 	},
 	{
 		"id": "NPC_oriental_name",
-		"text": "Man"
+		"text": "Человек"
 	},
 	{
 		"id": "NPC_mitch_name",
-		"text": "Morten"
+		"text": "Мортен"
 	},
 	{
 		"id": "NPC_naziOfficer_name",
-		"text": "German Officer"
+		"text": "Немецкий Офицер"
 	},
 	{
 		"id": "NPC_naziTrooper_name",
-		"text": "German Soldier"
+		"text": "Немецкий Солдат"
 	},
 	{
 		"id": "NPC_radioOperator_name",
-		"text": "Radio Operator"
+		"text": "Радист"
 	},
 	{
 		"id": "NPC_colonelOrtzen_name",
-		"text": "Colonel von Ortzen"
+		"text": "Колонел фон Ортзен"
 	},
 	{
 		"id": "NPC_captainZettler_name",
-		"text": "Captain Zettler"
+		"text": "Капитан Зеттелр"
 	},
 	{
 		"id": "NPC_captainRueckert_name",
-		"text": "Captain Rueckert"
+		"text": "Капитан Рукерт"
 	},
 	{
 		"id": "NPC_strangeBeing_name",
-		"text": "Strange Being"
+		"text": "Странное Существо"
 	},
 	{
 		"id": "NPC_naziSergeant_name",
-		"text": "German Sergeant"
+		"text": "Немецкий Сержант"
 	},
 	{
 		"id": "NPC_guard_name",
-		"text": "Guard"
+		"text": "Стража"
 	},
 	{
 		"id": "NPC_dyingSoldier_name",
-		"text": "Dying Soldier"
+		"text": "Умирающий Солдат"
 	},
 	{
 		"id": "NPC_deserter_name",
-		"text": "Deserter"
+		"text": "Дезертир"
 	},
 	{
 		"id": "NPC_priest_name",
-		"text": "Priest"
+		"text": "Священник"
 	},
 	{
 		"id": "NPC_oldBeduin_name",
-		"text": "Old Man"
+		"text": "Старик"
 	},
 	{
 		"id": "NPC_nomad_name",
-		"text": "Nomad"
+		"text": "Кочевник"
 	},
 	{
 		"id": "NPC_oldWoman_name",
-		"text": "Old Woman"
+		"text": "Старушка"
 	},
 	{
 		"id": "NPC_woman_name",
-		"text": "Woman"
+		"text": "Женщина"
 	},
 	{
 		"id": "NPC_ghostlyVoice_name",
-		"text": "Ghostly Voice"
+		"text": "Призрачный Голос"
 	},
 	{
 		"id": "Enemy_infantrist_0_name",
-		"text": "Nazi Trooper I"
+		"text": "Солдат Нацист I"
 	},
 	{
 		"id": "Enemy_infantrist_1_name",
-		"text": "Nazi Trooper II"
+		"text": "Солдат Нацист II"
 	},
 	{
 		"id": "Enemy_infantrist_2_name",
-		"text": "Nazi Trooper III"
+		"text": "Солдат Нацист III"
 	},
 	{
 		"id": "Enemy_infantrist_3_name",
-		"text": "Nazi Trooper IV"
+		"text": "Солдат Нацист IV"
 	},
 	{
 		"id": "Enemy_infantrist_4_name",
-		"text": "Nazi Trooper V"
+		"text": "Солдат Нацист V"
 	},
 	{
 		"id": "Enemy_infantrist_5_name",
-		"text": "Nazi Trooper VI"
+		"text": "Солдат Нацист VI"
 	},
 	{
 		"id": "Enemy_infantrist_6_name",
-		"text": "Nazi Trooper VII"
+		"text": "Солдат Нацист VII"
 	},
 	{
 		"id": "Enemy_infantrist_7_name",
-		"text": "Nazi Trooper VIII"
+		"text": "Солдат Нацист VIII"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_0_name",
-		"text": "Teslaborg I"
+		"text": "Теслаборг I"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_1_name",
-		"text": "Teslaborg II"
+		"text": "Теслаборг II"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_2_name",
-		"text": "Teslaborg III"
+		"text": "Теслаборг III"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_3_name",
-		"text": "Teslaborg IV"
+		"text": "Теслаборг IV"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_4_name",
-		"text": "Teslaborg V"
+		"text": "Теслаборг V"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_5_name",
-		"text": "Teslaborg VI"
+		"text": "Теслаборг VI"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_6_name",
-		"text": "Teslaborg VII"
+		"text": "Теслаборг VII"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_7_name",
-		"text": "Teslaborg VIII"
+		"text": "Теслаборг VIII"
 	},
 	{
 		"id": "Enemy_officer_0_name",
-		"text": "Officer I"
+		"text": "Офицер I"
 	},
 	{
 		"id": "Enemy_officer_1_name",
-		"text": "Officer II"
+		"text": "Офицер II"
 	},
 	{
 		"id": "Enemy_officer_2_name",
-		"text": "Officer III"
+		"text": "Офицер III"
 	},
 	{
 		"id": "Enemy_officer_3_name",
-		"text": "Officer IV"
+		"text": "Офицер IV"
 	},
 	{
 		"id": "Enemy_officer_4_name",
-		"text": "Officer V"
+		"text": "Офицер V"
 	},
 	{
 		"id": "Enemy_officer_5_name",
-		"text": "Officer VI"
+		"text": "Офицер VI"
 	},
 	{
 		"id": "Enemy_officer_6_name",
-		"text": "Officer VII"
+		"text": "Офицер VII"
 	},
 	{
 		"id": "Enemy_officer_7_name",
-		"text": "Officer VIII"
+		"text": "Офицер VIII"
 	},
 	{
 		"id": "Enemy_sniper_0_name",
-		"text": "Sniper I"
+		"text": "Снайпер I"
 	},
 	{
 		"id": "Enemy_sniper_1_name",
-		"text": "Sniper II"
+		"text": "Снайпер II"
 	},
 	{
 		"id": "Enemy_sniper_2_name",
-		"text": "Sniper III"
+		"text": "Снайпер III"
 	},
 	{
 		"id": "Enemy_sniper_3_name",
-		"text": "Sniper IV"
+		"text": "Снайпер IV"
 	},
 	{
 		"id": "Enemy_sniper_4_name",
-		"text": "Sniper V"
+		"text": "Снайпер V"
 	},
 	{
 		"id": "Enemy_sniper_5_name",
-		"text": "Sniper VI"
+		"text": "Снайпер VI"
 	},
 	{
 		"id": "Enemy_sniper_6_name",
-		"text": "Sniper VII"
+		"text": "Снайпер VII"
 	},
 	{
 		"id": "Enemy_sniper_7_name",
-		"text": "Sniper VIII"
+		"text": "Снайпер VIII"
 	},
 	{
 		"id": "Enemy_dog_0_name",
-		"text": "Attack Dog I"
+		"text": "Боевой Пёс I"
 	},
 	{
 		"id": "Enemy_dog_1_name",
-		"text": "Attack Dog II"
+		"text": "Боевой Пёс II"
 	},
 	{
 		"id": "Enemy_dog_2_name",
-		"text": "Attack Dog III"
+		"text": "Боевой Пёс III"
 	},
 	{
 		"id": "Enemy_dog_3_name",
-		"text": "Attack Dog IV"
+		"text": "Боевой Пёс IV"
 	},
 	{
 		"id": "Enemy_dog_4_name",
-		"text": "Attack Dog V"
+		"text": "Боевой Пёс V"
 	},
 	{
 		"id": "Enemy_dog_5_name",
-		"text": "Attack Dog VI"
+		"text": "Боевой Пёс VI"
 	},
 	{
 		"id": "Enemy_dog_6_name",
-		"text": "Attack Dog VII"
+		"text": "Боевой Пёс VII"
 	},
 	{
 		"id": "Enemy_dog_7_name",
-		"text": "Attack Dog VIII"
+		"text": "Боевой Пёс VIII"
 	},
 	{
 		"id": "Enemy_eliteDog_0_name",
-		"text": "Battle Hound I"
+		"text": "Боевая Гончая I"
 	},
 	{
 		"id": "Enemy_eliteDog_1_name",
-		"text": "Battle Hound II"
+		"text": "Боевая Гончая II"
 	},
 	{
 		"id": "Enemy_eliteDog_2_name",
-		"text": "Battle Hound III"
+		"text": "Боевая Гончая III"
 	},
 	{
 		"id": "Enemy_eliteDog_3_name",
-		"text": "Battle Hound IV"
+		"text": "Боевая Гончая IV"
 	},
 	{
 		"id": "Enemy_eliteDog_4_name",
-		"text": "Battle Hound V"
+		"text": "Боевая Гончая V"
 	},
 	{
 		"id": "Enemy_eliteDog_5_name",
-		"text": "Battle Hound VI"
+		"text": "Боевая Гончая VI"
 	},
 	{
 		"id": "Enemy_eliteDog_6_name",
-		"text": "Battle Hound VII"
+		"text": "Боевая Гончая VII"
 	},
 	{
 		"id": "Enemy_eliteDog_7_name",
-		"text": "Battle Hound VIII"
+		"text": "Боевая Гончая VIII"
 	},
 	{
 		"id": "Enemy_shotgunner_0_name",
-		"text": "Shock Trooper I"
+		"text": "Штурмовик I"
 	},
 	{
 		"id": "Enemy_shotgunner_1_name",
-		"text": "Shock Trooper II"
+		"text": "Штурмовик II"
 	},
 	{
 		"id": "Enemy_shotgunner_2_name",
-		"text": "Shock Trooper III"
+		"text": "Штурмовик III"
 	},
 	{
 		"id": "Enemy_shotgunner_3_name",
-		"text": "Shock Trooper IV"
+		"text": "Штурмовик IV"
 	},
 	{
 		"id": "Enemy_shotgunner_4_name",
-		"text": "Shock Trooper V"
+		"text": "Штурмовик V"
 	},
 	{
 		"id": "Enemy_shotgunner_5_name",
-		"text": "Shock Trooper VI"
+		"text": "Штурмовик VI"
 	},
 	{
 		"id": "Enemy_shotgunner_6_name",
-		"text": "Shock Trooper VII"
+		"text": "Штурмовик VII"
 	},
 	{
 		"id": "Enemy_shotgunner_7_name",
-		"text": "Shock Trooper VIII"
+		"text": "Штурмовик VIII"
 	},
 	{
 		"id": "Enemy_medic_0_name",
-		"text": "Medic I"
+		"text": "Медик I"
 	},
 	{
 		"id": "Enemy_medic_1_name",
-		"text": "Medic II"
+		"text": "Медик II"
 	},
 	{
 		"id": "Enemy_medic_2_name",
-		"text": "Medic III"
+		"text": "Медик III"
 	},
 	{
 		"id": "Enemy_medic_3_name",
-		"text": "Medic IV"
+		"text": "Медик IV"
 	},
 	{
 		"id": "Enemy_medic_4_name",
-		"text": "Medic V"
+		"text": "Медик V"
 	},
 	{
 		"id": "Enemy_medic_5_name",
-		"text": "Medic VI"
+		"text": "Медик VI"
 	},
 	{
 		"id": "Enemy_medic_6_name",
-		"text": "Medic VII"
+		"text": "Медик VII"
 	},
 	{
 		"id": "Enemy_medic_7_name",
-		"text": "Medic VIII"
+		"text": "Медик VIII"
 	},
 	{
 		"id": "Enemy_zombie_0_name",
-		"text": "Zombie I"
+		"text": "Зомби I"
 	},
 	{
 		"id": "Enemy_zombie_1_name",
-		"text": "Zombie II"
+		"text": "Зомби II"
 	},
 	{
 		"id": "Enemy_zombie_2_name",
-		"text": "Zombie III"
+		"text": "Зомби III"
 	},
 	{
 		"id": "Enemy_zombie_3_name",
-		"text": "Zombie IV"
+		"text": "Зомби IV"
 	},
 	{
 		"id": "Enemy_zombie_4_name",
-		"text": "Zombie V"
+		"text": "Зомби V"
 	},
 	{
 		"id": "Enemy_zombie_5_name",
-		"text": "Zombie VI"
+		"text": "Зомби VI"
 	},
 	{
 		"id": "Enemy_zombie_6_name",
-		"text": "Zombie VII"
+		"text": "Зомби VII"
 	},
 	{
 		"id": "Enemy_zombie_7_name",
-		"text": "Zombie VIII"
+		"text": "Зомби VIII"
 	},
 	{
 		"id": "Enemy_infected_0_name",
-		"text": "Infected I"
+		"text": "Заражённый I"
 	},
 	{
 		"id": "Enemy_infected_1_name",
-		"text": "Infected II"
+		"text": "Заражённый II"
 	},
 	{
 		"id": "Enemy_infected_2_name",
-		"text": "Infected III"
+		"text": "Заражённый III"
 	},
 	{
 		"id": "Enemy_infected_3_name",
-		"text": "Infected IV"
+		"text": "Заражённый IV"
 	},
 	{
 		"id": "Enemy_infected_4_name",
-		"text": "Infected V"
+		"text": "Заражённый V"
 	},
 	{
 		"id": "Enemy_infected_5_name",
-		"text": "Infected VI"
+		"text": "Заражённый VI"
 	},
 	{
 		"id": "Enemy_infected_6_name",
-		"text": "Infected VII"
+		"text": "Заражённый VII"
 	},
 	{
 		"id": "Enemy_infected_7_name",
-		"text": "Infected VIII"
+		"text": "Заражённый VIII"
 	},
 	{
 		"id": "Enemy_cultist_0_name",
-		"text": "Cultist I"
+		"text": "Культист I"
 	},
 	{
 		"id": "Enemy_cultist_1_name",
-		"text": "Cultist II"
+		"text": "Культист II"
 	},
 	{
 		"id": "Enemy_cultist_2_name",
-		"text": "Cultist III"
+		"text": "Культист III"
 	},
 	{
 		"id": "Enemy_cultist_3_name",
-		"text": "Cultist IV"
+		"text": "Культист IV"
 	},
 	{
 		"id": "Enemy_cultist_4_name",
-		"text": "Cultist V"
+		"text": "Культист V"
 	},
 	{
 		"id": "Enemy_cultist_5_name",
-		"text": "Cultist VI"
+		"text": "Культист VI"
 	},
 	{
 		"id": "Enemy_cultist_6_name",
-		"text": "Cultist VII"
+		"text": "Культист VII"
 	},
 	{
 		"id": "Enemy_cultist_7_name",
-		"text": "Cultist VIII"
+		"text": "Культист VIII"
 	},
 	{
 		"id": "Enemy_sporeBearer_0_name",
-		"text": "Spore Bearer I"
+		"text": "Носитель Спор I"
 	},
 	{
 		"id": "Enemy_sporeBearer_1_name",
-		"text": "Spore Bearer II"
+		"text": "Носитель Спор II"
 	},
 	{
 		"id": "Enemy_sporeBearer_2_name",
-		"text": "Spore Bearer III"
+		"text": "Носитель Спор III"
 	},
 	{
 		"id": "Enemy_sporeBearer_3_name",
-		"text": "Spore Bearer IV"
+		"text": "Носитель Спор IV"
 	},
 	{
 		"id": "Enemy_sporeBearer_4_name",
-		"text": "Spore Bearer V"
+		"text": "Носитель Спор V"
 	},
 	{
 		"id": "Enemy_sporeBearer_5_name",
-		"text": "Spore Bearer VI"
+		"text": "Носитель Спор VI"
 	},
 	{
 		"id": "Enemy_sporeBearer_6_name",
-		"text": "Spore Bearer VII"
+		"text": "Носитель Спор VII"
 	},
 	{
 		"id": "Enemy_sporeBearer_7_name",
-		"text": "Spore Bearer VIII"
+		"text": "Носитель Спор VIII"
 	},
 	{
 		"id": "Enemy_necromancer_0_name",
-		"text": "High Priestess I"
+		"text": "Верховная Жрица I"
 	},
 	{
 		"id": "Enemy_necromancer_1_name",
-		"text": "High Priestess II"
+		"text": "Верховная Жрица II"
 	},
 	{
 		"id": "Enemy_necromancer_2_name",
-		"text": "High Priestess III"
+		"text": "Верховная Жрица III"
 	},
 	{
 		"id": "Enemy_necromancer_3_name",
-		"text": "High Priestess IV"
+		"text": "Верховная Жрица IV"
 	},
 	{
 		"id": "Enemy_necromancer_4_name",
-		"text": "High Priestess V"
+		"text": "Верховная Жрица V"
 	},
 	{
 		"id": "Enemy_necromancer_5_name",
-		"text": "High Priestess VI"
+		"text": "Верховная Жрица VI"
 	},
 	{
 		"id": "Enemy_necromancer_6_name",
-		"text": "High Priestess VII"
+		"text": "Верховная Жрица VII"
 	},
 	{
 		"id": "Enemy_necromancer_7_name",
-		"text": "High Priestess VIII"
+		"text": "Верховная Жрица VIII"
 	},
 	{
 		"id": "Enemy_Asshole_name",
-		"text": "Infanterist"
+		"text": "Инфантист"
 	},
 	{
 		"id": "Enemy_Asshole2_name",
-		"text": "Infanterist"
+		"text": "Инфантист"
 	},
 	{
 		"id": "Player_natalya_name",
-		"text": "Natalya"
+		"text": "Наталья"
 	},
 	{
 		"id": "Player_leonora_name",
-		"text": "Leonora"
+		"text": "Леонора"
 	},
 	{
 		"id": "Player_veduti_name",
-		"text": "Veduti"
+		"text": "Ведути"
 	},
 	{
 		"id": "Player_brunhilda_name",
-		"text": "Brunhilda"
+		"text": "Брунхильда"
 	},
 	{
 		"id": "Player_pereira_name",
-		"text": "Pereira"
+		"text": "Перейра"
 	},
 	{
 		"id": "Player_jackson_name",
-		"text": "Jackson"
+		"text": "Джексон"
 	},
 	{
 		"id": "Player_georgette_name",
-		"text": "Georgette"
+		"text": "Жоржетта"
 	},
 	{
 		"id": "Player_professor_name",
-		"text": "Bellamy"
+		"text": "Беллами"
 	},
 	{
 		"id": "Player_drChandra_name",
-		"text": "Dr. Chandra"
+		"text": "Док. Хандра"
 	},
 	{
 		"id": "Player_shaneeka_name",
-		"text": "Shani"
+		"text": "Шани"
 	},
 	{
 		"id": "Player_baron_name",
-		"text": "Baron"
+		"text": "Барон"
 	},
 	{
 		"id": "Player_rose_name",
-		"text": "Rose"
+		"text": "Роза"
 	},
 	{
 		"id": "Player_caballero_name",
-		"text": "Miguel"
+		"text": "Мигель"
 	},
 	{
 		"id": "Player_omar_name",
-		"text": "Omar"
+		"text": "Омар"
 	},
 	{
 		"id": "Player_anabelle_name",
-		"text": "Annabelle"
+		"text": "Аннабель"
 	},
 	{
 		"id": "Player_leFantome_name",
-		"text": "Le Fantôme"
+		"text": "Ле Фантом"
 	},
 	{
 		"id": "Player_snowWhite_name",
-		"text": "Donut"
+		"text": "Пончик"
 	},
 	{
 		"id": "Player_fenris_name",
-		"text": "Fenris"
+		"text": "Фенрис"
 	},
 	{
 		"id": "Player_jacksonTrailer_name",
-		"text": "Jackson"
+		"text": "Джексон"
 	},
 	{
 		"id": "Player_professorTrailer_name",
-		"text": "Professor"
+		"text": "Профессор"
 	},
 	{
 		"id": "Player_jacksonWeaponTester_name",
-		"text": "Jackson"
+		"text": "Джексон"
 	},
 	{
 		"id": "Player_pereiraWeaponTester_name",
-		"text": "Capt. Pereira"
+		"text": "Кап. Перейра"
 	},
 	{
 		"id": "Player_proffesorWeaponTester_name",
-		"text": "Professor"
+		"text": "Профессор"
 	},
 	{
 		"id": "Player_leFantomeWeaponTester_name",
-		"text": "Le Fantôme"
+		"text": "Ле Фантом"
 	},
 	{
 		"id": "Codex_Label",
