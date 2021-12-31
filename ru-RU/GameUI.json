@@ -2491,11 +2491,11 @@
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescription",
-		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
+		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\nСложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionHardcore",
-		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
+		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\nСложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionDisabled",
@@ -2503,11 +2503,11 @@
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionPositive",
-		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
+		"text": "Настройка силы врагов. Также увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\nСложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyDescriptionHardcorePositive",
-		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\Сложность: [str:0]"
+		"text": "Настройка силы врагов. В Режиме Хардкора сложность не увеличивает уровень находимых вещей.\n\nКаждое время суток имеет свой уровень сложности.\n\nСложность: [str:0]"
 	},
 	{
 		"id": "AdventureSelect_DifficultyNormal",
@@ -3387,111 +3387,111 @@
 	},
 	{
 		"id": "Codex_Label",
-		"text": "CODEX"
+		"text": "КОДЕКС"
 	},
 	{
 		"id": "Codex_Tab_1",
-		"text": "BASICS"
+		"text": "ОСНОВЫ"
 	},
 	{
 		"id": "Codex_Tab_2",
-		"text": "TRAVEL"
+		"text": "КАРТА"
 	},
 	{
 		"id": "Codex_Tab_3",
-		"text": "COMBAT"
+		"text": "БОЙ"
 	},
 	{
 		"id": "Codex_Tab_4",
-		"text": "ENEMIES"
+		"text": "ВРАГИ"
 	},
 	{
 		"id": "Codex_Category_1",
-		"text": "TOPIC"
+		"text": "ТЕМА"
 	},
 	{
 		"id": "Codex_Category_2",
-		"text": "INFORMATION"
+		"text": "ИНОРМАЦИЯ"
 	},
 	{
 		"id": "Achievement_Reward_Label",
-		"text": "Reward:"
+		"text": "Награда:"
 	},
 	{
 		"id": "Achievement_Info_Label",
-		"text": "Click here to claim"
+		"text": "Щелкните, чтобы получить"
 	},
 	{
 		"id": "Achievement_Unlock_Label",
-		"text": "Unlocks:"
+		"text": "Разблокирует:"
 	},
 	{
 		"id": "Achievement_Info_Claim_Label",
-		"text": "Click to claim your reward"
+		"text": "Щелкните, чтобы получить свою награду"
 	},
 	{
 		"id": "Achievement_Info_NoClaim_Label",
-		"text": "Reward can't be claimed in menu"
+		"text": "Нельзя получить награду в меню"
 	},
 	{
 		"id": "Achievement_Info_InventoryFull_Label",
-		"text": "Can't claim: Full Inventory."
+		"text": "Нельзя получить: Инвентарь полон."
 	},
 	{
 		"id": "Achievement_Info_ResourceFull_Label",
-		"text": "Can't claim: Resource maxed out."
+		"text": "Нельзя получить: Ресурсов уже максимум."
 	},
 	{
 		"id": "Achievement_AdventureUnlock_Label",
-		"text": "New Adventure Unlocked"
+		"text": "Открыто Новое Приключение"
 	},
 	{
 		"id": "Achievements_TabLabel",
-		"text": "Achievements"
+		"text": "Достижения"
 	},
 	{
 		"id": "Achievements_Label_Filters",
-		"text": "Filters"
+		"text": "Типы Достижений"
 	},
 	{
 		"id": "Achievements_Label_Information",
-		"text": "Information"
+		"text": "Описание"
 	},
 	{
 		"id": "Achievement_Type_AdventureUnlocks",
-		"text": "Adventure Unlocks"
+		"text": "Открытие Приключений"
 	},
 	{
 		"id": "Achievement_Type_CharacterUnlocks",
-		"text": "Character Unlocks"
+		"text": "Открытие Персонажей"
 	},
 	{
 		"id": "Achievement_Type_ExplorationAchievements",
-		"text": "Exploration Achievements"
+		"text": "Исследовательские Достижения"
 	},
 	{
 		"id": "Achievement_Type_EncounterAchievements",
-		"text": "Tactical Achievements"
+		"text": "Тактические Достижения"
 	},
 	{
 		"id": "Achievement_Type_AdventureUnlocks_Short",
-		"text": "Adventures"
+		"text": "Приключения"
 	},
 	{
 		"id": "Achievement_Type_CharacterUnlocks_Short",
-		"text": "Characters"
+		"text": "Персонажи"
 	},
 	{
 		"id": "Achievement_Type_ExplorationAchievements_Short",
-		"text": "Exploration"
+		"text": "Исследование"
 	},
 	{
 		"id": "Achievement_Type_EncounterAchievements_Short",
-		"text": "Tactical"
+		"text": "Тактические"
 	},
 	{
 		"id": "CodexTutorial_Title",
-		"text": "More info in Codex"
+		"text": "Подробности в Кодексе"
 	},
 	{
 		"id": "CodexTutorial_Title_Controller",
@@ -3499,23 +3499,23 @@
 	},
 	{
 		"id": "CodexTutorial_Description",
-		"text": "Whenever you see this notification blinking you can click on this button to see more information on the current context.\n\nYou can disable this in the options screen."
+		"text": "Когда вы увидите, что уведомление мигает, вы можете кликнуть на эту кнопку, чтобы увидеть больше информации о текущем контексте.\n\nВы можете выключить их в окне настроек."
 	},
 	{
 		"id": "CodexTutorial_Description_Controller",
-		"text": "Use L/R to cycle through available adventures. \n\nAs you progress through the game, you will unlock new adventures to play. For now, you only have one adventure to choose from.\n \nThroughout the game, tutorial pop-ups like this one will introduce core gameplay elements. You can disable these at any time in the Options menu. \n\nExtensive gameplay information is always available in the in-game Codex."
+		"text": "Используйте L/R чтобы переключаться между приключениями. \n\nПо мере прохождения игры вам откроются новые приключения. Сейчас у вас есть только одно приключение.\n \nНа протяжении всей игры всплывающие окна подобно этому будут знакомить вас с элементами игры. Вы можете выключить их в окне настроек. \n\nИсчерпывающая игровая информация находится в игровом Кодексе."
 	},
 	{
 		"id": "CombatStats_Kills",
-		"text": "Kills"
+		"text": "Убито"
 	},
 	{
 		"id": "CombatStats_Hospitalized",
-		"text": "Hospitalized"
+		"text": "Госпитализировано"
 	},
 	{
 		"id": "CombatStats_DamageDealtLabel",
-		"text": "Damage Dealt"
+		"text": "Нанесенный Урон"
 	},
 	{
 		"id": "CombatStats_DamageDealtAmount",
@@ -3523,7 +3523,7 @@
 	},
 	{
 		"id": "CombatStats_ShotAccuracyLabel",
-		"text": "Shot Accuracy"
+		"text": "Точность Выстрелов"
 	},
 	{
 		"id": "CombatStats_ShotAccuracyAmount",
@@ -3531,7 +3531,7 @@
 	},
 	{
 		"id": "CombatStats_EvadesLabel",
-		"text": "Evades"
+		"text": "Уворотов"
 	},
 	{
 		"id": "CombatStats_EvadesAmount",
@@ -3539,7 +3539,7 @@
 	},
 	{
 		"id": "CombatStats_CritsLabel",
-		"text": "Crits"
+		"text": "Критов"
 	},
 	{
 		"id": "CombatStats_CritsAmount",
@@ -3547,23 +3547,23 @@
 	},
 	{
 		"id": "CombatStats_TimeTakenLabel",
-		"text": "Time taken"
+		"text": "Затраченное время"
 	},
 	{
 		"id": "CombatStats_TimeTakenAmount",
-		"text": "[ms:4] ([7] Turns)"
+		"text": "[ms:4] ([7] Ходов)"
 	},
 	{
 		"id": "CombatStats_ReloadLabel",
-		"text": "Reload all weapons"
+		"text": "Перезарядить все оружия"
 	},
 	{
 		"id": "CombatStats_ContinueLabel",
-		"text": "Back to map"
+		"text": "Обратно к карте"
 	},
 	{
 		"id": "AdventureStats_Valuables",
-		"text": "Valuables"
+		"text": "Ценности"
 	},
 	{
 		"id": "AdventureStats_ValuablesAmount",
@@ -3571,15 +3571,15 @@
 	},
 	{
 		"id": "AdventureStats_CombatTitle",
-		"text": "Combat"
+		"text": "Бой"
 	},
 	{
 		"id": "AdventureStats_AdventureTitle",
-		"text": "Adventure"
+		"text": "Приключение"
 	},
 	{
 		"id": "AdventureStats_TimeTakenLabel",
-		"text": "Time taken"
+		"text": "Затраченное время"
 	},
 	{
 		"id": "AdventureStats_TimeTakenAmount",
@@ -3587,7 +3587,7 @@
 	},
 	{
 		"id": "AdventureStats_FuelUsedLabel",
-		"text": "Fuel used"
+		"text": "Потрачено Топлива"
 	},
 	{
 		"id": "AdventureStats_FuelUsedAmount",
@@ -3595,7 +3595,7 @@
 	},
 	{
 		"id": "AdventureStats_AmmoUsedLabel",
-		"text": "Ammo used"
+		"text": "Потрачено Патронов"
 	},
 	{
 		"id": "AdventureStats_AmmoUsedAmount",
@@ -3603,7 +3603,7 @@
 	},
 	{
 		"id": "AdventureStats_ItemsCollectedLabel",
-		"text": "Items collected"
+		"text": "Собрано Предметов"
 	},
 	{
 		"id": "AdventureStats_ItemsCollectedAmount",
@@ -3611,7 +3611,7 @@
 	},
 	{
 		"id": "AdventureStats_MoneyCollectedLabel",
-		"text": "Money collected"
+		"text": "Собрано Денег"
 	},
 	{
 		"id": "AdventureStats_MoneyCollectedAmount",
@@ -3619,7 +3619,7 @@
 	},
 	{
 		"id": "AdventureStats_ExperienceGainedLabel",
-		"text": "Experience gained"
+		"text": "Получено Опыта"
 	},
 	{
 		"id": "AdventureStats_ExperienceGainedAmount",
@@ -3627,7 +3627,7 @@
 	},
 	{
 		"id": "AdventureStats_DamageDealtLabel",
-		"text": "Total damage dealt"
+		"text": "Общий нанесённый урон"
 	},
 	{
 		"id": "AdventureStats_DamageDealtAmount",
@@ -3635,7 +3635,7 @@
 	},
 	{
 		"id": "AdventureStats_ShotAccuracyLabel",
-		"text": "Avg Shot accuracy"
+		"text": "Средняя точность"
 	},
 	{
 		"id": "AdventureStats_ShotAccuracyAmount",
@@ -3643,7 +3643,7 @@
 	},
 	{
 		"id": "AdventureStats_EvadesLabel",
-		"text": "Total Evades"
+		"text": "Всего Уворотов"
 	},
 	{
 		"id": "AdventureStats_EvadesAmount",
@@ -3651,7 +3651,7 @@
 	},
 	{
 		"id": "AdventureStats_CritsLabel",
-		"text": "Total Crits"
+		"text": "Всего Критов"
 	},
 	{
 		"id": "AdventureStats_CritsAmount",
@@ -3663,19 +3663,19 @@
 	},
 	{
 		"id": "AdventureStats_ContinueButton",
-		"text": "Back to Menu"
+		"text": "Обратно в Меню"
 	},
 	{
 		"id": "AdventureStats_StartAdventure",
-		"text": "Begin Adventure"
+		"text": "Начать Приключение"
 	},
 	{
 		"id": "AdventureStats_ContinueButtonHardcore",
-		"text": "Next Adventure"
+		"text": "Следующее Приключение"
 	},
 	{
 		"id": "AdventureStats_AdventureStats",
-		"text": "Show Stats"
+		"text": "Показать Статистику"
 	},
 	{
 		"id": "Trashbag_Value",
@@ -3683,23 +3683,23 @@
 	},
 	{
 		"id": "Trashbag_Title",
-		"text": "Valuables"
+		"text": "Ценности"
 	},
 	{
 		"id": "Trashbag_Empty",
-		"text": "Empty :("
+		"text": "Пусто :("
 	},
 	{
 		"id": "Trashbag_UndoDescription",
-		"text": "Return last item from the valuables bag back to your inventory."
+		"text": "Вернуть последний предмет из сумки ценностей обратно в инвентарь."
 	},
 	{
 		"id": "EventEffect_ItemReceived",
-		"text": "[item:name] received"
+		"text": "Получен [item:name]"
 	},
 	{
 		"id": "EventEffect_ItemRemoved",
-		"text": "[item:name] removed"
+		"text": "Удалён [item:name]"
 	},
 	{
 		"id": "EventEffect_ItemOfTypeRemoved",
@@ -3707,31 +3707,31 @@
 	},
 	{
 		"id": "EventEffect_AttributeRestored",
-		"text": "replenished"
+		"text": "восполнен"
 	},
 	{
 		"id": "EventEffect_UnitRevived",
-		"text": "revived"
+		"text": "реанимировано"
 	},
 	{
 		"id": "EventEffect_Fuel",
-		"text": "Fuel"
+		"text": "Топливо"
 	},
 	{
 		"id": "EventEffect_Cash",
-		"text": "Cash"
+		"text": "Деньги"
 	},
 	{
 		"id": "EventEffect_Ammo",
-		"text": "Ammo"
+		"text": "Патроны"
 	},
 	{
 		"id": "EventEffect_Party",
-		"text": "Party"
+		"text": "Отряд"
 	},
 	{
 		"id": "ItemContext_UseWith",
-		"text": "Use on"
+		"text": "Использовать на"
 	},
 	{
 		"id": "ItemContext_Reload",
@@ -3743,67 +3743,67 @@
 	},
 	{
 		"id": "ItemContext_Caption",
-		"text": "Actions"
+		"text": "Перезарядить"
 	},
 	{
 		"id": "ItemContext_SplitStack",
-		"text": "Split Stack"
+		"text": "Разделить Стопку"
 	},
 	{
 		"id": "ItemContext_MoveTo",
-		"text": "Move to"
+		"text": "Переместить в"
 	},
 	{
 		"id": "ItemContext_MoveToPage",
-		"text": "Page [0]"
+		"text": "Страница [0]"
 	},
 	{
 		"id": "GambleOption_Info",
-		"text": "This choice may yield a positive or negative outcome."
+		"text": "Этот выбор может привести к хорошим или плохим последствиям."
 	},
 	{
 		"id": "GamblePerkOption_Info",
-		"text": "This option uses a character perk. It generally yields a positive outcome but in some instances may result in unexpected situations."
+		"text": "Этот пункт использует перк персонажа. Обычно это приводит к хорошим последствиям, но некоторые случаи могут привести к неожиданным последствиям."
 	},
 	{
 		"id": "GamblePerkOption_LockedInfo",
-		"text": "This option uses a character perk. Your team does not possess the appropriate perk."
+		"text": "Этот пункт использует перк персонажа. Ни у кого из вашей команды нет этого перка."
 	},
 	{
 		"id": "GambleInfo_Title",
-		"text": "Gamble"
+		"text": "Азартная Игра"
 	},
 	{
 		"id": "CodexTopic_LockedInfo",
-		"text": "This topic is locked because you have not yet encountered the enemies described."
+		"text": "Этот пункт закрыт, потому что вы ещё не встретили описанного персонажа."
 	},
 	{
 		"id": "FastForward_Button_Tooltip",
-		"text": "Speed up the AI turn.\n\nYou may change the default speed in the game options."
+		"text": "Ускорить действия ИИ.\n\nВы можете изменить значение по умолчанию в настройках."
 	},
 	{
 		"id": "SplitStack_Split_Button",
-		"text": "Split"
+		"text": "Разделить"
 	},
 	{
 		"id": "SplitStack_Cancel_Button",
-		"text": "Cancel"
+		"text": "Отмена"
 	},
 	{
 		"id": "Tutorial_CodexButton",
-		"text": "Learn more about this in the Codex..."
+		"text": "См. подробности в Кодексе..."
 	},
 	{
 		"id": "Tutorial_Hint",
-		"text": "Click anywhere outside the tooltip to continue."
+		"text": "Щёлкните за пределами подсказки, чтобы продолжить."
 	},
 	{
 		"id": "Tutorial_Hint_Controller",
-		"text": "Press any button to dismiss tutorial."
+		"text": "Нажмите любую кнопку, чтобы закрыть подсказку."
 	},
 	{
 		"id": "Tutorial_Checkbox",
-		"text": "Show more tips"
+		"text": "Показывать больше подсказок"
 	},
 	{
 		"id": "Tutorial_TeamSelectScreen_Title",
