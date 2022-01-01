@@ -2555,7 +2555,7 @@
 	},
 	{
 		"id": "TeamSelect_RecruitInfo",
-		"text": "О ПЕРСОНАЖЕ"
+		"text": "ИНФО ПЕРСОНАЖА"
 	},
 	{
 		"id": "TeamSelect_Recruit",
@@ -3415,7 +3415,7 @@
 	},
 	{
 		"id": "Achievement_Info_Label",
-		"text": "Щелкните, чтобы получить"
+		"text": "Кликните, чтобы получить"
 	},
 	{
 		"id": "Achievement_Unlock_Label",
@@ -3423,7 +3423,7 @@
 	},
 	{
 		"id": "Achievement_Info_Claim_Label",
-		"text": "Щелкните, чтобы получить свою награду"
+		"text": "Кликните, чтобы получить свою награду"
 	},
 	{
 		"id": "Achievement_Info_NoClaim_Label",

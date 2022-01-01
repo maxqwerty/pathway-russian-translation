@@ -10,9 +10,7 @@ American Globetrotter;Американский Путешественник
 American Inventor;Американский Изобретатель
 Ammo;Патроны
 Ancestral Spirits;Духи Предков
-Ancestral Spirits;Духи Предков
 Ancient curse;Древнее проклятие
-Ancient Languages;Древние Языки
 Ancient Languages;Древние Языки
 Anglo-Indian Antiquarian;Англо-Индийский Антиквар
 Animal;Животное
@@ -35,7 +33,6 @@ Brazilian Steamboat Smuggler;Бразильский Контрабандист
 British Amateur Archeologist;Британский Археолог-любитель
 Bruised leg;Ушиб ноги
 Brute;Силач
-Brute;Силач
 Burned foot;Ожог ноги
 Business Connections;Деловые Связи
 Business-minded;Деловой
@@ -46,6 +43,7 @@ Cautious;Осторожный
 Character;Персонаж
 Cleave;Рассечь
 Cobra bite;Укус кобры
+Common;Обычная
 Concentrate;Сконцентрироваться
 Crippling Shot;Калечащий Выстрел
 Crit Chance;Шанс Крита
@@ -55,7 +53,6 @@ CRT+;КРТ+
 Cultist;Культист
 Damage;Урон
 Damage Radius;Радиус Урона
-Daredevil;Смельчак
 Daredevil;Смельчак
 Dash;Бросок
 Deadly;Смертоносный
@@ -70,7 +67,7 @@ DMG;УРОН
 END;ВЫН
 Endurance;Выносливость
 Engineer;Инженер
-Engineer;Инженер
+Epic;Эпичная
 Equipment;Снаряжение
 Exorcist;Экзорцист
 Experienced Traveller;Опытный Путешественник
@@ -78,7 +75,6 @@ Experienced Traveller;Опытный Путешественник
 Explorer;Исследователь
 First Aid;Первая Помощь
 Flamethrower;Огнемет
-Forbidden Lore;Запретные Предания
 Forbidden Lore;Запретные Предания
 French Burglar Legend;Французский Легендарный Взломщик
 Fuel;Топливо
@@ -96,7 +92,6 @@ Inornate ring;Незамысловатое кольцо
 INT;ИНТ
 Intelligence;Интеллект
 Intimidation;Шантаж
-Intimidation;Шантаж
 Italian Vatican Legate;Итальянский Посол Ватикана
 Kharga Serabit;Харга Серабит
 Khonesh Brotherhood;Братство Хонеш
@@ -104,6 +99,7 @@ Kissed by the eons;Благословленный эонами
 Knife;Нож
 Knocked out;Без сознания
 Leg injury;Ранение ноги
+Legendary;Легендарная
 Lightning Pistol;Электро-Пистолет
 Loot;Добыча
 Low Profile;Уворот
@@ -113,7 +109,6 @@ Machine;Машина
 MAG;МАГ
 Magazine Size;Объем Магазина
 MED;АПТ
-Medical Expert;Мед эксперт
 Medical Expert;Мед эксперт
 Medkit;Аптечка
 Medkit Range;Дальность Аптечки
@@ -134,6 +129,7 @@ Pulsating amulet;Пульсирующий амулет
 Qualms;Сомнение
 Quantum Leech;Квантовая Пиявка
 Queen of Sheba;царицы Савской
+Rare;Редкая
 Reaction Shot;Ответный Выстрел
 Recruit;Нанять
 Reflexes;Рефлексы
@@ -150,7 +146,6 @@ Robust;Надежный
 Russian Scientist;Русский Ученый
 Sacred diadem;Священная диадема
 Severe burnings;Сильные ожоги
-Shadow;Скрытность
 Shadow;Скрытность
 Shotgun;Дробовик
 SHR;УРБ
@@ -173,7 +168,6 @@ Sudden Strike;Внезапный Удар
 Superstitious;Суеверный
 Supplies;Припасы
 Survivalist;Выживальщик
-Survivalist;Выживальщик
 Tarantula bite;Укус тарантулы
 Team;Команда
 The brooch of the gods;Брошь богов
@@ -182,10 +176,10 @@ The priestess's bracelet;Браслет жрицы
 Throw Range;Дальность Броска
 Tinker;Лудильщик
 Trickster;Ловкач
-Trickster;Ловкач
 Turash-Ra;Тураш-Ра
 Undead;Нежить
 Ungarnished ring;Простое кольцо
+Unique;Уникальная
 Valkyrium;Валькирий
 Valuables;Ценности
 Vanish;Скрыться
