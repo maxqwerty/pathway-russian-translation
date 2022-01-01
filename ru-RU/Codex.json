@@ -99,7 +99,7 @@
 	},
 	{
 		"id": "HospitalizedChars",
-		"text": "Госпитализированные Персонажи"
+		"text": "Госпитализация"
 	},
 	{
 		"id": "HospitalizedChars_Content",
@@ -159,7 +159,7 @@
 	},
 	{
 		"id": "IconVisibility",
-		"text": "Иконки Событий и Видимость"
+		"text": "Видимость Событий"
 	},
 	{
 		"id": "IconVisibility_Content",
@@ -235,47 +235,47 @@
 	},
 	{
 		"id": "EnemyInfo_Content",
-		"text": "[h1]Информация о Противниках[/h1]During the placement phase, you can view the Enemy Info for all enemies within the field of vision of your characters. During the course of the battle, you can click on the tabs on the left to alternate between the Character Actions and the Enemy Info. Left-clicking on an enemy portrait will focus the camera on the corresponding unit.\n[p][img:codex_enemyinfo]\n[p]Hovering your cursor above an opponent reveals that enemy’s attack range (red area). Press tab to display your enemy’s movement range instead (blue area)."
+		"text": "[h1]Информация о Противнике[/h1]Во время фазы расстановки вы можете посмотреть Информацию о всех Противниках в поле зрения ваших персонажей. Во время боя вы моежте кликнуть на вкладке слева, чтобы переключиться между Действиями Персонажа и Информацией о Противнике. Щелчок по портрету персонажа сфокусирует камеру на соответствующем враге.\n[p][img:codex_enemyinfo]\n[p]Наведите курсор на противника, чтобы увидеть зону атаки противника (красная). Нажмите Tab, чтобы вместо этого увидеть зону движения врага (синяя)."
 	},
 	{
 		"id": "CharacterSelection",
-		"text": "Character Selection"
+		"text": "Выбор Персонажа"
 	},
 	{
 		"id": "CharacterSelection_Content",
-		"text": "[h1]Character Selection[/h1]During combat, you select a character by left-clicking on it or on its character portrait at the bottom left. Alternatively, you can use the left and right arrows to switch between the different units.\n[p][img:codex_charselect]"
+		"text": "[h1]Выбор Персонажа[/h1]Во время боя вы можете выбрать персонажа, кликнув по его портрету слева снизу. Также можно использовать клавиши стрелочек, чтобы переключаться между персонажами.\n[p][img:codex_charselect]"
 	},
 	{
 		"id": "CharacterSelection_Content_Controller",
-		"text": "[h1]Character Selection[/h1]During combat, use L/R to cycle between your characters.\n[p][img:codex_charselect]"
+		"text": "[h1]Выбор Персонажа[/h1]Во время боя нажимайте L/R, чтобы переключаться между персонажами.\n[p][img:codex_charselect]"
 	},
 	{
 		"id": "CharacterSelection_Content_Xbox",
-		"text": "[h1]Character Selection[/h1]During combat, use LB/RB to cycle between your characters.\n[p][img:codex_charselect]"
+		"text": "[h1]Выбор Персонажа[/h1]Во время боя нажимайте LB/RB, чтобы переключаться между персонажами.\n[p][img:codex_charselect]"
 	},
 	{
 		"id": "CoverTypes",
-		"text": "Types of Cover"
+		"text": "Укрытия"
 	},
 	{
 		"id": "CoverTypes_Content",
-		"text": "[h1]Types of Cover[/h1]When a character is placed directly next to cover, this is indicated as a tooltip. A character that stops immediately adjacent to cover will automatically crouch down and benefit from its protection - diagonal contact with cover does not provide any protection.\n[p][h1]Example[/h1][img:codex_coveruse]\nBrunhilda (kneeling, left) is directly next to the cover to her south. This grants her protection from all attacks from the south.\nJackson (standing, right), is only diagonally adjacent to the cover on his right. Therefore, he is not protected.\n[p]Pathway distinguishes between two types of cover. Walls also provide very effective protection."
+		"text": "[h1]Типы Укрытий[/h1]Когда персонаж становится рядом с укрытием, рядом с ним появляется соответствующая подсказка. Персонаж, который встанет рядом с укрытием автоматически присядет и получит защиту; при этом по диагонали укрытия никак не помогают.\n[p][h1]Пример[/h1][img:codex_coveruse]\nБрунхильда (присела, слева) имеет укрытие к югу от себя. Это дает ей защиту от всех атак с юга.\nДжексон (стоит, справа), стоит рядом с укрытием по диагонали справа. Поэтому он не защищён.\n[p]В Pathway имеется два типа укрытия. Стены также обеспечивают очень эффективную защиту."
 	},
 	{
 		"id": "PartialCovers",
-		"text": "Partial Cover"
+		"text": "Частичное Укрытие"
 	},
 	{
 		"id": "PartialCovers_Content",
-		"text": "[h1]Low Cover[/h1]Low cover reduces the probability of being hit by a ranged attack by [cover:SmallCover]%. It also provides complete protection from grenade shrapnel. The protection radius includes all frontal attacks. It does not break line of sight and can be jumped over. Characters crouching behind low cover stand up automatically if they want to shoot over it. Grenades can be thrown over low cover, nullifying its protection. Objects between hip and shoulder height are considered to be low cover. Low cover is displayed in the tooltip as a shield.\n[p][img:codex_weakcover]\n[p][h1]High cover[/h1]High cover behaves in much the same way as low cover, but it cannot be jumped over. Objects larger than characters are generally considered to be high cover. High cover is displayed in the tooltip as a shield with a cross in its center.\n[p][img:codex_strongcover]"
+		"text": "[h1]Слабое Укрытие[/h1]Слабое Укрытие снижает вероятность попадания дальних атак на [cover:SmallCover]%. Оно также обеспечивает полную защиту от осколков гранаты. Зона защиты включает в себя все лобовые атаки. Оно не прерывают область видимости и через него можно перепрыгнуть. Если персонаж, стоящий за Слабым Укрытием, захочет выстрелить, он автоматически встанет. Через это укрытие можно бросать гранаты, аннулирование его защиту. Предметы высотой от бедра до плеч считаются Слабыми Укрытиями. Слабое Укрытие обозначено подсказкой как щит.\n[p][img:codex_weakcover]\n[p][h1]Хорошее Укрытие[/h1]Хорошее Укрытие ведет себя так же, как и Слабое, только через него нельзя перепрыгнуть. Объекты выше персонажей обычно считаются Хорошим Укрытием. Хорошее Укрытие обозначено подсказкой как перечёркнутый щит.\n[p][img:codex_strongcover]"
 	},
 	{
 		"id": "Walls",
-		"text": "Walls"
+		"text": "Стены"
 	},
 	{
 		"id": "Walls_Content",
-		"text": "[h1]Walls[/h1]Walls provide complete protection from all ranged attacks carried out from the other side of the wall. The protected area includes all frontal attacks. It is not possible to jump over walls or throw hand grenades over them. If a wall is located along a direct line between two tiles, it breaks the line of sight. Characters standing at the edge of a wall automatically take a side step to shoot past that edge, if necessary to hit their target. (Special attacks and grenades are exceptions to this rule.) Huge objects that are significantly bigger than characters are generally treated as walls. Walls are displayed in the tooltip as a piece of masonry.\n[p][img:codex_wall]"
+		"text": "[h1]Стены[/h1]Стену дают полную защиту от всех дальних атак с обратной стороны стены. Зона защиты включает в себя все лобовые атаки. Через стены нельзя перепрыгнуть или бросать гранаты. Стены скрывают из поля зрения. персонажи стоящие у края стены автоматически делают шаг в сторону, если это требуется, чтобы выстрелить в цель. (Специальные атаки и гранаты - исключение из этих правил.) Большие объекты, значительно больше персонажей, обычно считаются как стены. Стены обозначаются подсказкой как каменная кладка.\n[p][img:codex_wall]"
 	},
 	{
 		"id": "HitChances",
