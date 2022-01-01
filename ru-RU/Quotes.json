@@ -3,2019 +3,2019 @@
 "rows": [
 	{
 		"id": "natalya_NeedReloading_0",
-		"text": "I have to reload my pistol."
+		"text": "Мне нужно перезарядить пистолет."
 	},
 	{
 		"id": "natalya_NeedHealing_0",
-		"text": "I need medical attention immediately."
+		"text": "Мне сейчас же нужна медицинская помощь."
 	},
 	{
 		"id": "natalya_CriticalStrike_0",
-		"text": "A perfect execution."
+		"text": "Идеальная казнь."
 	},
 	{
 		"id": "natalya_Killshot_0",
-		"text": "One more down."
+		"text": "Еще один выбыл."
 	},
 	{
 		"id": "natalya_Evade_0",
-		"text": "That was incredibly close."
+		"text": "Это было очень близко."
 	},
 	{
 		"id": "natalya_Idle_0",
-		"text": "We have much more to discover!"
+		"text": "Нам нужно еще многое узнать!"
 	},
 	{
 		"id": "natalya_Flanked_0",
-		"text": "I need help here!"
+		"text": "Мне нужна помощь!"
 	},
 	{
 		"id": "natalya_NeedFuel_0",
-		"text": "We're almost out of fuel."
+		"text": "У нас почти закончилось топливо."
 	},
 	{
 		"id": "natalya_NeedAmmo_0",
-		"text": "Our ammo supplies are low."
+		"text": "У нас мало патронов."
 	},
 	{
 		"id": "natalya_ItemUpgrade_0",
-		"text": "An excellent choice."
+		"text": "Отличный выбор."
 	},
 	{
 		"id": "natalya_ItemDowngrade_0",
-		"text": "That seems like a bad idea."
+		"text": "Кажется, это плохая идея."
 	},
 	{
 		"id": "natalya_Recruited_0",
-		"text": "Always excited for another adventure."
+		"text": "Я всегда рада новым приключениям."
 	},
 	{
 		"id": "natalya_LevelUp_0",
-		"text": "What an interesting journey!"
+		"text": "Это было интересное путешествие!"
 	},
 	{
 		"id": "natalya_EnemySpotted_0",
-		"text": "Enemy spotted!"
+		"text": "Враг обнаружен!"
 	},
 	{
 		"id": "natalya_NeedReloading_1",
-		"text": "That was my last shot."
+		"text": "Это был последний выстрел."
 	},
 	{
 		"id": "natalya_NeedHealing_1",
-		"text": "Anyone got a bandage for me?"
+		"text": "У кого-нибудь есть бинт?"
 	},
 	{
 		"id": "natalya_CriticalStrike_1",
-		"text": "That must've hurt."
+		"text": "Это должно быть больно."
 	},
 	{
 		"id": "natalya_Killshot_1",
-		"text": "Don't take it the wrong way!"
+		"text": "Не пойми неправильно!"
 	},
 	{
 		"id": "natalya_Evade_1",
-		"text": "Another close call."
+		"text": "На волосок от..."
 	},
 	{
 		"id": "natalya_Idle_1",
-		"text": "I don't wan't to complain, but I'm starting to get bored here."
+		"text": "Не хочу жаловаться, но здесь становится скуно."
 	},
 	{
 		"id": "natalya_Flanked_1",
-		"text": "They're everywhere!"
+		"text": "Они повсюду!"
 	},
 	{
 		"id": "natalya_NeedFuel_1",
-		"text": "We're not going to make it far with the fuel left."
+		"text": "С оставшимся топливом мы далеко не уедем."
 	},
 	{
 		"id": "natalya_NeedAmmo_1",
-		"text": "What will we do when we run out of ammo?"
+		"text": "Что мы будем делать, когда закончатся патроны?"
 	},
 	{
 		"id": "natalya_ItemUpgrade_1",
-		"text": "Can I keep it?"
+		"text": "Могу я это оставить?"
 	},
 	{
 		"id": "natalya_ItemDowngrade_1",
-		"text": "Not a fan."
+		"text": "Не смешно."
 	},
 	{
 		"id": "natalya_Recruited_1",
-		"text": "I'm so excited!"
+		"text": "Я так рада!"
 	},
 	{
 		"id": "natalya_LevelUp_1",
-		"text": "I think I'm beginning to understand."
+		"text": "Думаю, я начинаю понимать."
 	},
 	{
 		"id": "natalya_EnemySpotted_1",
-		"text": "There’s another one!"
+		"text": "Тут еще один!"
 	},
 	{
 		"id": "leonora_NeedReloading_0",
-		"text": "I should reload my weapon."
+		"text": "Мне нужна перезарядка."
 	},
 	{
 		"id": "leonora_NeedHealing_0",
-		"text": "I am badly wounded."
+		"text": "Я сильно ранена."
 	},
 	{
 		"id": "leonora_CriticalStrike_0",
-		"text": "A marvelous hit!"
+		"text": "Великолепный удар!"
 	},
 	{
 		"id": "leonora_Killshot_0",
-		"text": "A lovely day to die."
+		"text": "Отличный день, чтобы умереть."
 	},
 	{
 		"id": "leonora_Evade_0",
-		"text": "Blimey! It almost hit me."
+		"text": "Вот это да! По мне почти попали."
 	},
 	{
 		"id": "leonora_Idle_0",
-		"text": "My bottom is beginning to hurt from all this sitting around."
+		"text": "У меня уже задница болит от того, что я просто сижу на месте."
 	},
 	{
 		"id": "leonora_Flanked_0",
-		"text": "Cowards."
+		"text": "Трусы."
 	},
 	{
 		"id": "leonora_NeedFuel_0",
-		"text": "Our fuel supplies won't replenish themselves."
+		"text": "Запасы топлива сами по себе не восполнятся."
 	},
 	{
 		"id": "leonora_NeedAmmo_0",
-		"text": "We may want to pay attention to our ammo supply."
+		"text": "Возможно нам нужно будет обратить внимание на запасы патронов."
 	},
 	{
 		"id": "leonora_ItemUpgrade_0",
-		"text": "I approve."
+		"text": "Я одобряю."
 	},
 	{
 		"id": "leonora_ItemDowngrade_0",
-		"text": "Not my cup of tea."
+		"text": "Не в моём стиле."
 	},
 	{
 		"id": "leonora_Recruited_0",
-		"text": "Let me check my schedule ...\nYes, fine."
+		"text": "Дайте я проверю свое расписание...\nДа, согласна."
 	},
 	{
 		"id": "leonora_LevelUp_0",
-		"text": "I think I learned something today..."
+		"text": "Думаю, сегодня я чему-то научилась..."
 	},
 	{
 		"id": "leonora_EnemySpotted_0",
-		"text": "I think I see another one!"
+		"text": "Кажется, я вижу еще одного!"
 	},
 	{
 		"id": "leonora_NeedReloading_1",
-		"text": "My magazine is empty."
+		"text": "Мой магазин пуст."
 	},
 	{
 		"id": "leonora_NeedHealing_1",
-		"text": "I'm feeling very light-headed. Have I lost too much blood?"
+		"text": "Я чувствую головокружение. Я потеряла слишком много крови?"
 	},
 	{
 		"id": "leonora_CriticalStrike_1",
-		"text": "Applied archeology, Baby!"
+		"text": "Прикладная археология, детка!"
 	},
 	{
 		"id": "leonora_Killshot_1",
-		"text": "This one won't hurt us any longer."
+		"text": "Этот нам больше не навредит."
 	},
 	{
 		"id": "leonora_Evade_1",
-		"text": "Ludicrous."
+		"text": "Смехотворно."
 	},
 	{
 		"id": "leonora_Idle_1",
-		"text": "My professor once told me real archeology happens in the library... Hah!"
+		"text": "Мой профессор однажды сказал мне, что настоящая археология происходит в библиотеке... Ха!"
 	},
 	{
 		"id": "leonora_Flanked_1",
-		"text": "Find cover!"
+		"text": "Ищите укрытие!"
 	},
 	{
 		"id": "leonora_NeedFuel_1",
-		"text": "Has anyone checked the gas tank recently?"
+		"text": "Кто-нибудь проверял бензобак в последнее время?"
 	},
 	{
 		"id": "leonora_NeedAmmo_1",
-		"text": "Is that all of our ammo?"
+		"text": "И это все наши патроны?"
 	},
 	{
 		"id": "leonora_ItemUpgrade_1",
-		"text": "Oh yes, please."
+		"text": "О да, пожалуйста."
 	},
 	{
 		"id": "leonora_ItemDowngrade_1",
-		"text": "Rubbish."
+		"text": "Мусор."
 	},
 	{
 		"id": "leonora_Recruited_1",
-		"text": "Ready when you are."
+		"text": "Готова, как только будете и вы."
 	},
 	{
 		"id": "leonora_LevelUp_1",
-		"text": "Every challenge is a learning experience!"
+		"text": "Каждое испытание - это опыт!"
 	},
 	{
 		"id": "leonora_EnemySpotted_1",
-		"text": "Look out! Enemy ahead!"
+		"text": "Осторожно! Впереди враг!"
 	},
 	{
 		"id": "veduti_NeedReloading_0",
-		"text": "Must reload."
+		"text": "Нужно перезарядиться."
 	},
 	{
 		"id": "veduti_NeedHealing_0",
-		"text": "My wounds need attention."
+		"text": "Моим ранам нужен уход."
 	},
 	{
 		"id": "veduti_CriticalStrike_0",
-		"text": "I did not learn this at seminary."
+		"text": "Я не учился такому в семинарии."
 	},
 	{
 		"id": "veduti_Killshot_0",
-		"text": "Vae victis!"
+		"text": "Горе побежденным!"
 	},
 	{
 		"id": "veduti_Evade_0",
-		"text": "God defends those who adore him."
+		"text": "Бог защищает тех, кто ему поклоняется."
 	},
 	{
 		"id": "veduti_Idle_0",
-		"text": "*praying*"
+		"text": "*молится*"
 	},
 	{
 		"id": "veduti_Flanked_0",
-		"text": "There are many evils in this world."
+		"text": "В мире слишком много зла."
 	},
 	{
 		"id": "veduti_NeedFuel_0",
-		"text": "Our fuel supplies are running low."
+		"text": "Наши запасы топлива заканчиваются."
 	},
 	{
 		"id": "veduti_NeedAmmo_0",
-		"text": "We have to find more ammo."
+		"text": "Нам нужно найти больше патронов."
 	},
 	{
 		"id": "veduti_ItemUpgrade_0",
-		"text": "Grazie mille."
+		"text": "Большое спасибо."
 	},
 	{
 		"id": "veduti_ItemDowngrade_0",
-		"text": "I don't like that."
+		"text": "Мне это не нравится."
 	},
 	{
 		"id": "veduti_Recruited_0",
-		"text": "For the greater glory of God."
+		"text": "Во славу Господа."
 	},
 	{
 		"id": "veduti_LevelUp_0",
-		"text": "Life is always teaching us new things..."
+		"text": "Жизнь всегда учит новому..."
 	},
 	{
 		"id": "veduti_EnemySpotted_0",
-		"text": "There’s another one hiding up there!"
+		"text": "Тут еще один спрятался!"
 	},
 	{
 		"id": "veduti_NeedReloading_1",
-		"text": "Do we have any more bullets?"
+		"text": "У нас еще остались патроны?"
 	},
 	{
 		"id": "veduti_NeedHealing_1",
-		"text": "I see… a bright light… in the darkness."
+		"text": "Я вижу… яркий свет… в конце тоннеля."
 	},
 	{
 		"id": "veduti_CriticalStrike_1",
-		"text": "Eye for eye, tooth for tooth."
+		"text": "Глаз за глаз, зуб за зуб."
 	},
 	{
 		"id": "veduti_Killshot_1",
-		"text": "Rest in peace!"
+		"text": "Покойся с миром!"
 	},
 	{
 		"id": "veduti_Evade_1",
-		"text": "My time hasn't come yet."
+		"text": "Мое время еще не пришло."
 	},
 	{
 		"id": "veduti_Idle_1",
-		"text": "If anyone needs a confession - it appears I have a little time."
+		"text": "Если кому-нибудь нужно исповедаться - у меня появилось немного свободного времени."
 	},
 	{
 		"id": "veduti_Flanked_1",
-		"text": "I will not cover in fear."
+		"text": "Я не поддамся страху."
 	},
 	{
 		"id": "veduti_NeedFuel_1",
-		"text": "We'll be praying our last prayers soon if we don't find fuel quickly ..."
+		"text": "Скоро мы прочтем нашу последнюю молитву, если не найдем топливо..."
 	},
 	{
 		"id": "veduti_NeedAmmo_1",
-		"text": "Out of ammo? Lord help us all."
+		"text": "Не осталось патронов? Спаси нас Бог."
 	},
 	{
 		"id": "veduti_ItemUpgrade_1",
-		"text": "Halleluja!"
+		"text": "Аллилуйя!"
 	},
 	{
 		"id": "veduti_ItemDowngrade_1",
-		"text": "I accept with humilty."
+		"text": "Я смиренно принимаю это."
 	},
 	{
 		"id": "veduti_Recruited_1",
-		"text": "You may call it chance, I say it's God's will."
+		"text": "Вы называете это случайностью, я называю это волей Бога."
 	},
 	{
 		"id": "veduti_LevelUp_1",
-		"text": "Wisdom comes with age."
+		"text": "Мудрость приходит с годами."
 	},
 	{
 		"id": "veduti_EnemySpotted_1",
-		"text": "Did you think I couldn’t see you?"
+		"text": "Ты думал, я не смогу тебя заметить?"
 	},
 	{
 		"id": "brunhilda_NeedReloading_0",
-		"text": "Reload time!"
+		"text": "Время перезарядки!"
 	},
 	{
 		"id": "brunhilda_NeedHealing_0",
-		"text": "My strength is at an end."
+		"text": "Мои силы на исходе."
 	},
 	{
 		"id": "brunhilda_CriticalStrike_0",
-		"text": "Right where it hurts."
+		"text": "Прямо по больному месту."
 	},
 	{
 		"id": "brunhilda_Killshot_0",
-		"text": "Bam!"
+		"text": "Бам!"
 	},
 	{
 		"id": "brunhilda_Evade_0",
-		"text": "That was really close."
+		"text": "Это было близко."
 	},
 	{
 		"id": "brunhilda_Idle_0",
-		"text": "Can we keep moving?"
+		"text": "Можем мы двигаться дальше?"
 	},
 	{
 		"id": "brunhilda_Flanked_0",
-		"text": "I am surrounded!"
+		"text": "Я окружена!"
 	},
 	{
 		"id": "brunhilda_NeedFuel_0",
-		"text": "We need more fuel."
+		"text": "Нам нужно больше топлива."
 	},
 	{
 		"id": "brunhilda_NeedAmmo_0",
-		"text": "Our ammo supplies are almost empty."
+		"text": "Наши боеприпасы почти закончились."
 	},
 	{
 		"id": "brunhilda_ItemUpgrade_0",
-		"text": "Takk!"
+		"text": "Спасибо!"
 	},
 	{
 		"id": "brunhilda_ItemDowngrade_0",
-		"text": "I can do better."
+		"text": "Я заслуживаю большего."
 	},
 	{
 		"id": "brunhilda_Recruited_0",
-		"text": "Huzzah! I love adventures."
+		"text": "Ура! Я люблю приключения."
 	},
 	{
 		"id": "brunhilda_LevelUp_0",
-		"text": "I am getting even stronger!"
+		"text": "Я становлюсь еще сильнее!"
 	},
 	{
 		"id": "brunhilda_EnemySpotted_0",
-		"text": "I found another one!"
+		"text": "Я нашла еще одного!"
 	},
 	{
 		"id": "brunhilda_NeedReloading_1",
-		"text": "Was that my last shot?"
+		"text": "Это был мой последний выстрел?"
 	},
 	{
 		"id": "brunhilda_NeedHealing_1",
-		"text": "Bah, just a little flesh wound!"
+		"text": "Ба, еще одна маленькая рана!"
 	},
 	{
 		"id": "brunhilda_CriticalStrike_1",
-		"text": "Next time I will hit even harder!"
+		"text": "Следующий раз я ударю еще сильнее!"
 	},
 	{
 		"id": "brunhilda_Killshot_1",
-		"text": "I love the sound of breaking bones."
+		"text": "Обожаю звук ломающихся костей."
 	},
 	{
 		"id": "brunhilda_Evade_1",
-		"text": "Beginner."
+		"text": "Дилетант."
 	},
 	{
 		"id": "brunhilda_Idle_1",
-		"text": "I'm going to nap - unless we're moving?"
+		"text": "Я собираюсь вздремнуть - или мы собираемся продвигаться?"
 	},
 	{
 		"id": "brunhilda_Flanked_1",
-		"text": "I can handle this myself!"
+		"text": "Я могу справиться с этим сама!"
 	},
 	{
 		"id": "brunhilda_NeedFuel_1",
-		"text": "Hopefully we'll make it to the next gas station."
+		"text": "Надеюсь, мы доберемся до следующей заправки."
 	},
 	{
 		"id": "brunhilda_NeedAmmo_1",
-		"text": "No ammo left? Let our fists do the talking."
+		"text": "Не осталось патронов? Пусть теперь говорят кулаки."
 	},
 	{
 		"id": "brunhilda_ItemUpgrade_1",
-		"text": "Into the battle!"
+		"text": "В бой!"
 	},
 	{
 		"id": "brunhilda_ItemDowngrade_1",
-		"text": "*grinds teeth*"
+		"text": "*скрипит зубами*"
 	},
 	{
 		"id": "brunhilda_Recruited_1",
-		"text": "I hope you're kidding. Of course I will join!"
+		"text": "Вы шутите. Конечно я иду!"
 	},
 	{
 		"id": "brunhilda_LevelUp_1",
-		"text": "I feel powerful!"
+		"text": "Я чувствую мощь!"
 	},
 	{
 		"id": "brunhilda_EnemySpotted_1",
-		"text": "Over there!"
+		"text": "Сюда!"
 	},
 	{
 		"id": "pereira_NeedReloading_0",
-		"text": "Gotta reload the tin can."
+		"text": "Нужно перезарядить эту консервную банку."
 	},
 	{
 		"id": "pereira_NeedHealing_0",
-		"text": "I could use some help over here."
+		"text": "Мне бы пригодилась помощь."
 	},
 	{
 		"id": "pereira_CriticalStrike_0",
-		"text": "The old man's still got it."
+		"text": "Старик все еще может."
 	},
 	{
 		"id": "pereira_Killshot_0",
-		"text": "See you in the next life!"
+		"text": "Увидимся в следующей жизни!"
 	},
 	{
 		"id": "pereira_Evade_0",
-		"text": "Ha! The nitwit can't even aim."
+		"text": "Ха! Этот придурок не умеет даже целится."
 	},
 	{
 		"id": "pereira_Idle_0",
-		"text": "Anyone got any drinks? I'm bored."
+		"text": "У кого-нибудь есть выпить? Мне скучно."
 	},
 	{
 		"id": "pereira_Flanked_0",
-		"text": "I'm feeling a little exposed here."
+		"text": "Кажется, я слишком открыт."
 	},
 	{
 		"id": "pereira_NeedFuel_0",
-		"text": "Running dry on fuel soon."
+		"text": "В бензобаке скоро будет сухо."
 	},
 	{
 		"id": "pereira_NeedAmmo_0",
-		"text": "Almost no ammo left from what I can see here."
+		"text": "Насколько я могу судить, патронов почти не осталось."
 	},
 	{
 		"id": "pereira_ItemUpgrade_0",
-		"text": "That's a nice piece of gear."
+		"text": "Какой красивый механизм."
 	},
 	{
 		"id": "pereira_ItemDowngrade_0",
-		"text": "Please, no."
+		"text": "Пожалуйста, не надо."
 	},
 	{
 		"id": "pereira_Recruited_0",
-		"text": "Aye - I will drink to that!"
+		"text": "Ура - я за это выпью!"
 	},
 	{
 		"id": "pereira_LevelUp_0",
-		"text": "Great!"
+		"text": "Отлично!"
 	},
 	{
 		"id": "pereira_EnemySpotted_0",
-		"text": "Enemy spotted!"
+		"text": "Обнаружен враг!"
 	},
 	{
 		"id": "pereira_NeedReloading_1",
-		"text": "Can someone throw me a full magazine my way?"
+		"text": "Кто-нибудь, бросьте в мою сторону магазин?"
 	},
 	{
 		"id": "pereira_NeedHealing_1",
-		"text": "It only hurts when I laugh."
+		"text": "Больно только, но только когда я смеюсь."
 	},
 	{
 		"id": "pereira_CriticalStrike_1",
-		"text": "Oh, did that hurt?"
+		"text": "О, это было больно?"
 	},
 	{
 		"id": "pereira_Killshot_1",
-		"text": "These landlubbers can't handle anything."
+		"text": "Эти сухопутные крысы ни на что не способны."
 	},
 	{
 		"id": "pereira_Evade_1",
-		"text": "Ha! Missed!"
+		"text": "Ха! Промахнулся!"
 	},
 	{
 		"id": "pereira_Idle_1",
-		"text": "A plumber, a cook and a nun walk into a bar ..."
+		"text": "Сантехник, повар и монашка заходят в бар..."
 	},
 	{
 		"id": "pereira_Flanked_1",
-		"text": "They're starting to get on my nerves!"
+		"text": "Они начинают действовать мне на нервы!"
 	},
 	{
 		"id": "pereira_NeedFuel_1",
-		"text": "The engine might also run on some Schnaps... I think."
+		"text": "Двигатель сможет работать на Шнапсе... Я так думаю."
 	},
 	{
 		"id": "pereira_NeedAmmo_1",
-		"text": "We're getting a bit low on ammo."
+		"text": "У нас становится маловато патронов."
 	},
 	{
 		"id": "pereira_ItemUpgrade_1",
-		"text": "Aye aye!"
+		"text": "Да-да!"
 	},
 	{
 		"id": "pereira_ItemDowngrade_1",
-		"text": "Garbage."
+		"text": "Мусор."
 	},
 	{
 		"id": "pereira_Recruited_1",
-		"text": "You can always rely on old Piranha."
+		"text": "Вы всегда можете положиться на старого доброго Пиранью."
 	},
 	{
 		"id": "pereira_LevelUp_1",
-		"text": "A round of grog on me!"
+		"text": "Всем грог за мой счет!"
 	},
 	{
 		"id": "pereira_EnemySpotted_1",
-		"text": "There’s another one!"
+		"text": "Тут еще один!"
 	},
 	{
 		"id": "jackson_NeedReloading_0",
-		"text": "Gun's empty."
+		"text": "Я пуст."
 	},
 	{
 		"id": "jackson_NeedHealing_0",
-		"text": "I'm bleeding pretty badly, kid."
+		"text": "У меня сильное кровотечение, малыш."
 	},
 	{
 		"id": "jackson_CriticalStrike_0",
-		"text": "I'm good at this!"
+		"text": "Я в этом хорош!"
 	},
 	{
 		"id": "jackson_Killshot_0",
-		"text": "That one went down quickly!"
+		"text": "Этот умер быстро!"
 	},
 	{
 		"id": "jackson_Evade_0",
-		"text": "That was .. entirely too close."
+		"text": "Это было... очень даже близко."
 	},
 	{
 		"id": "jackson_Idle_0",
-		"text": "Can I drive? This is taking too long."
+		"text": "Могу я сесть за руль? Это тянется слишком долго."
 	},
 	{
 		"id": "jackson_Flanked_0",
-		"text": "Listen kid ... I need backup here."
+		"text": "Послушай, малыш... Прикрой меня."
 	},
 	{
 		"id": "jackson_NeedFuel_0",
-		"text": "Any gas stations nearby?"
+		"text": "Рядом есть заправка?"
 	},
 	{
 		"id": "jackson_NeedAmmo_0",
-		"text": "If we run out of ammo, so help us god."
+		"text": "Если у нас закончатся патроны, то да поможет нам Бог."
 	},
 	{
 		"id": "jackson_ItemUpgrade_0",
-		"text": "I approve, kid."
+		"text": "Мне нравится, малыш."
 	},
 	{
 		"id": "jackson_ItemDowngrade_0",
-		"text": "You gotta be kidding me."
+		"text": "Вы должно быть издеваетесь."
 	},
 	{
 		"id": "jackson_Recruited_0",
-		"text": "Happy to help, kiddo."
+		"text": "Рад помочь, детка."
 	},
 	{
 		"id": "jackson_LevelUp_0",
-		"text": "I expected nothing less of myself."
+		"text": "От себя я меньшего и не ожидал."
 	},
 	{
 		"id": "jackson_EnemySpotted_0",
-		"text": "I think I see another one!"
+		"text": "Кажется, я вижу еще одного!"
 	},
 	{
 		"id": "jackson_NeedReloading_1",
-		"text": "A spare magazine would be helpful right now!"
+		"text": "Запасной магазин был бы сейчас очень кстати!"
 	},
 	{
 		"id": "jackson_NeedHealing_1",
-		"text": "I won't give up that easily!"
+		"text": "Так просто я не сдамся!"
 	},
 	{
 		"id": "jackson_CriticalStrike_1",
-		"text": "It's you or me."
+		"text": "Либо ты, либо я."
 	},
 	{
 		"id": "jackson_Killshot_1",
-		"text": "I think he got the message."
+		"text": "Думаю, он усек."
 	},
 	{
 		"id": "jackson_Evade_1",
-		"text": "I'm starting to take this personally."
+		"text": "Я начинаю принимать это на свой счет."
 	},
 	{
 		"id": "jackson_Idle_1",
-		"text": "I suppose the Sultan of Zanzibar still isn’t talking to me..."
+		"text": "Думаю, султан Занзибара до сих пор со мной не разговаривает..."
 	},
 	{
 		"id": "jackson_Flanked_1",
-		"text": "This doesn't look good at all..."
+		"text": "Нехорошая ситуация..."
 	},
 	{
 		"id": "jackson_NeedFuel_1",
-		"text": "What do you mean, no more gas?"
+		"text": "Что ты имеешь в виду, топлива не осталось?"
 	},
 	{
 		"id": "jackson_NeedAmmo_1",
-		"text": "If we don’t get hold of more ammo soon, we'll have to start improvising!"
+		"text": "Если в ближайшее время мы не найдем больше патронов, нам придется импровизировать!"
 	},
 	{
 		"id": "jackson_ItemUpgrade_1",
-		"text": "Not bad, not bad at all."
+		"text": "Неплохо, очень даже неплохо."
 	},
 	{
 		"id": "jackson_ItemDowngrade_1",
-		"text": "Do we have to?"
+		"text": "А это точно нужно?"
 	},
 	{
 		"id": "jackson_Recruited_1",
-		"text": "Danger and hardship? Bring it on!"
+		"text": "Опасность и трудности? Давай их сюда!"
 	},
 	{
 		"id": "jackson_LevelUp_1",
-		"text": "This trip is doing me good!"
+		"text": "Это путешествие пошло мне на пользу!"
 	},
 	{
 		"id": "jackson_EnemySpotted_1",
-		"text": "Look out! Enemy ahead!"
+		"text": "Осторожно! Впереди враг!"
 	},
 	{
 		"id": "georgette_NeedReloading_0",
-		"text": "My rifle needs to be reloaded."
+		"text": "Мою снайперку нужно перезарядить."
 	},
 	{
 		"id": "georgette_NeedHealing_0",
-		"text": "Medical assistance required."
+		"text": "Требуется медицинская помощь."
 	},
 	{
 		"id": "georgette_CriticalStrike_0",
-		"text": "Easy."
+		"text": "Легко."
 	},
 	{
 		"id": "georgette_Killshot_0",
-		"text": "No need to worry about this one anymore."
+		"text": "Об этом можно больше не беспокоиться."
 	},
 	{
 		"id": "georgette_Evade_0",
-		"text": "Close one."
+		"text": "Было близко."
 	},
 	{
 		"id": "georgette_Idle_0",
-		"text": "This is a waste of my time."
+		"text": "Пустая трата моего времени."
 	},
 	{
 		"id": "georgette_Flanked_0",
-		"text": "Backup required."
+		"text": "Требуется поддержка."
 	},
 	{
 		"id": "georgette_NeedFuel_0",
-		"text": "Our fuel tank is almost empty."
+		"text": "Наш бензобак почти пуст."
 	},
 	{
 		"id": "georgette_NeedAmmo_0",
-		"text": "Our ammo reserves are low."
+		"text": "Наши запасы патронов почти опустели."
 	},
 	{
 		"id": "georgette_ItemUpgrade_0",
-		"text": "*nods*"
+		"text": "*кивает*"
 	},
 	{
 		"id": "georgette_ItemDowngrade_0",
-		"text": "This won't do."
+		"text": "Это не сработает."
 	},
 	{
 		"id": "georgette_Recruited_0",
-		"text": "I will not disappoint."
+		"text": "Я не разочарую."
 	},
 	{
 		"id": "georgette_LevelUp_0",
-		"text": "I am a fast learner."
+		"text": "Я быстро учусь."
 	},
 	{
 		"id": "georgette_EnemySpotted_0",
-		"text": "There’s another one hiding up there!"
+		"text": "Тут еще один спрятался!"
 	},
 	{
 		"id": "georgette_NeedReloading_1",
-		"text": "My weapon isn’t much good without ammo!"
+		"text": "Мое оружие бесполезно без патронов!"
 	},
 	{
 		"id": "georgette_NeedHealing_1",
-		"text": "Some penicillin would be good right now."
+		"text": "Сейчас бы очень пригодился пенициллин."
 	},
 	{
 		"id": "georgette_CriticalStrike_1",
-		"text": "Bull's eye!"
+		"text": "В яблочко!"
 	},
 	{
 		"id": "georgette_Killshot_1",
-		"text": "Mission accomplished."
+		"text": "Миссия выполнена."
 	},
 	{
 		"id": "georgette_Evade_1",
-		"text": "Ooops!"
+		"text": "Упс!"
 	},
 	{
 		"id": "georgette_Idle_1",
-		"text": "Sometimes I wonder what happened to that young reporter in the Congo..."
+		"text": "Иногда мне интересно, что стало с тем молодым репортером из Конго..."
 	},
 	{
 		"id": "georgette_Flanked_1",
-		"text": "Don’t lose your nerve now."
+		"text": "Не теряй самообладание."
 	},
 	{
 		"id": "georgette_NeedFuel_1",
-		"text": "Looks like we have a gasoline problem."
+		"text": "Кажется, у нас проблемы с бензином."
 	},
 	{
 		"id": "georgette_NeedAmmo_1",
-		"text": "Does anyone know an ammo dealer around here?"
+		"text": "Кто-нибудь знает, есть ли поблизости торговец патронами?"
 	},
 	{
 		"id": "georgette_ItemUpgrade_1",
-		"text": "Top quality!"
+		"text": "Высшее качество!"
 	},
 	{
 		"id": "georgette_ItemDowngrade_1",
-		"text": "Is that it?"
+		"text": "Значит вот так?"
 	},
 	{
 		"id": "georgette_Recruited_1",
-		"text": "Just to keep you out of trouble!"
+		"text": "Постараюсь уберечь тебя от неприятностей!"
 	},
 	{
 		"id": "georgette_LevelUp_1",
-		"text": "I just realized something..."
+		"text": "Я только что кое-что поняла..."
 	},
 	{
 		"id": "georgette_EnemySpotted_1",
-		"text": "Did you think I couldn’t see you?"
+		"text": "Ты думал, я не смогу тебя заметить?"
 	},
 	{
 		"id": "professor_NeedReloading_0",
-		"text": "Short of ammo over here."
+		"text": "Закончились патроны."
 	},
 	{
 		"id": "professor_NeedHealing_0",
-		"text": "Can someone end my bleeding?"
+		"text": "Может кто-нибудь остановить кровотечение?"
 	},
 	{
 		"id": "professor_CriticalStrike_0",
-		"text": "That looked exceedingly painful."
+		"text": "Выглядит чрезвычайно болезненно."
 	},
 	{
 		"id": "professor_Killshot_0",
-		"text": "Obliterated."
+		"text": "Уничтожен."
 	},
 	{
 		"id": "professor_Evade_0",
-		"text": "How exhilarating!"
+		"text": "Как волнующе!"
 	},
 	{
 		"id": "professor_Idle_0",
-		"text": "I'd prefer if we returned to our task at hand."
+		"text": "Я бы предпочел, чтобы мы вернулись к нашей задаче."
 	},
 	{
 		"id": "professor_Flanked_0",
-		"text": "I'm surrounded by enemies."
+		"text": "Меня окружили враги."
 	},
 	{
 		"id": "professor_NeedFuel_0",
-		"text": "We are in need of more fuel."
+		"text": "Нам нужно больше топлива."
 	},
 	{
 		"id": "professor_NeedAmmo_0",
-		"text": "We have minimal ammo reserves left."
+		"text": "У нас осталось минимум патроном."
 	},
 	{
 		"id": "professor_ItemUpgrade_0",
-		"text": "What a fascinating object!"
+		"text": "Какой очаровательный предмет!"
 	},
 	{
 		"id": "professor_ItemDowngrade_0",
-		"text": "I believe this was given to me in error."
+		"text": "Я думаю, что это досталось мне по ошибке."
 	},
 	{
 		"id": "professor_Recruited_0",
-		"text": "Give me a few minutes to gather my papers."
+		"text": "Дайте мне минуту, чтобы собрать мои бумаги."
 	},
 	{
 		"id": "professor_LevelUp_0",
-		"text": "I am very pleased with my progress."
+		"text": "Я доволен своим развитием."
 	},
 	{
 		"id": "professor_EnemySpotted_0",
-		"text": "I found another one!"
+		"text": "Я нашел еще одного!"
 	},
 	{
 		"id": "professor_NeedReloading_1",
-		"text": "Just a second... reloading."
+		"text": "Секунду... перезаряжаюсь."
 	},
 	{
 		"id": "professor_NeedHealing_1",
-		"text": "I can’t feel my legs anymore!"
+		"text": "Я не чувствую ног!"
 	},
 	{
 		"id": "professor_CriticalStrike_1",
-		"text": "Another point for science."
+		"text": "Еще одно очко в пользу науки."
 	},
 	{
 		"id": "professor_Killshot_1",
-		"text": "Death by technology!"
+		"text": "Смерть от технологий!"
 	},
 	{
 		"id": "professor_Evade_1",
-		"text": "That was lucky!"
+		"text": "Это было удачно!"
 	},
 	{
 		"id": "professor_Idle_1",
-		"text": "Without an ionizer the voltage is much too high, of course. You would have to interpose a Pittsburgh inductor..."
+		"text": "Без ионизатора напряжение слишком, конечно, будет высоким. Придется вставить индуктор Питтсбурга..."
 	},
 	{
 		"id": "professor_Flanked_1",
-		"text": "Retreat!"
+		"text": "Спасайтесь!"
 	},
 	{
 		"id": "professor_NeedFuel_1",
-		"text": "Is the fuel gauge broken? No? Then we have a problem..."
+		"text": "Датчик уровня топлива сломан? Нет? Тогда у нас есть проблема..."
 	},
 	{
 		"id": "professor_NeedAmmo_1",
-		"text": "Without ammunition, we have a problem..."
+		"text": "Без боеприпасов у нас будут проблемы..."
 	},
 	{
 		"id": "professor_ItemUpgrade_1",
-		"text": "Wonderful..."
+		"text": "Чудесно..."
 	},
 	{
 		"id": "professor_ItemDowngrade_1",
-		"text": "This belongs in the garbage, not in my hands!"
+		"text": "Положите это в мусор, а не в мои руки!"
 	},
 	{
 		"id": "professor_Recruited_1",
-		"text": "Fascinating. Simply fascinating."
+		"text": "Замечательно. Просто замечательно."
 	},
 	{
 		"id": "professor_LevelUp_1",
-		"text": "Live and learn."
+		"text": "Век живи, век учись."
 	},
 	{
 		"id": "professor_EnemySpotted_1",
-		"text": "Over there!"
+		"text": "Сюда!"
 	},
 	{
 		"id": "drChandra_NeedReloading_0",
-		"text": "Oh - it appears I'm out of ammo."
+		"text": "Ой - оказывается, у меня закончились патроны."
 	},
 	{
 		"id": "drChandra_NeedHealing_0",
-		"text": "I fear I'm badly wounded."
+		"text": "Боюсь, я сильно ранен."
 	},
 	{
 		"id": "drChandra_CriticalStrike_0",
-		"text": "I do not enjoy inflicting pain."
+		"text": "Мне не нравится причинять боль."
 	},
 	{
 		"id": "drChandra_Killshot_0",
-		"text": "Was that me?"
+		"text": "Это сделал я?"
 	},
 	{
 		"id": "drChandra_Evade_0",
-		"text": "I live!"
+		"text": "Я жив!"
 	},
 	{
 		"id": "drChandra_Idle_0",
-		"text": "Are we ... Are we lost?"
+		"text": "Мы ... Мы потерялись?"
 	},
 	{
 		"id": "drChandra_Flanked_0",
-		"text": "Where are they all coming from?"
+		"text": "Откуда они все взялись?"
 	},
 	{
 		"id": "drChandra_NeedFuel_0",
-		"text": "It seems that we are low on fuel."
+		"text": "Похоже, у нас заканчивается топливо."
 	},
 	{
 		"id": "drChandra_NeedAmmo_0",
-		"text": "Oh no! Our ammo is almost all gone."
+		"text": "О нет! У нас почти закончились патроны."
 	},
 	{
 		"id": "drChandra_ItemUpgrade_0",
-		"text": "Yes, yes .. I can work with this."
+		"text": "Да, да... Я могу с этим работать."
 	},
 	{
 		"id": "drChandra_ItemDowngrade_0",
-		"text": "I don't intend to be rude, but are you sure?"
+		"text": "Не хочу показаться грубым, но вы уверены?"
 	},
 	{
 		"id": "drChandra_Recruited_0",
-		"text": "I have been waiting eagerly to join this expedition!"
+		"text": "Я с нетерпением ждал возможности присоединиться к этой экспедиции!"
 	},
 	{
 		"id": "drChandra_LevelUp_0",
-		"text": "I find meaning in learning."
+		"text": "Я нахожу смысл в обучении."
 	},
 	{
 		"id": "drChandra_EnemySpotted_0",
-		"text": "Enemy spotted!"
+		"text": "Враг обнаружен!"
 	},
 	{
 		"id": "drChandra_NeedReloading_1",
-		"text": "That was probably my last shot."
+		"text": "Похоже, это был мой последний выстрел."
 	},
 	{
 		"id": "drChandra_NeedHealing_1",
-		"text": "I hate to be a nuisance, but does anyone have a bandage?"
+		"text": "Не люблю досаждать, но у кого-нибудь есть бинты?"
 	},
 	{
 		"id": "drChandra_CriticalStrike_1",
-		"text": "Perhaps you should just surrender."
+		"text": "Возможно, тебе лучше просто сдаться."
 	},
 	{
 		"id": "drChandra_Killshot_1",
-		"text": "So pointless..."
+		"text": "Так бессмысленно..."
 	},
 	{
 		"id": "drChandra_Evade_1",
-		"text": "What did I ever do to you?"
+		"text": "Что я вообще тебе сделал?"
 	},
 	{
 		"id": "drChandra_Idle_1",
-		"text": "Sometimes I think I'm getting too old for this..."
+		"text": "Иногда мне кажется, что я слишком стар для этого..."
 	},
 	{
 		"id": "drChandra_Flanked_1",
-		"text": "It looks like they’re trying to surround us."
+		"text": "Похоже, они пытаются нас окружить."
 	},
 	{
 		"id": "drChandra_NeedFuel_1",
-		"text": "Is anyone keeping track of our gas reserves?"
+		"text": "Кто-нибудь следит за нашими запасами топлива?"
 	},
 	{
 		"id": "drChandra_NeedAmmo_1",
-		"text": "I'm afraid we'll have to make do with our knives..."
+		"text": "Боюсь, нам придется достать свои ножи..."
 	},
 	{
 		"id": "drChandra_ItemUpgrade_1",
-		"text": "Excellent quality, I do declare."
+		"text": "Великолепное качество, могу точно сказать."
 	},
 	{
 		"id": "drChandra_ItemDowngrade_1",
-		"text": "Is this really all we have?"
+		"text": "Это правда все, что у нас есть?"
 	},
 	{
 		"id": "drChandra_Recruited_1",
-		"text": "Are you sure you have thought this through?"
+		"text": "Вы уверены, что продумали все как следует?"
 	},
 	{
 		"id": "drChandra_LevelUp_1",
-		"text": "Enlightenment comes to you, not the other way around."
+		"text": "Ко мне снизошло просветление, никак иначе."
 	},
 	{
 		"id": "drChandra_EnemySpotted_1",
-		"text": "There’s another one!"
+		"text": "Тут еще один!"
 	},
 	{
 		"id": "shaneeka_NeedReloading_0",
-		"text": "My weapon needs to be reloaded."
+		"text": "Моему оружию требуется перезарядка."
 	},
 	{
 		"id": "shaneeka_NeedHealing_0",
-		"text": "This wound is bad."
+		"text": "Эта рана очень плоха."
 	},
 	{
 		"id": "shaneeka_CriticalStrike_0",
-		"text": "You will remember me now!"
+		"text": "Теперь ты меня запомнишь!"
 	},
 	{
 		"id": "shaneeka_Killshot_0",
-		"text": "I strike to kill."
+		"text": "Я бью, чтобы убить."
 	},
 	{
 		"id": "shaneeka_Evade_0",
-		"text": "My instincts are excellent."
+		"text": "Мои рефлексы идеальны."
 	},
 	{
 		"id": "shaneeka_Idle_0",
-		"text": "Where are we going to next?"
+		"text": "Куда мы пойдем дальше?"
 	},
 	{
 		"id": "shaneeka_Flanked_0",
-		"text": "The enemy is trying to outsmart me."
+		"text": "Этот враг пытается перехитрить меня."
 	},
 	{
 		"id": "shaneeka_NeedFuel_0",
-		"text": "Our fuel supplies need to be replenished."
+		"text": "Нам нужно пополнить запасы топлива."
 	},
 	{
 		"id": "shaneeka_NeedAmmo_0",
-		"text": "Ammo is low."
+		"text": "Мало патронов."
 	},
 	{
 		"id": "shaneeka_ItemUpgrade_0",
-		"text": "I will enjoy this."
+		"text": "Мне это нравится."
 	},
 	{
 		"id": "shaneeka_ItemDowngrade_0",
-		"text": "This is not to my liking."
+		"text": "Это не в моем вкусе."
 	},
 	{
 		"id": "shaneeka_Recruited_0",
-		"text": "Our enemies will be struck with fear."
+		"text": "Наших врагов охватит страх."
 	},
 	{
 		"id": "shaneeka_LevelUp_0",
-		"text": "My blade sharpens."
+		"text": "Мой клинок стал острее."
 	},
 	{
 		"id": "shaneeka_EnemySpotted_0",
-		"text": "I think I see another one!"
+		"text": "Кажется, я вижу еще одного!"
 	},
 	{
 		"id": "shaneeka_NeedReloading_1",
-		"text": "A true warrior continues to fight even with an empty weapon!"
+		"text": "Настоящий воин продолжает драться даже с пустым магазином!"
 	},
 	{
 		"id": "shaneeka_NeedHealing_1",
-		"text": "Do not worry about me, I'll be alright."
+		"text": "Не беспокойтесь обо мне, я буду в порядке."
 	},
 	{
 		"id": "shaneeka_CriticalStrike_1",
-		"text": "Fear my wrath!"
+		"text": "Бойся моего гнева!"
 	},
 	{
 		"id": "shaneeka_Killshot_1",
-		"text": "Greet the spirits of your ancestors from me."
+		"text": "Приветствуй от моего имени духов своих предков."
 	},
 	{
 		"id": "shaneeka_Evade_1",
-		"text": "I'm starting to get very angry."
+		"text": "Я начинаю злиться."
 	},
 	{
 		"id": "shaneeka_Idle_1",
-		"text": "The patient huntress waits until the time is right."
+		"text": "Терпеливая охотница ждет, пока не настанет нужный момент."
 	},
 	{
 		"id": "shaneeka_Flanked_1",
-		"text": "Never corner a predator!"
+		"text": "Никогда не загоняйте хищника в угол!"
 	},
 	{
 		"id": "shaneeka_NeedFuel_1",
-		"text": "The car sounds like a thirsty animal."
+		"text": "Машина ревет как голодное животное."
 	},
 	{
 		"id": "shaneeka_NeedAmmo_1",
-		"text": "Do you have any more cartridges?"
+		"text": "У нас еще остались патроны?"
 	},
 	{
 		"id": "shaneeka_ItemUpgrade_1",
-		"text": "Joy fills my heart."
+		"text": "Радость наполняет мое сердце."
 	},
 	{
 		"id": "shaneeka_ItemDowngrade_1",
-		"text": "You insult my honor."
+		"text": "Ты оскорбляешь мою честь."
 	},
 	{
 		"id": "shaneeka_Recruited_1",
-		"text": "My blade and my honor are yours."
+		"text": "Мой клинок и моя верность ваши."
 	},
 	{
 		"id": "shaneeka_LevelUp_1",
-		"text": "The great spirit enlightens me."
+		"text": "Великий дух просвещает меня."
 	},
 	{
 		"id": "shaneeka_EnemySpotted_1",
-		"text": "Look out! Enemy ahead!"
+		"text": "Осторожно! Впереди враг!"
 	},
 	{
 		"id": "baron_NeedReloading_0",
-		"text": "It's reload time, my friends."
+		"text": "Время перезарядки, друзья."
 	},
 	{
 		"id": "baron_NeedHealing_0",
-		"text": "I do not feel my best."
+		"text": "Что-то мне нехорошо."
 	},
 	{
 		"id": "baron_CriticalStrike_0",
-		"text": "Not luck, but skill."
+		"text": "Не удача, а мастерство."
 	},
 	{
 		"id": "baron_Killshot_0",
-		"text": "Auf Wiedersehen!"
+		"text": "Ау Фидерзейн!"
 	},
 	{
 		"id": "baron_Evade_0",
-		"text": "Easily evaded."
+		"text": "Легко уклонился."
 	},
 	{
 		"id": "baron_Idle_0",
-		"text": "We are wasting valuable time."
+		"text": "Мы растрачиваем время."
 	},
 	{
 		"id": "baron_Flanked_0",
-		"text": "I .. I need some help here."
+		"text": "Мне... Мне нужна помощь."
 	},
 	{
 		"id": "baron_NeedFuel_0",
-		"text": "Let's organize more fuel, friends."
+		"text": "Друзья, давайте организуем немного топлива."
 	},
 	{
 		"id": "baron_NeedAmmo_0",
-		"text": "We have little ammo left."
+		"text": "У нас осталось мало патронов."
 	},
 	{
 		"id": "baron_ItemUpgrade_0",
-		"text": "Ja."
+		"text": "Йа."
 	},
 	{
 		"id": "baron_ItemDowngrade_0",
-		"text": "Nein."
+		"text": "Найн."
 	},
 	{
 		"id": "baron_Recruited_0",
-		"text": "Fantastisch... Fantastisch!"
+		"text": "Фантастиш... Фантастиш!"
 	},
 	{
 		"id": "baron_LevelUp_0",
-		"text": "I have learned a few tricks."
+		"text": "Я выучил новые трюки."
 	},
 	{
 		"id": "baron_EnemySpotted_0",
-		"text": "There’s another one hiding up there!"
+		"text": "Тут еще один спрятался!"
 	},
 	{
 		"id": "baron_NeedReloading_1",
-		"text": "I really need a bigger magazine."
+		"text": "Мне нужен магазин побольше."
 	},
 	{
 		"id": "baron_NeedHealing_1",
-		"text": "All this blood is ruining my suit!"
+		"text": "Вся эта кровь портит мой костюм!"
 	},
 	{
 		"id": "baron_CriticalStrike_1",
-		"text": "You did not expect that, did you?"
+		"text": "Ты этого не ожидал, правда?"
 	},
 	{
 		"id": "baron_Killshot_1",
-		"text": "Discreet and efficient."
+		"text": "Тактичный и эффективный."
 	},
 	{
 		"id": "baron_Evade_1",
-		"text": "Not very impressive."
+		"text": "Не очень впечатляет."
 	},
 	{
 		"id": "baron_Idle_1",
-		"text": "Then I said: Ms Sturmbannführer, this is not what it looks like!"
+		"text": "А потом я сказал: Мис Штурмбаннфюрер, это не то, что вы подумали!"
 	},
 	{
 		"id": "baron_Flanked_1",
-		"text": "Can we talk about this?"
+		"text": "Давайте все обсудим?"
 	},
 	{
 		"id": "baron_NeedFuel_1",
-		"text": "Please tell me we still have some gas somewhere."
+		"text": "Пожалуйста, скажите мне, что у нас еще осталось топливо."
 	},
 	{
 		"id": "baron_NeedAmmo_1",
-		"text": "The bad news first: We’re almost out of ammunition."
+		"text": "Сначала плохие новости: у нас почти не осталось боеприпасов."
 	},
 	{
 		"id": "baron_ItemUpgrade_1",
-		"text": "Yes, this should work..."
+		"text": "Да, это должно сработать..."
 	},
 	{
 		"id": "baron_ItemDowngrade_1",
-		"text": "Ugh! I wouldn’t touch it with gloves!"
+		"text": "Уф! Я бы и в перчатках это не трогал!"
 	},
 	{
 		"id": "baron_Recruited_1",
-		"text": "What's in it for me?"
+		"text": "А что мне с этого будет?"
 	},
 	{
 		"id": "baron_LevelUp_1",
-		"text": "Exzellent."
+		"text": "Отлично."
 	},
 	{
 		"id": "baron_EnemySpotted_1",
-		"text": "Did you think I couldn’t see you?"
+		"text": "Ты думал, я не смогу тебя заметить?"
 	},
 	{
 		"id": "Rose_NeedReloading_0",
-		"text": "An empty gun won't help anyone."
+		"text": "Пустой пистолет никому не поможет."
 	},
 	{
 		"id": "Rose_NeedHealing_0",
-		"text": "This wound needs attention."
+		"text": "Тут нужна помощь."
 	},
 	{
 		"id": "Rose_CriticalStrike_0",
-		"text": "Not bad, not bad at all!"
+		"text": "Неплохо, очень даже неплохо!"
 	},
 	{
 		"id": "Rose_Killshot_0",
-		"text": "Next one, please."
+		"text": "Следующий, пожалуйста."
 	},
 	{
 		"id": "Rose_Evade_0",
-		"text": "Luck is on my side!"
+		"text": "Удача на моей стороне!"
 	},
 	{
 		"id": "Rose_Idle_0",
-		"text": "Why are we not moving?"
+		"text": "Почему мы не двигаемся?"
 	},
 	{
 		"id": "Rose_Flanked_0",
-		"text": "Too many of them around here!"
+		"text": "Их тут слишком много!"
 	},
 	{
 		"id": "Rose_NeedFuel_0",
-		"text": "If we don't find fuel soon, we're in trouble."
+		"text": "Если мы не найдем топливо в ближайшее время, у нас будут проблемы."
 	},
 	{
 		"id": "Rose_NeedAmmo_0",
-		"text": "We can't afford to run out of ammo."
+		"text": "Нам нельзя, чтобы патроны заканчивались."
 	},
 	{
 		"id": "Rose_ItemUpgrade_0",
-		"text": "I like this!"
+		"text": "Мне это нравится!"
 	},
 	{
 		"id": "Rose_ItemDowngrade_0",
-		"text": "No, this is bad."
+		"text": "Нет, это плохо."
 	},
 	{
 		"id": "Rose_Recruited_0",
-		"text": "Ready to leave immediately!"
+		"text": "Готова отправиться немедленно!"
 	},
 	{
 		"id": "Rose_LevelUp_0",
-		"text": "A rewarding experience."
+		"text": "Стоящий опыт."
 	},
 	{
 		"id": "Rose_EnemySpotted_0",
-		"text": "I found another one!"
+		"text": "Я нашла еще одного!"
 	},
 	{
 		"id": "Rose_NeedReloading_1",
-		"text": "It think my weapon’s empty again."
+		"text": "Думаю, мое оружие снова пусто."
 	},
 	{
 		"id": "Rose_NeedHealing_1",
-		"text": "I don’t feel too good."
+		"text": "Мне очень нехорошо."
 	},
 	{
 		"id": "Rose_CriticalStrike_1",
-		"text": "Not bad, huh?"
+		"text": "Неплохо, а?"
 	},
 	{
 		"id": "Rose_Killshot_1",
-		"text": "Let’s call it self-defense."
+		"text": "Назовем это самозащитой."
 	},
 	{
 		"id": "Rose_Evade_1",
-		"text": "How rude."
+		"text": "Как грубо."
 	},
 	{
 		"id": "Rose_Idle_1",
-		"text": "Do you hear footsteps? No, it’s probably just my nerves."
+		"text": "Вы слышали шаги? Нет, это просто мои нервы."
 	},
 	{
 		"id": "Rose_Flanked_1",
-		"text": "This is getting much too hectic for me."
+		"text": "Я начинаю нервничать."
 	},
 	{
 		"id": "Rose_NeedFuel_1",
-		"text": "What do you mean, no more gas?"
+		"text": "Что ты имеешь в виду, топлива не осталось?"
 	},
 	{
 		"id": "Rose_NeedAmmo_1",
-		"text": "We’re running out of ammo."
+		"text": "У нас заканчиваются патроны."
 	},
 	{
 		"id": "Rose_ItemUpgrade_1",
-		"text": "Just what I would have picked."
+		"text": "Я бы тоже это выбрала."
 	},
 	{
 		"id": "Rose_ItemDowngrade_1",
-		"text": "You want my opinion? It’s not great."
+		"text": "Хочешь выскажу свое мнение? Это не очень здорово."
 	},
 	{
 		"id": "Rose_Recruited_1",
-		"text": "I’ve been sitting with my nose in books for too long."
+		"text": "Я слишком долго просидела, уткнувшись носом в книги."
 	},
 	{
 		"id": "Rose_LevelUp_1",
-		"text": "These are some interesting new insights..."
+		"text": "Есть несколько новых интересных идей..."
 	},
 	{
 		"id": "Rose_EnemySpotted_1",
-		"text": "Over there!"
+		"text": "Сюда!"
 	},
 	{
 		"id": "caballero_NeedReloading_0",
-		"text": "I have no bullets left."
+		"text": "У меня не осталось патронов."
 	},
 	{
 		"id": "caballero_NeedHealing_0",
-		"text": "I've seen worse, but this wound is really bad."
+		"text": "Бывало и хуже, но эта рана мне не нравится."
 	},
 	{
 		"id": "caballero_CriticalStrike_0",
-		"text": "All is fair in love and war!"
+		"text": "Все средства хороши в любви и на войне!"
 	},
 	{
 		"id": "caballero_Killshot_0",
-		"text": "Not bad, huh?"
+		"text": "Неплохо, а?"
 	},
 	{
 		"id": "caballero_Evade_0",
-		"text": "They can't get me."
+		"text": "Им меня не достать."
 	},
 	{
 		"id": "caballero_Idle_0",
-		"text": "If I were in charge we would not be wasting time."
+		"text": "Если бы я был главным, мы бы не тратили время зря."
 	},
 	{
 		"id": "caballero_Flanked_0",
-		"text": "I need backup!"
+		"text": "Мне нужна поддержка!"
 	},
 	{
 		"id": "caballero_NeedFuel_0",
-		"text": "Fuel is low."
+		"text": "Мало топлива."
 	},
 	{
 		"id": "caballero_NeedAmmo_0",
-		"text": "We have guns, but little ammo."
+		"text": "У нас есть оружие, но мало патронов."
 	},
 	{
 		"id": "caballero_ItemUpgrade_0",
-		"text": "Perfect!"
+		"text": "Идеально!"
 	},
 	{
 		"id": "caballero_ItemDowngrade_0",
-		"text": "A bad choice."
+		"text": "Плохой выбор."
 	},
 	{
 		"id": "caballero_Recruited_0",
-		"text": "I can hardly wait to get some real action!"
+		"text": "Я не терпится начать действовать!"
 	},
 	{
 		"id": "caballero_LevelUp_0",
-		"text": "My experience grows."
+		"text": "Мой опыт растет."
 	},
 	{
 		"id": "caballero_EnemySpotted_0",
-		"text": "Enemy spotted!"
+		"text": "Враг обнаружен!"
 	},
 	{
 		"id": "caballero_NeedReloading_1",
-		"text": "Maybe I should reload."
+		"text": "Может мне стоит перезарядиться."
 	},
 	{
 		"id": "caballero_NeedHealing_1",
-		"text": "Is all this my blood?"
+		"text": "Это все моя кровь?"
 	},
 	{
 		"id": "caballero_CriticalStrike_1",
-		"text": "Steady hands."
+		"text": "Твердая рука."
 	},
 	{
 		"id": "caballero_Killshot_1",
-		"text": "No pasarán!"
+		"text": "Но пасаран!"
 	},
 	{
 		"id": "caballero_Evade_1",
-		"text": "I need some real opponents."
+		"text": "Мне нужны настоящие противники."
 	},
 	{
 		"id": "caballero_Idle_1",
-		"text": "This reminds me of my time with the International Brigades outside Guadalajara..."
+		"text": "Это напоминает мне время, проведенное в интернациональных бригадах за пределами Гвадалахары...."
 	},
 	{
 		"id": "caballero_Flanked_1",
-		"text": "They’re everywhere!"
+		"text": "Они везде!"
 	},
 	{
 		"id": "caballero_NeedFuel_1",
-		"text": "If we do not find some gasoline soon, that's it..."
+		"text": "Если мы не найдем немного бензина в ближайшее время, то все...."
 	},
 	{
 		"id": "caballero_NeedAmmo_1",
-		"text": "We should make every bullet count."
+		"text": "Нам нужно считать каждую пулю."
 	},
 	{
 		"id": "caballero_ItemUpgrade_1",
-		"text": "Very nice."
+		"text": "Отлично."
 	},
 	{
 		"id": "caballero_ItemDowngrade_1",
-		"text": "I suppose we should take what we can get."
+		"text": "Полагаю, мы должны принять то, что можем получить."
 	},
 	{
 		"id": "caballero_Recruited_1",
-		"text": "How could I say no to such an undertaking?"
+		"text": "Как бы я смог отказаться от такого предприятия?"
 	},
 	{
 		"id": "caballero_LevelUp_1",
-		"text": "What an interesting journey."
+		"text": "Какое интересное путешествие."
 	},
 	{
 		"id": "caballero_EnemySpotted_1",
-		"text": "There’s another one!"
+		"text": "Тут еще один!"
 	},
 	{
 		"id": "omar_NeedReloading_0",
-		"text": "Reload required."
+		"text": "Нужна перезарядка."
 	},
 	{
 		"id": "omar_NeedHealing_0",
-		"text": "This is very painful."
+		"text": "Это больно."
 	},
 	{
 		"id": "omar_CriticalStrike_0",
-		"text": "Who's laughing now!"
+		"text": "Кто теперь смеется!"
 	},
 	{
 		"id": "omar_Killshot_0",
-		"text": "You asked for it!"
+		"text": "Ты сам напросился!"
 	},
 	{
 		"id": "omar_Evade_0",
-		"text": "Ah yes, I got away."
+		"text": "О да, я увернулся."
 	},
 	{
 		"id": "omar_Idle_0",
-		"text": "No point in sitting around."
+		"text": "Нет смысла стоять на месте."
 	},
 	{
 		"id": "omar_Flanked_0",
-		"text": "They have me pinned down!"
+		"text": "Они меня прижали!"
 	},
 	{
 		"id": "omar_NeedFuel_0",
-		"text": "We should look for fuel."
+		"text": "Нам стоит поискать топливо."
 	},
 	{
 		"id": "omar_NeedAmmo_0",
-		"text": "Let's find some ammo."
+		"text": "Давайте поищем патроны."
 	},
 	{
 		"id": "omar_ItemUpgrade_0",
-		"text": "A good choice."
+		"text": "Хороший выбор."
 	},
 	{
 		"id": "omar_ItemDowngrade_0",
-		"text": "Are you sure about this?"
+		"text": "Вы уверены?"
 	},
 	{
 		"id": "omar_Recruited_0",
-		"text": "We will make a great team!"
+		"text": "Мы отлично проведем время!"
 	},
 	{
 		"id": "omar_LevelUp_0",
-		"text": "A hard learned lesson."
+		"text": "Хорошо усвоенный урок."
 	},
 	{
 		"id": "omar_EnemySpotted_0",
-		"text": "I think I see another one!"
+		"text": "Кажется, я вижу еще одного!"
 	},
 	{
 		"id": "omar_NeedReloading_1",
-		"text": "I should have some more cartridges somewhere..."
+		"text": "Мне нужно достать еще магазин..."
 	},
 	{
 		"id": "omar_NeedHealing_1",
-		"text": "Friends, I am not feeling well!"
+		"text": "Друзья, мне что-то нехорошо!"
 	},
 	{
 		"id": "omar_CriticalStrike_1",
-		"text": "I feel wonderful!"
+		"text": "Я чувствую себя отлично!"
 	},
 	{
 		"id": "omar_Killshot_1",
-		"text": "Nobody can withstand Prince Omar!"
+		"text": "Никто не выстоит против Принца Омара!"
 	},
 	{
 		"id": "omar_Evade_1",
-		"text": "You son of a mangy dog!"
+		"text": "Ах ты сын паршивой собаки!"
 	},
 	{
 		"id": "omar_Idle_1",
-		"text": "My cousin is selling some antique pottery shards - are you interested?"
+		"text": "Мой двоюродный брат продает осколки старинной глиняной посуды. Вам интересно?"
 	},
 	{
 		"id": "omar_Flanked_1",
-		"text": "An ambush? Two can play at that game!"
+		"text": "Засада? В эту игру могут играть двое!"
 	},
 	{
 		"id": "omar_NeedFuel_1",
-		"text": "The engine sounds kind of empty."
+		"text": "Двигатель гудит, как-будто пустой."
 	},
 	{
 		"id": "omar_NeedAmmo_1",
-		"text": "Does anyone have any ammunition?"
+		"text": "У кого-нибдь есть боеприпасы?"
 	},
 	{
 		"id": "omar_ItemUpgrade_1",
-		"text": "Very nice. My cousin will burst with envy."
+		"text": "Очень хорошо. Мой кузен взорвется от зависти."
 	},
 	{
 		"id": "omar_ItemDowngrade_1",
-		"text": "Even my cousin sells better junk."
+		"text": "Даже мой кузен продает барахло получше."
 	},
 	{
 		"id": "omar_Recruited_1",
-		"text": "Omar will stand with you through thick and thin!"
+		"text": "Омар будет стоять за вас во что бы то ни стало!"
 	},
 	{
 		"id": "omar_LevelUp_1",
-		"text": "Fortune smiles on Omar!"
+		"text": "Удача улыбается Омару!"
 	},
 	{
 		"id": "omar_EnemySpotted_1",
-		"text": "Look out! Enemy ahead!"
+		"text": "Осторожно! Впереди враг!"
 	},
 	{
 		"id": "anabelle_NeedReloading_0",
-		"text": "Ammo, please."
+		"text": "Патронов, пожалуйста."
 	},
 	{
 		"id": "anabelle_NeedHealing_0",
-		"text": "I could use some help over here."
+		"text": "Мне бы пригодилась помощь."
 	},
 	{
 		"id": "anabelle_CriticalStrike_0",
-		"text": "Get out of my way!"
+		"text": "Уйди с моей дороги!"
 	},
 	{
 		"id": "anabelle_Killshot_0",
-		"text": "Bye bye!"
+		"text": "Пока-пока!"
 	},
 	{
 		"id": "anabelle_Evade_0",
-		"text": "Ha!"
+		"text": "Ха!"
 	},
 	{
 		"id": "anabelle_Idle_0",
-		"text": "This is taking too long. Let's go!"
+		"text": "Это слишком затянулись. Давайте уже поедем!"
 	},
 	{
 		"id": "anabelle_Flanked_0",
-		"text": "A little help would be appreciated."
+		"text": "Немного помощи не помешает."
 	},
 	{
 		"id": "anabelle_NeedFuel_0",
-		"text": "We have little fuel from what I can see."
+		"text": "Насколько я могу судить, у нас осталось мало топлива."
 	},
 	{
 		"id": "anabelle_NeedAmmo_0",
-		"text": "Not enough ammo in our reserves."
+		"text": "В наших резервах недостаточно патронов."
 	},
 	{
 		"id": "anabelle_ItemUpgrade_0",
-		"text": "Oh yeah. Nice!"
+		"text": "О да. Отлично!"
 	},
 	{
 		"id": "anabelle_ItemDowngrade_0",
-		"text": "No, absolutely not."
+		"text": "Нет, абсолютно нет."
 	},
 	{
 		"id": "anabelle_Recruited_0",
-		"text": "I will of course make this expedition a success."
+		"text": "Я обязательно сделаю эту экспедицию успешной."
 	},
 	{
 		"id": "anabelle_LevelUp_0",
-		"text": "I am unstoppable!"
+		"text": "Меня не остановить!"
 	},
 	{
 		"id": "anabelle_EnemySpotted_0",
-		"text": "There’s another one hiding up there!"
+		"text": "Тут еще один спрятался!"
 	},
 	{
 		"id": "anabelle_NeedReloading_1",
-		"text": "Has anyone seen my ammo bag?"
+		"text": "Кто-нибудь видел мою сумку с патронами?"
 	},
 	{
 		"id": "anabelle_NeedHealing_1",
-		"text": "I hate to admit it - but I think I need help."
+		"text": "Не люблю это признавать - но мне нужна помощь."
 	},
 	{
 		"id": "anabelle_CriticalStrike_1",
-		"text": "That was my last warning."
+		"text": "Это было мое последнее предупреждение."
 	},
 	{
 		"id": "anabelle_Killshot_1",
-		"text": "And you thought you were better than me?"
+		"text": "И ты мог подумать, что ты был лучше меня?"
 	},
 	{
 		"id": "anabelle_Evade_1",
-		"text": "Nice try..."
+		"text": "Отличная попытка..."
 	},
 	{
 		"id": "anabelle_Idle_1",
-		"text": "I should see to my plane someday."
+		"text": "Когда-нибудь я увижу свой самолет."
 	},
 	{
 		"id": "anabelle_Flanked_1",
-		"text": "Hey, that not fair!"
+		"text": "Эй, это не честно!"
 	},
 	{
 		"id": "anabelle_NeedFuel_1",
-		"text": "Was that all our gasoline?"
+		"text": "Это был весь наш бензин?"
 	},
 	{
 		"id": "anabelle_NeedAmmo_1",
-		"text": "Who used all the ammunition?!"
+		"text": "Кто потратил все боеприпасы?!"
 	},
 	{
 		"id": "anabelle_ItemUpgrade_1",
-		"text": "Oh wow!"
+		"text": "Ух ты!"
 	},
 	{
 		"id": "anabelle_ItemDowngrade_1",
-		"text": "Is this a joke?"
+		"text": "Это шутка?"
 	},
 	{
 		"id": "anabelle_Recruited_1",
-		"text": "But equal shares, got it?"
+		"text": "Все делим поровну, понятно?"
 	},
 	{
 		"id": "anabelle_LevelUp_1",
-		"text": "I’m starting to enjoy this."
+		"text": "Мне начинает это нравится."
 	},
 	{
 		"id": "anabelle_EnemySpotted_1",
-		"text": "Did you think I couldn’t see you?"
+		"text": "Ты думал, я не смогу тебя заметить?"
 	},
 	{
 		"id": "leFantome_NeedReloading_0",
-		"text": "Reload this, yes."
+		"text": "Перезарядиться, да."
 	},
 	{
 		"id": "leFantome_NeedHealing_0",
-		"text": "I am very close to dying."
+		"text": "Я почти умираю."
 	},
 	{
 		"id": "leFantome_CriticalStrike_0",
-		"text": "I'm not sorry for this."
+		"text": "Я не сожалею об этом."
 	},
 	{
 		"id": "leFantome_Killshot_0",
-		"text": "Au revoir, mon amour."
+		"text": "А ревуар, мон амур."
 	},
 	{
 		"id": "leFantome_Evade_0",
-		"text": "Now that was uncomfortably lucky."
+		"text": "Это было невероятное везение."
 	},
 	{
 		"id": "leFantome_Idle_0",
-		"text": "*whistles*"
+		"text": "*посвистывает*"
 	},
 	{
 		"id": "leFantome_Flanked_0",
-		"text": "I count too many opponents."
+		"text": "Я насчитал слишком много противников."
 	},
 	{
 		"id": "leFantome_NeedFuel_0",
-		"text": "A little fuel would be helpful."
+		"text": "Хорошо бы иметь еще немного топлива."
 	},
 	{
 		"id": "leFantome_NeedAmmo_0",
-		"text": "Need me to find some ammo?"
+		"text": "Хотите я найду больше патронов?"
 	},
 	{
 		"id": "leFantome_ItemUpgrade_0",
-		"text": "Ah, oui."
+		"text": "А, уи."
 	},
 	{
 		"id": "leFantome_ItemDowngrade_0",
-		"text": "No, no, no."
+		"text": "Нет, Нет, Нет."
 	},
 	{
 		"id": "leFantome_Recruited_0",
-		"text": "I accept the offer. On y va!"
+		"text": "Я принимаю предложение. Пойдемте!"
 	},
 	{
 		"id": "leFantome_LevelUp_0",
-		"text": "I am clever, see?"
+		"text": "Я умен, видите?"
 	},
 	{
 		"id": "leFantome_EnemySpotted_0",
-		"text": "I found another one!"
+		"text": "Я нашел еще одного!"
 	},
 	{
 		"id": "leFantome_NeedReloading_1",
-		"text": "Just a moment please, reloading!"
+		"text": "Секундочку, пожалуйста, перезаряжаюсь!"
 	},
 	{
 		"id": "leFantome_NeedHealing_1",
-		"text": "It really hurts."
+		"text": "Очень больно."
 	},
 	{
 		"id": "leFantome_CriticalStrike_1",
-		"text": "Don’t even try to escape me."
+		"text": "Даже не пытайся от меня убежать."
 	},
 	{
 		"id": "leFantome_Killshot_1",
-		"text": "Strike when they least expect it."
+		"text": "Бейте, когда они меньше всего этого ожидают."
 	},
 	{
 		"id": "leFantome_Evade_1",
-		"text": "You’ll have to do better than that!"
+		"text": "Тебе придется придумать что-нибудь получше!"
 	},
 	{
 		"id": "leFantome_Idle_1",
-		"text": "They never proved it was me who broke in to the German embassy in Paris."
+		"text": "Они так и не доказали, что это я проник в посольство Германии в Париже."
 	},
 	{
 		"id": "leFantome_Flanked_1",
-		"text": "You’ll never catch me!"
+		"text": "Вы меня не поймаете!"
 	},
 	{
 		"id": "leFantome_NeedFuel_1",
-		"text": "Is there any gas in the spare canister?"
+		"text": "В запасной канистре есть бензин ?"
 	},
 	{
 		"id": "leFantome_NeedAmmo_1",
-		"text": "No more ammunition? It wasn’t me!"
+		"text": "не осталось боеприпасов? Это был не я!"
 	},
 	{
 		"id": "leFantome_ItemUpgrade_1",
-		"text": "An excellent choice."
+		"text": "Отличный выбор."
 	},
 	{
 		"id": "leFantome_ItemDowngrade_1",
-		"text": "Seriously?"
+		"text": "Серьезно?"
 	},
 	{
 		"id": "leFantome_Recruited_1",
-		"text": "I will accompany you ... as long as it suits my own plans."
+		"text": "Я буду сопровождать вас ... пока это соответствует моим планам."
 	},
 	{
 		"id": "leFantome_LevelUp_1",
-		"text": "I feel great!"
+		"text": "Я прекрасно себя чувствую!"
 	},
 	{
 		"id": "leFantome_EnemySpotted_1",
-		"text": "Over there!"
+		"text": "Сюда!"
 	},
 	{
 		"id": "fenris_NeedReloading_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_NeedHealing_0",
-		"text": "*Whines*"
+		"text": "*Скулит*"
 	},
 	{
 		"id": "fenris_CriticalStrike_0",
-		"text": "Aaah-OoOH!"
+		"text": "Ааах-Ууух!"
 	},
 	{
 		"id": "fenris_Killshot_0",
-		"text": "*Gnarls*"
+		"text": "*Рычит*"
 	},
 	{
 		"id": "fenris_Evade_0",
-		"text": "*Whimpers*"
+		"text": "*Ухмыляется*"
 	},
 	{
 		"id": "fenris_Idle_0",
-		"text": "Sniff-sniff"
+		"text": "Нюх-нюх"
 	},
 	{
 		"id": "fenris_Flanked_0",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "fenris_NeedFuel_0",
-		"text": "WooOFF!"
+		"text": "Аууууф!"
 	},
 	{
 		"id": "fenris_NeedAmmo_0",
-		"text": "Bow-WOW!"
+		"text": "Гав-ГАФ!"
 	},
 	{
 		"id": "fenris_ItemUpgrade_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_ItemDowngrade_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_Recruited_0",
-		"text": "WoowooWOOF!"
+		"text": "АууувууАУУУФ!"
 	},
 	{
 		"id": "fenris_LevelUp_0",
-		"text": "*Heavy Panting*"
+		"text": "*Тяжело Дышит*"
 	},
 	{
 		"id": "fenris_EnemySpotted_0",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "fenris_NeedReloading_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_NeedHealing_1",
-		"text": "*Whines*"
+		"text": "*Скулит*"
 	},
 	{
 		"id": "fenris_CriticalStrike_1",
-		"text": "Aaah-OoOH!"
+		"text": "Ааах-Ууух!"
 	},
 	{
 		"id": "fenris_Killshot_1",
-		"text": "*Gnarls*"
+		"text": "*Рычит*"
 	},
 	{
 		"id": "fenris_Evade_1",
-		"text": "*Whimpers*"
+		"text": "*Ухмыляется*"
 	},
 	{
 		"id": "fenris_Idle_1",
-		"text": "Sniff-sniff"
+		"text": "Нюх-нюх"
 	},
 	{
 		"id": "fenris_Flanked_1",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "fenris_NeedFuel_1",
-		"text": "WooOFF!"
+		"text": "Аууууф!"
 	},
 	{
 		"id": "fenris_NeedAmmo_1",
-		"text": "Bow-WOW!"
+		"text": "Гав-ГАФ!"
 	},
 	{
 		"id": "fenris_ItemUpgrade_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_ItemDowngrade_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "fenris_Recruited_1",
-		"text": "WoowooWOOF!"
+		"text": "АууувууАУУУФ!"
 	},
 	{
 		"id": "fenris_LevelUp_1",
-		"text": "*Heavy Panting*"
+		"text": "*Тяжело Дышит*"
 	},
 	{
 		"id": "fenris_EnemySpotted_1",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "snowWhite_NeedReloading_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_NeedHealing_0",
-		"text": "*Whines*"
+		"text": "*Скулит*"
 	},
 	{
 		"id": "snowWhite_CriticalStrike_0",
-		"text": "Aaah-OoOH!"
+		"text": "Ааах-Ууух!"
 	},
 	{
 		"id": "snowWhite_Killshot_0",
-		"text": "*Gnarls*"
+		"text": "*Рычит*"
 	},
 	{
 		"id": "snowWhite_Evade_0",
-		"text": "*Whimpers*"
+		"text": "*Ухмыляется*"
 	},
 	{
 		"id": "snowWhite_Idle_0",
-		"text": "Sniff-sniff"
+		"text": "Нюх-нюх"
 	},
 	{
 		"id": "snowWhite_Flanked_0",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "snowWhite_NeedFuel_0",
-		"text": "WooOFF!"
+		"text": "Аууууф!"
 	},
 	{
 		"id": "snowWhite_NeedAmmo_0",
-		"text": "Bow-WOW!"
+		"text": "Гав-ГАФ!"
 	},
 	{
 		"id": "snowWhite_ItemUpgrade_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_ItemDowngrade_0",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_Recruited_0",
-		"text": "WoowooWOOF!"
+		"text": "АууувууАУУУФ!"
 	},
 	{
 		"id": "snowWhite_LevelUp_0",
-		"text": "*Heavy Panting*"
+		"text": "*Тяжело Дышит*"
 	},
 	{
 		"id": "snowWhite_EnemySpotted_0",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "snowWhite_NeedReloading_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_NeedHealing_1",
-		"text": "*Whines*"
+		"text": "*Скулит*"
 	},
 	{
 		"id": "snowWhite_CriticalStrike_1",
-		"text": "Aaah-OoOH!"
+		"text": "Ааах-Ууух!"
 	},
 	{
 		"id": "snowWhite_Killshot_1",
-		"text": "*Gnarls*"
+		"text": "*Рычит*"
 	},
 	{
 		"id": "snowWhite_Evade_1",
-		"text": "*Whimpers*"
+		"text": "*Ухмыляется*"
 	},
 	{
 		"id": "snowWhite_Idle_1",
-		"text": "Sniff-sniff"
+		"text": "Нюх-нюх"
 	},
 	{
 		"id": "snowWhite_Flanked_1",
-		"text": "Woof!"
+		"text": "Гав!"
 	},
 	{
 		"id": "snowWhite_NeedFuel_1",
-		"text": "WooOFF!"
+		"text": "Аууууф!"
 	},
 	{
 		"id": "snowWhite_NeedAmmo_1",
-		"text": "Bow-WOW!"
+		"text": "Гав-ГАФ!"
 	},
 	{
 		"id": "snowWhite_ItemUpgrade_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_ItemDowngrade_1",
-		"text": "Woof"
+		"text": "Гав"
 	},
 	{
 		"id": "snowWhite_Recruited_1",
-		"text": "WoowooWOOF!"
+		"text": "АууувууАУУУФ!"
 	},
 	{
 		"id": "snowWhite_LevelUp_1",
-		"text": "*Heavy Panting*"
+		"text": "*Тяжело Дышит*"
 	},
 	{
 		"id": "snowWhite_EnemySpotted_1",
-		"text": "Woof!"
+		"text": "Гав!"
 	}
 ]
 }

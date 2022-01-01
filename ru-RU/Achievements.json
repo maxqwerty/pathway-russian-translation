@@ -507,11 +507,11 @@
 	},
 	{
 		"id": "unlockDrChandra_desc",
-		"text": "Оживить [amount] персонажей, чтобы открыть Док Хандра."
+		"text": "Оживить [amount] персонажей, чтобы открыть Док. Хандра."
 	},
 	{
 		"id": "unlockDrChandra_title",
-		"text": "Док Хандра"
+		"text": "Док. Хандра"
 	},
 	{
 		"id": "unlockFantome_desc",
