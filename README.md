@@ -15,6 +15,7 @@ No one owns this translation.
 # Перевод на русский для игры Pathway
 https://store.steampowered.com/app/546430/Pathway/
 
+Автор - [@maxqwerty](https://github.com/maxqwerty)
 Спасибо [@botuhok](https://github.com/botuhok) за первую версию перевода.
 
 Отказ от прав:
