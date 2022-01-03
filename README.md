@@ -26,7 +26,7 @@ Pathway принадлежит [Robotality](http://robotality.com/blog/about/)
 
 # Как установить
 
-Найти папке с игрой по пути:
+Найти папку с игрой по пути:
 
 *<ПУТЬ_К_БИБЛИОТЕКЕ_STEAM>/steamapps/common/Pathway/i18n*
 
