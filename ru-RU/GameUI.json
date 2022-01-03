@@ -419,15 +419,15 @@
 	},
 	{
 		"id": "Tooltip_Weapon_Damage",
-		"text": "УРН:"
+		"text": "УРОН:"
 	},
 	{
 		"id": "Tooltip_Weapon_BaseDamage",
-		"text": "БАЗОВЫЙ УРН:"
+		"text": "БАЗОВЫЙ УРОН:"
 	},
 	{
 		"id": "Tooltip_Weapon_DamageCompleteAmount",
-		"text": "УРН: [0]-[1]"
+		"text": "УРОН: [0]-[1]"
 	},
 	{
 		"id": "Tooltip_Weapon_Shredding",
@@ -575,11 +575,11 @@
 	},
 	{
 		"id": "Tooltip_Grenade_Damage",
-		"text": "УРН:"
+		"text": "УРОН:"
 	},
 	{
 		"id": "Tooltip_Grenade_DamageArea",
-		"text": "Зона УРН:"
+		"text": "Зона УРОНА:"
 	},
 	{
 		"id": "Tooltip_Grenade_ThrowRange",
@@ -775,19 +775,19 @@
 	},
 	{
 		"id": "DamageType_Standard",
-		"text": "Стандартное"
+		"text": "Обычный"
 	},
 	{
 		"id": "DamageType_Splinter",
-		"text": "Осколочное"
+		"text": "Осколочный"
 	},
 	{
 		"id": "DamageType_ArmorPiercing",
-		"text": "Бронебойное"
+		"text": "Бронебойный"
 	},
 	{
 		"id": "DamageType_Corrosion",
-		"text": "Коррозийное"
+		"text": "Коррозийный"
 	},
 	{
 		"id": "ArmorType_Light",
@@ -1207,7 +1207,7 @@
 	},
 	{
 		"id": "Action_EnergyLance",
-		"text": "Энергия"
+		"text": "Энерголуч"
 	},
 	{
 		"id": "Action_Ambush",
@@ -1923,7 +1923,7 @@
 	},
 	{
 		"id": "GameOptions_Global_DoubleConfirmActions",
-		"text": "ПОДТВЕРЖДАТЬ ПЕРЕДВИЖЕНИЕ"
+		"text": "ПОДТВЕРЖДАТЬ ДВИЖЕНИЕ"
 	},
 	{
 		"id": "GameOptions_Global_DoubleConfirmActionsTooltip",
@@ -2863,35 +2863,35 @@
 	},
 	{
 		"id": "Enemy_infantrist_0_name",
-		"text": "Солдат Нацист I"
+		"text": "Нацистский Солдат I"
 	},
 	{
 		"id": "Enemy_infantrist_1_name",
-		"text": "Солдат Нацист II"
+		"text": "Нацистский Солдат II"
 	},
 	{
 		"id": "Enemy_infantrist_2_name",
-		"text": "Солдат Нацист III"
+		"text": "Нацистский Солдат III"
 	},
 	{
 		"id": "Enemy_infantrist_3_name",
-		"text": "Солдат Нацист IV"
+		"text": "Нацистский Солдат IV"
 	},
 	{
 		"id": "Enemy_infantrist_4_name",
-		"text": "Солдат Нацист V"
+		"text": "Нацистский Солдат V"
 	},
 	{
 		"id": "Enemy_infantrist_5_name",
-		"text": "Солдат Нацист VI"
+		"text": "Нацистский Солдат VI"
 	},
 	{
 		"id": "Enemy_infantrist_6_name",
-		"text": "Солдат Нацист VII"
+		"text": "Нацистский Солдат VII"
 	},
 	{
 		"id": "Enemy_infantrist_7_name",
-		"text": "Солдат Нацист VIII"
+		"text": "Нацистский Солдат VIII"
 	},
 	{
 		"id": "Enemy_eliteInfantrist_0_name",
@@ -3551,11 +3551,11 @@
 	},
 	{
 		"id": "CombatStats_ReloadLabel",
-		"text": "Перезарядить все оружия"
+		"text": "Перезарядить все оружие"
 	},
 	{
 		"id": "CombatStats_ContinueLabel",
-		"text": "Обратно к карте"
+		"text": "Вернуться к карте"
 	},
 	{
 		"id": "AdventureStats_Valuables",
@@ -3747,7 +3747,7 @@
 	},
 	{
 		"id": "ItemContext_MoveTo",
-		"text": "Переместить в"
+		"text": "Поместить в"
 	},
 	{
 		"id": "ItemContext_MoveToPage",
