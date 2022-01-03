@@ -7,7 +7,7 @@
 	},
 	{
 		"id": "GameDescription_Content",
-		"text": "[h1]Введение[/h1]Год 1936 и активность нацистов усиливается с каждым днем.\nОни без устали отправляют свои экспедиции в бескрайние пустыни и суровые горы Ближнего Востока.\nСеверная Африка, Аравия - что может искать здесь армия зла?\n[p][img:codex_atmoshot]\n[p][h1]Каждая экспедиция уникальна[/h1]В Pathway вы отправляете группу бесстрашных авантюристов в опасные экспедиции. Им нужно побеждать в пошаговых боях, раскрывать древние секреты и следить за запасами топлива, чтобы вовремя прибыть на место и сорвать планы своих безжалостных врагов.\nВ Pathway каждая экспедиция уникальна. Всё благодаря тому, что помимо обычного задания в экспедиции происходит множество случайных циклов событий. Но даже те события, с которыми вы сталкивались раннее, могут иметь неожиданные последствия: либо из-за случайностей, либо из-за разного состава вашей команды.\n[p][h1]Непрерывный игровой процесс[/h1]В Pathway даже поражение означает прогресс, ведь персонажи получают опыт, даже когда они терпят поражение. После нескольких индивидуальных приключений персонажи смогут накопить достаточно опыта и снаряжения чтобы начать предпринимать более рискованные действия.\nУправляйте своей экспедицией! Используйте сильные стороны её отдельных членов! Принимайте правильные решения в событиях, с которыми столкнётесь во время путешествия!\n[p][h1]Важно каждое решение[/h1]Мир находится на грани катастрофы, в тени бушует необъявленная война! Победа или поражение – только вы и ваши невоспетые герои сможете решить её исход!\n[p][img:codex_armor]"
+		"text": "[h1]Введение[/h1]Идёт 1936 год, и активность нацистов усиливается с каждым днем.\nОни без устали отправляют свои экспедиции в бескрайние пустыни и суровые горы Ближнего Востока.\nСеверная Африка, Аравия - что может искать здесь армия зла?\n[p][img:codex_atmoshot]\n[p][h1]Каждая экспедиция уникальна[/h1]В Pathway вы отправляете группу бесстрашных авантюристов в опасные экспедиции. Им нужно побеждать в пошаговых боях, раскрывать древние секреты и следить за запасами топлива, чтобы вовремя прибыть на место и сорвать планы своих безжалостных врагов.\nВ Pathway каждая экспедиция уникальна. Всё благодаря тому, что помимо обычного задания в экспедиции происходит множество случайных циклов событий. Но даже те события, с которыми вы сталкивались раннее, могут иметь неожиданные последствия: либо из-за случайностей, либо из-за разного состава вашей команды.\n[p][h1]Непрерывный игровой процесс[/h1]В Pathway даже поражение означает прогресс, ведь персонажи получают опыт, даже когда они терпят поражение. После нескольких индивидуальных приключений персонажи смогут накопить достаточно опыта и снаряжения чтобы начать предпринимать более рискованные действия.\nУправляйте своей экспедицией! Используйте сильные стороны её отдельных членов! Принимайте правильные решения в событиях, с которыми столкнётесь во время путешествия!\n[p][h1]Важно каждое решение[/h1]Мир находится на грани катастрофы, в тени бушует необъявленная война! Победа или поражение – только вы и ваши невоспетые герои сможете решить её исход!\n[p][img:codex_armor]"
 	},
 	{
 		"id": "KeyBindings",
@@ -423,163 +423,163 @@
 	},
 	{
 		"id": "TheNazis",
-		"text": "The Nazis"
+		"text": "Нацисты"
 	},
 	{
 		"id": "TheNazis_Content",
-		"text": "[h1]The Valkyrium Question[/h1]The German Reich’s secret obsession is called Valkyrium.\nWhat is this strange substance? What powers does it grant to those who possess it?\nIt seems the Nazis have found answers to these questions - terrible answers...\n[p][img:codex_valkyrium]"
+		"text": "[h1]Вопрос о Валькириуме[/h1]Тайное желание Германского Рейха называется Валькириум.\nЧто это за странная субстанция? Какую силу она даёт тому, кто ей владеет?\nПохоже Нацисты нашли ответы на эти вопросы - ужасные ответы...\n[p][img:codex_valkyrium]"
 	},
 	{
 		"id": "Infanterist",
-		"text": "Nazi Trooper"
+		"text": "Нацистский Солдат"
 	},
 	{
 		"id": "Infanterist_Content",
-		"text": "[h1]Nazi Trooper[/h1]Armed with assault rifles, these jackbooted German troops are excellently equipped for battle in the desert. Nazi troopers are the backbone of the German expeditionary forces. Their discipline and resolve make them formidable opponents in any situation.\n[p][img:codex_nazitroopers]"
+		"text": "[h1]Нацистский Солдат[/h1]Вооружённые штурмовыми винтовками, эти немецкие солдаты в кирзовых сапогах отлично подготовлены к боям в пустыне. Нацистские солдаты являются основой экспедиционных сил. Их дисциплина и решимость делают их грозными противниками в любой ситуации.\n[p][img:codex_nazitroopers]"
 	},
 	{
 		"id": "Dog",
-		"text": "Attack dog"
+		"text": "Боевой Пес"
 	},
 	{
 		"id": "Dog_Content",
-		"text": "[h1]Attack dog[/h1]German attack dogs are fearsome beasts: Once they have latched on to their target, they will not let go until it is lying bleeding and defenseless in the desert sands. Unlike their masters, they have no concept of tactics and cover.\n[p][img:codex_dogs]"
+		"text": "[h1]Боевой Пес[/h1]Немецкие Боевые Псы - бесстрашные звери: как только они увидят цель, то их уже не остановить, пока она не будет лежать беззащитная и истекающая кровью на песке. В отличие от своих хозяев они не имеют представление о тактике и укрытиях.\n[p][img:codex_dogs]"
 	},
 	{
 		"id": "Shotgunner",
-		"text": "Shock Trooper"
+		"text": "Штурмовик"
 	},
 	{
 		"id": "Shotgunner_Content",
-		"text": "[h1]Shock Trooper[/h1]Shock troopers are the most aggressive German troop contingent.  Mobile and well-armored, they advance relentlessly to engage the enemy with their shotguns. Shock troopers are fearless and deadly close-quarters fighters, especially against unarmored opponents.\n[p][img:codex_shocktroopers]"
+		"text": "[h1]Штурмовик[/h1Штурмовики - самый агрессивный немецкий контингент. Подвижные и хорошо бронированные они неумолимо продвигаются, чтобы поразить врага из дробовика. h1Штурмовики - бесстрашные и смертоносные бойцы ближнего боя, особенно против небронированных противников.\n[p][img:codex_shocktroopers]"
 	},
 	{
 		"id": "Sniper",
-		"text": "Sniper"
+		"text": "Снайпер"
 	},
 	{
 		"id": "Sniper_Content",
-		"text": "[h1]Sniper[/h1]Unfortunately, there is not much cover that can reliably protect you from the accuracy of German snipers. While they are not particularly tough or mobile, they dominate the battlefield thanks to the superior range of their precision rifles.\n[p][img:codex_snipers]"
+		"text": "[h1]Снайпер[/h1]К сожалению, не так много укрытий могут надежно защитить вас от меткости немецких снайперов. Хотя они не особенно сильны и мобильны, они имеют преимущество на поле боя благодаря превосходной дальности их высокоточных винтовок.\n[p][img:codex_snipers]"
 	},
 	{
 		"id": "Medic",
-		"text": "Medic"
+		"text": "Медик"
 	},
 	{
 		"id": "Medic_Content",
-		"text": "[h1]Medic[/h1]The uniform insignia of the German field medics makes them easily recognizable from afar. Their main task is to care for their wounded comrades – but that does not mean they don’t know how to use their service pistols...\n[p][img:codex_medics]"
+		"text": "[h1]Медик[/h1]По униформе немецких полевых медиков их легко узнать издалека. Их главная задача - заботиться о своих раненых товарищах, но это не значит, что они не умеют пользоваться служебным пистолетом...\n[p][img:codex_medics]"
 	},
 	{
 		"id": "Officer",
-		"text": "Officer"
+		"text": "Офицер"
 	},
 	{
 		"id": "Officer_Content",
-		"text": "[h1]Officer[/h1]German officers lead their troops with merciless discipline – the slightest of transgressions is met with severe punishment. Nevertheless, German officers have excellent tactical training – a German army unit will fight noticeably more efficiently if commanded by an officer.\n[p][img:codex_officers]"
+		"text": "[h1]Офицер[/h1]Немецкие офицеры ведут свои войска с беспощадной дисциплиной – малейший проступок карается суровым наказанием. Тем не менее, у немецких офицеров отличная тактическая подготовка – немецкий отряд будет сражаться заметно эффективнее, если им командует офицер.\n[p][img:codex_officers]"
 	},
 	{
 		"id": "EliteDog",
-		"text": "Battle Hound"
+		"text": "Боевая Гончая"
 	},
 	{
 		"id": "EliteDog_Content",
-		"text": "[h1]Battle Hound[/h1]The Nazis must have done something unspeakable to these monstrous creatures! There is no training program in the world that could induce such implacable bloodlust. Not to mention their strangely lifeless eyes...\n[p][img:codex_elitedogs]"
+		"text": "[h1]Боевая Гончая[/h1]Нацисты, должно быть, сделали что-то невероятное с этими чудовищными существами! В мире не существует такой программы тренировок, которая могла бы вызвать такую неумолимую жажду крови. Не говоря уже об их странно безжизненных глазах...\n[p][img:codex_elitedogs]"
 	},
 	{
 		"id": "Teslaborg",
-		"text": "Teslaborg"
+		"text": "Теслаборг"
 	},
 	{
 		"id": "Teslaborg_Content",
-		"text": "[h1]Teslaborg[/h1]The absolute elite of terror. Highly mobile and well-armored stormtroopers of the German expeditionary forces. The Teslaborg is a steel nightmare in combat due to its monstrous armor and devastating firepower.\n[p][img:codex_teslaborgs]"
+		"text": "[h1]Теслаборг[/h1]Абсолютная элита террора. Высокомобильные и хорошо бронированные штурмовики немецких экспедиционных войск. Теслаборг в бою - стальной кошмар из-за его чудовищной брони и разрушительной огневой мощи.\n[p][img:codex_teslaborgs]"
 	},
 	{
 		"id": "TheBrotherhood",
-		"text": "The Brotherhood"
+		"text": "Братство"
 	},
 	{
 		"id": "TheBrotherhood_Content",
-		"text": "[h1]The Menace in the Shadows[/h1]The true goals of the Brotherhood of Khonesh remain shrouded in darkness - but that darkness is filled with loathsome rumors...\nRumors that rob you of your sleep and gnaw at the edges of your soul!\n[p][img:codex_ring]"
+		"text": "[h1]Теневая Угроза[/h1]Истинные цели Братствы Хонеш остаются окутанными тьмой, и эта тьма наполнена отвратительными слухами...\nСлухами, которые лишают вас сна и пугают до глубины души!\n[p][img:codex_ring]"
 	},
 	{
 		"id": "Cultist",
-		"text": "Cultist"
+		"text": "Культист"
 	},
 	{
 		"id": "Cultist_Content",
-		"text": "[h1]Cultist[/h1]The foot soldiers of the Brotherhood – fanatical, hate-filled and willing to fight to the death. Unlike their horrific undead allies, cultists fight tactically, use cover or flee when it makes sense. Cultists are master knife throwers and their blazing sulfur pots rain death and destruction over their enemies!\n[p][img:codex_cultists]"
+		"text": "[h1]Культист[/h1]Пехотинцы Братства фанатичны, полны ненависти и готовы сражаться насмерть. В отличие от своих ужасных союзников-нежити, культисты сражаются тактически, используют укрытие или спасаются бегством, когда это имеет смысл. Культисты - мастера метания ножей, а их пылающие горшки с серой обрушивают на их врагов смерть и разрушение!\n[p][img:codex_cultists]"
 	},
 	{
 		"id": "Zombie",
-		"text": "Zombie"
+		"text": "Зомби"
 	},
 	{
 		"id": "Zombie_Content",
-		"text": "[h1]Zombie[/h1]What gives the Brotherhood its unholy power over the dead? One thing is certain: wherever they appear, the zombie hordes are not far behind. Tormented and mindless, they are driven by a constant hunger and hate for the living. Few things are as dangerous as an injured zombie...\n[p][img:codex_zombies]"
+		"text": "[h1]Зомби[/h1]Что же дает Братству их нечестивую власть над мертвыми? Одно можно сказать наверняка: где бы они ни появлялись, за ними идут орды зомби. Измученные и бездумные, они движимы постоянным голодом и ненавистью к жизни. Мало что может быть опаснее раненого зомби...\n[p][img:codex_zombies]"
 	},
 	{
 		"id": "Infected",
-		"text": "Infected"
+		"text": "Зараженный"
 	},
 	{
 		"id": "Infected_Content",
-		"text": "[h1]Infected[/h1]Death and destruction follow the Brotherhood wherever it goes. The infected clearly play an important role in their sinister plans. Bloated and decayed, they spread their sickness by spewing forth vile putrescence over their enemies.\n[p][img:codex_infecteds]"
+		"text": "[h1]Зараженный[/h1]Смерть и разрушение следуют за Братством, куда бы они ни пошли. И Зараженные явно играют важную роль в их зловещих планах. Раздутые от разложения, они распространяют свою болезнь, извергая мерзкую гниль на своих врагов.\n[p][img:codex_infecteds]"
 	},
 	{
 		"id": "Sporebearer",
-		"text": "Spore Bearer"
+		"text": "Носитель Спор"
 	},
 	{
 		"id": "Sporebearer_Content",
-		"text": "[h1]Spore Bearer[/h1]With their unspeakable rituals, the Brotherhood have created a parasitic abomination that paralyzes its enemies in a cloud of poisonous spores. What affliction possesses these unfortunate souls? What final form will their metamorphosis reveal?\n[p][img:codex_sporebearers]"
+		"text": "[h1]Носитель Спор[/h1]Своими невыразимыми ритуалами Братство создало паразитическую мерзость, заражающую своих врагов облаком ядовитых спор. Какая беда одолевает эти несчастные души? В какой окончательной форме завершатся их метаморфозы?\n[p][img:codex_sporebearers]"
 	},
 	{
 		"id": "HighPriestess",
-		"text": "High Priestess"
+		"text": "Верховная Жрица"
 	},
 	{
 		"id": "HighPriestess_Content",
-		"text": "[h1]High Priestess[/h1]Through years of study and ineffable practices, these abhorrent leaders of the Brotherhood have learned the darkest mysteries of the occult. They now command the secrets of life and death – they will not hesitate to unleash their unholy powers to achieve their goals...\n[p][img:codex_highpriestesses]"
+		"text": "[h1]Верховная Жрица[/h1]За годы обучения и невыразимых практик эти отвратительные лидеры Братства познали самые темные тайны оккультизма. Теперь они владеют секретами жизни и смерти, и они без колебаний используют свои нечестивые силы для достижения своих целей...\n[p][img:codex_highpriestesses]"
 	},
 	{
 		"id": "TravelSummary",
-		"text": "Introduction"
+		"text": "Введение"
 	},
 	{
 		"id": "TravelSummary_Content",
-		"text": "[h1]Objective[/h1]The goal of each adventure is to reach the destination point of the map. On the way there, the team travels from location to location.\n[p][img:codex_encounter]\n[p][h1]Events[/h1]Each location presents a new event. The event may be a simple flavor text without any gameplay consequences, or more significant occurrences, such as loot, traders, resting places and challenging battles.\n[p]Some events are short and to the point whilst others provide complex branching options. Character perks like Daredevil or Survivalist may open additional choices and event branches.\n[p][h1]Fuel Reserves[/h1]The journey will slowly drain fuel reserves. Once depleted, you may give up or continue with the expedition on foot at the cost of the team's health.\n[p][h1]Failure[/h1]The expedition fails as soon as the last of your characters dies either due to the harsh conditions of foot travel or at the hands of your enemies."
+		"text": "[h1]Цель[/h1]Цель каждого приключений - достичь точки назначения на карте. На пути к ней команда путешествует по разным местам.\n[p][img:codex_encounter]\n[p][h1]События[/h1]В каждом новом месте происходит своё событие. Событие может быть простым описательным текстом без каких-либо последствий для игрового процесса, а может содержать в себе что-нибудь более значительные, например добычу, торговцев, места отдыха или сложные сражения.\n[p]Некоторые события короткие, в то время как другие могут содержать сложные варианты ответвлений. Перки персонажей, например Смельчак или Выживальщик, могут открыть дополнительные варианты выбора для при принятия решений в событиях.\n[p][h1]Запасы Топлива[/h1]Путешествие медленно истощает запасы топлива. Если они исчерпаются, вы сможете отказаться от дальнейшего путешествия или продолжить экспедицию пешком за счет потери здоровья командой.\n[p][h1]Проигрыш[/h1]Экспедиция терпит поражение, как только последний из ваших персонажей умирает либо из-за суровых условий путешествия пешком, либо от рук ваших врагов."
 	},
 	{
 		"id": "CombatSummary",
-		"text": "Introduction"
+		"text": "Введение"
 	},
 	{
 		"id": "CombatSummary_Content",
-		"text": "[h1]Turn-based Combat[/h1]Combat in Pathway is turn-based: The player first enters a planning phase in which they may place their characters inside a marked  area (green). The player and the enemy then each take their turns sequentially. The battle is over when one of the teams has lost all their units.\n[p][img:codex_battleimpression]\n[p]During their turn, the player can move their characters in any order. When the player turn is over, the enemy proceeds to perform their actions.\n[p][h1]Actions[/h1]Each unit can execute a maximum of two actions per turn: Attacks and moves are limited to one per turn. Neutral actions, such as reloading or healing an allied character, can be done up to two times per turn.\n[p]Each character has several special actions. These require additional bravery points to use. Bravery is regenerated through various actions such as successful attacks and evades.\n[p][h1]Cover[/h1]Characters positioned directly (not diagonally) next to cover receive some protection from ranged weapons. Low and high cover reduce the enemy’s hit probability. Walls break line of sight and therefore also prevent ranged attacks.\n[p][h1]Heal, Repair, and Revive[/h1]If a character is equipped with medkits such a bandages, they may use them to heal nearby allies, if there are sufficient supplies. Additionally, medkits can be used to revive unconscious characters. Characters with repairkits such as needle and thread can repair armor.\n[p]When not in combat, medkits and repairkits can be used by anyone by clicking on the item in the team screen.\n[p]Some characters also have special actions that allow them to provide allies with provisional healing during combat."
+		"text": "[h1]Пошаговые Бои[/h1]Бой в Pathway происходит по раундам: сначала игрок проходит фазу планирования, в которой он размещает своих персонажей в отмеченной зоне (зелёная). Игрок и противники ходят по очереди. Бой завершается, когда одна из команд теряет всех своих бойцов.\n[p][img:codex_battleimpression]\n[p]В свой ход игрок может действовать своими персонажами в любом порядке. Когда ход игрока завершается, тогда начинают действовать противники.\n[p][h1]Действия[/h1]Каждый персонаж в свой ход может совершить до двух действий: атака и движение ограничены до одного раза за ход. Нейтральные действия, например перезарядка или лечение союзников, можно совершать до двух раз за ход.\n[p]У каждого персонажа есть несколько специальных действий. Для их использование потребуются очки Храбрости. Храбрость восстанавливается при совершении определённых действий, например при успешной атаке или уклонении.\n[p][h1]Укрытие[/h1]Персонажи, стоящие рядом с укрытием (не по диагонали), получают защиту от атак дальнобойного оружия. Слабое и Хорошее Укрытие уменьшает шанс противника попасть по персонажу. Стены прерывают область видимости, и поэтому защищают от дальнобойных атак.\n[p][h1]Лечение, Починка и Реанимация[/h1]Если у персонажа есть аптечка, например Бинты, он сможет использовать её для лечения союзников. Кроме того аптечки можно использовать для реанимации персонажей без сознания. Персонажи, у которых есть Ремкомплект, например Игла с Нитью, могут чинить броню.\n[p]Вне боя аптечки и ремкомплекты может использовать любой персонаж в Окне Команды.\n[p]У некоторых персонажей могут быть специальные навыки, которые позволяют им использовать временное лечение в бою."
 	},
 	{
 		"id": "CombatSummary_Content_Controller",
-		"text": "[h1]Turn-based Combat[/h1]Combat in Pathway is turn-based: The player first enters a planning phase in which they may place their characters inside a marked  area (green). The player and the enemy then each take their turns sequentially. The battle is over when one of the teams has lost all their units.\n[p][img:codex_battleimpression]\n[p]During their turn, the player can move their characters in any order. When the player turn is over, the enemy proceeds to perform their actions.\n[p][h1]Actions[/h1]Each unit can execute a maximum of two actions per turn: Attacks and moves are limited to one per turn. Neutral actions, such as reloading or healing an allied character, can be done up to two times per turn.\n[p]Each character has several special actions. These require additional bravery points to use. Bravery is regenerated through various actions such as successful attacks and evades.\n[p][h1]Cover[/h1]Characters positioned directly (not diagonally) next to cover receive some protection from ranged weapons. Low and high cover reduce the enemy’s hit probability. Walls break line of sight and therefore also prevent ranged attacks.\n[p][h1]Heal, Repair, and Revive[/h1]If a character is equipped with Medkits such as bandages, they may use them to heal nearby allies. Additionally, Medkits can be used to revive unconscious characters. Characters can use Repairkits, such as needle and thread, to repair armor.\n[p]When not in combat, you can use Medkits and Repairkits to heal Team members and repair armor. On the Team page of the Journal, press A to view an item's available actions, and select Use.\n[p]Some characters also have special actions that allow them to provide allies with provisional healing during combat."
+		"text": "[h1]Пошаговые Бои[/h1]Бой в Pathway происходит по раундам: сначала игрок проходит фазу планирования, в которой он размещает своих персонажей в отмеченной зоне (зелёная). Игрок и противники ходят по очереди. Бой завершается, когда одна из команд теряет всех своих бойцов.\n[p][img:codex_battleimpression]\n[p]В свой ход игрок может действовать своими персонажами в любом порядке. Когда ход игрока завершается, тогда начинают действовать противники.\n[p][h1]Действия[/h1]Каждый персонаж в свой ход может совершить до двух действий: атака и движение ограничены до одного раза за ход. Нейтральные действия, например перезарядка или лечение союзников, можно совершать до двух раз за ход.\n[p]У каждого персонажа есть несколько специальных действий. Для их использование потребуются очки Храбрости. Храбрость восстанавливается при совершении определённых действий, например при успешной атаке или уклонении.\n[p][h1]Укрытие[/h1]Персонажи, стоящие рядом с укрытием (не по диагонали), получают защиту от атак дальнобойного оружия. Слабое и Хорошее Укрытие уменьшает шанс противника попасть по персонажу. Стены прерывают область видимости, и поэтому защищают от дальнобойных атак.\n[p][h1]Лечение, Починка и Реанимация[/h1]Если у персонажа есть аптечка, например Бинты, он сможет использовать её для лечения союзников. Кроме того аптечки можно использовать для реанимации персонажей без сознания. Персонажи, у которых есть Ремкомплект, например Игла с Нитью, могут чинить броню.\n[p]Вне боя аптечки и ремкомплекты может использовать любой персонаж в Окне Команды.\n[p]У некоторых персонажей могут быть специальные навыки, которые позволяют им использовать временное лечение в бою."
 	},
 	{
 		"id": "GameOptions",
-		"text": "Game Options"
+		"text": "Игровые Настройки"
 	},
 	{
 		"id": "GameOptions_Content",
-		"text": "[h1]Game Settings[/h1]Under Options / Game, there are various settings that you can use to adjust the game to your individual preferences:\n[p]Show Codex Notifications: Activate if you want the game to display tutorial messages.\n[p]Confirm Move: Activate to confirm you own unit movements by double-clicking.\n[p]Confirm End Turn: Activate to avoid ending your own turn by accident.\n[p]Dog Friendly Mode: Activate to deactivate violence against dogs.\n[p]No Bloodshed: Activate to reduce the general level of violence portrayed.\n[p]Border-Scrolling: Activate to move the map view by moving the cursor to the edges of the screen."
+		"text": "[h1]Игровые Настройки[/h1]В разделе Игра в Настройках существует множество настроек, которые можно изменить под личные предпочтения:\n[p]Показывать Уведомления Кодекса: включите, если хотите, чтобы игра показывала справочные подсказки.\n[p]Подтверждать Движение: включите, чтобы подтверждать движение персонажей двойным кликом.\n[p]Подтверждать Завершение Хода: включите, чтобы избежать случайного завершения хода.\n[p]Режим Любви к Животным: включите, чтобы убрать жестокое обращение с собаками.\n[p]Без Крови: включите, чтобы внизить общий уровень отображаемого насилия.\n[p]Перемещение у Границ: включите, чтобы двигать камеру наведя курсор на край экрана."
 	},
 	{
 		"id": "GameOptions_Content_Controller",
-		"text": "[h1]Game Settings[/h1]Under Options / Game, there are various settings that you can use to adjust the game to your individual preferences:\n[p]Show Codex Notifications: Activate if you want the game to display tutorial messages.\n[p]Confirm Move: Activate to avoid moving a character to the wrong location by accident.\n[p]Confirm End Turn: Activate to avoid ending your own turn by accident."
+		"text": "[h1]Игровые Настройки[/h1]В разделе Игра в Настройках существует множество настроек, которые можно изменить под личные предпочтения:\n[p]Показывать Уведомления Кодекса: включите, если хотите, чтобы игра показывала справочные подсказки.\n[p]Подтверждать Движение: включите, чтобы избежать перемещение в ненужное место.\n[p]Подтверждать Завершение Хода: включите, чтобы избежать случайного завершения хода."
 	},
 	{
 		"id": "BattleModes",
-		"text": "Combat Modes"
+		"text": "Режимы Боев"
 	},
 	{
 		"id": "BattleModes_Content",
-		"text": "Combat differs in terms of the number of enemies: Therefore, always read the initial text before starting combat - if it mentions a LARGE group of enemies, then you need to be extra careful!\n[p]In Pathway, there are three different combat scenarios:\n[p][h1]Advantage[/h1]When the characters surprise an unsuspecting enemy, they can usually also choose to avoid the fight. If, however, they decide to attack, they can start an attack with a full, free turn.\n[p][h1]Tumult[/h1]A spontaneous meeting of two surprised parties is less clear cut: After placing your characters, your opponents move first - only then does the regular player turn begin.\n[p][h1]Blindsided[/h1]If the characters are ambushed, each character can only perform ONE SINGLE action. The opponent then starts the fight with a free turn.\n[p]In the first player turn, the characters are marked with a special icon indicating their handicap.\n[p][img:codex_ambushdebufficon]"
+		"text": "Бой различается по количеству врагов: поэтому всегда читайте исходный текст перед началом боя - если в нем упоминается БОЛЬШАЯ группа врагов, вам нужно быть особенно осторожным!\n[p]В Pathway существует три типа сценария боя:\n[p][h1]Преимущество в бою[/h1]Когда персонажи застигают врасплох ничего не ожидающего врага, то чаще всего у них будет выбор избежать боя. Если же они всё же решат атаковать врагов, они начнут свою атаку с полным бесплатным раундом.\n[p][h1]Суматоха[/h1]Случайная встреча двух ничего не ожидавших врагов более понятный сценарий: после расстановки персонажей ваш противник будет ходить первым, и только после этого начнётся ход игрока.\n[p][h1]Бой Вслепую[/h1]Если персонажей застали врасплох, то каждый персонаж сможет совершить ТОЛЬКО ОДНО действие. Затем противник начинает бой с бесплатного раунда.\n[p]В первый ход игрока персонажи обозначены специальной иконкой, означающей их недееспособность.\n[p][img:codex_ambushdebufficon]"
 	},
 	{
 		"id": "Credits",
