@@ -3,7 +3,7 @@
 "rows": [
 	{
 		"id": "GE_HealingWell01_Intro",
-		"text": "You reach a rocky landscape, interspersed with rugged massifs. A vague smell of sulfur hangs in the air. As you are considering whether to avoid this inhospitable area, you spot a steaming waterhole surrounded by rocks.[CTP]\n\nTurquoise crystals give the edge of the pool an unreal color. You cough as the swaths of acrid steam sting your throats. Do you want to take a short break or leave immediately?"
+		"text": "Вы попадаете в скалистую местность перемежающуюся труднопроходимыми массивами. В воздухе витает слабый запах серы. Раасуждая, не лучше ли обойти эту негостеприимную местность, вы замечаете окружённый камнями дымящийся водоём.[CTP]\n\nБирюзовые кристаллы придают краям бассейна небывалый цвет. Вы кажляете от едких паров, которые жгут ваше горло. Хотите сделать короткий привал или немедленно покинуть это место?"
 	},
 	{
 		"id": "GE_HealingWell01_Choice03",
@@ -15,15 +15,15 @@
 	},
 	{
 		"id": "GE_HealingWell01_Rest01",
-		"text": "After a short inspection, you establish that the water is pleasantly warm but completely unpalatable. An initial foot bath leads to a refreshing group bath in the steaming mineral spring.\n\nThe warm water burns slightly at your wounds, but by the time you get dressed, you all feel wonderfully invigorated."
+		"text": "После короткого осмотра вы обнаружите, что вода приятно теплая, но совершенно неприятна на вкус. Начавшись с болтания ногами в воде всё закончилось освежающей групповой ванной в минеральном источнике.\n\nТеплая вода слегка обжагает ваши раны, но уже когда вы одеваетесь, вы чувствуете себя невероятно бодро."
 	},
 	{
 		"id": "GE_HealingWell01_Rest02",
-		"text": "As you relax at the edge of the pool and let your feet dangle into the water, you suddenly see large bubbles rising from the bottom of the waterhole. Moments later, a barely perceptible vibration shakes the ground beneath you! [CTP]\n\nYou dive for safety - and not a second too soon: a towering fountain of super-heated water shoots past you and into the air! Your reflexes saved you from the worst of it, but [char0] has been scalded."
+		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различмая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз воверя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
 	},
 	{
 		"id": "GE_HealingWell01_Rest02_female",
-		"text": "As you relax at the edge of the pool and let your feet dangle into the water, you suddenly see large bubbles rising from the bottom of the waterhole. Moments later, a barely perceptible vibration shakes the ground beneath you! [CTP]\n\nYou dive for safety - and not a second too soon: a towering fountain of super-heated water shoots past you and into the air! Your reflexes saved you from worst of it, but [char0] has been scalded."
+		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различмая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз воверя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice01",
@@ -199,7 +199,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Intro",
-		"text": "You come across some crumbling ruins, possibly a long-abandoned caravansary. The desert wind and the scorching heat have not been kind to the blasted buildings.[CTP]\n\nIn the overgrown courtyard you find a dried-up well. You discover some rough steps that lead down the well shaft. The sand around the well has been churned up by numerous footprints."
+		"text": "Вы проходите к группе ветхих руин, возможно, давно заброшенному караван-сараю. Пустынный ветер и палящее солнце не пощадили разрушенные зпостройки.[CTP]\n\nВ заросшем дворе вы находите пересохший колодец. Вы замечаете несколько грубых ступенек ведущих в глубь колодца. На песке вокруг колодца остались многочисленные следы ног."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice01",
@@ -207,7 +207,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Enter",
-		"text": "The mysterious well has triggered your interest. Without further ado, you climb down the stone protrusions that are built into the side of the well. After wandering the underground tunnels, you see the glow of several torches flickering on the walls of the vault ahead of you. Soon you hear loud, menacing voices. [CTP]\n\nYou peer carefully around the corner – to see a large group of German soldiers! In the middle of the group stands a prisoner who is being questioned aggressively by the soldiers. They are so engrossed in the interrogation that they do not notice you. You pause to decide what to do."
+		"text": "Таинственный колодец вызвал у вас интерес. Без лишних слов вы спускаетесь по каменным выступам, встроенным в стенку колодца. Пройдя по подземным туннелям, вы видите свет нескольких факелов на стенах хранилища перед собой. Вскоре вы начинаете слышать громкие, угрожающие голоса. [CTP]\n\nВы внимательно выглядываете из-за угла и видите большую группу немецких солдат! В центре группы стоит заключенный, которого агрессивно допрашивают солдаты. Они так увлечены допросом, что не замечают вас. Вы остановились, чтобы решить, что делать дальше."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice02",
@@ -215,7 +215,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_JourneyOn",
-		"text": "You have an uneasy feeling about the old well. After a short pause, you continue on your journey."
+		"text": "У вас неприятное предчувствие по поводу этого старого колодца. После небольшого перерыва вы продолжаете свое путешествие."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice03",
@@ -223,7 +223,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Fight",
-		"text": "Silently, you sneak closer, scurrying from cover to cover. As soon as you are in position, you open fire!"
+		"text": "Как можно тише вы подкрадываетесь ближе, снуя от укрытия к укрытию. Заняв удобную позицию, вы открываете огонь!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice04",
@@ -231,11 +231,11 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Stealth",
-		"text": "It’s a bold plan – but it might just work. The soldiers bind their prisoner and then withdraw to their camp to consult out of earshot.[CTP]\n\n[char0] dashes forwards from cover to cover until he finally reaches the prisoner! You see [char0] cut the bonds around the captive's ankles."
+		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к урытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Stealth_female",
-		"text": "It’s a bold plan – but it might just work. The soldiers bind their prisoner and then withdraw to their camp to consult out of earshot.[CTP]\n\n[char0] dashes forwards from cover to cover until she finally reaches the prisoner! You see [char0] cut the bonds around the captive's ankles."
+		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к урытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthW",
@@ -255,23 +255,23 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice05",
-		"text": "Distract soldiers"
+		"text": "Отвлечь солдат"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickW",
-		"text": "[char1] picks up a stone and throws it into a pile of clay urns at the other end of the hall. The loud clattering alerts the soldiers. They grab their guns and run over to the urns![CTP]\n\nWithin seconds, [char1] is by the prisoner, cutting the bonds at his ankles. You disappear before the soldiers notice a thing!"
+		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickW_female",
-		"text": "[char1] picks up a stone and throws it into a pile of clay urns at the other end of the hall. The loud clattering alerts the soldiers. They grab their guns and run over to the urns![CTP]\n\nWithin seconds, [char1] is by the prisoner, cutting the bonds at his ankles. You disappear before the soldiers notice a thing!"
+		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickF",
-		"text": "[char1] picks up a stone and throws it into a pile of clay urns at the other end of the hall. The loud clattering alerts the soldiers!\n\nThey grab their weapons and rush out. They soon find you – a battle is unavoidable!"
+		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро вас найдут – боя не избежать!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickF_female",
-		"text": "[char1] picks up a stone and throws it into a pile of clay urns at the other end of the hall. The loud clattering alerts the soldiers!\n\nThey grab their weapons and rush out. They soon find you – a battle is unavoidable!"
+		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро вас найдут – боя не избежать!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice06",
@@ -279,11 +279,11 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_WithdrawF",
-		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскочили по тревоге!"
+		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскакивают по тревоге!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_WithdrawF_female",
-		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскочили по тревоге!"
+		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскакивают по тревоге!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Intro",
