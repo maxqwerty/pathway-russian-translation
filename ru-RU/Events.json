@@ -631,7 +631,7 @@
 	},
 	{
 		"id": "SE_Adventure01Intro_Intro",
-		"text": "You check your gear one last time and start the engine: Your journey begins!"
+		"text": "Вы проверяете колеса в последний раз и заводите двигатель: ваше путешествие начинается!"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Intro",
@@ -1735,7 +1735,7 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Choice03",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedW",
@@ -3503,39 +3503,39 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Intro",
-		"text": "The temple entrance in front of you is framed by two pitch-black obelisks that appear to be hewn from solid obsidian. [CTP]\n\nAs you approach the entrance, you hear a deep humming sound – a ghostly glow emanates from the obelisks! \n\nYou examine the mysterious objects, but you don’t find anything that indicates how they work."
+		"text": "Перед вами вход в храм, по бокам от которого стоят два черных как смоль обелиска, которые, как оказалось, были высечены из обсидиана. [CTP]\n\nКогда вы приближаетесь ко входу, раздается низкий гул, а обелиски начинают светиться призрачным светом! \n\nВы осматриваете их, но никак не можете понять, как они работают."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Proceed",
-		"text": "You enter the building carefully. An almost endless flight of stairs leads deep into the earth. \n\nYour exploration ends in a dilapidated passage that looks like it might collapse at any moment. [CTP]\n\nBeyond the passageway, the rock walls open into a spacious vault. An eerie glow emanates from within. \n\nYou keep a wary eye on the creaking ceiling of the passageway between you and the mysterious vault..."
+		"text": "Вы осторожно входите в храм. Бесконечные лестничные пролеты уходят глубоко под землю. \n\nВаше исследование заканчивается на полуразрушенном проходе, который судя по всему готов обрушиться в любую минуту. [CTP]\n\nНа другой стороне прохода каменная стена заканчивается просторным склепом. Изнутри исходит жуткое свечение. \n\nВы с опаской смотрите на скрипящий потолок прохода между вами и загадочным склепом..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice01",
-		"text": "Proceed"
+		"text": "Пройти внутрь"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice02",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Win",
-		"text": "With small, careful steps you work your way forward. Dust and sand trickle down on you, but finally you reach the safety of the vault. You look around in excitement..."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Пыль и песок сыпятся на вас, но в итоге вы в целости и сохранности добираетесь до склепа. Вы с интересом осматриваетесь..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Fail",
-		"text": "With small, careful steps you work your way forward. Dust and sand trickle down from the trembling ceiling. \n\nTo your horror, you notice [char0] fighting back a sneeze! [CTP]\n\nYou hurry to get through the passage as fast as you can, but in your haste, you trigger a small avalanche of debris – a few bricks hit [char0] on the head. \n\nYou patch up a painful-looking gash, then take an excited look around the vault..."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Пыль и песок сыпятся со скрипящего потолка. \n\nС ужасом вы замечаете, как [char0] берется с желанием чихнуть! [CTP]\n\nВы торопитесь как можно быстрее пересечь проход, но в спешке запускаете небольшую лавину обломков, и [char0] ранит голову из-за нескольких упавших камней. \n\nВы перевязываете болезненно выглядящую рану, а затем с интересом осматриваете склеп..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Fail_female",
-		"text": "With small, careful steps you work your way forward. Dust and sand trickle down from the trembling ceiling. \n\nTo your horror, you notice [char0] fighting back a sneeze! [CTP]\n\nYou hurry to get through the passage as fast as you can, but in your haste you trigger a small avalanche of debris – a few bricks hit [char0] on the head. \n\nYou patch up a painful-looking gash, then take an excited look around the vault..."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Пыль и песок сыпятся со скрипящего потолка. \n\nС ужасом вы замечаете, как [char0] берется с желанием чихнуть! [CTP]\n\nВы торопитесь как можно быстрее пересечь проход, но в спешке запускаете небольшую лавину обломков, и [char0] ранит голову из-за нескольких упавших камней. \n\nВы перевязываете болезненно выглядящую рану, а затем с интересом осматриваете склеп..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_CriticalFail",
-		"text": "With small, careful steps you work your way forward. At first, only dust and sand trickle down, but suddenly the entire ceiling gives way: Debris and soil flood into the narrow space around you!\n\nAs the dust settles, you see that [char1] is buried up to his hips in the rubble! It takes some time to free him. It looks like [char1] has injured his right leg! [CTP]\n\nUnfortunately, you can no longer get to the vault so you are forced to turn back."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопан по бедра в щебень! Потребовалось некоторое время, чтобы его освободить. Похоже,что [char1] ранил правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам приходится вернуться обратно."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_CriticalFail_female",
-		"text": "With small, careful steps you work your way forward. At first, only dust and sand trickle down, but suddenly the entire ceiling gives way: Debris and soil flood into the narrow space around you! \n\nAs the dust settles, you see that [char1] is buried up to her hips in the rubble! It takes some time to free her. It looks like [char1] has injured her right leg! [CTP]\n\nUnfortunately, you can no longer get to the vault so you are forced to turn back."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопана по бедра в щебень! Потребовалось некоторое время, чтобы ее освободить. Похоже,что [char1] ранила правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам приходится вернуться обратно."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_ AltarRoom",
@@ -4103,7 +4103,7 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Choice04",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "LE_SewerAltar01_Spores",
@@ -4183,7 +4183,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage05_Choice02",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage06_Choice02",
@@ -4251,7 +4251,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage01_Choice02",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage02_Choice02",
@@ -4271,7 +4271,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage06_Choice02",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage01",
@@ -6911,7 +6911,7 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Choice03",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "LE_LavaBridge01_Technical",
@@ -8131,7 +8131,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice08",
-		"text": "Turn back"
+		"text": "Вернуться назад"
 	},
 	{
 		"id": "SE_Adventure06Clue02_BadLuck",
@@ -9311,11 +9311,11 @@
 	},
 	{
 		"id": "SE_Adventure01Snippet02_Intro",
-		"text": "Tire tracks in the sand and a shiny film of oil on the waterhole tell you that the Germans stopped here recently. \n\nAs expected, the water turns out to be undrinkable - but among the palm trees you see something off to one side, glittering in the desert sand!"
+		"text": "Следы колес на песке и блестящая масляная пленка на поверхности водопоя свидетельства того, что здесь недавно останавливались немцы. \n\nКак и ожидалось, воду невозможно пить, но среди пальм вы замечаете что-то выделяющееся, сверкающее на пустынном песке!"
 	},
 	{
 		"id": "SE_Adventure01Snippet02_End",
-		"text": "Curious, you examine your find: it is a silvered cigarette case with the engraved initials ML... \n\nIt can only stand for Morten Lambert! There’s no doubt in your mind, he left this as a sign of life for you to find!\n\nMorten has clearly not given up hope of rescue - but will you find him in time?"
+		"text": "Вы с интересом рассматриваете свою находку: это серебряный портсигар с выгравированными инициалами МЛ... \n\nЭта вещь могла принадлежать только Мортену Ламберту! Нет никаких сомнений, что он оставил ее для вас как знак того, что он жив!\n\nМортен точно не оставил надежду на спасение, но успеете ли вы спасти его вовремя?"
 	},
 	{
 		"id": "SE_Adventure01Snippet03_Intro",
@@ -10395,31 +10395,31 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice03",
-		"text": "Discuss options"
+		"text": "Обсудить варианты"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice04",
-		"text": "Clear rubble"
+		"text": "Очистить проход"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice05",
-		"text": "Treat wound"
+		"text": "Обработать рану"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_RawStrengthW",
-		"text": "Panting with effort, [char2] moves the rocks aside - the path is clear again!"
+		"text": "Задыхаясь от усилия, [char2] убрал все камни - путь снова свободен!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_RawStrengthW_female",
-		"text": "Panting with effort, [char2] moves the rocks aside - the path is clear again!"
+		"text": "Задыхаясь от усилия, [char2] убрала все камни - путь снова свободен!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_MedicW",
-		"text": "[char3] treats the injury professionally. \n\nYou escaped with no more than a black eye - but you have lost the desire for further exploration..."
+		"text": "[char3] обработал рану как настоящий профессионал. \n\nУ вас остался только синяк под глазом, но вы потеряли интерес к дальнейшим исследованиям..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_MedicW_female",
-		"text": "[char3] treats the injury professionally. \n\nYou escaped with no more than a black eye - but you have lost the desire for further exploration..."
+		"text": "[char3] обработала рану как настоящий профессионал. \n\nУ вас остался только синяк под глазом, но вы потеряли интерес к дальнейшим исследованиям..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_HiddenLever",
