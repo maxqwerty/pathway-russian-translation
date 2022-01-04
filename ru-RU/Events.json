@@ -7,11 +7,11 @@
 	},
 	{
 		"id": "GE_HealingWell01_Choice03",
-		"text": "Inspect the water"
+		"text": "Осмотреть воду"
 	},
 	{
 		"id": "GE_HealingWell01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_HealingWell01_Rest01",
@@ -27,7 +27,7 @@
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice01",
-		"text": "Ambush your enemies"
+		"text": "Устроить засаду на врагов"
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice02",
@@ -143,11 +143,11 @@
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_A_Intro",
@@ -203,7 +203,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice01",
-		"text": "Climb down"
+		"text": "Спуститься"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Enter",
@@ -211,7 +211,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_JourneyOn",
@@ -219,7 +219,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice03",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Fight",
@@ -227,7 +227,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice04",
-		"text": "Free the prisoner"
+		"text": "Освободить пленника"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Stealth",
@@ -239,19 +239,19 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthW",
-		"text": "[char0] returns triumphantly with the prisoner. You disappear before the soldiers notice a thing!"
+		"text": "[char0] триумфально возвращается с пленником. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthW_female",
-		"text": "[char0] returns triumphantly with the prisoner. You disappear before the soldiers notice a thing!"
+		"text": "[char0] триумфально возвращается с пленником. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthF",
-		"text": "Then you hear an angry shout! The soldiers have seen [char0]! Moments later, battle begins!"
+		"text": "Вдруг вы услышали гневные крики! [char0] был замечен солдатами! Мгновение спустя началась битва!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthF_female",
-		"text": "Then you hear an angry shout! The soldiers have seen [char0]! Moments later, battle begins!"
+		"text": "Вдруг вы услышали гневные крики! [char0] была замечена солдатами! Мгновение спустя началась битва!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice05",
@@ -275,15 +275,15 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice06",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_WithdrawF",
-		"text": "As you withdraw, [char2] stumbles over a pile of rocks. The soldiers jump up in alarm!"
+		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскочили по тревоге!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_WithdrawF_female",
-		"text": "As you withdraw, [char2] stumbles over a pile of rocks. The soldiers jump up in alarm!"
+		"text": "Пока вы отступали, [char2] споткнулся о груду камней. Солдаты вскочили по тревоге!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Intro",
@@ -291,11 +291,11 @@
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Choice02",
-		"text": "Search enemy fuel dump"
+		"text": "Обыскать вражеский склад топлива"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthW",
@@ -307,15 +307,15 @@
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthF",
-		"text": "[char0] sneaks off and soon disappears behind the fuel dump. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
+		"text": "[char0] крадётся и вскоре пропадает за складом топлива. Внезапно вы слышите крики и выстрелы! В спешке вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthF_female",
-		"text": "[char0] sneaks off and soon disappears behind the fuel dump. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
+		"text": "[char0] крадётся и вскоре пропадает за складом топлива. Внезапно вы слышите крики и выстрелы! В спешке вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Intro",
@@ -323,7 +323,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Fight",
@@ -331,7 +331,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Aftermath",
@@ -339,7 +339,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice03",
-		"text": "Bid farewell"
+		"text": "Попрощаться"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_GoodBye",
@@ -395,7 +395,7 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice03",
-		"text": "Read inscription"
+		"text": "Прочитать надпись"
 	},
 	{
 		"id": "BE_LostRockTemple01_ArcheologyW",
@@ -415,7 +415,7 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE01_Intro",
@@ -495,15 +495,15 @@
 	},
 	{
 		"id": "CR_AngryMob01_Choice02",
-		"text": "Threaten"
+		"text": "Угрожать"
 	},
 	{
 		"id": "CR_AngryMob01_Intimidate",
-		"text": "[char3] strides out confidently, facing down the mob:\n\n[char3]: \"I don’t like it when people spread lies about my friends!\""
+		"text": "[char3] уверенно зашагал в сторону толпы:\n\n[char3]: \"Мне не нравится, когда люди распространяют ложь о моих друзьях!\""
 	},
 	{
 		"id": "CR_AngryMob01_Intimidate_female",
-		"text": "[char3] strides out confidently, facing down the mob:\n\n[char3]: \"I don’t like it when people spread lies about my friends!\""
+		"text": "[char3] уверенно зашагала в сторону толпы:\n\n[char3]: \"Мне не нравится, когда люди распространяют ложь о моих друзьях!\""
 	},
 	{
 		"id": "CR_AngryMob01_IntimidateW",
@@ -519,7 +519,7 @@
 	},
 	{
 		"id": "CR_AngryMob01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "FE_WhiteCamels01_Intro",
@@ -531,11 +531,11 @@
 	},
 	{
 		"id": "ME_OrientalTrader01_Choice01",
-		"text": "Trade"
+		"text": "Торговать"
 	},
 	{
 		"id": "ME_OrientalTrader01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_AngryCobra01_Intro",
@@ -587,11 +587,11 @@
 	},
 	{
 		"id": "LE_AngryCobra01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_AngryCobra01_Choice05",
-		"text": "Surprise attack"
+		"text": "Внезапно напасть"
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalW",
@@ -627,7 +627,7 @@
 	},
 	{
 		"id": "RE_DateTreeGrove01_Choice02",
-		"text": "Continue journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure01Intro_Intro",
@@ -731,11 +731,11 @@
 	},
 	{
 		"id": "ME_GenericOriental01_Choice01",
-		"text": "Trade"
+		"text": "Торговать"
 	},
 	{
 		"id": "ME_GenericOriental01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "ME_GenericOriental01_A_Intro",
@@ -759,11 +759,11 @@
 	},
 	{
 		"id": "RE_GenericOasis01_Choice01",
-		"text": "Rest up"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "RE_GenericOasis01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "RE_GenericOasis01_A_Intro",
@@ -771,7 +771,7 @@
 	},
 	{
 		"id": "RE_GenericOasis01_A_Rest",
-		"text": "You pitch an improvised camp. After a short nap, you wake up reinvigorated. You gather up your few belongings and set off again."
+		"text": "Вы разбиваете импровизированный лагерь. После короткого сна вы просыпаетесь отдохнувшими. Вы собираете свои немногочисленные вещи и снова отправляетесь в путь."
 	},
 	{
 		"id": "RE_GenericOasis01_B_Intro",
@@ -787,7 +787,7 @@
 	},
 	{
 		"id": "RE_GenericOasis01_C_Rest",
-		"text": "You use the break to stretch your legs and tend to your cuts and bruises. Finally, you set off again reinvigorated."
+		"text": "Вы используете перерыв, чтобы размять ноги и обработать порезы и синяки. В конце-концов вы снова набираетесь сил."
 	},
 	{
 		"id": "RE_GenericOasis01_D_Intro",
@@ -855,11 +855,11 @@
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_A_Intro",
@@ -891,7 +891,7 @@
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_A_Intro",
@@ -975,7 +975,7 @@
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_NaziExcavation01_Enter",
@@ -987,7 +987,7 @@
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice01",
-		"text": "Ambush your enemies"
+		"text": "Устроить засаду на врагов"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice02",
@@ -1019,7 +1019,7 @@
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice02",
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice03",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthW",
@@ -1039,19 +1039,19 @@
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthF",
-		"text": "[char0] sneaks off and soon disappears from sight. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
+		"text": "[char0] крадётся и скоре исчезает из вида. Внезапно вы слышите крики и стрельбу! В спешке вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthF_female",
-		"text": "[char0] sneaks off and soon disappears from sight. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
+		"text": "[char0] крадётся и скоре исчезает из вида. Внезапно вы слышите крики и стрельбу! В спешке вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Mishap",
-		"text": "As you withdraw, [char1] stumbles over a pile of rocks. The soldiers jump up in alarm!"
+		"text": "Пока вы отступали, [char1] споткнулся о груду камней. Солдаты вскочили по тревоге!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Mishap_female",
-		"text": "As you withdraw, [char1] stumbles over a pile of rocks. The soldiers jump up in alarm!"
+		"text": "Пока вы отступали, [char1] споткнулась о груду камней. Солдаты вскочили по тревоге!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Intro",
@@ -1079,7 +1079,7 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice02",
@@ -1107,11 +1107,11 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilF",
-		"text": "Desperately, [char1] dives towards the enemy officer but misses badly as the commander sidesteps at the last moment. The Germans open fire!"
+		"text": "В отчаянии, [char1] бросается на вражеского офицера, но тот уворачивается в последний момент. Немцы открывают огонь!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilF_female",
-		"text": "Desperately, [char1] dives towards the enemy officer but misses badly as the commander sidesteps at the last moment. The Germans open fire!"
+		"text": "В отчаянии, [char1] бросается на вражеского офицера, но тот уворачивается в последний момент. Немцы открывают огонь!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Unseen",
@@ -1119,11 +1119,11 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Choice01",
-		"text": "Investigate the camp"
+		"text": "Исследовать лагерь"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Intro",
@@ -1131,15 +1131,15 @@
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice01",
-		"text": "Surprise attack"
+		"text": "Внезапно напасть"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice02",
-		"text": "Free the prisoner"
+		"text": "Освободить пленника"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice03",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPC",
@@ -1171,11 +1171,11 @@
 	},
 	{
 		"id": "RE_PalmCopse01_Choice01",
-		"text": "Rest up"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "RE_PalmCopse01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "RE_PalmCopse01_Rest",
@@ -1195,7 +1195,7 @@
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Search",
@@ -1227,7 +1227,7 @@
 	},
 	{
 		"id": "CR_Brandy01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "CR_Brandy01_Choice03",
@@ -1263,11 +1263,11 @@
 	},
 	{
 		"id": "CR_Parachute01_Choice01",
-		"text": "Recruit"
+		"text": "Нанять"
 	},
 	{
 		"id": "CR_Parachute01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "CR_Excavation01_Intro",
@@ -1279,11 +1279,11 @@
 	},
 	{
 		"id": "CR_Excavation01_Choice01",
-		"text": "Recruit"
+		"text": "Нанять"
 	},
 	{
 		"id": "CR_Excavation01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "CR_Expenses01_Intro",
@@ -1295,11 +1295,11 @@
 	},
 	{
 		"id": "CR_Expenses01_Choice01",
-		"text": "Recruit"
+		"text": "Нанять"
 	},
 	{
 		"id": "CR_Expenses01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_Shadow01_Intro",
@@ -1307,11 +1307,11 @@
 	},
 	{
 		"id": "GE_Shadow01_Choice01",
-		"text": "Recruit"
+		"text": "Нанять"
 	},
 	{
 		"id": "GE_Shadow01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Intro",
@@ -1323,7 +1323,7 @@
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Trade",
@@ -1335,11 +1335,11 @@
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice01",
-		"text": "Investigate the camp"
+		"text": "Исследовать лагерь"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice03",
@@ -1383,11 +1383,11 @@
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Choice01",
-		"text": "Trade"
+		"text": "Торговать"
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_DesertedShrine01_Intro",
@@ -1407,11 +1407,11 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesF",
-		"text": "Disappointed, [char0] turns away from the inscriptions: \n\n[char0]: \"I’ve never seen writing like this!\""
+		"text": "Расстроенный, [char0] отворачивается от надписи: \n\n[char0]: \"Я никогда не встречал такие письмена!\""
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesF_female",
-		"text": "Disappointed, [char0] turns away from the inscriptions: \n\n[char0]: \"I’ve never seen writing like this!\""
+		"text": "Расстроенная, [char0] отворачивается от надписи: \n\n[char0]: \"Я никогда не встречала такие письмена!\""
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesW",
@@ -1419,11 +1419,11 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice01",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice02",
-		"text": "Seek the holy place"
+		"text": "Искать священное место"
 	},
 	{
 		"id": "LE_DesertedShrine01_Cave",
@@ -1451,11 +1451,11 @@
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice01",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice02",
-		"text": "Seek the holy place"
+		"text": "Искать священное место"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_SearchFail",
@@ -1475,11 +1475,11 @@
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW",
-		"text": "[char0] convinces the men to play a harmless game of dice and enjoys a completely unexpected lucky streak."
+		"text": "[char0] убеждает мужчин сыграть в безобидную игру в кости и наслаждается совершенно неожиданной полосой удач."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW_female",
-		"text": "[char0] convinces the men to play a harmless game of dice and enjoys a completely unexpected lucky streak."
+		"text": "[char0] убеждает мужчин сыграть в безобидную игру в кости и наслаждается совершенно неожиданной полосой удач."
 	},
 	{
 		"id": "FE_UnknownPlane01_Intro",
@@ -1539,7 +1539,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue01_Choice03",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Daredevil",
@@ -1555,11 +1555,11 @@
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF",
-		"text": "You hear a few muffled blows, then [char0] comes flying over the sandbag wall. Shouts of alarm fill the camp! A battle is inevitable!"
+		"text": "Вы слышите несколько приглушенных ударов, затем [char0] перелетает через стену мешков с песком. Лагерь заполняют крики тревоги! Битвы не избежать!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF_female",
-		"text": "You hear a few muffled blows, then [char0] comes flying over the sandbag wall. Shouts of alarm fill the camp! A battle is inevitable!"
+		"text": "Вы слышите несколько приглушенных ударов, затем [char0] перелетает через стену мешков с песком. Лагерь заполняют крики тревоги! Битвы не избежать!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_SecretDossierContent",
@@ -1587,7 +1587,7 @@
 	},
 	{
 		"id": "LE_CursedAltar01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_CursedAltar01_LanguagesW",
@@ -1643,7 +1643,7 @@
 	},
 	{
 		"id": "LE_CursedAltar01_Undecided",
-		"text": "You can’t decide – what do you want to do?"
+		"text": "Вы не можете определиться: что вам хочется сделать?"
 	},
 	{
 		"id": "LE_DerelictCar01_Intro",
@@ -1659,11 +1659,11 @@
 	},
 	{
 		"id": "LE_DerelictCar01_Choice01",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_DerelictCar01_Choice02",
-		"text": "Search the area"
+		"text": "Обыскать место"
 	},
 	{
 		"id": "LE_DerelictCar01_DetectionW",
@@ -1711,7 +1711,7 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Enter",
@@ -1815,7 +1815,7 @@
 	},
 	{
 		"id": "LE_VillageVault01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_VillageVault01_Fail01",
@@ -1883,7 +1883,7 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Enter",
@@ -1891,7 +1891,7 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice03",
-		"text": "Leave the mine"
+		"text": "Покинуть шахту"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice04",
@@ -1931,11 +1931,11 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalF",
-		"text": "After a few unsuccessful attempts, [char2] finally gives up. You continue your journey."
+		"text": "После нескольких неудачных попыток [char2] решил в конце концов сдаться. Вы продолжаете свое путешествие."
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalF_female",
-		"text": "After a few unsuccessful attempts, [char2] finally gives up. You continue your journey."
+		"text": "После нескольких неудачных попыток [char2] решила в конце концов сдаться. Вы продолжаете свое путешествие."
 	},
 	{
 		"id": "AE_PoisonWell01_Intro",
@@ -1943,7 +1943,7 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Choice01",
-		"text": "Inspect the water"
+		"text": "Осмотреть воду"
 	},
 	{
 		"id": "AE_PoisonWell01_Choice02",
@@ -1955,7 +1955,7 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalW",
@@ -1967,11 +1967,11 @@
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalF",
-		"text": "[char0] doesn’t notice anything strange about the well water."
+		"text": "[char0] не заметил ничего странного в воде из колодца."
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalF_female",
-		"text": "[char0] doesn’t notice anything strange about the well water."
+		"text": "[char0] не заметила ничего странного в воде из колодца."
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalW",
@@ -1983,11 +1983,11 @@
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalF",
-		"text": "[char1] does not notice anything suspicious on the ground around the fountain."
+		"text": "[char1] не заметил ничего странного на земле вокруг фонтана."
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalF_female",
-		"text": "[char1] does not notice anything suspicious on the ground around the fountain."
+		"text": "[char1] не заметила ничего странного на земле вокруг фонтана."
 	},
 	{
 		"id": "AE_PoisonWell01_Lucky",
@@ -2003,7 +2003,7 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Undecided",
-		"text": "You can’t decide – what do you want to do?"
+		"text": "Вы не можете определиться: что вам хочется сделать?"
 	},
 	{
 		"id": "AE_CarFailure01_Intro",
@@ -2019,19 +2019,19 @@
 	},
 	{
 		"id": "AE_CarFailure01_Technical",
-		"text": "[char0] tears open the bonnet to let the engine cool down and peers at it, brow furrowed."
+		"text": "[char0] открыл капот, чтобы дать двигателю остыть, и осматривает его нахмурив брови."
 	},
 	{
 		"id": "AE_CarFailure01_Technical_female",
-		"text": "[char0] tears open the bonnet to let the engine cool down and peers at it, brow furrowed."
+		"text": "[char0] открыла капот, чтобы дать двигателю остыть, и осматривает его нахмурив брови."
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalW",
-		"text": "[char0]: \"I think I know what the problem is....\"\n\nA few minutes later, you are driving along at top speed again."
+		"text": "[char0]: \"Кажется, я понял, в чём проблема....\"\n\nСпустя несколько минут вы уже снова едете на полной скорости."
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalW_female",
-		"text": "[char0]: \"I think I know what the problem is....\"\n\nA few minutes later, you are driving along at top speed again."
+		"text": "[char0]: \"Кажется, я поняла, в чём проблема....\"\n\nСпустя несколько минут вы уже снова едете на полной скорости."
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalF",
@@ -2127,7 +2127,7 @@
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Stash",
@@ -2187,11 +2187,11 @@
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_A_Intro",
@@ -2243,11 +2243,11 @@
 	},
 	{
 		"id": "ME_GenericVillage01_Choice01",
-		"text": "Trade"
+		"text": "Торговать"
 	},
 	{
 		"id": "ME_GenericVillage01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "ME_GenericVillage01_A_Intro",
@@ -2271,11 +2271,11 @@
 	},
 	{
 		"id": "RE_GenericRuins01_Choice01",
-		"text": "Rest up"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "RE_GenericRuins01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "RE_GenericRuins01_A_Intro",
@@ -2283,7 +2283,7 @@
 	},
 	{
 		"id": "RE_GenericRuins01_A_Rest",
-		"text": "You pitch an improvised camp. After a short nap, you wake up reinvigorated. You gather up your few belongings and set off again."
+		"text": "Вы разбиваете импровизированный лагерь. После короткого сна вы просыпаетесь отдохнувшими. Вы собираете свои немногочисленные вещи и снова отправляетесь в путь."
 	},
 	{
 		"id": "RE_GenericRuins01_B_Intro",
@@ -2299,7 +2299,7 @@
 	},
 	{
 		"id": "RE_GenericRuins01_C_Rest",
-		"text": "You use the break to stretch your legs and tend to your cuts and bruises. Finally, you set off again reinvigorated."
+		"text": "Вы используете перерыв, чтобы размять ноги и обработать порезы и синяки. В конце-концов вы снова набираетесь сил."
 	},
 	{
 		"id": "RE_GenericRuins01_D_Intro",
@@ -2363,11 +2363,11 @@
 	},
 	{
 		"id": "SE_Adventure01Clue02_Choice01",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "SE_Adventure01Clue02_Choice02",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "SE_Adventure01Clue02_Choice03",
@@ -2423,7 +2423,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice03",
@@ -2431,11 +2431,11 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice04",
-		"text": "Search enemy fuel dump"
+		"text": "Обыскать вражеский склад топлива"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_StealthW",
@@ -2479,7 +2479,7 @@
 	},
 	{
 		"id": "BE_UnholyVault01_Choice01",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_UnholyVault01_Choice02",
@@ -2551,11 +2551,11 @@
 	},
 	{
 		"id": "CR_AngryMob01_Revisit",
-		"text": "You return to the village where [Char1] is being held. The angry mob is still in front of the village chief's house:\n\n[char4]: \"Have you changed your mind?\" [CTP]\n\n[Char1] beckons to you:\n\n[char1]: \"I knew you wouldn’t let me down!\""
+		"text": "Вы возвращаетесь в деревню, где остался [Char1]. Разъярённая толпа всё ещё стоит перед домом главы деревни:\n\n[char4]: \"Вы ещё не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знал, что вы меня не бросите!\""
 	},
 	{
 		"id": "CR_AngryMob01_Revisit_female",
-		"text": "You return to the village where [Char1] is being held. The angry mob is still in front of the village chief's house:\n\n[char4]: \"Have you changed your mind?\" [CTP]\n\n[Char1] beckons to you:\n\n[char1]: \"I knew you wouldn’t let me down!\""
+		"text": "Вы возвращаетесь в деревню, где осталась [Char1]. Разъярённая толпа всё ещё стоит перед домом главы деревни:\n\n[char4]: \"Вы ещё не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знала, что вы меня не бросите!\""
 	},
 	{
 		"id": "SE_Adventure01Clue03_Intro",
@@ -2603,7 +2603,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue03_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure01Clue03_AgentMonologue",
@@ -2611,11 +2611,11 @@
 	},
 	{
 		"id": "CR_Brandy01_Revisit",
-		"text": "You return to the village where [char0] is being held:\n\n[char0]: \"You took your time!\" \n\n\n[char2]: \"I hope you have enough cash this time.\""
+		"text": "Вы возвращаетесь в деревню, где остался [char0]:\n\n[char0]: \"Вы не торопились!\" \n\n\n[char2]: \"Надеюсь на этот раз у вас достаточно денег.\""
 	},
 	{
 		"id": "CR_Brandy01_Revisit_female",
-		"text": "You return to the village where [char0] is being held:\n\n[char0]: \"You took your time!\" \n\n\n[char2]: \"I hope you have enough cash this time.\""
+		"text": "Вы возвращаетесь в деревню, где осталась [char0]:\n\n[char0]: \"Вы не торопились!\" \n\n\n[char2]: \"Надеюсь на этот раз у вас достаточно денег.\""
 	},
 	{
 		"id": "CR_Excavation01_Revisit",
@@ -2755,7 +2755,7 @@
 	},
 	{
 		"id": "LE_BooyTrap01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_BooyTrap01_DetectW",
@@ -2799,7 +2799,7 @@
 	},
 	{
 		"id": "BE_SupplyTransport01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_SupplyTransport01_ChaseW",
@@ -2895,7 +2895,7 @@
 	},
 	{
 		"id": "LE_CobraCache01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_CobraCache01_ExpelCobrasW",
@@ -2951,7 +2951,7 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrap",
@@ -2979,11 +2979,11 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Stealth",
-		"text": "With catlike grace, [char2] glides over the flagstones on tiptoe."
+		"text": "С кошачьей грацией [char2] на цыпочках скользит по плитам."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Stealth_female",
-		"text": "With catlike grace, [char2] glides over the flagstones on tiptoe."
+		"text": "С кошачьей грацией [char2] на цыпочках скользит по плитам."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_StealthW",
@@ -3039,7 +3039,7 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchW",
@@ -3079,7 +3079,7 @@
 	},
 	{
 		"id": "LE_GuardedCanisters01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_GuardedCanisters01_Talk",
@@ -3139,7 +3139,7 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice02",
-		"text": "Drive around village"
+		"text": "Объехать деревню"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_A_Intro",
@@ -3227,15 +3227,15 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice03",
-		"text": "Seek the holy place"
+		"text": "Искать священное место"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_BeduinThank",
@@ -3283,11 +3283,11 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Choice03",
@@ -3367,7 +3367,7 @@
 	},
 	{
 		"id": "GE_StargateFragment01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_StargateFragment01_InvestigateF",
@@ -3427,7 +3427,7 @@
 	},
 	{
 		"id": "BE_CreepyHut01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_CreepyHut01_Loot",
@@ -3443,7 +3443,7 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_AlienMonolith01_Collaps",
@@ -3475,7 +3475,7 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice05",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice06",
@@ -3499,7 +3499,7 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice07",
-		"text": "Search the area"
+		"text": "Обыскать место"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Intro",
@@ -3595,7 +3595,7 @@
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice05",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_ExamineTree",
@@ -3603,11 +3603,11 @@
 	},
 	{
 		"id": "GE_ForbiddenFruit01_WildernessW",
-		"text": "[char0] frowns: \"That's strange. I’ve never seen a tree like this. I wonder if the fruit is edible.\""
+		"text": "[char0] хмурится: \"Странно. Я никогда не видел таких деревьев. Интересно, можно ли есть эти фрукты.\""
 	},
 	{
 		"id": "GE_ForbiddenFruit01_WildernessW_female",
-		"text": "[char0] frowns: \"That's strange. I’ve never seen a tree like this. I wonder if the fruit is edible.\""
+		"text": "[char0] хмурится: \"Странно. Я никогда не видела таких деревьев. Интересно, можно ли есть эти фрукты.\""
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Cautious",
@@ -3651,7 +3651,7 @@
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_ElectricObelisk01_ExamineSoldier",
@@ -3711,7 +3711,7 @@
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice04",
-		"text": "Continue journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice05",
@@ -3775,11 +3775,11 @@
 	},
 	{
 		"id": "LE_GhostTown01_Choice02",
-		"text": "Assess the situation"
+		"text": "Оценить ситуацию"
 	},
 	{
 		"id": "LE_GhostTown01_Choice03",
-		"text": "Leave this place"
+		"text": "Покинуть это место"
 	},
 	{
 		"id": "LE_GhostTown01_Observe",
@@ -3823,7 +3823,7 @@
 	},
 	{
 		"id": "LE_TempleGusher01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_TempleGusher01_Wading",
@@ -3927,7 +3927,7 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice03",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Fight",
@@ -3947,7 +3947,7 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice05",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Crypt",
@@ -3999,7 +3999,7 @@
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice02",
-		"text": "Inspect the bodies"
+		"text": "Осмотреть тела"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice03",
@@ -4039,7 +4039,7 @@
 	},
 	{
 		"id": "AE_CollapsingSewer01_CHoice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "AE_CollapsingSewer01_TechnicalW",
@@ -4067,11 +4067,11 @@
 	},
 	{
 		"id": "AE_CollapsingSewer01_TechnicalF",
-		"text": "[char0] shrugs:\n\n[char0]: \"The retaining walls don’t look too bad... for their age.\"\n\nYou’re not so sure. What do you want to do?"
+		"text": "[char0] пожимает плечами:\n\n[char0]: \"Несущие стены выглядят вполне неплохо... для своего возраста.\"\n\nВы не уверены. Что вы намерены делать дальше?"
 	},
 	{
 		"id": "AE_CollapsingSewer01_TechnicalF_female",
-		"text": "[char0] shrugs:\n\n[char0]: \"The retaining walls don’t look too bad... for their age.\"\n\nYou’re not so sure. What do you want to do?"
+		"text": "[char0] пожимает плечами:\n\n[char0]: \"Несущие стены выглядят вполне неплохо... для своего возраста.\"\n\nВы не уверены. Что вы намерены делать дальше?"
 	},
 	{
 		"id": "LE_SewerAltar01_Intro",
@@ -4083,7 +4083,7 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_SewerAltar01_DeadEnd",
@@ -4143,43 +4143,43 @@
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage02_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage03_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage04_Choice01",
-		"text": "Ambush!"
+		"text": "Засада!"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage05_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage06_Choice01",
-		"text": "Ambush!"
+		"text": "Засада!"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage02_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage03_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage04_Choice02",
-		"text": "Return to the jeep"
+		"text": "Вернуться к джипу"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage05_Choice02",
@@ -4187,7 +4187,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage06_Choice02",
-		"text": "Return to the car"
+		"text": "Вернуться к машине"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonDisadvantage01",
@@ -4227,27 +4227,27 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage01_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage02_Choice01",
-		"text": "Attack cultists"
+		"text": "Атаковать культистов"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage03_Choice01",
-		"text": "Attack the cultists"
+		"text": "Атаковать культистов"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage04_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage05_Choice01",
-		"text": "Attack immediately"
+		"text": "Атаковать немедленно"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage06_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage01_Choice02",
@@ -4263,11 +4263,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage04_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage05_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage06_Choice02",
@@ -4311,51 +4311,51 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage02_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage03_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage04_Choice01",
-		"text": "Attack!"
+		"text": "Атаковать!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage05_Choice01",
-		"text": "Surprise attack!"
+		"text": "Внезапно напасть!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage06_Choice01",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage02_Choice02",
-		"text": "Return to the surface"
+		"text": "Вернуться на поверхность"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage03_Choice02",
-		"text": "Return to the surface"
+		"text": "Вернуться на поверхность"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage04_Choice02",
-		"text": "Return to the car"
+		"text": "Вернуться к машине"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage05_Choice02",
-		"text": "Return to the car"
+		"text": "Вернуться к машине"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage06_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage02",
@@ -4395,51 +4395,51 @@
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage02_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage03_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage04_Choice01",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage05_Choice01",
-		"text": "Attack immediately"
+		"text": "Атаковать немедленно"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage06_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage01_Choice02",
-		"text": "Leave this place"
+		"text": "Покинуть это место"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage02_Choice02",
-		"text": "Get out of here!"
+		"text": "Уйти отсюда!"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage03_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage04_Choice02",
-		"text": "Return to the jeep"
+		"text": "Вернуться к джипу"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage05_Choice02",
-		"text": "Return to the car"
+		"text": "Вернуться к машине"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage06_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardDisadvantage01",
@@ -4479,31 +4479,31 @@
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage02_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage03_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage04_Choice01",
-		"text": "Ambush cultists"
+		"text": "Устроить засаду на культистов"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage05_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage06_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage02_Choice02",
@@ -4511,19 +4511,19 @@
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage03_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage04_Choice02",
-		"text": "Return to the jeep"
+		"text": "Вернуться к джипу"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage05_Choice02",
-		"text": "Return to the jeep"
+		"text": "Вернуться к джипу"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage06_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadCampDisadvantage01",
@@ -4563,23 +4563,23 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Choice01",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage04_Choice01",
-		"text": "Attack!"
+		"text": "Атаковать!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage05_Choice01",
-		"text": "Ready your weapons"
+		"text": "Готовьте оружие"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice01",
@@ -4587,11 +4587,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice02",
-		"text": "Get out of here!"
+		"text": "Уйти отсюда!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Choice02",
@@ -4599,15 +4599,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage04_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage05_Choice02",
-		"text": "Return to the jeep"
+		"text": "Вернуться к джипу"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage02",
@@ -4627,11 +4627,11 @@
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice02",
-		"text": "Free the prisoner"
+		"text": "Освободить пленника"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice03",
@@ -4639,11 +4639,11 @@
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice04",
-		"text": "Distract cultists"
+		"text": "Отвлечь культистов"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice05",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Busted",
@@ -4695,11 +4695,11 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice02",
-		"text": "Steal chest"
+		"text": "Украсть сундук"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice03",
@@ -4711,7 +4711,7 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice05",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_BridgeInvocation01_RobW",
@@ -4787,7 +4787,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice01",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice02",
@@ -4799,7 +4799,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice04",
-		"text": "Sneak away"
+		"text": "Тихо уйти"
 	},
 	{
 		"id": "BE_ClayIdolMine01_WaitNoFight",
@@ -4811,7 +4811,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice06",
-		"text": "Leave the mine"
+		"text": "Покинуть шахту"
 	},
 	{
 		"id": "BE_ClayIdolMine01_WaitAFight",
@@ -4819,11 +4819,11 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Occult",
-		"text": "To your horror, [char0] suddenly jumps up: \n\n[char0]: \"The idol is the key!\""
+		"text": "К вашему ужасу, [char0] внезапно вскочил: \n\n[char0]: \"Идол - это ключ!\""
 	},
 	{
 		"id": "BE_ClayIdolMine01_Occult_female",
-		"text": "To your horror, [char0] suddenly jumps up: \n\n[char0]: \"The idol is the key!\""
+		"text": "К вашему ужасу, [char0] внезапно вскочила: \n\n[char0]: \"Идол - это ключ!\""
 	},
 	{
 		"id": "BE_ClayIdolMine01_OccultW",
@@ -4847,11 +4847,11 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice01",
-		"text": "Surprise attack"
+		"text": "Внезапно напасть"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice02",
-		"text": "Distract cultists"
+		"text": "Отвлечь культистов"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice03",
@@ -4907,7 +4907,7 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice02",
@@ -4919,7 +4919,7 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_PilferW",
@@ -4963,7 +4963,7 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice06",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Cave",
@@ -4975,7 +4975,7 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice08",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Lucky",
@@ -5055,7 +5055,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice06",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_LostIdol01_HighPriestess",
@@ -5095,7 +5095,7 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_MonsterAssault01_EnterBunker",
@@ -5103,7 +5103,7 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice03",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice04",
@@ -5139,191 +5139,191 @@
 	},
 	{
 		"id": "GE_HealingWell01_Title",
-		"text": "Some rocks"
+		"text": "Несколько камней"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentAdvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentAdvantage02_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentAdvantage03_Title",
-		"text": "An abandoned temple"
+		"text": "Заброшенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneAdvantage01_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneAdvantage02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneAdvantage03_Title",
-		"text": "A temple"
+		"text": "Храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseAdvantage01_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseAdvantage02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseAdvantage03_Title",
-		"text": "An ancient ruin"
+		"text": "Древние руины"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentDisadvantage01_Title",
-		"text": "A temple"
+		"text": "Храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentDisadvantage02_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentDisadvantage03_Title",
-		"text": "A temple"
+		"text": "Храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneDisadvantage01_Title",
-		"text": "An abandoned temple"
+		"text": "Заброшенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneDisadvantage02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneDisadvantage03_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseDisadvantage01_Title",
-		"text": "A temple"
+		"text": "Храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseDisadvantage02_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseDisadvantage03_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentNeutral01_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentNeutral02_Title",
-		"text": "A temple"
+		"text": "Храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonOrnamentNeutral03_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneNeutral01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneNeutral02_Title",
-		"text": "An abandoned temple"
+		"text": "Заброшенный храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonStoneNeutral03_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseNeutral01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseNeutral02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziDungeonVaseNeutral03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentAdvantage01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentAdvantage02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentAdvantage03_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentDisadvantage01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentDisadvantage02_Title",
-		"text": "An abandoned camp"
+		"text": "Покинутый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentDisadvantage03_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentNeutral01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentNeutral02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericNaziRuinsOrnamentNeutral03_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneAdvantage01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneAdvantage02_Title",
-		"text": "Some ruins"
+		"text": "Несколько руин"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneAdvantage03_Title",
-		"text": "Some huts"
+		"text": "Несколько хижин"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneDisadvantage01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneDisadvantage02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneDisadvantage03_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneNeutral01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneNeutral02_Title",
-		"text": "Some ruins"
+		"text": "Несколько руин"
 	},
 	{
 		"id": "BE_GenericNaziRuinsStoneNeutral03_Title",
-		"text": "Some old huts"
+		"text": "Несколько старых хижин"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Title",
-		"text": "A military camp"
+		"text": "Военный лагерь"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Title",
@@ -5331,15 +5331,15 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_Title",
-		"text": "An abandoned temple"
+		"text": "Заброшенный храм"
 	},
 	{
 		"id": "FE_WhiteCamels01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_AngryCobra01_Title",
-		"text": "A palm grove"
+		"text": "Пальмовая роща"
 	},
 	{
 		"id": "SE_Adventure01Intro_Title",
@@ -5347,31 +5347,31 @@
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_rezzed_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_GenericDesertRuins01_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "FE_GenericDesertRuins02_Title",
-		"text": "An ancient desert village"
+		"text": "Древняя пустынная деревня"
 	},
 	{
 		"id": "FE_GenericDesertRuins03_Title",
-		"text": "A wasteland"
+		"text": "Пустошь"
 	},
 	{
 		"id": "FE_GenericDesertRuins04_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "FE_GenericDesertRuins05_Title",
-		"text": "Some huts"
+		"text": "Несколько хижин"
 	},
 	{
 		"id": "FE_GenericOldCemetery01_Title",
@@ -5379,7 +5379,7 @@
 	},
 	{
 		"id": "FE_GenericOldCemetery02_Title",
-		"text": "An ancient burial ground"
+		"text": "Древнее захоронение"
 	},
 	{
 		"id": "FE_GenericOldCemetery03_Title",
@@ -5395,175 +5395,175 @@
 	},
 	{
 		"id": "FE_GenericBrushwood01_Title",
-		"text": "Some brushwood"
+		"text": "Немного хвороста"
 	},
 	{
 		"id": "FE_GenericBrushwood02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_GenericBrushwood03_Title",
-		"text": "A few scraggy shrubs"
+		"text": "Несколько тощих кустов"
 	},
 	{
 		"id": "FE_GenericBrushwood04_Title",
-		"text": "Some scraggy brushwood"
+		"text": "Немного тонкого хвороста"
 	},
 	{
 		"id": "FE_GenericBrushwood05_Title",
-		"text": "A couple of parched trees"
+		"text": "Пара засохших деревьев"
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_Title",
-		"text": "Some lonely goats"
+		"text": "Группа одиноких коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoats02_Title",
-		"text": "A herd of goats"
+		"text": "Стадо козлов"
 	},
 	{
 		"id": "FE_GenericLonelyGoats03_Title",
-		"text": "A few thirsty goats"
+		"text": "Несколько жаждущих коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoats04_Title",
-		"text": "A herd of goats"
+		"text": "Стадо козлов"
 	},
 	{
 		"id": "FE_GenericLonelyGoats05_Title",
-		"text": "A few scrawny goats"
+		"text": "Несколько тощих козлов"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage01_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage02_Title",
-		"text": "A military camp"
+		"text": "Военный лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage03_Title",
-		"text": "Some sandbags"
+		"text": "Несколько мешков с песком"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage05_Title",
-		"text": "A German Army camp"
+		"text": "Лагерь немецкой армии"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage06_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage01_Title",
-		"text": "An abandoned camp"
+		"text": "Покинутый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage02_Title",
-		"text": "Some sandbags"
+		"text": "Несколько мешков с песком"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage05_Title",
-		"text": "A desert camp"
+		"text": "Лагерь в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziCampDisadvantage06_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral01_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral02_Title",
-		"text": "A military camp"
+		"text": "Военный лагерь"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral03_Title",
-		"text": "Some sandbags"
+		"text": "Несколько мешков с песком"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral05_Title",
-		"text": "A German Army camp"
+		"text": "Лагерь немецкой армии"
 	},
 	{
 		"id": "BE_GenericNaziCampNeutral06_Title",
-		"text": "A desert camp"
+		"text": "Лагерь в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedAdvantage01_Title",
-		"text": "An old water cistern"
+		"text": "Старая цистерна с водой"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedAdvantage02_Title",
-		"text": "An old well"
+		"text": "Старый колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedAdvantage03_Title",
-		"text": "An empty well"
+		"text": "Пустой колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedDisadvantage01_Title",
-		"text": "An empty cistern"
+		"text": "Пустая цистерна"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedDisadvantage02_Title",
-		"text": "An old system of cisterns"
+		"text": "Старая система цистерн"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedDisadvantage03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedNeutral01_Title",
-		"text": "An old cistern"
+		"text": "Старая цистерна"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedNeutral02_Title",
-		"text": "An old well"
+		"text": "Старый колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerRedNeutral03_Title",
-		"text": "An empty well"
+		"text": "Пустой колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenAdvantage01_Title",
-		"text": "An empty cistern"
+		"text": "Пустая цистерна"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenAdvantage02_Title",
-		"text": "An old system of cisterns"
+		"text": "Старая система цистерн"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenAdvantage03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenDisadvantage01_Title",
-		"text": "An old water cistern"
+		"text": "Старая цистерна с водой"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenDisadvantage02_Title",
-		"text": "An old well"
+		"text": "Старый колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenDisadvantage03_Title",
-		"text": "An empty well"
+		"text": "Пустой колодец"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenNeutral01_Title",
@@ -5571,127 +5571,127 @@
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenNeutral02_Title",
-		"text": "An old water supply system"
+		"text": "Старый водопровод"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenNeutral03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_NaziExcavation01_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "BE_NaziDesertNeutral01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Title",
-		"text": "A German Army camp"
+		"text": "Лагерь немецкой армии"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Title",
-		"text": "An abandoned camp"
+		"text": "Покинутый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_anabelle_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_drChandra_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_jackson_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_miguel_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_caballero_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_shaneeka_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_bellamy_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_professor_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_brunhilda_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_georgette_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_natalya_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_pereira_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_rose_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_baron_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_fantome_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_leFantome_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_leonora_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_omar_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_veduti_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "GE_RecruitShadow01_shadow_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "CR_RecruitShadow01_leFantome_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "GE_BuriedTraveller01_Title",
-		"text": "A deserted oasis"
+		"text": "Заброшенный оазис"
 	},
 	{
 		"id": "LE_DesertedShrine01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Title",
@@ -5699,23 +5699,23 @@
 	},
 	{
 		"id": "FE_UnknownPlane01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Title",
-		"text": "A lone hut"
+		"text": "Одинокая хижина"
 	},
 	{
 		"id": "FE_ShotsFromNowhere01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "SE_Adventure01Clue01_rezzed_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "LE_CursedAltar01_Title",
@@ -5723,11 +5723,11 @@
 	},
 	{
 		"id": "LE_DerelictCar01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GraveRobberCache01_Title",
@@ -5735,75 +5735,75 @@
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_FleeingNaziScouts01_Title",
-		"text": "An ancient ruin"
+		"text": "Древние руины"
 	},
 	{
 		"id": "LE_VillageVault01_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "AE_TankLeak01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_Quicksand01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Title",
-		"text": "Some rocks"
+		"text": "Несколько камней"
 	},
 	{
 		"id": "AE_PoisonWell01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "AE_CarFailure01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_CarFailure02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_CarFailure03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_CarFailure01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_CarFailure02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TimeLost01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TimeLost02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TimeLost03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TimeLost04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TimeLost05_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "GE_OrientalTinkerer01_Title",
@@ -5811,191 +5811,191 @@
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneAdvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneAdvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneAdvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneDisadvantage01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneDisadvantage02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneDisadvantage03_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneNeutral01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneNeutral02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneNeutral03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentAdvantage01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentAdvantage02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentAdvantage03_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentDisadvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentDisadvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentDisadvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentNeutral01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentNeutral02_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "BE_GenericNaziTempleOrnamentNeutral03_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericOrientalCamp02_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericOrientalCamp03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GenericOrientalCamp04_Title",
-		"text": "An old campsite"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericOrientalCamp05_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericNaziCamp01_Title",
-		"text": "An abandoned camp"
+		"text": "Покинутый лагерь"
 	},
 	{
 		"id": "LE_GenericNaziCamp02_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericNaziCamp03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GenericNaziCamp04_Title",
-		"text": "An old campsite"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "LE_GenericNaziCamp05_Title",
-		"text": "An old camp"
+		"text": "Старый лагерь"
 	},
 	{
 		"id": "SE_Adventure01Clue02_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_UnholyVault01_Title",
-		"text": "An abandoned temple"
+		"text": "Заброшенный храм"
 	},
 	{
 		"id": "CR_AngryMob01_baron_Title",
-		"text": "A village in the desert"
+		"text": "Деревня в пустыне"
 	},
 	{
 		"id": "CR_AngryMob01_omar_Title",
-		"text": "A village in the desert"
+		"text": "Деревня в пустыне"
 	},
 	{
 		"id": "SE_Adventure01Clue03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "CR_Brandy01_caballero_Title",
-		"text": "A desert settlement"
+		"text": "Пустынное поселение"
 	},
 	{
 		"id": "CR_Brandy01_pereira_Title",
-		"text": "A desert settlement"
+		"text": "Пустынное поселение"
 	},
 	{
 		"id": "CR_Excavation01_drChandra_Title",
-		"text": "An excavation"
+		"text": "Раскопки"
 	},
 	{
 		"id": "CR_Excavation01_leonora_Title",
-		"text": "An excavation"
+		"text": "Раскопки"
 	},
 	{
 		"id": "CR_Excavation01_natalya_Title",
-		"text": "An excavation"
+		"text": "Раскопки"
 	},
 	{
 		"id": "CR_Excavation01_veduti_Title",
-		"text": "An excavation"
+		"text": "Раскопки"
 	},
 	{
 		"id": "CR_Expenses01_brunhilda_Title",
-		"text": "A desert village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "CR_Expenses01_jackson_Title",
-		"text": "A village in the desert"
+		"text": "Деревня в пустыне"
 	},
 	{
 		"id": "CR_Expenses01_rose_Title",
-		"text": "A settlement"
+		"text": "Поселок"
 	},
 	{
 		"id": "CR_Expenses01_shaneeka_Title",
-		"text": "A desert village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "CR_Parachute01_anabelle_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "CR_Parachute01_georgette_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "CR_Parachute01_professor_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "ME_GenericVillage01_Title",
@@ -6003,23 +6003,23 @@
 	},
 	{
 		"id": "ME_GenericVillage02_Title",
-		"text": "Some huts"
+		"text": "Несколько хижин"
 	},
 	{
 		"id": "ME_GenericVillage03_Title",
-		"text": "A desert village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "ME_GenericVillage04_Title",
-		"text": "A village in the desert"
+		"text": "Деревня в пустыне"
 	},
 	{
 		"id": "ME_GenericVillage05_Title",
-		"text": "A settlement"
+		"text": "Поселок"
 	},
 	{
 		"id": "ME_GenericOriental01_Title",
-		"text": "A palm grove"
+		"text": "Пальмовая роща"
 	},
 	{
 		"id": "ME_GenericOriental02_Title",
@@ -6027,91 +6027,91 @@
 	},
 	{
 		"id": "ME_GenericOriental03_Title",
-		"text": "A small oasis"
+		"text": "Небольшой оазис"
 	},
 	{
 		"id": "ME_GenericOriental04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "ME_GenericOriental05_Title",
-		"text": "A desert oasis"
+		"text": "Пустынный оазис"
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "ME_OrientalTrader01_Title",
-		"text": "A desert oasis"
+		"text": "Пустынный оазис"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Title",
-		"text": "A settlement"
+		"text": "Поселок"
 	},
 	{
 		"id": "RE_DateTreeGrove01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "RE_PalmCopse01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "RE_GenericOasis01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "RE_GenericOasis02_Title",
-		"text": "An oasis"
+		"text": "Оазис"
 	},
 	{
 		"id": "RE_GenericOasis03_Title",
-		"text": "A small well"
+		"text": "Небольшой колодец"
 	},
 	{
 		"id": "RE_GenericOasis04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "RE_GenericOasis05_Title",
-		"text": "A small oasis"
+		"text": "Небольшой оазис"
 	},
 	{
 		"id": "RE_GenericRuins01_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "RE_GenericRuins02_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "RE_GenericRuins03_Title",
-		"text": "Some old huts"
+		"text": "Несколько старых хижин"
 	},
 	{
 		"id": "RE_GenericRuins04_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "RE_GenericRuins05_Title",
-		"text": "Village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "LE_BoobyTrap01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_SupplyTransport01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Title",
-		"text": "An old caravansary"
+		"text": "Старый караван-сарай"
 	},
 	{
 		"id": "LE_CobraCache01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Title",
@@ -6119,11 +6119,11 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Title",
-		"text": "An old waterhole"
+		"text": "Старый водопой"
 	},
 	{
 		"id": "LE_GuardedCanisters01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Title",
@@ -6131,7 +6131,7 @@
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_Title",
-		"text": "A temple chamber"
+		"text": "Храмовая палата"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched02_Title",
@@ -6139,55 +6139,55 @@
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched03_Title",
-		"text": "An ancient burial chamber"
+		"text": "Древняя погребальная камера"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched04_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched05_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GenericTempleAltar01_Title",
-		"text": "A temple chamber"
+		"text": "Храмовая палата"
 	},
 	{
 		"id": "LE_GenericTempleAltar02_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "LE_GenericTempleAltar03_Title",
-		"text": "An ancient burial chamber"
+		"text": "Древняя погребальная камера"
 	},
 	{
 		"id": "LE_GenericTempleAltar04_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "LE_GenericTempleAltar05_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_Title",
-		"text": "A temple chamber"
+		"text": "Храмовая палата"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed02_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed03_Title",
-		"text": "An ancient burial chamber"
+		"text": "Древняя погребальная камера"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed04_Title",
-		"text": "A desert temple"
+		"text": "Храм посреди пустыни"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed05_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_Title",
@@ -6211,23 +6211,23 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Title",
-		"text": "An excavation site"
+		"text": "Место раскопок"
 	},
 	{
 		"id": "GE_StargateFragment01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_CreepyHut01_Title",
-		"text": "A lone hut"
+		"text": "Одинокая хижина"
 	},
 	{
 		"id": "BE_AlienMonolith01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Title",
@@ -6235,15 +6235,15 @@
 	},
 	{
 		"id": "LE_BurningJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Title",
@@ -6251,11 +6251,11 @@
 	},
 	{
 		"id": "LE_GhostTown01_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "LE_TempleGusher01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "LE_MountainChase01_Title",
@@ -6263,123 +6263,123 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Title",
-		"text": "An old cistern"
+		"text": "Старая цистерна"
 	},
 	{
 		"id": "AE_CollapsingSewer01_Title",
-		"text": "An old cistern"
+		"text": "Старая цистерна"
 	},
 	{
 		"id": "LE_SewerAltar01_Title",
-		"text": "An old water cistern"
+		"text": "Старая цистерна с водой"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonNeutral01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonNeutral02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonNeutral03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonAdvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonDisadvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonDisadvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonDisadvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral03_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage03_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage01_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage02_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage03_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral01_Title",
-		"text": "An old mineshaft"
+		"text": "Старый тунель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral02_Title",
-		"text": "An ancient mine"
+		"text": "Древняя шахта"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral03_Title",
-		"text": "An old mine"
+		"text": "Старая шахта"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage01_Title",
-		"text": "An old mineshaft"
+		"text": "Старый тунель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage02_Title",
-		"text": "An ancient mine"
+		"text": "Древняя шахта"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage03_Title",
-		"text": "An old mine"
+		"text": "Старая шахта"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage01_Title",
-		"text": "An old mineshaft"
+		"text": "Старый тунель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage02_Title",
-		"text": "An ancient mine"
+		"text": "Древняя шахта"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage03_Title",
@@ -6387,115 +6387,115 @@
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardNeutral01_Title",
-		"text": "An ancient necropolis"
+		"text": "Древний некрополис"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardNeutral02_Title",
-		"text": "An ancient graveyard"
+		"text": "Древнее кладбище"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardNeutral03_Title",
-		"text": "An ancient burial ground"
+		"text": "Древнее захоронение"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage01_Title",
-		"text": "An ancient necropolis"
+		"text": "Древний некрополис"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage02_Title",
-		"text": "An ancient graveyard"
+		"text": "Древнее кладбище"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardAdvantage03_Title",
-		"text": "An ancient burial ground"
+		"text": "Древнее захоронение"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardDisadvantage01_Title",
-		"text": "An ancient necropolis"
+		"text": "Древний некрополис"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardDisadvantage02_Title",
-		"text": "An ancient graveyard"
+		"text": "Древнее кладбище"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardDisadvantage03_Title",
-		"text": "An ancient burial ground"
+		"text": "Древнее захоронение"
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral01_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral02_Title",
-		"text": "A Brotherhood camp"
+		"text": "Лагерь Братства"
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral03_Title",
-		"text": "A cultist camp"
+		"text": "Лагерь культистов"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage01_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage02_Title",
-		"text": "A cultist camp"
+		"text": "Лагерь культистов"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage03_Title",
-		"text": "A Brotherhood camp"
+		"text": "Лагерь Братства"
 	},
 	{
 		"id": "BE_GenericUndeadCampDisadvantage01_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadCampDisadvantage02_Title",
-		"text": "A Brotherhood camp"
+		"text": "Лагерь Братства"
 	},
 	{
 		"id": "BE_GenericUndeadCampDisadvantage03_Title",
-		"text": "A cultist camp"
+		"text": "Лагерь культистов"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral01_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral02_Title",
-		"text": "A sinister bunker"
+		"text": "Зловещий бункер"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral03_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage02_Title",
-		"text": "A sinister bunker"
+		"text": "Зловещий бункер"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage01_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage02_Title",
-		"text": "A sinister bunker"
+		"text": "Зловещий бункер"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage03_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Title",
-		"text": "An ancient graveyard"
+		"text": "Древнее кладбище"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Title",
@@ -6503,7 +6503,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Title",
-		"text": "An old mine"
+		"text": "Старая шахта"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Title",
@@ -6511,31 +6511,31 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_LostIdol01_Title",
-		"text": "An old water supply system"
+		"text": "Старый водопровод"
 	},
 	{
 		"id": "BE_MonsterAssault01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_OutOfFuel_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_OutOfTime_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TheyFoundUs01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_CowardOfficer01_Title",
@@ -6563,7 +6563,7 @@
 	},
 	{
 		"id": "BE_VillageBloodbath01_Title",
-		"text": "A desert village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Intro",
@@ -6595,7 +6595,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Title",
-		"text": "A Brotherhood camp"
+		"text": "Лагерь Братства"
 	},
 	{
 		"id": "BE_TreasureCamp01_Intro",
@@ -6603,7 +6603,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice01",
-		"text": "Attack cultists"
+		"text": "Атаковать культистов"
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice02",
@@ -6611,7 +6611,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_TreasureCamp01_SneakIntoCamp",
@@ -6619,7 +6619,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice04",
-		"text": "Steal chest"
+		"text": "Украсть сундук"
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice05",
@@ -6631,7 +6631,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice07",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_TreasureCamp01_SneakW",
@@ -6659,7 +6659,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Title",
-		"text": "An old mine"
+		"text": "Старая шахта"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Intro",
@@ -6667,7 +6667,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice01",
-		"text": "Ambush cultists"
+		"text": "Устроить засаду на культистов"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice02",
@@ -6675,7 +6675,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice03",
-		"text": "Return to the surface"
+		"text": "Вернуться на поверхность"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW",
@@ -6715,7 +6715,7 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Title",
-		"text": "An ancient graveyard"
+		"text": "Древнее кладбище"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Intro",
@@ -6727,7 +6727,7 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice02",
-		"text": "Decipher inscription"
+		"text": "Расшифровать записи"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice03",
@@ -6735,7 +6735,7 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand",
@@ -6755,23 +6755,23 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_LanguagesW",
-		"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"It’s a curse describing the ‘living dead’ and something about the treasure they guard. I can’t make out the rest of it...\""
+		"text": "[char1] бормочет, склонившись над символами. \n\n[char1]: \"Это - проклятие, описывающее ‘живых мертвецов’ и какое-то сокровище, которое они охраняют. Я не могу понять оставшуюся часть...\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_LanguagesW_female",
-		"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"It’s a curse describing the ‘living dead’ and something about the treasure they guard. I can’t make out the rest of it...\""
+		"text": "[char1] бормочет, склонившись над символами. \n\n[char1]: \"Это - проклятие, описывающее ‘живых мертвецов’ и какое-то сокровище, которое они охраняют. Я не могу понять оставшуюся часть...\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_LanguagesF",
-		"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"Interesting... I’ve never seen an inscription like this!\""
+		"text": "[char1] бормочет, склонившись над символами. \n\n[char1]: \"Интересно... Я никогда не сталкивался с такими письменами!\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_LanguagesF_female",
-		"text": "[char1] bends over the characters, mumbling. \n\n[char1]: \"Interesting... I’ve never seen an inscription like this!\""
+		"text": "[char1] бормочет, склонившись над символами. \n\n[char1]: \"Интересно... Я никогда не сталкивалась с такими письменами!\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Undecided",
-		"text": "You can’t decide – what do you want to do?"
+		"text": "Вы не можете определиться: что вам хочется сделать?"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_ExamineTombs",
@@ -6779,7 +6779,7 @@
 	},
 	{
 		"id": "LE_SlipperyWell01_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "LE_SlipperyWell01_Intro",
@@ -6791,7 +6791,7 @@
 	},
 	{
 		"id": "LE_SlipperyWell01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_SlipperyWell01_DescentLucky",
@@ -6799,11 +6799,11 @@
 	},
 	{
 		"id": "LE_SlipperyWell01_DescentFall",
-		"text": "You carefully climb down the inside of the well. You hear a loud curse: [char0] has slipped on a moss-covered stone and crashes down the shaft!"
+		"text": "Вы осторожно спускаетесь внутрь колодца. Вы слышите громкие ругательства: [char0] подскользнулся на покрытой мхом камне и свалился вниз!"
 	},
 	{
 		"id": "LE_SlipperyWell01_DescentFall_female",
-		"text": "You carefully climb down the inside of the well. You hear a loud curse: [char0] has slipped on a moss-covered stone and crashes down the shaft!"
+		"text": "Вы осторожно спускаетесь внутрь колодца. Вы слышите громкие ругательства: [char0] подскользнулась на покрытой мхом камне и свалилась вниз!"
 	},
 	{
 		"id": "LE_SlipperyWell01_FallLucky",
@@ -6835,7 +6835,7 @@
 	},
 	{
 		"id": "LE_SlipperyWell01_Choice04",
-		"text": "Return to the surface"
+		"text": "Вернуться на поверхность"
 	},
 	{
 		"id": "LE_SlipperyWell01_AltarRoom",
@@ -6859,7 +6859,7 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_MurderousIdol01_Intro",
@@ -6871,7 +6871,7 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_MurderousIdol01_ExamineIdol",
@@ -6887,7 +6887,7 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice05",
-		"text": "Leave this place"
+		"text": "Покинуть это место"
 	},
 	{
 		"id": "LE_MurderousIdol01_ToppleIdol",
@@ -6895,7 +6895,7 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Title",
-		"text": "An ancient mine"
+		"text": "Древняя шахта"
 	},
 	{
 		"id": "LE_LavaBridge01_Intro",
@@ -6987,11 +6987,11 @@
 	},
 	{
 		"id": "LE_FailedInvocation01_Choice01",
-		"text": "Examine the altar"
+		"text": "Осмотреть алтарь"
 	},
 	{
 		"id": "LE_FailedInvocation01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_FailedInvocation01_Unlucky",
@@ -7007,7 +7007,7 @@
 	},
 	{
 		"id": "LE_FungusOfDeath01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "LE_FungusOfDeath01_Intro",
@@ -7019,11 +7019,11 @@
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice02",
-		"text": "Inspect the bodies"
+		"text": "Осмотреть тела"
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_FungusOfDeath01_MedicalF",
@@ -7047,7 +7047,7 @@
 	},
 	{
 		"id": "LE_UnstableSewer01_Title",
-		"text": "An old system of cisterns"
+		"text": "Старая система цистерн"
 	},
 	{
 		"id": "LE_UnstableSewer01_Intro",
@@ -7063,7 +7063,7 @@
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice03",
-		"text": "Return to the surface"
+		"text": "Вернуться на поверхность"
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice04",
@@ -7119,7 +7119,7 @@
 	},
 	{
 		"id": "SE_Adventure02Intro_Title",
-		"text": "Outside Jerusalem"
+		"text": "Выйти из Иерусалима"
 	},
 	{
 		"id": "SE_Adventure02Intro_Intro",
@@ -7131,7 +7131,7 @@
 	},
 	{
 		"id": "SE_Adventure03Intro_Title",
-		"text": "On the banks of the Nile"
+		"text": "На берегу Нила"
 	},
 	{
 		"id": "SE_Adventure03Intro_Intro",
@@ -7207,7 +7207,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure02Clue03_Intro",
@@ -7235,7 +7235,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue01_Title",
-		"text": "Some huts"
+		"text": "Несколько хижин"
 	},
 	{
 		"id": "SE_Adventure02Clue01_Intro",
@@ -7247,7 +7247,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue02_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Intro",
@@ -7307,7 +7307,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue02_Title",
-		"text": "A camp in the desert"
+		"text": "Лагерь посреди пустыни"
 	},
 	{
 		"id": "SE_Adventure03Clue02_Intro",
@@ -7319,7 +7319,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue02_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "SE_Adventure03Clue02_Wailing",
@@ -7327,7 +7327,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue03_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "SE_Adventure03Clue03_Intro",
@@ -7335,15 +7335,15 @@
 	},
 	{
 		"id": "SE_Adventure03Clue03_Choice01",
-		"text": "Negotiate"
+		"text": "Вести переговоры"
 	},
 	{
 		"id": "SE_Adventure03Clue03_Choice02",
-		"text": "Threaten"
+		"text": "Угрожать"
 	},
 	{
 		"id": "SE_Adventure03Clue03_Choice03",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "SE_Adventure03Clue03_Negotiate",
@@ -7383,7 +7383,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue01_Title",
-		"text": "An old waterhole"
+		"text": "Старый водопой"
 	},
 	{
 		"id": "SE_Adventure03Clue01_Intro",
@@ -7399,7 +7399,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue04_Title",
-		"text": "A desert bunker"
+		"text": "Бункер посреди пустыни"
 	},
 	{
 		"id": "SE_Adventure01Clue04_Intro",
@@ -7407,11 +7407,11 @@
 	},
 	{
 		"id": "SE_Adventure01Clue04_Choice01",
-		"text": "Explore the area"
+		"text": "Исследовать местность"
 	},
 	{
 		"id": "SE_Adventure01Clue04_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure01Clue04_Infiltrate",
@@ -7443,11 +7443,11 @@
 	},
 	{
 		"id": "SE_Adventure01MapArrival01_Choice01",
-		"text": "Rest up"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "SE_Adventure01MapArrival01_Choice02",
-		"text": "Bid farewell"
+		"text": "Попрощаться"
 	},
 	{
 		"id": "SE_Adventure01MapArrival01_Rest",
@@ -7471,7 +7471,7 @@
 	},
 	{
 		"id": "FA_TeamDied_Intro",
-		"text": "You did your best, but in the end, the enemy won! \n\nSomebody else will have to save Morten from his fate..."
+		"text": "Вы сделали всё, что могли, но в конце-концов враг победил! \n\nКому-нибудь другому нужно спасти Мортена от предназначенной ему участи..."
 	},
 	{
 		"id": "SE_Adventure02MapArrival01_Title",
@@ -7487,7 +7487,7 @@
 	},
 	{
 		"id": "SE_Adventure02MapArrival02_Title",
-		"text": "The Armenian Mountains"
+		"text": "Армянские горы"
 	},
 	{
 		"id": "SE_Adventure02MapArrival02_Intro",
@@ -7495,7 +7495,7 @@
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_anabelle_Title",
-		"text": "An old mineshaft"
+		"text": "Старый тунель шахты"
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Intro",
@@ -7507,7 +7507,7 @@
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Aftermath",
@@ -7531,7 +7531,7 @@
 	},
 	{
 		"id": "SE_Adventure05Intro_Title",
-		"text": "Near Jeddah"
+		"text": "Возле Джидды"
 	},
 	{
 		"id": "SE_Adventure05Intro_Intro",
@@ -7543,11 +7543,11 @@
 	},
 	{
 		"id": "SE_Adventure05Clue01b_Title",
-		"text": "An oasis"
+		"text": "Оазис"
 	},
 	{
 		"id": "SE_Adventure05Clue01_Title",
-		"text": "An oasis"
+		"text": "Оазис"
 	},
 	{
 		"id": "SE_Adventure05Clue01_Intro01",
@@ -7575,7 +7575,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_Intro",
@@ -7591,7 +7591,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Intro",
@@ -7599,7 +7599,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice01",
-		"text": "Rest"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice02",
@@ -7607,7 +7607,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Leave",
@@ -7615,11 +7615,11 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesW",
-		"text": "[char0] approaches the pilgrims and quickly strikes up a conversation with them. Smiling in welcome, the men beckon to you to join them."
+		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины манят вас присоединиться к ним."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesW_female",
-		"text": "[char0] approaches the pilgrims and quickly strikes up a conversation with them. Smiling in welcome, the men beckon to you to join them."
+		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины манят вас присоединиться к ним."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesF",
@@ -7643,7 +7643,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_Title",
-		"text": "An ancient mine"
+		"text": "Древняя шахта"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Intro",
@@ -7655,7 +7655,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Enter",
@@ -7679,7 +7679,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice04",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "SE_Adventure05Clue02_AvoidFight",
@@ -7711,7 +7711,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Title",
-		"text": "An oasis settlement"
+		"text": "Поселение-оазис"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Intro",
@@ -7719,7 +7719,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice01",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice02",
@@ -7739,11 +7739,11 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_RawStrengthF",
-		"text": "With a grunt, [char0] shoulder charges the mud wall, with no effect whatsoever.\n\n[char0]: \"It was worth a try.\"\n\nWhat do you want to do?"
+		"text": "[char0] громко пыхтя толкает плечом глиняную стену, но никакого эффекта не последовало.\n\n[char0]: \"Стоило попробовать.\"\n\nЧто вы будете делать дальше?"
 	},
 	{
 		"id": "SE_Adventure05Clue03_RawStrengthF_female",
-		"text": "With a grunt, [char0] shoulder charges the mud wall, with no effect whatsoever.\n\n[char0]: \"It was worth a try.\"\n\nWhat do you want to do?"
+		"text": "[char0] громко пыхтя толкает плечом глиняную стену, но никакого эффекта не последовало.\n\n[char0]: \"Стоило попробовать.\"\n\nЧто вы будете делать дальше?"
 	},
 	{
 		"id": "SE_Adventure05Clue03_InsideHut",
@@ -7755,11 +7755,11 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice04",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice05",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice06",
@@ -7831,7 +7831,7 @@
 	},
 	{
 		"id": "SE_Adventure06Intro_Title",
-		"text": "Near Djibouti"
+		"text": "Возле Джибути"
 	},
 	{
 		"id": "SE_Adventure06Intro_Intro",
@@ -7891,43 +7891,43 @@
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_anabelle_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_annabelle_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_chandra_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_drChandra_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_georgette_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_jackson_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_leonora_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_natalya_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_rose_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_veduti_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_Intro",
@@ -7943,11 +7943,11 @@
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_RecruitFriend",
-		"text": "[char0]: \"When I heard you were tangling with the Khoneshites, I set off immediately.\" \n\n[char0]: \"So if you need any help – my things are packed.\""
+		"text": "[char0]: \"Когда я услышал, что вы связались с Хонешитами, я немедленно отправился в путь.\" \n\n[char0]: \"В общем, если вам нужна моя помощь, то я уже собрал вещи.\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_RecruitFriend_female",
-		"text": "[char0]: \"When I heard you were tangling with the Khoneshites, I set off immediately.\" \n\n[char0]: \"So if you need any help – my things are packed.\""
+		"text": "[char0]: \"Когда я услышала, что вы связались с Хонешитами, я немедленно отправилась в путь.\" \n\n[char0]: \"В общем, если вам нужна моя помощь, то я уже собрала вещи.\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Title",
@@ -8011,7 +8011,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Title",
-		"text": "In ancient Aksum"
+		"text": "В древний Аксум"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Intro",
@@ -8023,7 +8023,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Enter",
@@ -8031,7 +8031,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice03",
-		"text": "Attack the cultists"
+		"text": "Атаковать культистов"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice04",
@@ -8039,7 +8039,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice05",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "SE_Adventure06Clue01_AfterBattle",
@@ -8063,7 +8063,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice07",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure06Clue01_DetectionW",
@@ -8095,11 +8095,11 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice02",
-		"text": "Assess the situation"
+		"text": "Оценить ситуацию"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice03",
-		"text": "Drive around village"
+		"text": "Объехать деревню"
 	},
 	{
 		"id": "SE_Adventure06Clue02_SneakCloserW",
@@ -8119,7 +8119,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice06",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Attack",
@@ -8127,7 +8127,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice07",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice08",
@@ -8151,7 +8151,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue03_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06Clue03_Intro",
@@ -8167,7 +8167,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue03_Choice03",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure06Clue03_ShooDogsF",
@@ -8211,7 +8211,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue04_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Intro",
@@ -8223,7 +8223,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue04_Choice01",
-		"text": "Draw your weapons"
+		"text": "Достать оружие"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Choice02",
@@ -8275,15 +8275,15 @@
 	},
 	{
 		"id": "FE_Nothing01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingUndeadBlack01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingUndeadWhite01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_Nothing01_Intro",
@@ -8291,31 +8291,31 @@
 	},
 	{
 		"id": "FE_NothingAmmoLoot01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingAmmoLootUndeadBlack01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingAmmoLootUndeadWhite01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLoot01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLoot01UndeadBlack01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLootUndeadWhite01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "CU_Fenrir01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "CU_Fenrir01_Intro",
@@ -8327,7 +8327,7 @@
 	},
 	{
 		"id": "CU_SnowWhite01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "CU_SnowWhite01_Intro",
@@ -8339,7 +8339,7 @@
 	},
 	{
 		"id": "FA_FenrirDied01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_FenrirDied01_Intro",
@@ -8351,7 +8351,7 @@
 	},
 	{
 		"id": "FA_SnowWhiteDied01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_SnowWhiteDied01_Intro",
@@ -8363,7 +8363,7 @@
 	},
 	{
 		"id": "FA_AloneRescue01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_AloneRescue01_Intro",
@@ -8371,15 +8371,15 @@
 	},
 	{
 		"id": "FA_TeamDied01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied01_Intro",
-		"text": "You did your best, but in the end, the enemy won! \n\nSomebody else will have to save Morten from his fate..."
+		"text": "Вы сделали всё, что могли, но в конце-концов враг победил! \n\nКому-нибудь другому нужно спасти Мортена от предназначенной ему участи..."
 	},
 	{
 		"id": "FA_TeamDied02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied02_Intro",
@@ -8387,7 +8387,7 @@
 	},
 	{
 		"id": "FA_TeamDied03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied03_Intro",
@@ -8395,7 +8395,7 @@
 	},
 	{
 		"id": "FA_TeamDied04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied04_Intro",
@@ -8403,7 +8403,7 @@
 	},
 	{
 		"id": "FA_TeamDied05_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied05_Intro",
@@ -8411,7 +8411,7 @@
 	},
 	{
 		"id": "FA_TeamDied06_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FA_TeamDied06_Intro",
@@ -8419,7 +8419,7 @@
 	},
 	{
 		"id": "FA_Generic_Choice1",
-		"text": "Continue"
+		"text": "Продолжить"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_FreeChar",
@@ -8483,19 +8483,19 @@
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Trailer_title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure02MapArrival02_Trailer_title",
-		"text": "The Armenian Mountains"
+		"text": "Армянские горы"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Trailer_title",
-		"text": "An oasis settlement"
+		"text": "Поселение-оазис"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Trailer_title",
-		"text": "In ancient Aksum"
+		"text": "В древний Аксум"
 	},
 	{
 		"id": "FE_CavedInTemple01_Intro",
@@ -8623,463 +8623,463 @@
 	},
 	{
 		"id": "FE_CavedInTemple01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_MineEntrance01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_BunkerEntrace01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_ClosedWell01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_RockFormation01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldTree01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_AbandonedJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TrashMount01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandyCrate01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandyCanister01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandDunes01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostCamel01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostGoat01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostSheep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Snake01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_NaziTent01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_UndeadTent01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_EmptyAltar01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Bushes01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TatteredBooks01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandySkull01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SpearedSkull01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldMap01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Ruins01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Campfire01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_StrangeObject01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Cactus01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_NaziFlag01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SpiderNest01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_Grass01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldRadio01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_TimeLost01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_TimeLost02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_TimeLost03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "AE_TimeLost04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaAdvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaAdvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaAdvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaDisadvantage01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaDisadvantage02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaDisadvantage03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaNeutral01_Title",
-		"text": "An ancient temple"
+		"text": "Древний храм"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaNeutral02_Title",
-		"text": "A temple complex"
+		"text": "Храмовый комплекс"
 	},
 	{
 		"id": "BE_GenericUndeadDungeonLavaNeutral03_Title",
-		"text": "A ruined temple"
+		"text": "Разрушенный храм"
 	},
 	{
 		"id": "CU_FenrirNoJeep01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "CU_SnowWhiteNoJeep01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_AloneRescueNoJeep01_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep01_Title",
-		"text": "Some brushwood"
+		"text": "Немного хвороста"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep03_Title",
-		"text": "A few scraggy shrubs"
+		"text": "Несколько тощих кустов"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep04_Title",
-		"text": "Some scraggy brushwood"
+		"text": "Немного тонкого хвороста"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep05_Title",
-		"text": "A couple of parched trees"
+		"text": "Пара засохших деревьев"
 	},
 	{
 		"id": "FE_GenericDesertRuinsNoJeep01_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "FE_GenericDesertRuinsNoJeep02_Title",
-		"text": "An ancient desert village"
+		"text": "Древняя пустынная деревня"
 	},
 	{
 		"id": "FE_GenericDesertRuinsNoJeep03_Title",
-		"text": "A wasteland"
+		"text": "Пустошь"
 	},
 	{
 		"id": "FE_GenericDesertRuinsNoJeep04_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "FE_GenericDesertRuinsNoJeep05_Title",
-		"text": "Some huts"
+		"text": "Несколько хижин"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep01_Title",
-		"text": "Some lonely goats"
+		"text": "Группа одиноких коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep02_Title",
-		"text": "A herd of goats"
+		"text": "Стадо козлов"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep03_Title",
-		"text": "A few thirsty goats"
+		"text": "Несколько жаждущих коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep04_Title",
-		"text": "A herd of goats"
+		"text": "Стадо козлов"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep05_Title",
-		"text": "A few scrawny goats"
+		"text": "Несколько тощих козлов"
 	},
 	{
 		"id": "FE_AbandonedJeepNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_BunkerEntraceNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_BushesNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_CactusNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_CampfireNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_CavedInTempleNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_ClosedWellNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_EmptyAltarNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_GrassNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostCamelNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostGoatNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_LostSheepNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_MineEntranceNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_NaziFlagNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_NaziTentNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldMapNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldRadioNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_OldTreeNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_RockFormationNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_RuinsNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandDunesNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandyCanisterNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandyCrateNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SandySkullNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SnakeNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SpearedSkullNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_SpiderNestNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_StrangeObjectNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TatteredBooksNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_TrashMountNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "FE_UndeadTentNoJeep01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "RE_GenericOasisNoJeep01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "RE_GenericOasisNoJeep02_Title",
-		"text": "An oasis"
+		"text": "Оазис"
 	},
 	{
 		"id": "RE_GenericOasisNoJeep03_Title",
-		"text": "A small well"
+		"text": "Небольшой колодец"
 	},
 	{
 		"id": "RE_GenericOasisNoJeep04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "RE_GenericOasisNoJeep05_Title",
-		"text": "A small oasis"
+		"text": "Небольшой оазис"
 	},
 	{
 		"id": "RE_GenericRuinsNoJeep01_Title",
-		"text": "Some ruined walls"
+		"text": "Разрушенные стены"
 	},
 	{
 		"id": "RE_GenericRuinsNoJeep02_Title",
-		"text": "Some village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "RE_GenericRuinsNoJeep03_Title",
-		"text": "Some old huts"
+		"text": "Несколько старых хижин"
 	},
 	{
 		"id": "RE_GenericRuinsNoJeep04_Title",
-		"text": "A deserted village"
+		"text": "Пустынная деревня"
 	},
 	{
 		"id": "RE_GenericRuinsNoJeep05_Title",
-		"text": "Village ruins"
+		"text": "Деревенские руины"
 	},
 	{
 		"id": "FA_TeamDied01_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied01_SnowWhite_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied02_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied02_SnowWhite_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied03_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied03_SnowWhite_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied04_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied04_SnowWhite_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied05_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied05_SnowWhite_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied06_Fenrir_Title",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied06_SnowWhite",
-		"text": "In the middle of nowhere"
+		"text": "Неизсветсно в какой глуши"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice03",
@@ -9095,7 +9095,7 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice05",
-		"text": "Start conversation"
+		"text": "Поговорить"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice06",
@@ -9115,7 +9115,7 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice04",
-		"text": "Look around"
+		"text": "Осмотреться"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice05",
@@ -9127,7 +9127,7 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice07",
-		"text": "Read inscription"
+		"text": "Прочитать надпись"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice08",
@@ -9147,7 +9147,7 @@
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Choice01",
-		"text": "Draw your weapons!"
+		"text": "Достать оружие!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Choice02",
@@ -9163,7 +9163,7 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice06",
-		"text": "Draw your weapons!"
+		"text": "Достать оружие!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice07",
@@ -9183,7 +9183,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice08",
-		"text": "Look around"
+		"text": "Осмотреться"
 	},
 	{
 		"id": "BE_LostIdol01_CultistsVanquished",
@@ -9199,7 +9199,7 @@
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Choice01",
-		"text": "Start conversation"
+		"text": "Поговорить"
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Choice02",
@@ -9215,7 +9215,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue03_Choice05",
-		"text": "Look around"
+		"text": "Осмотреться"
 	},
 	{
 		"id": "SE_Adventure01Clue03_Choice06",
@@ -9231,7 +9231,7 @@
 	},
 	{
 		"id": "LE_CobraCache01_Choice05",
-		"text": "Inspect engine"
+		"text": "Проверить двигатель"
 	},
 	{
 		"id": "LE_CobraCache01_Choice06",
@@ -9239,7 +9239,7 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice03",
-		"text": "Decipher inscription"
+		"text": "Расшифровать записи"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice03",
@@ -9251,7 +9251,7 @@
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice03",
-		"text": "Start conversation"
+		"text": "Поговорить"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice04",
@@ -9263,7 +9263,7 @@
 	},
 	{
 		"id": "AE_CarFailure01_Choice02",
-		"text": "Inspect engine"
+		"text": "Проверить двигатель"
 	},
 	{
 		"id": "AE_CarFailure02_Choice01",
@@ -9271,7 +9271,7 @@
 	},
 	{
 		"id": "AE_CarFailure02_Choice02",
-		"text": "Inspect engine"
+		"text": "Проверить двигатель"
 	},
 	{
 		"id": "AE_CarFailure03_Choice01",
@@ -9283,7 +9283,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Byebye",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure01Snippet01_Title",
@@ -9351,7 +9351,7 @@
 	},
 	{
 		"id": "SE_Adventure01Flavor02_Title",
-		"text": "An olive grove"
+		"text": "Оливковая роща"
 	},
 	{
 		"id": "SE_Adventure01Flavor03_Title",
@@ -9383,27 +9383,27 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Title",
-		"text": "A strange area"
+		"text": "Неизвестное  место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertDisadvantage01_Title",
-		"text": "A weird landscape"
+		"text": "Странная местность"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertNeutral01_Title",
-		"text": "An odd region"
+		"text": "Странное место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage01_Title",
-		"text": "A strange oasis"
+		"text": "Неизвестный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisDisadvantage01_Title",
-		"text": "The crystal oasis"
+		"text": "Хрустальный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisNeutral01_Title",
-		"text": "Mysterious village"
+		"text": "Таинственная деревня"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Intro",
@@ -9411,11 +9411,11 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Choice01",
-		"text": "Draw your weapons"
+		"text": "Достать оружие"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertDisadvantage01_Intro",
@@ -9431,11 +9431,11 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage01_Choice01",
-		"text": "Attack!"
+		"text": "Атаковать!"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage01_Choice02",
-		"text": "Sneak away"
+		"text": "Тихо уйти"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisDisadvantage01_Intro",
@@ -9447,39 +9447,39 @@
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Title",
-		"text": "A desert airfield"
+		"text": "Пустынный аэродром"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldDisadvantage01_Title",
-		"text": "A lonely base"
+		"text": "Одинокая база"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldNeutral01_Title",
-		"text": "A dusty runway"
+		"text": "Пыльная посадочная полоса"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage01_Title",
-		"text": "A radio station"
+		"text": "Радиостанция"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationDisadvantage01_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationNeutral01_Title",
-		"text": "A huge antenna"
+		"text": "Высокая антенна"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage01_Title",
-		"text": "An idyllic farmhouse"
+		"text": "Идиллический фермерский дом"
 	},
 	{
 		"id": "BE_GenericNaziFarmDisadvantage01_Title",
-		"text": "Some rich huts"
+		"text": "Несколько богатых хижин"
 	},
 	{
 		"id": "BE_GenericNaziFarmNeutral01_Title",
-		"text": "A sizeable farmstead"
+		"text": "Большая усадьба"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Intro",
@@ -9519,7 +9519,7 @@
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Choice01",
-		"text": "Ambush!"
+		"text": "Засада!"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Choice02",
@@ -9527,23 +9527,23 @@
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage01_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage01_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage01_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage01_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Intro",
@@ -9551,19 +9551,19 @@
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Choice01",
-		"text": "Exchange [!0] ammunition for [!1] gas."
+		"text": "Обменять [!0] патронов на [!1] топлива."
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Choice02",
-		"text": "Exchange [!0] ammunition for [!1] gas."
+		"text": "Обменять [!0] патронов на [!1] топлива."
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Choice03",
-		"text": "Exchange [!0] ammunition for [!1] gas."
+		"text": "Обменять [!0] патронов на [!1] топлива."
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Intro",
@@ -9571,19 +9571,19 @@
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Choice01",
-		"text": "Exchange [!0] gas for [!1] ammunition."
+		"text": "Обменять [!0] топлива на [!1] патронов."
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Choice02",
-		"text": "Exchange [!0] gas for [!1] ammunition."
+		"text": "Обменять [!0] топлива на [!1] патронов."
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Choice03",
-		"text": "Exchange [!0] gas for [!1] ammunition."
+		"text": "Обменять [!0] топлива на [!1] патронов."
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Intro",
@@ -9591,19 +9591,19 @@
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Choice01",
-		"text": "Pay $[!0] for [!1] ammunition."
+		"text": "Заплатить $[!0] за [!1] патронов."
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Choice02",
-		"text": "Pay $[!0] for [!1] ammunition."
+		"text": "Заплатить $[!0] за [!1] патронов."
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Choice03",
-		"text": "Pay $[!0] for [!1] ammunition."
+		"text": "Заплатить $[!0] за [!1] патронов."
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Intro",
@@ -9611,19 +9611,19 @@
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Choice01",
-		"text": "Pay $[!0] for [!1] gas."
+		"text": "Заплатить $[!0] за [!1] топлива."
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Choice02",
-		"text": "Pay $[!0] for [!1] gas."
+		"text": "Заплатить $[!0] за [!1] топлива."
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Choice03",
-		"text": "Pay $[!0] for [!1] gas."
+		"text": "Заплатить $[!0] за [!1] топлива."
 	},
 	{
 		"id": "TR_TradeCashForSupplies02_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Intro",
@@ -9631,19 +9631,19 @@
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Choice01",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Choice02",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Choice03",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForSupplies03_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Intro",
@@ -9651,19 +9651,19 @@
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Choice01",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Choice02",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Choice03",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForSupplies01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Intro",
@@ -9671,135 +9671,135 @@
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Choice01",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Choice02",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Choice03",
-		"text": "Pay $[!0] for [!1] supplies"
+		"text": "Заплатить $[!0] за [!1] припасов"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage02_Title",
-		"text": "A strange area"
+		"text": "Неизвестное  место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertDisadvantage02_Title",
-		"text": "A weird landscape"
+		"text": "Странная местность"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertNeutral02_Title",
-		"text": "An odd region"
+		"text": "Странное место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage02_Title",
-		"text": "A strange oasis"
+		"text": "Неизвестный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisDisadvantage02_Title",
-		"text": "The crystal oasis"
+		"text": "Хрустальный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisNeutral02_Title",
-		"text": "Mysterious village"
+		"text": "Таинственная деревня"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage02_Title",
-		"text": "A desert airfield"
+		"text": "Пустынный аэродром"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldDisadvantage02_Title",
-		"text": "A lonely base"
+		"text": "Одинокая база"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldNeutral02_Title",
-		"text": "A dusty runway"
+		"text": "Пыльная посадочная полоса"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage02_Title",
-		"text": "A radio station"
+		"text": "Радиостанция"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationDisadvantage02_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationNeutral02_Title",
-		"text": "A huge antenna"
+		"text": "Высокая антенна"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage02_Title",
-		"text": "An idyllic farmhouse"
+		"text": "Идиллический фермерский дом"
 	},
 	{
 		"id": "BE_GenericNaziFarmDisadvantage02_Title",
-		"text": "Some rich huts"
+		"text": "Несколько богатых хижин"
 	},
 	{
 		"id": "BE_GenericNaziFarmNeutral02_Title",
-		"text": "A sizeable farmstead"
+		"text": "Большая усадьба"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage03_Title",
-		"text": "A strange area"
+		"text": "Неизвестное  место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertDisadvantage03_Title",
-		"text": "A weird landscape"
+		"text": "Странная местность"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertNeutral03_Title",
-		"text": "An odd region"
+		"text": "Странное место"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage03_Title",
-		"text": "A strange oasis"
+		"text": "Неизвестный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisDisadvantage03_Title",
-		"text": "The crystal oasis"
+		"text": "Хрустальный оазис"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisNeutral03_Title",
-		"text": "Mysterious village"
+		"text": "Таинственная деревня"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage03_Title",
-		"text": "A desert airfield"
+		"text": "Пустынный аэродром"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldDisadvantage03_Title",
-		"text": "A lonely base"
+		"text": "Одинокая база"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldNeutral03_Title",
-		"text": "A dusty runway"
+		"text": "Пыльная посадочная полоса"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage03_Title",
-		"text": "A radio station"
+		"text": "Радиостанция"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationDisadvantage03_Title",
-		"text": "A fortified camp"
+		"text": "Укреплённый лагерь"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationNeutral03_Title",
-		"text": "A huge antenna"
+		"text": "Высокая антенна"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage03_Title",
-		"text": "An idyllic farmhouse"
+		"text": "Идиллический фермерский дом"
 	},
 	{
 		"id": "BE_GenericNaziFarmDisadvantage03_Title",
-		"text": "Some rich huts"
+		"text": "Несколько богатых хижин"
 	},
 	{
 		"id": "BE_GenericNaziFarmNeutral03_Title",
-		"text": "A sizeable farmstead"
+		"text": "Большая усадьба"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage03_Intro",
@@ -9823,35 +9823,35 @@
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Leave",
-		"text": "Leave"
+		"text": "Уйти"
 	},
 	{
 		"id": "SE_Adventure02Snippet01_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure02Snippet01_Intro",
@@ -9883,7 +9883,7 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Title",
-		"text": "A herd of goats"
+		"text": "Стадо козлов"
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Intro",
@@ -9891,7 +9891,7 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Title",
-		"text": "In the mountains"
+		"text": "Где-то в горах"
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Intro",
@@ -9927,11 +9927,11 @@
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Choice01",
-		"text": "Rest"
+		"text": "Отдохнуть"
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Refreshed",
@@ -9943,7 +9943,7 @@
 	},
 	{
 		"id": "SE_Adventure02Flavor05_Title",
-		"text": "An olive grove"
+		"text": "Оливковая роща"
 	},
 	{
 		"id": "SE_Adventure02Flavor05_Intro",
@@ -10075,7 +10075,7 @@
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Rest",
@@ -10115,7 +10115,7 @@
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Choice02",
-		"text": "Maybe not..."
+		"text": "Лучше не надо..."
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Drink",
@@ -10123,7 +10123,7 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet01_Title",
-		"text": "A waterhole"
+		"text": "Водопой"
 	},
 	{
 		"id": "SE_Adventure05Snippet01_Intro",
@@ -10139,7 +10139,7 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet03_Title",
-		"text": "Some rocks"
+		"text": "Несколько камней"
 	},
 	{
 		"id": "SE_Adventure05Snippet03_Intro",
@@ -10147,7 +10147,7 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet04_Title",
-		"text": "Somewhere in the desert"
+		"text": "Где-то в пустыне"
 	},
 	{
 		"id": "SE_Adventure05Snippet04_Intro",
@@ -10239,7 +10239,7 @@
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Choice02",
-		"text": "Decipher inscription"
+		"text": "Расшифровать записи"
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Standard",
@@ -10363,7 +10363,7 @@
 	},
 	{
 		"id": "LE_DerelictCar01_Choice03",
-		"text": "Inspect engine"
+		"text": "Проверить двигатель"
 	},
 	{
 		"id": "LE_DerelictCar01_Choice04",
@@ -10515,7 +10515,7 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Attack",
-		"text": "Attack the cultists"
+		"text": "Атаковать культистов"
 	},
 	{
 		"id": "LE_LavaBridge01_Leave",
@@ -10535,7 +10535,7 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_Talk",
-		"text": "Start conversation"
+		"text": "Поговорить"
 	},
 	{
 		"id": "BE_GorgeAmbush01_NoUnderstanding",
@@ -10555,7 +10555,7 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_Leave",
-		"text": "Maybe not..."
+		"text": "Лучше не надо..."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Merchant",
@@ -10595,7 +10595,7 @@
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Tech",
-		"text": "Explore the area"
+		"text": "Исследовать местность"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Risk",
@@ -10699,7 +10699,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice_Attack",
-		"text": "Attack!"
+		"text": "Атаковать!"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_AfterBattle",
@@ -10735,11 +10735,11 @@
 	},
 	{
 		"id": "BE_CreepyHut01_Goodie",
-		"text": "A strange, not entirely pleasant feeling passes through [char4]."
+		"text": "[char4] испытывает странное и не очень приятное чувство."
 	},
 	{
 		"id": "BE_CreepyHut01_Goodie_female",
-		"text": "A strange, not entirely pleasant feeling passes through [char4]."
+		"text": "[char4] испытывает странное и не очень приятное чувство."
 	},
 	{
 		"id": "BE_CreepyHut01_DetectWin",
@@ -10791,11 +10791,11 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Daredevil",
-		"text": "While you are discussing what to do, suddenly you notice that [char4] has gone..."
+		"text": "Вы внезапно замечаете, что, пока вы планировали дальнейшие действия, [char4] пропал..."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Daredevil_female",
-		"text": "While you are discussing what to do, suddenly you notice that [char4] has gone..."
+		"text": "Вы внезапно замечаете, что, пока вы планировали дальнейшие действия, [char4] пропала..."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_DaredevilWin",
@@ -10907,23 +10907,23 @@
 	},
 	{
 		"id": "CR_AngryMob01_Choice02_B",
-		"text": "Negotiate"
+		"text": "Вести переговоры"
 	},
 	{
 		"id": "CR_AngryMob01_Languages_B",
-		"text": "[char3] talks insistently with the village elder. You catch fragments of a language you do not understand."
+		"text": "[char3] настойчиво говорит со старейшиной. Вы улавливаете фрагменты слов языка, которого не знаете."
 	},
 	{
 		"id": "CR_AngryMob01_Languages_B_female",
-		"text": "[char3] talks insistently with the village elder. You catch fragments of a language you do not understand."
+		"text": "[char3] настойчиво говорит со старейшиной. Вы улавливаете фрагменты слов языка, которого не знаете."
 	},
 	{
 		"id": "CR_AngryMob01_LanguagesW_B",
-		"text": "Finally, [char3] turns to you with relief: \n\n[char3]: \"I think we have come to an agreement.\""
+		"text": "Наконец-то [char3] с облегчением обратился к вам: \n\n[char3]: \"Думаю, мы пришли к соглашению.\""
 	},
 	{
 		"id": "CR_AngryMob01_LanguagesW_B_female",
-		"text": "Finally, [char3] turns to you with relief: \n\n[char3]: \"I think we have come to an agreement.\""
+		"text": "Наконец-то [char3] с облегчением обратилась к вам: \n\n[char3]: \"Думаю, мы пришли к соглашению.\""
 	},
 	{
 		"id": "CR_Brandy01_Choice03_B",
@@ -10955,7 +10955,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage01_Title",
-		"text": "Primitive pyramid"
+		"text": "Примитивная пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage02_Title",
@@ -10963,7 +10963,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage03_Title",
-		"text": "Nubian tomb"
+		"text": "Нубийская гробница"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage01_Title",
@@ -10971,11 +10971,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage02_Title",
-		"text": "Primitive pyramid"
+		"text": "Примитивная пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage03_Title",
-		"text": "Nubian tomb"
+		"text": "Нубийская гробница"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaNeutral01_Intro",
@@ -10987,11 +10987,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage_Choice01",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage01_Intro",
@@ -11003,7 +11003,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral01_Title",
-		"text": "A salt lake"
+		"text": "Солёное озеро"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral02_Title",
@@ -11011,31 +11011,31 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral03_Title",
-		"text": "In the salt desert"
+		"text": "В соляную пустыню"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaDisadvantage01_Title",
-		"text": "Salt plain"
+		"text": "Соляная равнина"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaDisadvantage02_Title",
-		"text": "Barren wasteland"
+		"text": "Бесплодная пустошь"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaDisadvantage03_Title",
-		"text": "A salt lake"
+		"text": "Солёное озеро"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage01_Title",
-		"text": "Barren wasteland"
+		"text": "Бесплодная пустошь"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage02_Title",
-		"text": "In the salt desert"
+		"text": "В соляную пустыню"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage03_Title",
-		"text": "Salt plain"
+		"text": "Соляная равнина"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral01_Intro",
@@ -11047,7 +11047,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage_Choice02",
@@ -11063,15 +11063,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutNeutral01_Title",
-		"text": "A lone hut"
+		"text": "Одинокая хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutNeutral02_Title",
-		"text": "The abandoned hut"
+		"text": "Заброшенная хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutNeutral03_Title",
-		"text": "The hut in the desert"
+		"text": "Хижина в пустыне"
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage01_Title",
@@ -11083,15 +11083,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage03_Title",
-		"text": "A lone hut"
+		"text": "Одинокая хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage01_Title",
-		"text": "The abandoned hut"
+		"text": "Заброшенная хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage02_Title",
-		"text": "The hut in the desert"
+		"text": "Хижина в пустыне"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage03_Title",
@@ -11107,11 +11107,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage_Choice01",
-		"text": "Open fire!"
+		"text": "Открыть огонь!"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage_Choice02",
-		"text": "Continue your journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage01_Intro",
@@ -11123,15 +11123,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral01_Title",
-		"text": "Old mine entrance"
+		"text": "Старый вход в шахту"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral02_Title",
-		"text": "Abandoned mine"
+		"text": "Заброшенная шахта"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral03_Title",
-		"text": "Mine shaft"
+		"text": "Тонель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage01_Title",
@@ -11139,23 +11139,23 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage02_Title",
-		"text": "Plundered mine"
+		"text": "Разграбленная шахта"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage03_Title",
-		"text": "Old mine entrance"
+		"text": "Старый вход в шахту"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage01_Title",
-		"text": "Abandoned mine"
+		"text": "Заброшенная шахта"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage02_Title",
-		"text": "Mine shaft"
+		"text": "Тонель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage03_Title",
-		"text": "Plundered mine"
+		"text": "Разграбленная шахта"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral01_Intro",
@@ -11167,11 +11167,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage_Choice01",
-		"text": "Attack"
+		"text": "Атаковать"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage_Choice02",
-		"text": "Withdraw"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage01_Intro",
@@ -11183,15 +11183,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral01_Title",
-		"text": "Old desert bunker"
+		"text": "Старый пустынный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral02_Title",
-		"text": "Strange bunker"
+		"text": "Странный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral03_Title",
-		"text": "Occupied bunker"
+		"text": "Занятый бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage01_Title",
@@ -11199,23 +11199,23 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage02_Title",
-		"text": "Devastated bunker"
+		"text": "Разрушенный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage03_Title",
-		"text": "Old desert bunker"
+		"text": "Старый пустынный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage01_Title",
-		"text": "Strange bunker"
+		"text": "Странный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage02_Title",
-		"text": "Occupied bunker"
+		"text": "Занятый бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage03_Title",
-		"text": "Devastated bunker"
+		"text": "Разрушенный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral01_Intro",
@@ -11227,7 +11227,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage_Choice01",
-		"text": "Ready your weapons"
+		"text": "Готовьте оружие"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage_Choice02",
@@ -11255,7 +11255,7 @@
 	},
 	{
 		"id": "LE_BurningJeep01_LastChoice_B",
-		"text": "Continue journey"
+		"text": "Продолжить путешествие"
 	},
 	{
 		"id": "LE_DesertedShrine01_PostLoot_B",
@@ -11263,11 +11263,11 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_Goodie_B",
-		"text": "[char1]: \"I haven’t felt so good for a long time!\""
+		"text": "[char1]: \"Я давно не чувствовал себя так хорошо!\""
 	},
 	{
 		"id": "LE_DesertedShrine01_Goodie_B_female",
-		"text": "[char1]: \"I haven’t felt so good for a long time!\""
+		"text": "[char1]: \"Я давно не чувствовала себя так хорошо!\""
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice01_B",
@@ -11287,15 +11287,15 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_DetectionChoice_B",
-		"text": "Examine the altar"
+		"text": "Осмотреть алтарь"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Detect_B",
-		"text": "[char4] takes a closer look at the altar: \n\n[char4]: \"What’s this?\""
+		"text": "[char4] подошёл ближе к алтарю: \n\n[char4]: \"Что это такое?\""
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Detect_B_female",
-		"text": "[char4] takes a closer look at the altar: \n\n[char4]: \"What’s this?\""
+		"text": "[char4] подошла ближе к алтарю: \n\n[char4]: \"Что это такое?\""
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Lever_B",
@@ -11331,7 +11331,7 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceDet_B",
-		"text": "Search the room"
+		"text": "Обыскать комнату"
 	},
 	{
 		"id": "BE_CowardOfficer01_Tech_B",
@@ -11363,11 +11363,11 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Boost_B",
-		"text": "[char3]: \"I will defy all dangers!\""
+		"text": "[char3]: \"Я брошу вызов всем опасностям!\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Boost_B_female",
-		"text": "[char3]: \"I will defy all dangers!\""
+		"text": "[char3]: \"Я брошу вызов всем опасностям!\""
 	},
 	{
 		"id": "BE_UnholyVault01_OccultLoot_B",
@@ -11375,11 +11375,11 @@
 	},
 	{
 		"id": "BE_UnholyVault01_CharBoost_B",
-		"text": "[char4]: \"I feel... invincible!\""
+		"text": "[char4]: \"Я чувствую себя... непобедимым!\""
 	},
 	{
 		"id": "BE_UnholyVault01_CharBoost_B_female",
-		"text": "[char4]: \"I feel... invincible!\""
+		"text": "[char4]: \"Я чувствую себя... непобедимой!\""
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Tech_B",
@@ -11399,7 +11399,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice_Attack_B",
-		"text": "Open fire"
+		"text": "Открыть огонь"
 	},
 	{
 		"id": "BE_LostIdol01_Choice_TrickNPC_B",
@@ -11407,11 +11407,11 @@
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPCWin_B",
-		"text": "Suddenly, you notice that [char4] has gone! \n\nSimultaneously, you hear strange noises coming from the adjacent rooms..."
+		"text": "Внезапно вы замечаете, что [char4] исчез! \n\nСразу после этого вы начинаете слышать странный шум из соседних комнат..."
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPCWin_B_female",
-		"text": "Suddenly, you notice that [char4] has gone! \n\nSimultaneously, you hear strange noises coming from the adjacent rooms..."
+		"text": "Внезапно вы замечаете,  что [char4] исчезла! \n\nСразу после этого вы начинаете слышать странный шум из соседних комнат..."
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPC_Attack_B",
@@ -11423,7 +11423,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice_SixthSense_B",
-		"text": "Search the room"
+		"text": "Обыскать комнату"
 	},
 	{
 		"id": "BE_LostIdol01_LookFail_B",
@@ -11523,7 +11523,7 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice_GoDown_D",
-		"text": "Climb down"
+		"text": "Спуститься"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_MagicRepair_B",
@@ -11587,27 +11587,27 @@
 	},
 	{
 		"id": "SE_Adventure02Intro_HC_title",
-		"text": "Outside Jerusalem"
+		"text": "Выйти из Иерусалима"
 	},
 	{
 		"id": "SE_Adventure03Intro_HC_title",
-		"text": "On the banks of the Nile"
+		"text": "На берегу Нила"
 	},
 	{
 		"id": "SE_Adventure05Intro_HC_title",
-		"text": "Near Jeddah"
+		"text": "Возле Джидды"
 	},
 	{
 		"id": "SE_Adventure06Intro_HC_title",
-		"text": "Near Djibouti"
+		"text": "Возле Джибути"
 	},
 	{
 		"id": "TR_Test_Choice01",
-		"text": "Trade [!0] fuel for [!1] ammo."
+		"text": "Купить [!0] топлива за [!1] патронов."
 	},
 	{
 		"id": "TR_Test_Choice02",
-		"text": "Trade [!0] fuel for [!1] ammo."
+		"text": "Купить [!0] топлива за [!1] патронов."
 	},
 	{
 		"id": "RU_Test",
