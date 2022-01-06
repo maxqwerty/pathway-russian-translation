@@ -339,7 +339,7 @@
 	},
 	{
 		"id": "singleShotKills01_desc",
-		"text": "Убейте [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills01_title",
@@ -347,7 +347,7 @@
 	},
 	{
 		"id": "singleShotKills02_desc",
-		"text": "Убейте [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills02_title",
@@ -355,7 +355,7 @@
 	},
 	{
 		"id": "singleShotKills03_desc",
-		"text": "Убейте [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills03_title",
@@ -523,7 +523,7 @@
 	},
 	{
 		"id": "unlockGeorgette_desc",
-		"text": "Убейте [amount] врагов с помощью Засады, чтобы открыть Жеоржетту."
+		"text": "Убейте [amount] врагов с Засадой, чтобы открыть Жеоржетту."
 	},
 	{
 		"id": "unlockGeorgette_title",
