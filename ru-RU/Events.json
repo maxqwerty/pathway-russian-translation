@@ -27,7 +27,7 @@
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice01",
-		"text": "Устроить засаду на врагов"
+		"text": "Устроить врагам засаду"
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice02",
@@ -987,7 +987,7 @@
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice01",
-		"text": "Устроить засаду на врагов"
+		"text": "Устроить врагам засаду"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice02",
@@ -4491,7 +4491,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage04_Choice01",
-		"text": "Устроить засаду на культистов"
+		"text": "Устроить культистам засаду"
 	},
 	{
 		"id": "BE_GenericUndeadCampAdvantage05_Choice01",
@@ -6667,11 +6667,11 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice01",
-		"text": "Устроить засаду на культистов"
+		"text": "Устроить культистам засаду"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice02",
-		"text": "Distract the guards"
+		"text": "Отвлечь охрану"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice03",
