@@ -3351,7 +3351,7 @@
 	},
 	{
 		"id": "Player_snowWhite_name",
-		"text": "Пончик"
+		"text": "Пышка"
 	},
 	{
 		"id": "Player_fenris_name",
@@ -3555,7 +3555,7 @@
 	},
 	{
 		"id": "CombatStats_ContinueLabel",
-		"text": "Вернуться к карте"
+		"text": "Вернуться на карту"
 	},
 	{
 		"id": "AdventureStats_Valuables",

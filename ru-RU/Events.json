@@ -3,7 +3,7 @@
 "rows": [
 	{
 		"id": "GE_HealingWell01_Intro",
-		"text": "Вы попадаете в скалистую местность перемежающуюся труднопроходимыми массивами. В воздухе витает слабый запах серы. Раасуждая, не лучше ли обойти эту негостеприимную местность, вы замечаете окружённый камнями дымящийся водоём.[CTP]\n\nБирюзовые кристаллы придают краям бассейна небывалый цвет. Вы кажляете от едких паров, которые жгут ваше горло. Хотите сделать короткий привал или немедленно покинуть это место?"
+		"text": "Вы попадаете в скалистую местность перемежающуюся труднопроходимыми массивами. В воздухе витает слабый запах серы. Рассуждая, не лучше ли обойти эту негостеприимную местность, вы замечаете окружённый камнями дымящийся водоём.[CTP]\n\nБирюзовые кристаллы придают краям бассейна небывалый цвет. Вы кашляете от едких паров, которые жгут ваше горло. Хотите сделать короткий привал или немедленно покинуть это место?"
 	},
 	{
 		"id": "GE_HealingWell01_Choice03",
@@ -15,15 +15,15 @@
 	},
 	{
 		"id": "GE_HealingWell01_Rest01",
-		"text": "После короткого осмотра вы обнаружите, что вода приятно теплая, но совершенно неприятна на вкус. Начавшись с болтания ногами в воде всё закончилось освежающей групповой ванной в минеральном источнике.\n\nТеплая вода слегка обжагает ваши раны, но уже когда вы одеваетесь, вы чувствуете себя невероятно бодро."
+		"text": "После короткого осмотра вы обнаружите, что вода приятно теплая, но совершенно неприятна на вкус. Начавшись с болтания ногами в воде всё закончилось освежающей групповой ванной в минеральном источнике.\n\nТеплая вода слегка обжигает ваши раны, но уже когда вы одеваетесь, вы чувствуете себя невероятно бодро."
 	},
 	{
 		"id": "GE_HealingWell01_Rest02",
-		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различмая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз воверя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
+		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различимая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз вовремя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
 	},
 	{
 		"id": "GE_HealingWell01_Rest02_female",
-		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различмая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз воверя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
+		"text": "Когда вы расслабляетесь на краю бассейна и позволяете ногам болтаться в воде, вы внезапно видите большие пузыри, поднимающиеся со дна водоема. Спустя несколько мгновений едва различимая вибрация сотрясает землю под вами! [CTP]\n\nВы ныряете, чтобы обезопасить себя, и как раз вовремя: огромный фонтан перегретой воды проносится мимо вас в воздух! Ваши рефлексы спасли вас от худшего, но [char0] ошпарило водой."
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice01",
@@ -231,11 +231,11 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Stealth",
-		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к урытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
+		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к укрытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Stealth_female",
-		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к урытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
+		"text": "Это смелый план, но он может сработать. Солдаты связывают пленника и затем уходят в свой лагерь, чтобы переговорить вне пределов слышимости.[CTP]\n\n[char0] прокрадывается от укрытия к укрытию, пока наконец не добирается до пленника! Вы видите как [char0] перерезает путы вокруг лодыжек пленника."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_StealthW",
@@ -259,19 +259,19 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickW",
-		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
+		"text": "[char1] подбирает несколько камней и бросает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickW_female",
-		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
+		"text": "[char1] подбирает несколько камней и бросает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат. Они хватают свое оружие и бегут к урнам![CTP]\n\nВ считанные секунды [char1] добирается до пленника и разрезает путы вокруг его лодыжек. Вы исчезаете раньше, чем солдаты успевают что-либо заметить!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickF",
-		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро вас найдут – боя не избежать!"
+		"text": "[char1] подбирает несколько камней и бросает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро найдут вас – боя не избежать!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_TrickF_female",
-		"text": "[char1] подбирает несколько камней и бромает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро вас найдут – боя не избежать!"
+		"text": "[char1] подбирает несколько камней и бросает их в груду глиняных урн на другом конце зала. Громкий грохот настораживает солдат!\n\nОни хватают свое оружие и начинают поиск. Они скоро найдут вас – боя не избежать!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice06",
@@ -523,11 +523,11 @@
 	},
 	{
 		"id": "FE_WhiteCamels01_Intro",
-		"text": "As you travel through the endless desert, you see a small herd of wild camels on your right, plodding across the dunes in the distance. You see a mother camel with its foal, both as white as freshly driven snow, lagging behind the rest of the herd.\n\nAfter a few minutes, the shy animals turn and disappear among the dunes."
+		"text": "Во время путешествия по бесконечной пустыне вы замечаете справа от себя маленькое стадо диких верблюдов, шествующих через дюны. Вы видите мать-верблюдицу с её жеребёнком, оба белые как свежевыпавший снег, отставших от остального стада.\n\nЧерез несколько минут застенчивые животные повернули и исчезли среди дюн."
 	},
 	{
 		"id": "ME_OrientalTrader01_Intro",
-		"text": "A traveling merchant has set up camp at this oasis. When he sees you, he hastily spreads out his wares and gesticulates wildly in your direction."
+		"text": "В этом оазисе основал свой лагерь странствующий торговец. Заметив вас, он поспешно достаёт свои товары и активно машет вам."
 	},
 	{
 		"id": "ME_OrientalTrader01_Choice01",
@@ -615,15 +615,15 @@
 	},
 	{
 		"id": "RE_DateTreeGrove01_Intro",
-		"text": "Hidden in a dry river bed, you find a waterhole with a few date palms growing at its banks. The date palms are heavy with fruit, so you decide to take a break in this shady spot. \n\nThis is the perfect place to take an extended break. Do you want to rest here?"
+		"text": "Вы находите спрятанный в русле реки водопой, с растущими у его берегов финиковыми пальмами. Фрукты свисают с пальм, и вы решаете сделать привал в тени. \n\nЭто отличное место для долгого привала. Хотите здесь отдохнуть?"
 	},
 	{
 		"id": "RE_DateTreeGrove01_Choice01",
-		"text": "Take a long break"
+		"text": "Сделать долгий привал"
 	},
 	{
 		"id": "RE_DateTreeGrove01_Rest",
-		"text": "You pitch your camp. Exhausted, you allow yourself a short nap. After a short, dreamless sleep, you wake up reinvigorated. You break camp and set off again."
+		"text": "Вы разбиваете лагерь. Изнеможённые, вы позволяете себе немного вздремнуть. После короткого сна без сновидений вы просыпаетесь бодрые духом. Вы собираете вещи с снова отправляетесь в путь."
 	},
 	{
 		"id": "RE_DateTreeGrove01_Choice02",
@@ -1167,7 +1167,7 @@
 	},
 	{
 		"id": "RE_PalmCopse01_Intro",
-		"text": "You reach a waterhole surrounded by palm trees and some dry scrub. Apart from a few old hoof prints you see no further signs of activity. The cloudy water smells stale, but that was to be expected. \n\nThis would be a suitable place for a break. Do you want to camp here?"
+		"text": "Вы подходите к источнику, окружённому пальмовыми деревьями и сухим кустарником. Недалеко от нескольких старых отпечатков копыт вы замечаете другие следы активности. Мутная вода, как и ожидалось, затхлая на запах. \n\nЭто может стать подходящим местом для отдыха. Хотите разбить здесь лагерь?"
 	},
 	{
 		"id": "RE_PalmCopse01_Choice01",
@@ -1179,7 +1179,7 @@
 	},
 	{
 		"id": "RE_PalmCopse01_Rest",
-		"text": "You pitch camp and oil your weapons to protect them from the ubiquitous desert sand. A quick nap works wonders. After a simple meal, you set off again reinvigorated."
+		"text": "Вы разбиваете лагерь и натираете маслом своё оружие, чтобы защитить его от вездесущего пустынного песка. Быстрый сон пошёл на пользу. После простого перекуса вы с новыми силами отправляетесь в путь."
 	},
 	{
 		"id": "GE_LockedWellChamber01_Intro",
@@ -1303,7 +1303,7 @@
 	},
 	{
 		"id": "GE_Shadow01_Intro",
-		"text": "Exhausted by your journey, you take a short rest. A soft rustling rouses you from your slumber - you must have nodded off! You look up and see a tall, slender, ghostly silhouette, clad from head to toe in skin-tight black silk.\n\n[char0]: \"Le Fantôme - this is a surprise...\"\n\n[char0]: \"... but probably not a coincidence?\"[CTP]\n\nThe masked stranger shakes his head slowly. \n\n[char0]: \"Let me guess: You're on a mission of your own – and the details are none of our business, right?\" \n\nA slight nod. Is that an amused glint in his eyes? The wind whistles quietly through the crumbling ruins."
+		"text": "Утомлённые долгим путешествием, вы делаете короткий привал. Лёгкий шорох пробуждает вас от дрёмы - вы почти уснули! Вы поднимаете глаза и видите высокий, стройный, призрачный силуэт, укрытый с головы до пят в обтягивающий чёрный шёлк.\n\n[char0]: \"Ле Фантом- вот так сюрприз...\"\n\n[char0]: \"... но возможно, это не совпадение?\"[CTP]\n\nЧеловек в маске качает головой. \n\n[char0]: \"Дай угадаю: у тебя собственная миссия, а детали - не наше дело, верно?\" \n\nКороткий кивок. Что за странный блеск в его глазах? Ветер тихо свистит среди старинных руин."
 	},
 	{
 		"id": "GE_Shadow01_Choice01",
@@ -1315,11 +1315,11 @@
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Intro",
-		"text": "You reach the outer buildings of a small settlement. A surprise awaits you at the center of the village: It’s a brand new jeep! An ill-tempered looking man stands beside the vehicle. [CTP]\n\n[char0]: \"I gave a dozen good camels for this worthless heap of junk! Shame be on my head!\"\n\nSomething is wrong with the jeep. Perhaps this is an opportunity for you?"
+		"text": "Вы приближаетесь к домам небольшого поселения. В центре деревни вас ожидает сюрприз: там стоит совершенно новенький джип! Возле транспорта стоит угрюмый мужчина. [CTP]\n\n[char0]: \"Я отдал дюжину отличных верблюдов за эту бесполезную груду мусора! Позор на мою голову!\"\n\nЧто-то не так с джипом. Возможно, это отличная возможность для вас?"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Choice01",
-		"text": "Buy gasoline"
+		"text": "Купить топливо"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Choice02",
@@ -1327,7 +1327,7 @@
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Trade",
-		"text": "You soon reach an agreement: The man sells you all his gas at a reasonable price."
+		"text": "Вскоре вы достигаете согласия: мужчина продаёт всё своё топливо по разумной цене."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Intro",
@@ -1379,7 +1379,7 @@
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Intro",
-		"text": "A Wehrmacht jeep is parked in the shade of some palm trees. A lone soldier huddles beside a fire pit. A tin can simmers in the flames. Just as you are about to draw your weapons, he sees you and waves: \n\n[char0]: \"Relax! I'm on your side! I’m sick of it all: the endless heat, the pointless orders! I’ve had enough!\" [CTP]\n\nA deserter! As if he read your minds, the man nods jovially:\n\n[char0]: \"That’s right! I just want to live in peace - maybe in a little hut on an island somewhere! I just need a little cash to get started. Are you interested?\"\n\nWith these words he opens his crates and spreads his wares in front of you."
+		"text": "Под пальмовыми деревьями расположился джип Вермахта. Одинокий солдат ежится у костра. В котле над костром что-то кипит. В тот момент, когда вы собирались достать своё оружие, он замечает вас и машет: \n\n[char0]: \"Расслабьтесь! Я на вашей стороне! Я сыт по горло всем этим: бесконечная жара, бессмысленные приказы! С меня хватит!\" [CTP]\n\nДезертир! Как будто прочитав ваши мысли, мужчина весело кивает:\n\n[char0]: \"Всё верно! Я просто хочу спокойной жизни, например в маленькой хижине на каком-нибудь острове! Мне всего лишь нужно немного денег для начала. Может вас это заинтересует?\"\n\nС этими словами он открывает свои ящики и расставляет перед вами свои товары."
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Choice01",
@@ -1483,7 +1483,7 @@
 	},
 	{
 		"id": "FE_UnknownPlane01_Intro",
-		"text": "You hear the drone of propellers long before you see the menacing silhouette of the plane in the sky above you. \n\nYou crane your necks, but you cannot make out any markings. \n\nThe plane arcs past in wide circles before finally turning off and disappearing into the clouds."
+		"text": "Вы слышите рёв пропеллера задолго до того, как видите грозный силуэт самолёта в небе над вами. \n\nВы всматриваетесь, но не можете различить никаких знаков отличия. \n\nСамолёт пролетел по широкой дуге прежде чем в конце концов развернуться и скрыться в облаках."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Intro",
@@ -1523,7 +1523,7 @@
 	},
 	{
 		"id": "FE_ShotsFromNowhere01_Intro",
-		"text": "You take a short break when a sudden shot shatters the silence – fountains of sand explode at your feet!\n\nYou immediately take cover and scan the rocky landscape with your eyes, but you cannot see the shooter. You rush out to scour the surrounding area but your search is in vain. Warily, you continue your journey, but the mysterious attacker does not strike again."
+		"text": "Вы делаете короткий привал, как вдруг внезапный выстрел нарушает тишину и брызги песка поднимаются у ваших ног!\n\nВы немедленно прячетесь в укрытие и осматриваете каменный ландшафт, но не можете увидеть стрелка. Вы в в спешке рыскаете по окрестностям, но ваши поиски оказываются напрасными. Вы осторожно продолжаете своё путешествие, но мистический стрелок больше не проявлял себя."
 	},
 	{
 		"id": "SE_Adventure01Clue01_Intro",
@@ -1787,15 +1787,15 @@
 	},
 	{
 		"id": "LE_GraveRobberCache01_Intro",
-		"text": "After a long, exhausting journey you take a short rest in the shadow of a rock formation that protrudes like a lonely, admonishing finger from the monotony of the desert. [CTP]\n\nYou prepare to continue your journey after a short rest. As you gather your things, you discover some cloth-wrapped bundles hidden in a nearby niche in the rocks. \n\nYou untie the bundles and your suspicions are confirmed: You have come across the secret stash of some local grave robbers!"
+		"text": "После долгого, изматывающего путешествия вы делаете остановку в тени каменного образования, которое выступает из однообразной поверхности пустыни как вытянутый палец. [CTP]\n\nПосле короткого отдыха вы готовы продолжить путь. Во время сбора своих вещей вы заметили узелок из ткани, спрятанный в ближайшей нише камня. \n\nВы развязываете узелок и подозрения подтверждаются: вы натолкнулись на тайник местных расхитителей могил!"
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Intro",
-		"text": "You suddenly see something flash in the endless sea of ​​dunes. \n\nYou soon come to a track that crosses your path: You see the tire tracks of several vehicles – probably a German military convoy. [CTP]\n\nYour suspicions are confirmed when you find a long line of jerrycans scattered along the edge of the track: German army supplies! They probably fell off a truck during a night convoy!\n\nThe jerrycans are full of gasoline!"
+		"text": "Внезапно вы замечаете что-то блестящее в бесконечном море дюн. \n\nВскоре вы видите след, пересекающий ваш путь: это след нескольких машин, возможно военного немецкого конвоя. [CTP]\n\nВаши подозрения подтверждаются, когда вы обнаруживаете длинную вереницу из канистр, разбросанный сбоку от следов: припасы немецкой армии! Должно быть они сбились с дороги во время ночного переезда!\n\nВ канистрах полно горючего!"
 	},
 	{
 		"id": "LE_FleeingNaziScouts01_Intro",
-		"text": "In the shade of an ancient colonnade, two German soldiers have set up an improvised camp. They are clearly scouts on a reconnaissance mission. \n\nWhen they see you approaching, they jump frantically into their jeep and race full throttle across the dunes, leaving a huge cloud of sand behind them. [CTP] \n\nYou exchange somewhat confused glances – you must look fearsome indeed! Then your gaze falls on the Wehrmacht crates, that the two war heroes left behind in their hurry to escape: You quickly open the crates and rummage through their contents. You don’t wait around to see if the soldiers return with reinforcements."
+		"text": "В тени древней колоннады два немецких солдата разбили импровизированный лагерь. Это явно разведчики на своей миссии. \n\nКогда они замечают, как вы приближаетесь, они немедленно прыгают в свой джип и на полном газу удаляются, оставляя за собой огромное песчаное облако. [CTP] \n\nВы обмениваетесь удивлёнными взглядом – должно быть вы выглядели действительно устрашающе! Затем ваш взгляд падает на ящики Вермахта, которые оставили эти два героя войны, пока спешили убежать: вы быстро открываете ящики и роетесь в содержимом. Вы не собираетесь ждать, пока солдаты вернуться с подкреплением."
 	},
 	{
 		"id": "LE_VillageVault01_Intro",
@@ -1847,31 +1847,31 @@
 	},
 	{
 		"id": "AE_TankLeak01_Intro",
-		"text": "You have been making good progress, so you're in high spirits when you take a short break. \n\nAfter a quick meal, you are about to continue your journey when you make an unpleasant discovery: The sand and rocky ground around your jeep is soaked in gasoline. [CTP]\n\nA hasty inspection confirms your suspicions: A pebble must have hit the tank at full speed and ripped open a small hole from which gasoline is now slowly dripping. \n\nThe hole is quickly plugged, but the damage is done!"
+		"text": "Вы успешно продвигаетесь в своей миссии, поэтому во время короткого привала у всех приподнятое настроение. \n\nПосле быстрого перекуса вы собираетесь продолжить своё путешествие, но тут же делаете неприятное открытие: песок и камни вокруг вашего джипа пропитаны бензином. [CTP]\n\nБыстрый осмотр подтвердил подозрения: должно быть какой-то камешек на полной скорости  ударил по бензобаку и пробил маленькую дырочку, через которую теперь медленно вытекает бензин. \n\nДырку заделали, но потерянного не вернуть!"
 	},
 	{
 		"id": "AE_Quicksand01_Intro",
-		"text": "You take a short break in the endless sea of sand dunes."
+		"text": "Не делаете небольшой привал посреди бескрайнего моря песчаных дюн."
 	},
 	{
 		"id": "AE_Quicksand01_SurvivalW",
-		"text": "As you take a short walk to stretch your tired limbs a little, [char0] suddenly raises his hand in warning: \n\n[char0]: \"Stop! That’s quicksand up ahead! I’ve seen entire caravans disappear in sand fields like these.\"\n\nYou heed his warning and keep a respectful distance from the quicksand. You are soon on your way again."
+		"text": "Когда вы встаёте, чтобы немного размять ноги, [char0] внезапно поднимает руку и кричит: \n\n[char0]: \"Стойте! Впереди зыбучие пески! Я видел как целые караваны исчезали в песчаных полях как это.\"\n\nВы прислушиваетесь к предупреждению и держитесь на почтительной дистанции от зыбучих песков. Вскоре вы уже снова в пути."
 	},
 	{
 		"id": "AE_Quicksand01_SurvivalW_female",
-		"text": "As you take a short walk to stretch your tired limbs a little, [char0] suddenly raises her hand in warning: \n\n[char0]: \"Stop! That’s quicksand up ahead! I’ve seen entire caravans disappear in sand fields like these.\"\n\nYou heed her warning and keep a respectful distance from the quicksand. You are soon on your way again."
+		"text": "Когда вы встаёте, чтобы немного размять ноги, [char0] внезапно поднимает руку и кричит: \n\n[char0]: \"Стойте! Впереди зыбучие пески! Я видела как целые караваны исчезали в песчаных полях как это.\"\n\nВы прислушиваетесь к предупреждению и держитесь на почтительной дистанции от зыбучих песков. Вскоре вы уже снова в пути."
 	},
 	{
 		"id": "AE_Quicksand01_Lucky",
-		"text": "After a short walk to stretch your tired limbs a little, you're on your way again."
+		"text": "После небольшой прогулки для разминки уставших ног, вы снова отправляетесь в путь."
 	},
 	{
 		"id": "AE_Quicksand01_Unlucky",
-		"text": "A short time later, you hear a smothered cry for help! You rush over the next dune ridge – and see [char1] floundering and up to his chest in quicksand! [char1] waves his arms in desperation and sinks ever deeper into the sand right before your eyes! \n\nYou immediately throw him a rope and pull with all your might. [CTP]\n\nThe quicksand refuses to release its prey without a fight, but eventually you manage it: You lie in the sand, panting heavily and drenched in sweat. [char1]’s equipment has been badly damaged."
+		"text": "Спустя некоторое время вы слышите сдавленный крик о помощь! Вы бежите к гребню соседней дюны и видите, как [char1] барахтается по грудь в зыбучих песках! [char1] отчаянно машет руками и прямо на ваших глазах всё глубже тонет в песках! \n\nВы немедленно бросаете ему верёвку и тянете изо всех сил. [CTP]\n\nЗыбучие пески не хотят отдавать свою добычу без борьбы, но в конце концов вы справляетесь: тяжело дыша и обливаясь потом вы падаете на песок. [char1] замечает, как повреждено его снаряжение."
 	},
 	{
 		"id": "AE_Quicksand01_Unlucky_female",
-		"text": "A short time later, you hear a smothered cry for help! You rush over the next dune ridge – and see [char1] floundering and up to her chest in quicksand! [char1] waves her arms in desperation and sinks ever deeper into the sand right before your eyes!\n\nYou immediately throw her a rope and pull with all your might. [CTP]\n\nThe quicksand refuses to release its prey without a fight, but eventually you manage it: You lie in the sand, panting heavily and drenched in sweat. [char1]’s equipment has been badly damaged."
+		"text": "Спустя некоторое время вы слышите сдавленный крик о помощь! Вы бежите к гребню соседней дюны и видите, как [char1] барахтается по грудь в зыбучих песках! [char1] отчаянно машет руками и прямо на ваших глазах всё глубже тонет в песках! \n\nВы немедленно бросаете ей верёвку и тянете изо всех сил. [CTP]\n\nЗыбучие пески не хотят отдавать свою добычу без борьбы, но в конце концов вы справляетесь: тяжело дыша и обливаясь потом вы падаете на песок. [char1] замечает, как повреждено ее снаряжение."
 	},
 	{
 		"id": "AE_OldMiningShaft01_Intro",
@@ -2159,7 +2159,7 @@
 	},
 	{
 		"id": "GE_OrientalTinkerer01_Intro",
-		"text": "The small village seems deserted, but then you hear muffled hammering. You follow the sound and come to a small workshop. Its owner, a tinker, is so absorbed in his work that he only notices you when you are standing in front of him. [CTP]\n\nYou enter into conversation and the man invites you to a simple meal. When his gaze falls on your worn clothes, he tuts reproachfully and insists on mending them. You enjoy your host’s date cakes and mint tea and swap travelers’ tales while the tinker fixes your clothes and equipment. [CTP]\n\nBy the time you take your leave, your clothes are as good as new. You thank him profusely, but the tinker gestures modestly."
+		"text": "Маленькая деревня выглядит пустынной, но затем вы слышите приглушённый стук. Вы идёте на звук и приходите к небольшой мастерской. Её владелец, ремесленник, так поглощён работой, что замечает вас только тогда, когда вы становитесь прямо перед ним. [CTP]\n\nВы заводите разговор и мужчина приглашает вас на скромный обед. Когда он бросает взгляд на вашу изношенную одежду, неодобрительно цокает и настаивает на её починке. Вы угощаетесь финиковым пирогом и мятным чаем и рассказываете байки путешественников, пока ремесленник чинит вашу одежду и снаряжение. [CTP]\n\nК тому времени, когда вам уже пора уходить, ваша одежда становится как новенькая. Вы хотите щедро его отблагодарить, но ремесленник скромно качает головой."
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_A_Intro",
@@ -2683,23 +2683,23 @@
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Revisit",
-		"text": "The deserter is still camped by the palms.\n\n[char0]: \"I thought I might see you again.\""
+		"text": "Дезертир всё ещё сидит в лагере под пальмами.\n\n[char0]: \"Я надеялся снова вас увидеть.\""
 	},
 	{
 		"id": "ME_OrientalTrader01_Revisit",
-		"text": "The traveling merchant leaps up from his camp when he sees you."
+		"text": "Едва завидев вас, странствующий торговец выскакивает из своего лагеря."
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Revisit",
-		"text": "When you return to the village, the jeep is still there, as is the ill-tempered man."
+		"text": "Когда вы возвращаетесь в посёлок, джип всё ещё стоит там, как и угрюмый мужчина."
 	},
 	{
 		"id": "RE_DateTreeGrove01_Revisit",
-		"text": "You follow the dried up river bed and make your way back to the waterhole with its inviting date palms."
+		"text": "Вы идёте вдоль берега высохшей реки и возвращаетесь обратно к водопою с манящими финиковыми пальмами."
 	},
 	{
 		"id": "RE_PalmCopse01_Revisit",
-		"text": "After a short search, you find the waterhole and its scraggy palms again."
+		"text": "После непродолжительных поисков вы находите водопой с тощими пальмами."
 	},
 	{
 		"id": "RE_GenericOasis01_A_Revisit",
@@ -3531,11 +3531,11 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_CriticalFail",
-		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопан по бедра в щебень! Потребовалось некоторое время, чтобы его освободить. Похоже,что [char1] ранил правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам приходится вернуться обратно."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопан по бедра в щебень! Потребовалось некоторое время, чтобы его освободить. Похоже, [char1] ранил правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам придётся вернуться обратно."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_CriticalFail_female",
-		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопана по бедра в щебень! Потребовалось некоторое время, чтобы ее освободить. Похоже,что [char1] ранила правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам приходится вернуться обратно."
+		"text": "Вы продвигаетесь вперед осторожными короткими шагами. Сначала с потолка падает только пыль и песок, но внезапно весь потолок начинает рушиться: обломки и земля заполняют узкое пространство вокруг вас!\n\nКогда пыль оседает, вы замечаете, что [char1] закопана по бедра в щебень! Потребовалось некоторое время, чтобы ее освободить. Похоже, [char1] ранила правую ногу! [CTP]\n\nК сожалению, вы больше не можете попасть в склеп и вам придётся вернуться обратно."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_ AltarRoom",
@@ -5719,7 +5719,7 @@
 	},
 	{
 		"id": "LE_CursedAltar01_Title",
-		"text": "A lone shrine"
+		"text": "Одинокий алтарь"
 	},
 	{
 		"id": "LE_DerelictCar01_Title",
@@ -5731,7 +5731,7 @@
 	},
 	{
 		"id": "LE_GraveRobberCache01_Title",
-		"text": "A rock in the desert"
+		"text": "Камень в пустыне"
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Title",
@@ -5807,7 +5807,7 @@
 	},
 	{
 		"id": "GE_OrientalTinkerer01_Title",
-		"text": "A remote village"
+		"text": "Удалённая деревня"
 	},
 	{
 		"id": "BE_GenericNaziTempleStoneAdvantage01_Title",
@@ -6979,11 +6979,11 @@
 	},
 	{
 		"id": "LE_FailedInvocation01_Title",
-		"text": "An old burial site"
+		"text": "Старое место захоронения"
 	},
 	{
 		"id": "LE_FailedInvocation01_Intro",
-		"text": "As you enter the graveyard, you hear panicked screams somewhere ahead of you! \n\nMoments later, you are almost overrun by a crowd of stampeding cultists! You draw your weapons, but the panicked cultists do not even notice you... [CTP] \n\nWhen the last cultist has disappeared, an oppressive silence hangs over the necropolis. You exchange nervous glances... \n\n... and decide to get to the bottom of this mystery! [CTP]\n\nA short time later, you find the place the cultists were fleeing: a small, blood-soaked altar surrounded by several smoldering braziers. \n\nYou look around carefully, but you do not find anything else."
+		"text": "По мере приближения к кладбищу вы начинаете слышать где-то впереди панические крики! \n\nНесколько мгновений спустя, вас почти настигает толпа бегущих в панике культистов! Вы достаете оружие, но культисты в панике даже не замечают вас... [CTP] \n\nКогда исчез последний культист, над некрополем нависает зловещая тишина. Вы обмениваетесь нервным взглядом... \n\n... и решаете разобраться в причинах этого загадочного происшествия! [CTP]\n\nЧерез некоторое время вы находите место, откуда убегали культисты: небольшой окровавленный алтарь, окружённый тлеющими кострами. \n\nВы осторожно осматриваетесь, но не больше ничего не находите."
 	},
 	{
 		"id": "LE_FailedInvocation01_Choice01",
@@ -6995,15 +6995,15 @@
 	},
 	{
 		"id": "LE_FailedInvocation01_Unlucky",
-		"text": "Just as you reach the braziers, the entire place reverberates with a deep and terrible sound – as if the Earth itself were groaning in pain! You feel a painful pressure in your ears. \n\nSuddenly, [char0] collapses to the ground, twitching! He writhes around in the sand as if in unbearable agony! [CTP]\n\nWith all your strength, you grab [char0] and drag him away from the altar. It takes a while for [char0] to regain consciousness. You anxiously question him about the seizure, but [char0] stubbornly refuses to talk about it..."
+		"text": "Как только вы приближаетесь к кострам, округу сотрясает ужасный низкий звук - как-будто сама Земля стонет от боли! Вы чувствуете болезненное давление в ушах. \n\nВнезапно [char0] в судорогах падает на землю! Он корчится на песке в невыносимой агонии! [CTP]\n\nИзо всех сил вы хватаете и оттаскиваете его прочь от алтаря. Потребовалось некоторое время прежде чем [char0] приходит в сознание. Вы с тревогой спрашиваете его о припадке, но [char0] отказывается об этом говорить..."
 	},
 	{
 		"id": "LE_FailedInvocation01_Unlucky_female",
-		"text": "Just as you reach the braziers, the entire place reverberates with a deep and terrible sound – as if the Earth itself were groaning in pain! You feel a painful pressure in your ears. \n\nSuddenly, [char0] collapses to the ground, twitching! She writhes around in the sand as if in unbearable agony! [CTP]\n\nWith all your strength, you grab [char0] and drag her away from the altar. It takes a while for [char0] to regain consciousness. You anxiously question her about the seizure, but [char0] stubbornly refuses to talk about it..."
+		"text": "Как только вы приближаетесь к кострам, округу сотрясает ужасный низкий звук - как-будто сама Земля стонет от боли! Вы чувствуете болезненное давление в ушах. \n\nВнезапно [char0] в судорогах падает на землю! Она корчится на песке в невыносимой агонии! [CTP]\n\nИзо всех сил вы хватаете и оттаскиваете ее прочь от алтаря. Потребовалось некоторое время прежде чем [char0] приходит в сознание. Вы с тревогой спрашиваете ее о припадке, но [char0] отказывается об этом говорить..."
 	},
 	{
 		"id": "LE_FailedInvocation01_Lucky",
-		"text": "Clouds of smoke fill the air, almost choking you. Among the pools of coagulated blood on the altar, you find some interesting-looking offerings. You grab them quickly and leave this strange place before the cultists return."
+		"text": "Удушливый дым наполняет воздух. На алтаре, среди луж свернувшейся крови, вы обнаруживаете несколько интересных подношений. Вы быстро их забираете и покидаете это странное место до того, прежде, чем вернутся культисты."
 	},
 	{
 		"id": "LE_FungusOfDeath01_Title",
@@ -7459,15 +7459,15 @@
 	},
 	{
 		"id": "FA_OutOfFuel_Intro",
-		"text": "When you’ve used up the last drop of gas, your jeep finally gives up the ghost and sputters to a halt. \n\nYou exchange looks of consternation.\n\nWill you continue your journey on foot or give up?"
+		"text": "Когда закончилась последняя капля топлива, ваш джип в конце концов испускает дух и резко останавливается. \n\nВы обмениваетесь испуганными взглядами.\n\nПродолжите ли вы свой путь пешком или сдадитесь?"
 	},
 	{
 		"id": "FA_OutOfFuel_Choice01",
-		"text": "Continue on foot"
+		"text": "Продолжить путь пешком"
 	},
 	{
 		"id": "FA_OutOfFuel_Choice02",
-		"text": "Give up"
+		"text": "Сдаться"
 	},
 	{
 		"id": "FA_TeamDied_Intro",
@@ -8275,99 +8275,99 @@
 	},
 	{
 		"id": "FE_Nothing01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingUndeadBlack01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingUndeadWhite01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_Nothing01_Intro",
-		"text": "There is nothing of interest here."
+		"text": "Здесь нет ничего интересного."
 	},
 	{
 		"id": "FE_NothingAmmoLoot01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingAmmoLootUndeadBlack01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingAmmoLootUndeadWhite01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLoot01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLoot01UndeadBlack01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_NothingFuelLootUndeadWhite01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "CU_Fenrir01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "CU_Fenrir01_Intro",
-		"text": "Head bowed, you stare silently ahead of you. When you finally sit down exhausted, you feel totally drained. \n\nSo tired... [CTP]\n\nYou look up at the sound of soft paws in the desert sands. \n\nEmerging from between the rocks you spot a German shepherd dog. Instinctively you reach for your weapon, but the animal appears to be alone, just like you. \n\nHesitantly, the black dog trots towards you and sniffs at you suspiciously."
+		"text": "Склонив голову, вы молча смотрите перед собой. Изнемогая от усталости, вы садитесь и чувствуете себя опустошённым. \n\nТаким уставшим... [CTP]\n\nВы оглядываетесь на звук лап, идущих по мягкому песку. \n\nВыйдя из-за скал вы замечаете немецкую овчарку. Вы инстинктивно тянетесь за оружием, но животное оказывается таким же одиноким, как и вы. \n\nЧёрная собака нерешительно подходит к вам и с интересом обнюхивает."
 	},
 	{
 		"id": "CU_Fenrir01_BFF",
-		"text": "As you scratch at his neck, you find a German dog tag:\n\n[char0]: \"Fenris, huh? Did they treat you badly, you little deserter?\"\n\nThe dog yaps eagerly, as if in agreement. He then pants excitedly and wags his tail. [CTP]\n\nA wave of confidence flows through you. \n\nYou get in the car and pat encouragingly on the passenger seat.\n\n[char0]: \"Come on, boy! We’ve got work to do...\""
+		"text": "Вы чешите псу шею и находите немецкий собачий жетон:\n\n[char0]: \"Фенрис, значит? Они обращались с тобой плохо, маленький дезертир?\"\n\nБудто соглашаясь, пёс нетерпеливо тявкает. Затем он задорно высовывает язык и начинает вилять хвостом. [CTP]\n\nВас наполняет волна уверенности. \n\nВы забираетесь в машину и ободряюще хлопаете по пассажирскому сиденью.\n\n[char0]: \"Давай, мальчик! У нас есть работа...\""
 	},
 	{
 		"id": "CU_SnowWhite01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "CU_SnowWhite01_Intro",
-		"text": "You sit down in the sand, exhausted. \n\nProfound despair rises slowly from deep within you. \n\nCould this be the end of your journey? [CTP]\n\nA fleeting movement at the edge of your field of vision shakes you from your gloomy thoughts. \n\nYou look up and see a snow-white wolfhound peering at you from the shadows of the rocks."
+		"text": "Безумно устав, вы садитесь на песок. \n\nВас постепенно накрывает полное отчаяние. \n\nМожет это уже конец вашего путешествия? [CTP]\n\nКраем глаза вы замечаете промелькнувшую тень и отвлекаетесь от мрачных мыслей. \n\nВы видите белоснежного волкодава, который смотрит на вас из тени скал."
 	},
 	{
 		"id": "CU_SnowWhite01_BFF",
-		"text": "You carefully reach into your breast pocket and fish out the rock-hard donut you had been saving for a special occasion. \n\nThe shy creature hesitates first, but then creeps forward suspiciously. [CTP] \n\nWith ravenous hunger, it devours the donut and licks your hands clean with its rough tongue. You feel your will to live returning as the animal nuzzles at you. [CTP]\n\nYou open the passenger door and wave the dog in:\n\n[char0]: \"Donut, I think this might be the beginning of a beautiful friendship...\""
+		"text": "Вы осторожно тянетесь к нагрудному карману и достаёте из него окаменевшую пышку, которую вы сохранили для особого случая. \n\nСобака сначала колеблется, но затем осторожно приближается. [CTP] \n\nОна жадно съедает пышку и дочиста облизывает ваши руки. Вы чувствуете, как воля к жизни возвращается, когда животное утыкается в вас своим носом. [CTP]\n\nВы открываете пассажирскую дверь и машете собаке:\n\n[char0]: \"Пышка, я думаю, что для нас это начало отличной дружбы...\""
 	},
 	{
 		"id": "FA_FenrirDied01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_FenrirDied01_Intro",
-		"text": "Shaking your head, you stand by the grave you just dug for your four-legged friend – it all seems so pointless...\n\nDon't people usually say a prayer at times like these? \n\nYou rack your heat-addled brains for something fitting but nothing comes to you."
+		"text": "Качая головой вы стоите над могилой, которую недавно вырыли для своего четвероногого друга; всё выглядит таким бессмысленным...\n\nНаверное, в такие моменты, люди читают молитву? \n\nВы напрягаете свои перегретые на жаре мозги в поисках подходящих слов, но ничего не приходит в голову."
 	},
 	{
 		"id": "FA_FenrirDied01_CryNow",
-		"text": "In the end, you improvise: \n\n[char0]: \"Fenris was a loyal companion.\"\n\nNo, that's not good enough! You clear your throat and start again:\n\n[char0]: \"Fenris was a true friend. He died as he lived: free and proud. We will miss him forever.\" [CTP]\n\nWe? \n\nTormented, you laugh. Who are you kidding out here in this wasteland? \n\nForgotten and alone, your journey ends here..."
+		"text": "В конце концов, вы импровизируете: \n\n[char0]: \"Фенрис был верным другом.\"\n\nНет, это не достаточно хорошие слова! Вы прочищаете горло и начинаете снова:\n\n[char0]: \"Фенрис был настоящим другом. Он умер также, как жил: свободный и гордый. Мы всегда будем скучать по нему.\" [CTP]\n\nМы? \n\nВы смеётесь в изнеможении. Кого вы пытаетесь обмануть здесь, в этой пустоши? \n\nЗабытый и одинокий, ваше путешествие оканчивается здесь..."
 	},
 	{
 		"id": "FA_SnowWhiteDied01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_SnowWhiteDied01_Intro",
-		"text": "[char0]: \"Donut, old girl! Come on, we need to get going!\"\n\nBut Donut doesn't move; the animal lies on its side, panting. \n\nThe helpless look in her gentle eyes shakes you to the core. [CTP]\n\nYou look away and feverishly scour your pockets for something to eat. \n\nThere! An old ship's biscuit!"
+		"text": "[char0]: \"Пышка, старушка! Вставай же, нам нужно идти!\"\n\nНо Пышка не двигается; животное лежит на боку, тяжело дыша. \n\nБеспомощный взгляд её добрых глаз потрясают вас до глубины души. [CTP]\n\nВы отворачиваетесь и в спешке роетесь в карманах в поисках чего-нибудь съедобного. \n\nВот он! Старый судовый бисквит!"
 	},
 	{
 		"id": "FA_SnowWhiteDied01_CryNow",
-		"text": "But you look up again into Donut's lifeless gaze and something breaks inside you. \n\nYou struggle to maintain your composure, but there's no denying it: Your journey together has come to an end. \n\nIt’s time to admit defeat..."
+		"text": "Вы снова смотрите в безжизненные глаза Пышки, и что-то внутри вас ломается. \n\nИзо всех сил вы пытаетесь сохранять самообладание, но нет смысла отрицать: ваше совместное путешествие окончено. \n\nПришло время признать поражение..."
 	},
 	{
 		"id": "FA_AloneRescue01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_AloneRescue01_Intro",
-		"text": "You squat helplessly in the sand next to your jeep and stare into the distance.\n\nYou scan the endless horizon, then shake your head: No, you are the only human being for many miles. [CTP]\n\nContinuing your journey alone through this desolate wilderness would be your certain end!\n\nYou sigh.\n\nMaybe this is a good time to see how your radio has weathered the rigors of the journey..."
+		"text": "Вы беспомощно сидите на корточках возле джипа и смотрите в даль.\n\nВы осматриваете бесконечный горизонт, затем трясёте головой: нет, вы здесь единственный человек на много миль вокруг. [CTP]\n\nПродолжать путь в одиночку через дикую пустыню равносильно самоубийству!\n\nВы вздыхаете.\n\nВозможно сейчас подходящий момент проверить, как ваш приёмник перенёс тяготы путешествия..."
 	},
 	{
 		"id": "FA_TeamDied01_Title",
@@ -8447,39 +8447,39 @@
 	},
 	{
 		"id": "CU_Fenrir01_Intro_female",
-		"text": "Head bowed, you stare silently ahead of you. When you finally sit down exhausted, you feel totally drained. \n\nSo tired... [CTP]\n\nYou look up at the sound of soft paws in the desert sands. \n\nEmerging from between the rocks you spot a German shepherd dog. Instinctively you reach for your weapon, but the animal appears to be alone, just like you. \n\nHesitantly, the black dog trots towards you and sniffs at you suspiciously."
+		"text": "Склонив голову, вы молча смотрите перед собой. Изнемогая от усталости, вы садитесь и чувствуете себя опустошённой. \n\nТакой уставшей... [CTP]\n\nВы оглядываетесь на звук лап, идущих по мягкому песку. \n\nВыйдя из-за скал вы замечаете немецкую овчарку. Вы инстинктивно тянетесь за оружием, но животное оказывается таким же одиноким, как и вы. \n\nЧёрная собака нерешительно подходит к вам и с интересом обнюхивает"
 	},
 	{
 		"id": "CU_Fenrir01_BFF_female",
-		"text": "As you scratch at his neck, you find a German dog tag:\n\n[char0]: \"Fenris, huh? Did they treat you badly, you little deserter?\"\n\nThe dog yaps eagerly, as if in agreement. He then pants excitedly and wags his tail. [CTP]\n\nA wave of confidence flows through you. \n\nYou get in the car and pat encouragingly on the passenger seat.\n\n[char0]: \"Come on, boy! We’ve got work to do...\""
+		"text": "Вы чешите псу шею и находите немецкий собачий жетон:\n\n[char0]: \"Фенрис, значит? Они обращались с тобой плохо, маленький дезертир?\"\n\nБудто соглашаясь, пёс нетерпеливо тявкает. Затем он задорно высовывает язык и начинает вилять хвостом. [CTP]\n\nВас наполняет волна уверенности. \n\nВы забираетесь в машину и ободряюще хлопаете по пассажирскому сиденью.\n\n[char0]: \"Давай, мальчик! У нас есть работа...\""
 	},
 	{
 		"id": "CU_SnowWhite01_Intro_female",
-		"text": "You sit down in the sand, exhausted.\n \nProfound despair rises slowly from deep within you. \n\nCould this be the end of your journey? [CTP]\n\nA fleeting movement at the edge of your field of vision shakes you from your gloomy thoughts. \n\nYou look up and see a snow-white wolfhound peering at you from the shadows of the rocks."
+		"text": "Безумно устав, вы садитесь на песок. \n\nВас постепенно накрывает полное отчаяние. \n\nМожет это уже конец вашего путешествия? [CTP]\n\nКраем глаза вы замечаете промелькнувшую тень и отвлекаетесь от мрачных мыслей. \n\nВы видите белоснежного волкодава, который смотрит на вас из тени скал."
 	},
 	{
 		"id": "CU_SnowWhite01_BFF_female",
-		"text": "You carefully reach into your breast pocket and fish out the rock-hard donut you had been saving for a special occasion. \n\nThe shy creature hesitates first, but then creeps forward suspiciously. [CTP] \n\nWith ravenous hunger, it devours the donut and licks your hands clean with its rough tongue. You feel your will to live returning as the animal nuzzles at you. [CTP]\n\nYou open the passenger door and wave the dog in:\n\n[char0]: \"Donut, I think this might be the beginning of a beautiful friendship...\""
+		"text": "Вы осторожно тянетесь к нагрудному карману и достаёте из него окаменевшую пышку, которую вы сохранили для особого случая. \n\nСобака сначала колеблется, но затем осторожно приближается. [CTP] \n\nОна жадно съедает пышку и дочиста облизывает ваши руки. Вы чувствуете, как воля к жизни возвращается, когда животное утыкается в вас своим носом. [CTP]\n\nВы открываете пассажирскую дверь и машете собаке:\n\n[char0]: \"Пышка, я думаю, что для нас это начало отличной дружбы...\""
 	},
 	{
 		"id": "FA_FenrirDied01_Intro_female",
-		"text": "Shaking your head, you stand by the grave you just dug for your four-legged friend – it all seems so pointless...\n\nDon't people usually say a prayer at times like these? \n\nYou rack your heat-addled brains for something fitting but nothing comes to you."
+		"text": "Качая головой вы стоите над могилой, которую недавно вырыли для своего четвероногого друга; всё выглядит таким бессмысленным...\n\nНаверное, в такие моменты, люди читают молитву? \n\nВы напрягаете свои перегретые на жаре мозги в поисках подходящих слов, но ничего не приходит в голову."
 	},
 	{
 		"id": "FA_FenrirDied01_CryNow_female",
-		"text": "In the end, you improvise: \n\n[char0]: \"Fenris was a loyal companion.\"\n\nNo, that's not good enough! You clear your throat and start again:\n\n[char0]: \"Fenris was a true friend. He died as he lived: free and proud. We will miss him forever.\" [CTP]\n\nWe? \n\nTormented, you laugh. Who are you kidding out here in this wasteland? \n\nForgotten and alone, your journey ends here..."
+		"text": "В конце концов, вы импровизируете: \n\n[char0]: \"Фенрис был верным другом.\"\n\nНет, это не достаточно хорошие слова! Вы прочищаете горло и начинаете снова:\n\n[char0]: \"Фенрис был настоящим другом. Он умер также, как жил: свободный и гордый. Мы всегда будем скучать по нему.\" [CTP]\n\nМы? \n\nВы смеётесь в изнеможении. Кого вы пытаетесь обмануть здесь, в этой пустоши? \n\nЗабытая и одинокая, ваше путешествие оканчивается здесь..."
 	},
 	{
 		"id": "FA_SnowWhiteDied01_Intro_female",
-		"text": "[char0]: \"Donut, old girl! Come on, we need to get going!\"\n\nBut Donut doesn't move; the animal lies on its side, panting. \n\nThe helpless look in her gentle eyes shakes you to the core. [CTP]\n\nYou look away and feverishly scour your pockets for something to eat. \n\nThere! An old ship's biscuit!"
+		"text": "[char0]: \"Пышка, старушка! Вставай же, нам нужно идти!\"\n\nНо Пышка не двигается; животное лежит на боку, тяжело дыша. \n\nБеспомощный взгляд её добрых глаз потрясают вас до глубины души. [CTP]\n\nВы отворачиваетесь и в спешке роетесь в карманах в поисках чего-нибудь съедобного. \n\nВот он! Старый судовый бисквит!"
 	},
 	{
 		"id": "FA_SnowWhiteDied01_CryNow_female",
-		"text": "But you look up again into Donut's lifeless gaze and something breaks inside you. \n\nYou struggle to maintain your composure, but there's no denying it: Your journey together has come to an end. \n\nIt’s time to admit defeat..."
+		"text": "Вы снова смотрите в безжизненные глаза Пышки, и что-то внутри вас ломается. \n\nИзо всех сил вы пытаетесь сохранять самообладание, но нет смысла отрицать: ваше совместное путешествие окончено. \n\nПришло время признать поражение..."
 	},
 	{
 		"id": "FA_AloneRescue01_Intro_female",
-		"text": "You squat helplessly in the sand next to your jeep and stare into the distance. \n\nYou scan the endless horizon, then shake your head: No, you are the only human being for many miles. [CTP] \n\nContinuing your journey alone through this desolate wilderness would be your certain end! \n\nYou sigh. \n\nMaybe this is a good time to see how your radio has weathered the rigors of the journey..."
+		"text": "Вы беспомощно сидите на корточках возле джипа и смотрите в даль.\n\nВы осматриваете бесконечный горизонт, затем трясёте головой: нет, вы здесь единственный человек на много миль вокруг. [CTP]\n\nПродолжать путь в одиночку через дикую пустыню равносильно самоубийству!\n\nВы вздыхаете.\n\nВозможно сейчас подходящий момент проверить, как ваш приёмник перенёс тяготы путешествия..."
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Trailer_title",
@@ -8499,127 +8499,127 @@
 	},
 	{
 		"id": "FE_CavedInTemple01_Intro",
-		"text": "In the distance you see what looks like an old temple structure. You stop to investigate and realise the entrance has caved in long ago."
+		"text": "Вдалеке вы замечаете нечто, напоминающее старинный храм. Вы делаете остановку, чтобы его осмотреть и понимаете, что вход давно обвалился."
 	},
 	{
 		"id": "FE_MineEntrance01_Intro",
-		"text": "You pass an old abandoned mine entrance. It is not accessible."
+		"text": "Вы проходите мима входа в заброшенную шахту. Попасть туда не представляется возможным."
 	},
 	{
 		"id": "FE_BunkerEntrace01_Intro",
-		"text": "You notice a bunker in the distance. On closer inspection you realise it is locked tight."
+		"text": "Вдалеке вы замечаете бункер. При более близком осмотре вы понимаете, что он плотно заперт."
 	},
 	{
 		"id": "FE_ClosedWell01_Intro",
-		"text": "Not far from the road you see an old water cistern. It is completely dried up."
+		"text": "Недалеко от дороги вы замечаете старую водную цистерну. Она абсолютно пуста."
 	},
 	{
 		"id": "FE_RockFormation01_Intro",
-		"text": "On your next break you stop near a beautiful rock formation."
+		"text": "На следующем привале вы останавливаетесь возле красивого каменного образования."
 	},
 	{
 		"id": "FE_OldTree01_Intro",
-		"text": "You stop near an old-growth tree before continuing your journey."
+		"text": "Вы останавливаетесь возле старого дерева, а затем продолжаете свой путь."
 	},
 	{
 		"id": "FE_AbandonedJeep01_Intro",
-		"text": "You come to halt near a half buried jeep. You quickly realise that there's nothing to be found here."
+		"text": "Вы сделали остановку возле наполовину сгоревшего джипа. Вы быстро понимаете, что здесь ничего не найти."
 	},
 	{
 		"id": "FE_TrashMount01_Intro",
-		"text": "Promising colours in the distance turned out to be nothing but a mount of useless trash dumped here."
+		"text": "Многообещающие цвета издалека оказались не более чем выброшенным здесь бесполезным мусором."
 	},
 	{
 		"id": "FE_SandyCrate01_Intro",
-		"text": "A few crates in the sand piqued your interest, but nothing of value could be found."
+		"text": "Несколько ящиков в песке пробуждают ваш интерес, но ничего ценного здесь найти не удаётся."
 	},
 	{
 		"id": "FE_SandyCanister01_Intro",
-		"text": "As you come around the corner you see a couple of rusty fuel canisters in the ground. They turn out to be completely empty."
+		"text": "Когда вы поворачиваете за угол, вы замечаете на земле пару ржавых канистр. Они оказываются абсолютно пустыми."
 	},
 	{
 		"id": "FE_SandDunes01_Intro",
-		"text": "The boundless desert in front of you is a sight to behold. Soon you continue your journey."
+		"text": "Бескрайняя пустыня перед вами - впечатляющее зрелище. Вы продолжаете своё путешествие."
 	},
 	{
 		"id": "FE_LostCamel01_Intro",
-		"text": "You are stopped by a lonely camel crossing the road. You let it pass and continue."
+		"text": "Вы останавливаетесь перед одиноким верблюдом, переходящим дорогу. Вы даёте ему пройти и продолжаете путь."
 	},
 	{
 		"id": "FE_LostGoat01_Intro",
-		"text": "As you stop to stretch your legs you hear the bleat of a goat in the distance. You shrug and keep going."
+		"text": "Когда вы останавливаетесь, чтобы размять ноги, вы слышите блеяние козы вдалеке. Вы пожимаете плечами и продолжаете путь."
 	},
 	{
 		"id": "FE_LostSheep01_Intro",
-		"text": "A single sheep passes near your jeep. After a quick stop you drive off."
+		"text": "Одинокая овца проходит мимо вашего джипа. После быстрой остановки вы продолжаете путь."
 	},
 	{
 		"id": "FE_Snake01_Intro",
-		"text": "Halting near a group of bushes, you suddenly notice a snake slithering next to your feet. You cautiously move on."
+		"text": "Во время остановки возле рощицы кустов, вы внезапно замечаете змею, ползущую у ваших ног. Вы осторожно уходите."
 	},
 	{
 		"id": "FE_NaziTent01_Intro",
-		"text": "A structure in the distance turns out to be a tattered Nazi tent. Nothing of value remains and you leave."
+		"text": "Снаряжение вдалеке оказалось потрёпанной палаткой нацистов. Ничего ценного не осталось и вы покидаете это место."
 	},
 	{
 		"id": "FE_UndeadTent01_Intro",
-		"text": "Around the next corner you discover a recently built tent. The skulls strewn on the ground are enough to make you leave this place quickly."
+		"text": "За следующим поворотом вы обнаруживаете недавно установленную палатку. Разбросанные по земле черепа убеждают вас покинуть это место как можно скорее."
 	},
 	{
 		"id": "FE_EmptyAltar01_Intro",
-		"text": "An old altar appears over the next dune. All the dried blood is making you feel uneasy and you move on."
+		"text": "За следующей дюной показался старый алтарь. Следы высохшей крови заставляют вас чувствовать беспокойство, и вы уходите."
 	},
 	{
 		"id": "FE_Bushes01_Intro",
-		"text": "The hills around you are filled with big bushes. You journey on after a quick stop."
+		"text": "Холмы вокруг вас усеяны большими кустами. После короткой остановки вы продолжаете путь."
 	},
 	{
 		"id": "FE_TatteredBooks01_Intro",
-		"text": "Not far from your last stop you notice a pile of books - none of them in a readable state. Disappointed you leave."
+		"text": "Недалеко от вашего места остановки вы замечаете кучу книг, но ни одну из них уже невозможно прочитать. Разочаровавшись, вы уходите."
 	},
 	{
 		"id": "FE_SandySkull01_Intro",
-		"text": "When you halt next, you are surprised to find a few skulls buried in the sandy ground around you. You leave wondering what had taken place here."
+		"text": "Во время следующей остановки вы с удивлением обнаруживаете несколько черепов, закопанных в песок вокруг вас. Вы покидаете это место с мыслями о том, что же здесь произошло."
 	},
 	{
 		"id": "FE_SpearedSkull01_Intro",
-		"text": "A row of speared skulls make you stop your jeep. After a few minutes you have satisfied your curiousity and you continue your travels."
+		"text": "Линия из черепов на копьях заставляет вас остановиться. После нескольких минут вы удовлетворяете своё любопытство и продолжаете путешествие."
 	},
 	{
 		"id": "FE_OldMap01_Intro",
-		"text": "In the middle of the road you find an old map - it is completely undecipherable. You keep going."
+		"text": "Вы находите старую карту посреди дороги, она абсолютно нечитаема. Вы продолжаете путь."
 	},
 	{
 		"id": "FE_Ruins01_Intro",
-		"text": "You stop near some worn down stone structures. After a short while you drive off."
+		"text": "Вы останавливаетесь возле изношенной структуры. После короткого перерыва вы продолжаете пусть."
 	},
 	{
 		"id": "FE_Campfire01_Intro",
-		"text": "A long gone cold campfire gives you reason to stop and take a deep breath. Not wanting to waste time you depart again."
+		"text": "Давно потухший костёр даёт вам повод остановиться и сделать большую передышку. Не собираясь тратить много времени, вы отправляетесь в путь."
 	},
 	{
 		"id": "FE_StrangeObject01_Intro",
-		"text": "You stop the jeep immediately upon noticing a metalic object in the ground. You decide it is useless trash and leave."
+		"text": "Заметив металлический предмет на земле, вы немедленно останавливаетесь. Вы поняли, что это бесполезный мусор, и уезжаете."
 	},
 	{
 		"id": "FE_Cactus01_Intro",
-		"text": "As you stop you look upon a single lonely cactus growing in the desert. Shaking your heads you continue."
+		"text": "Во время остановки вы рассматриваете одинокий кактус, растущий в пустыне. Размяв ноги вы продолжаете путь."
 	},
 	{
 		"id": "FE_NaziFlag01_Intro",
-		"text": "As soon as you notice the nazi flag you stop immediately and look around for danger. Soon you realise it is just an abandoned flag and leave."
+		"text": "Вы сразу же останавливаетесь, как только замечаете нацистский флаг, и осматриваетесь в поисках опасности. Вскоре вы понимаете, что это просто оставленный флаг, и покидаете это место."
 	},
 	{
 		"id": "FE_SpiderNest01_Intro",
-		"text": "Between a handful of rocks you are temporarily fascinated by a spider nest. Soon you jump back in your jeep and drive off."
+		"text": "Вас на время очаровывает паучье гнездо среди груды камней. Вскоре вы запрыгиваете в джип и уезжаете."
 	},
 	{
 		"id": "FE_Grass01_Intro",
-		"text": "You stop and notice the grassy patches covering the ground around you. You depart."
+		"text": "Во время остановки вы замечаете участки травы на земле вокруг вас. Вы отправляетесь дальше."
 	},
 	{
 		"id": "FE_OldRadio01_Intro",
-		"text": "The old radio you noticed next to the tree turns out to be completely broken. You start your engines again and leave."
+		"text": "Возле дерева вы находите старое радио, но оно оказывается абсолютно сломанным. вы заовдите мторо и покидаете это место."
 	},
 	{
 		"id": "FE_CavedInTemple01_Title",
@@ -8799,15 +8799,15 @@
 	},
 	{
 		"id": "CU_FenrirNoJeep01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "CU_SnowWhiteNoJeep01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_AloneRescueNoJeep01_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FE_GenericBrushwoodNoJeep01_Title",
@@ -9035,51 +9035,51 @@
 	},
 	{
 		"id": "FA_TeamDied01_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied01_SnowWhite_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied02_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied02_SnowWhite_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied03_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied03_SnowWhite_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied04_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied04_SnowWhite_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied05_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied05_SnowWhite_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied06_Fenrir_Title",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "FA_TeamDied06_SnowWhite",
-		"text": "Неизсветсно в какой глуши"
+		"text": "Неизвестно в какой глуши"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice03",
@@ -9547,7 +9547,7 @@
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Intro",
-		"text": "The black marketeer could be in league with the rebels: \n\n[char0]: \"We have plenty of gas. Ammunition is what we need!\""
+		"text": "Торговец черного рынка возможно связан с повстанцами: \n\n[char0]: \"У нас есть топливо. Но нам нужны боеприпасы!\""
 	},
 	{
 		"id": "TR_TradeAmmoForFuel01_Choice01",
@@ -9567,7 +9567,7 @@
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Intro",
-		"text": "The customs officers appear to have run out of gas during their cross-country trip.\n\n[char0]: \"Are you interested in trading for some ammunition?\""
+		"text": "У таможенного офицера, должно быть, закончился бензин во время путешествия по стране.\n\n[char0]: \"Не хотите поторговать в обмен на боеприпасы?\""
 	},
 	{
 		"id": "TR_TradeFuelForAmmo01_Choice01",
@@ -9587,7 +9587,7 @@
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Intro",
-		"text": "The men in the hut do not look like ordinary merchants: \n\n[char0]: \"We could give you some ammunition... if you can pay for it!\""
+		"text": "Мужчина в шляпе не похож на обычного торговца: \n\n[char0]: \"Мы можем дать вам немного боеприпасов... если вы сможете заплатить!\""
 	},
 	{
 		"id": "TR_TradeCashForAmmo01_Choice01",
@@ -9607,7 +9607,7 @@
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Intro",
-		"text": "The buildings ahead of you are part of a simple supply station: \n\n[char0]: \"Fuel is no problem - if you can pay for it.\""
+		"text": "Здание впереди - часть системы простых заправочных станций: \n\n[char0]: \"Топливо - не проблема, если вы сможете заплатить.\""
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Choice01",
@@ -9627,7 +9627,7 @@
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Intro",
-		"text": "An itinerant healer has pitched her tents here:\n\n[char0]: \"I’m afraid I cannot let you have my goods for free...\""
+		"text": "Странствующая целительница разбила здесь лагерь:\n\n[char0]: \"Боюсь, я не могу предложить вам свои товары бесплатно...\""
 	},
 	{
 		"id": "TR_TradeCashForHealkit01_Choice01",
@@ -9647,7 +9647,7 @@
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Intro",
-		"text": "The tinker has set up his stand at the side of the road:\n\n[char0]: \"I have everything you need for quick repairs. Do you have money?\""
+		"text": "Ремесленник установил свой стенд на обочине дороги:\n\n[char0]: \"У меня есть всё, что нужно для быстрого ремонта. У вас есть деньги?\""
 	},
 	{
 		"id": "TR_TradeCashForRepairkit01_Choice01",
@@ -9667,7 +9667,7 @@
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Intro",
-		"text": "The grim-faced nomads have no time for pleasantries. \n\n[char0]: \"Believe me, the previous owners of these grenades have no more use for them!\""
+		"text": "Угрюмый кочевник не тратит времени на любезности. \n\n[char0]: \"Поверьте мне, бывшим владельцам эти гранаты больше не нужны!\""
 	},
 	{
 		"id": "TR_TradeCashForGrenade01_Choice01",
@@ -10407,11 +10407,11 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_RawStrengthW",
-		"text": "Задыхаясь от усилия, [char2] убрал все камни - путь снова свободен!"
+		"text": "Тяжело дыша от усилий, [char2] убирает все камни - путь снова свободен!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_RawStrengthW_female",
-		"text": "Задыхаясь от усилия, [char2] убрала все камни - путь снова свободен!"
+		"text": "Тяжело дыша от усилий, [char2] убирает все камни - путь снова свободен!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_MedicW",
@@ -10431,7 +10431,7 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_BurialChamber",
-		"text": "You are standing in a small, unadorned burial chamber. \n\nYou search it but find nothing of value... \n\nNevertheless, your search does uncover an unassuming wooden chest..."
+		"text": "Вы стоите в аленькой, ничем не примечательной погребальной комнате. \n\nВы обыскиваете её, но не находите ничего интересного... \n\nТем не менее, вы обнаруживаете неприметный деревянный сундук..."
 	},
 	{
 		"id": "LE_CursedAltar01_Ghost",
@@ -10463,27 +10463,27 @@
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Search",
-		"text": "The tire tracks lead deeper into the desert - perhaps you will find more fuel if you follow them!"
+		"text": "След колёс ведёт глубоко в пустыню: возможно вы найдёте больше топлива следуя по ним!"
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Choice_Risk",
-		"text": "Let’s search for more!"
+		"text": "Давайте поищем ещё!"
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Choice_Leave",
-		"text": "It’s too risky..."
+		"text": "Это слишком рискованно..."
 	},
 	{
 		"id": "LE_LostNaziCanisters01_NoLoot",
-		"text": "You follow the tracks for a while, but they finally disappear into the shifting desert sands. \n\nYou have no choice but to continue your journey."
+		"text": "Какое-то время вы следуете по следам, но в конце концов след исчезает. \n\nУ вас нет другого выбора как продолжить своё путешествие."
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Success",
-		"text": "Just a few dunes further on, you find another jerrycan. It is full of fuel!"
+		"text": "Миновав всего несколько дюн вы находите ещё одну канистру. В ней полно горючего!"
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Fight",
-		"text": "As you drive around a large dune, you come across a unit of Nazi soldiers. Their panzer is at a standstill - they appear to be searching the sand for their lost fuel! \n\nThey spot you immediately and attack!"
+		"text": "Как только вы объезжаете большую дюну, вы натыкаетесь на отряд нацистских солдат. Их танк остановился - должно быть они проверяли песок в поисках потерянного горючего! \n\nОни сразу же замечают вас и атакуют!"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice_RiskBridge",
@@ -11571,11 +11571,11 @@
 	},
 	{
 		"id": "FE_NothingAmmoLoot01_Intro",
-		"text": "The ammo chest lying between the dunes looks brand-new…"
+		"text": "Ящик с патронами, лежащий среди дюн, выглядит как новый…"
 	},
 	{
 		"id": "FE_NothingFuelLoot01_Intro",
-		"text": "You suddenly see something flash in the desert sand – is that a jerrycan?"
+		"text": "Вы внезапно замечаете что-то блестящее на пустынном песке: неужели это канистра?"
 	},
 	{
 		"id": "SE_Adventure_HC_Refill",
