@@ -83,7 +83,7 @@
 	},
 	{
 		"id": "adventureFail01_desc",
-		"text": "Завершить [amount] приключений."
+		"text": "Завершите [amount] приключений."
 	},
 	{
 		"id": "adventureFail01_title",
@@ -91,7 +91,7 @@
 	},
 	{
 		"id": "adventureFail02_desc",
-		"text": "Завершить [amount] приключений."
+		"text": "Завершите [amount] приключений."
 	},
 	{
 		"id": "adventureFail02_title",
@@ -99,7 +99,7 @@
 	},
 	{
 		"id": "adventureFail03_desc",
-		"text": "Завершить [amount] приключений."
+		"text": "Завершите [amount] приключений."
 	},
 	{
 		"id": "adventureFail03_title",
@@ -115,7 +115,7 @@
 	},
 	{
 		"id": "armorRestored01_desc",
-		"text": "Восстановить [amount] Брони."
+		"text": "Восстановите [amount] Брони."
 	},
 	{
 		"id": "armorRestored01_title",
@@ -123,7 +123,7 @@
 	},
 	{
 		"id": "armorRestored02_desc",
-		"text": "Восстановить [amount] Брони."
+		"text": "Восстановите [amount] Брони."
 	},
 	{
 		"id": "armorRestored02_title",
@@ -131,7 +131,7 @@
 	},
 	{
 		"id": "armorRestored03_desc",
-		"text": "Восстановить [amount] Брони."
+		"text": "Восстановите [amount] Брони."
 	},
 	{
 		"id": "armorRestored03_title",
@@ -147,7 +147,7 @@
 	},
 	{
 		"id": "disintegratorKills01_desc",
-		"text": "Убить [amount] врагов Дезинтегратором."
+		"text": "Убейте [amount] врагов Дезинтегратором."
 	},
 	{
 		"id": "disintegratorKills01_title",
@@ -155,7 +155,7 @@
 	},
 	{
 		"id": "donutFound01_desc",
-		"text": "Иногда спасение приходит, когда уже не ждёшь..."
+		"text": "Иногда спасение приходит, когда уже не ждешь..."
 	},
 	{
 		"id": "donutFound01_title",
@@ -171,7 +171,7 @@
 	},
 	{
 		"id": "firstBlood01_desc",
-		"text": "Убить Нациста."
+		"text": "Убейте Нациста."
 	},
 	{
 		"id": "firstBlood01_title",
@@ -179,7 +179,7 @@
 	},
 	{
 		"id": "fourKillsInOne01_desc",
-		"text": "Убить 4+ врагов одной атакой."
+		"text": "Убейте 4+ врагов одной атакой."
 	},
 	{
 		"id": "fourKillsInOne01_title",
@@ -195,7 +195,7 @@
 	},
 	{
 		"id": "healthRestored01_desc",
-		"text": "Восстановить [amount] Здоровья."
+		"text": "Восстановите [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored01_title",
@@ -203,7 +203,7 @@
 	},
 	{
 		"id": "healthRestored02_desc",
-		"text": "Восстановить [amount] Здоровья."
+		"text": "Восстановите [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored02_title",
@@ -211,7 +211,7 @@
 	},
 	{
 		"id": "healthRestored03_desc",
-		"text": "Восстановить [amount] Здоровья."
+		"text": "Восстановите [amount] Здоровья."
 	},
 	{
 		"id": "healthRestored03_title",
@@ -219,7 +219,7 @@
 	},
 	{
 		"id": "knifeKills01_desc",
-		"text": "Убить [amount] врагов Ножом."
+		"text": "Убейте [amount] врагов Ножом."
 	},
 	{
 		"id": "knifeKills01_title",
@@ -235,7 +235,7 @@
 	},
 	{
 		"id": "moneyCollected01_desc",
-		"text": "Собрать $[amount]."
+		"text": "Соберите $[amount]."
 	},
 	{
 		"id": "moneyCollected01_title",
@@ -243,7 +243,7 @@
 	},
 	{
 		"id": "moneyCollected02_desc",
-		"text": "Собрать $[amount]."
+		"text": "Соберите $[amount]."
 	},
 	{
 		"id": "moneyCollected02_title",
@@ -251,7 +251,7 @@
 	},
 	{
 		"id": "moneyCollected03_desc",
-		"text": "Собрать $[amount]."
+		"text": "Соберите $[amount]."
 	},
 	{
 		"id": "moneyCollected03_title",
@@ -267,7 +267,7 @@
 	},
 	{
 		"id": "naziKills01_desc",
-		"text": "Убить [amount] Нацистов."
+		"text": "Убейте [amount] Нацистов."
 	},
 	{
 		"id": "naziKills01_title",
@@ -275,7 +275,7 @@
 	},
 	{
 		"id": "naziKills02_desc",
-		"text": "Убить [amount] Нацистов."
+		"text": "Убейте [amount] Нацистов."
 	},
 	{
 		"id": "naziKills02_title",
@@ -283,7 +283,7 @@
 	},
 	{
 		"id": "naziKills03_desc",
-		"text": "Убить [amount] Нацистов."
+		"text": "Убейте [amount] Нацистов."
 	},
 	{
 		"id": "naziKills03_title",
@@ -291,7 +291,7 @@
 	},
 	{
 		"id": "pistolKills01_desc",
-		"text": "Убить [amount] врагов Пистолетом."
+		"text": "Убейте [amount] врагов Пистолетом."
 	},
 	{
 		"id": "pistolKills01_title",
@@ -299,7 +299,7 @@
 	},
 	{
 		"id": "recruit01_desc",
-		"text": "Нанять [amount] персонажей."
+		"text": "Наймите [amount] персонажей."
 	},
 	{
 		"id": "recruit01_title",
@@ -307,7 +307,7 @@
 	},
 	{
 		"id": "restingPlace01_desc",
-		"text": "Отдохнуть [amount] раз."
+		"text": "Отдохните [amount] раз."
 	},
 	{
 		"id": "restingPlace01_title",
@@ -315,7 +315,7 @@
 	},
 	{
 		"id": "rifleKills01_desc",
-		"text": "Убить [amount] врагов с помощьюn Assault Rifle."
+		"text": "Убейте [amount] врагов с помощьюn Assault Rifle."
 	},
 	{
 		"id": "rifleKills01_title",
@@ -323,7 +323,7 @@
 	},
 	{
 		"id": "shotgunKills01_desc",
-		"text": "Убить [amount] врагов с помощью Дробовика."
+		"text": "Убейте [amount] врагов с помощью Дробовика."
 	},
 	{
 		"id": "shotgunKills01_title",
@@ -339,7 +339,7 @@
 	},
 	{
 		"id": "singleShotKills01_desc",
-		"text": "Убить [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills01_title",
@@ -347,7 +347,7 @@
 	},
 	{
 		"id": "singleShotKills02_desc",
-		"text": "Убить [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills02_title",
@@ -355,7 +355,7 @@
 	},
 	{
 		"id": "singleShotKills03_desc",
-		"text": "Убить [amount] врагов с помощью одного выстрела."
+		"text": "Убейте [amount] врагов с одного выстрела."
 	},
 	{
 		"id": "singleShotKills03_title",
@@ -363,7 +363,7 @@
 	},
 	{
 		"id": "sniperKills01_desc",
-		"text": "Убить [amount] врагов с помощью Снайперской Винтовки."
+		"text": "Убейте [amount] врагов с помощью Снайперской Винтовки."
 	},
 	{
 		"id": "sniperKills01_title",
@@ -375,11 +375,11 @@
 	},
 	{
 		"id": "stargateFragment01_title",
-		"text": "Благословлённый Эонами"
+		"text": "Благословленный Эонами"
 	},
 	{
 		"id": "tankLeak01_desc",
-		"text": "Потерять [amount] топлива в аварии."
+		"text": "Потеряйте [amount] топлива в аварии."
 	},
 	{
 		"id": "tankLeak01_title",
@@ -395,7 +395,7 @@
 	},
 	{
 		"id": "threeKillsInOne01_desc",
-		"text": "Убить 3 врагов одной атакой."
+		"text": "Убейте 3 врагов одной атакой."
 	},
 	{
 		"id": "threeKillsInOne01_title",
@@ -403,7 +403,7 @@
 	},
 	{
 		"id": "trashSold01_desc",
-		"text": "Собрать [amount] мусора."
+		"text": "Соберите [amount] мусора."
 	},
 	{
 		"id": "trashSold01_title",
@@ -411,7 +411,7 @@
 	},
 	{
 		"id": "twoKillsInOne01_desc",
-		"text": "Убить 2 врагов одной атакой."
+		"text": "Убейте 2 врагов одной атакой."
 	},
 	{
 		"id": "twoKillsInOne01_title",
@@ -419,7 +419,7 @@
 	},
 	{
 		"id": "undeadKills01_desc",
-		"text": "Убить [amount] Нежити."
+		"text": "Убейте [amount] Нежити."
 	},
 	{
 		"id": "undeadKills01_title",
@@ -427,7 +427,7 @@
 	},
 	{
 		"id": "undeadKills02_desc",
-		"text": "Убить [amount] Нежити."
+		"text": "Убейте [amount] Нежити."
 	},
 	{
 		"id": "undeadKills02_title",
@@ -435,7 +435,7 @@
 	},
 	{
 		"id": "undeadKills03_desc",
-		"text": "Убить [amount] Нежити."
+		"text": "Убейте [amount] Нежити."
 	},
 	{
 		"id": "undeadKills03_title",
@@ -451,7 +451,7 @@
 	},
 	{
 		"id": "unlockAdventure02_desc",
-		"text": "Звершить Приключение I"
+		"text": "Завершите Приключение I"
 	},
 	{
 		"id": "unlockAdventure02_title",
@@ -459,7 +459,7 @@
 	},
 	{
 		"id": "unlockAdventure03_desc",
-		"text": "Звершить Приключение II"
+		"text": "Завершите Приключение II"
 	},
 	{
 		"id": "unlockAdventure03_title",
@@ -467,7 +467,7 @@
 	},
 	{
 		"id": "unlockAdventure05_desc",
-		"text": "Звершить Приключение III"
+		"text": "Завершите Приключение III"
 	},
 	{
 		"id": "unlockAdventure05_title",
@@ -475,7 +475,7 @@
 	},
 	{
 		"id": "unlockAdventure06_desc",
-		"text": "Звершить Приключение IV"
+		"text": "Завершите Приключение IV"
 	},
 	{
 		"id": "unlockAdventure06_title",
@@ -483,7 +483,7 @@
 	},
 	{
 		"id": "unlockAnnabelle_desc",
-		"text": "Убить [amount] врагов Двойным Выстрелом, чтобы открыть Аннабель."
+		"text": "Убейте [amount] врагов Двойным Выстрелом, чтобы открыть Аннабель."
 	},
 	{
 		"id": "unlockAnnabelle_title",
@@ -507,7 +507,7 @@
 	},
 	{
 		"id": "unlockDrChandra_desc",
-		"text": "Оживить [amount] персонажей, чтобы открыть Док. Хандра."
+		"text": "Оживите [amount] персонажей, чтобы открыть Док. Хандра."
 	},
 	{
 		"id": "unlockDrChandra_title",
@@ -515,7 +515,7 @@
 	},
 	{
 		"id": "unlockFantome_desc",
-		"text": "Избежать [amount] атак, чтобы открыть Ле Фантома."
+		"text": "Уклонитесь от [amount] атак, чтобы открыть Ле Фантома."
 	},
 	{
 		"id": "unlockFantome_title",
@@ -523,7 +523,7 @@
 	},
 	{
 		"id": "unlockGeorgette_desc",
-		"text": "Убить [amount] врагов с помощью навыка Засады, чтобы открыть Жеоржетту."
+		"text": "Убейте [amount] врагов с Засадой, чтобы открыть Жеоржетту."
 	},
 	{
 		"id": "unlockGeorgette_title",
@@ -531,7 +531,7 @@
 	},
 	{
 		"id": "unlockLeonora_desc",
-		"text": "Убить [amount] Нацистов, чтобы открыть Леонору."
+		"text": "Убейте [amount] Нацистов, чтобы открыть Леонору."
 	},
 	{
 		"id": "unlockLeonora_title",
@@ -539,7 +539,7 @@
 	},
 	{
 		"id": "unlockRose_desc",
-		"text": "Завершите любое Приключение только с женщинами, чтобы открыть Розу."
+		"text": "Завершите Приключение только женщинами, чтобы открыть Розу."
 	},
 	{
 		"id": "unlockRose_title",
@@ -547,7 +547,7 @@
 	},
 	{
 		"id": "unlockShani_desc",
-		"text": "Убить [amount] врагов ближней атакой, чтобы открыть Шани."
+		"text": "Убейте [amount] врагов ближней атакой, чтобы открыть Шани."
 	},
 	{
 		"id": "unlockShani_title",
@@ -555,7 +555,7 @@
 	},
 	{
 		"id": "unlockVeduti_desc",
-		"text": "Убить [amount] нежити, чтобы открыть Монсеньор Ведути."
+		"text": "Убейте [amount] нежити, чтобы открыть Монсеньора Ведути."
 	},
 	{
 		"id": "unlockVeduti_title",
@@ -563,7 +563,7 @@
 	},
 	{
 		"id": "watchesSold01_desc",
-		"text": "Собрать [amount] часов."
+		"text": "Соберите [amount] часов."
 	},
 	{
 		"id": "watchesSold01_title",
@@ -571,7 +571,7 @@
 	},
 	{
 		"id": "nodesTravelled01_desc",
-		"text": "Посетить [amount] локаций."
+		"text": "Посетите [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled01_title",
@@ -579,7 +579,7 @@
 	},
 	{
 		"id": "nodesTravelled02_desc",
-		"text": "Посетить [amount] локаций."
+		"text": "Посетите [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled02_title",
@@ -587,7 +587,7 @@
 	},
 	{
 		"id": "nodesTravelled03_desc",
-		"text": "Посетить [amount] локаций."
+		"text": "Посетите [amount] локаций."
 	},
 	{
 		"id": "nodesTravelled03_title",
@@ -595,7 +595,7 @@
 	},
 	{
 		"id": "hardcoreModeFinished_desc",
-		"text": "Завершить игру в Режиме Хардкора."
+		"text": "Завершите игру в Режиме Хардкора."
 	},
 	{
 		"id": "hardcoreModeFinished_title",
