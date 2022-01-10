@@ -287,7 +287,7 @@
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Intro",
-		"text": "You peer carefully over the ridge of the dune: A large unit of German troops are camped just beneath you. They have secured their camp with sandbags and are patrolling the grounds. Further back, you can see military jeeps and stockpiles. You look at each other: This won’t be easy..."
+		"text": "Вы осторожно выглядываете из-за гребня дюны: прямо под вами развернул свой лагерь большой отряд немецких солдат. Они защитили свой лагерь мешками с песком и патрулируют территорию. Чуть поодаль вы видите военные джипы и склады. Вы смотрите друг на друга: это будет нелегко..."
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Choice01",
@@ -299,19 +299,19 @@
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthW",
-		"text": "[char0] creeps carefully past the guard post and makes it to the fuel dump. After some time he returns, heavily laden with stolen jerrycans. \n\nMiraculously, he makes it through the enemy lines without raising an alarm! You perform a silent jig of happiness."
+		"text": "[char0] осторожно пробирается мимо поста охраны и добирается до склада топлива. Через некоторое время он возвращается, тяжело нагруженный украденными канистрами. \n\nЧудом ему удается пройти мимо вражеских патрулей, не подняв тревоги! Вы молча тихо радуетесь такой удаче."
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthW_female",
-		"text": "[char0] creeps carefully past the guard post and makes it to the fuel dump. After some time she returns, heavily loaded with contraband. \n\nMiraculously, she makes it through the enemy lines without raising an alarm! You perform a silent jig of happiness."
+		"text": "[char0] осторожно пробирается мимо поста охраны и добирается до склада топлива. Через некоторое время она возвращается, тяжело нагруженная украденными канистрами. \n\nЧудом ей удается пройти мимо вражеских патрулей, не подняв тревоги! Вы молча тихо радуетесь такой удаче."
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthF",
-		"text": "[char0] крадётся и вскоре пропадает за складом топлива. Внезапно вы слышите крики и выстрелы! В спешке вы готовитесь к бою!"
+		"text": "[char0] пробирается и вскоре исчезает за складом топлива. Вдруг вы слышите крики и стрельбу! Торопясь, вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_StealthF_female",
-		"text": "[char0] крадётся и вскоре пропадает за складом топлива. Внезапно вы слышите крики и выстрелы! В спешке вы готовитесь к бою!"
+		"text": "[char0] пробирается и вскоре исчезает за складом топлива. Вдруг вы слышите крики и стрельбу! Торопясь, вы готовитесь к бою!"
 	},
 	{
 		"id": "BE_BigNaziDesertAdvantage01_Choice03",
@@ -539,51 +539,51 @@
 	},
 	{
 		"id": "LE_AngryCobra01_Intro",
-		"text": "The palm grove is pleasantly shady. As you relax and enjoy the shade, a cobra suddenly rears up from between some boulders! [CTP]\n\nThe angry snake sways from side to side. It spreads its hood and hisses – it is defending its territory!"
+		"text": "Пальмовая роща приятно тениста. Пока вы расслабляетесь и наслаждаетесь тенью, из-под валунов внезапно выскакивает кобра! [CTP]\n\nРазъяренная змея качается из стороны в сторону. Она расправляет свой капюшон и шипит — защищает свою территорию!"
 	},
 	{
 		"id": "LE_AngryCobra01_Choice01",
-		"text": "Retreat!"
+		"text": "Отойти!"
 	},
 	{
 		"id": "LE_AngryCobra01_Withdraw",
-		"text": "You break out in a cold sweat! You withdraw slowly, doing your best to avoid antagonizing the enormous snake. Finally, you continue your journey."
+		"text": "Вы покрываетесь холодным потом! Вы медленно отходите, изо всех сил стараясь не раздражать огромную змею. Наконец, вы продолжаете свой путь."
 	},
 	{
 		"id": "LE_AngryCobra01_Choice02",
-		"text": "Attack snake"
+		"text": "Атаковать змею"
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnake",
-		"text": "[char0] draws his weapon and aims carefully as the snake's head sways from side to side increasingly aggressively."
+		"text": "[char0] достаёт оружие и тщательно прицеливается, пока голова змеи все агрессивнее качается из стороны в сторону."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnake_female",
-		"text": "[char0] draws her weapon and aims carefully as the snake's head sways from side to side increasingly aggressively."
+		"text": "[char0] достаёт оружие и тщательно прицеливается, пока голова змеи все агрессивнее качается из стороны в сторону."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeW",
-		"text": "[char0] pulls the trigger - a direct hit! With appropriate respect, you survey the huge creature lying lifeless at your feet.\n\nAfter your initial shock subsides, you investigate the rest of the area."
+		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханное лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeW_female",
-		"text": "[char0] pulls the trigger - a direct hit! With appropriate respect, you inspect the huge creature lying lifeless at your feet.\n\nAfter your initial shock subsides, you investigate the rest of the area."
+		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханное лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeF1",
-		"text": "[char0] squeezes the trigger, but unfortunately he misses the animal. The cobra attacks! You run for your lives!"
+		"text": "[char0] нажимает на курок, но, к сожалению, не попадает в животное. Кобра атакует! Вы спасаетесь бегством!"
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeF1_female",
-		"text": "[char0] squeezes the trigger, but unfortunately she misses the animal. The cobra attacks! You run for your lives!"
+		"text": "[char0] нажимает на курок, но, к сожалению, не попадает в животное. Кобра атакует! Вы спасаетесь бегством!"
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeF2",
-		"text": "[char0] squeezes the trigger, but unfortunately he misses the animal by a hair’s breadth. The cobra darts forward and bites him on the wrist! \n\nHe finally manages to shake off the serpent. You run for your lives before the enraged creature can strike again!"
+		"text": "[char0] нажимает на курок, но, к сожалению, на волосок не попадает в животное. Кобра бросается вперед и кусает его за запястье! \n\nВ конце концов ему удается стряхнуть змею. Вы спасаетесь бегством, прежде чем разъяренное существо сможет нанести новый удар!"
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeF2_female",
-		"text": "[char0] squeezes the trigger, but unfortunately she misses the animal by a hair’s breadth. The cobra darts forward and bites her on the wrist! \n\nShe finally manages to shake off the serpent. You run for your lives before the enraged creature can strike again!"
+		"text": "[char0] нажимает на курок, но, к сожалению, на волосок не попадает в животное. Кобра бросается вперед и кусает ее за запястье! \n\nВ конце концов ей удается стряхнуть змею. Вы спасаетесь бегством, прежде чем разъяренное существо сможет нанести новый удар!"
 	},
 	{
 		"id": "LE_AngryCobra01_Choice04",
@@ -595,23 +595,23 @@
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalW",
-		"text": "As if from nowhere, [char1] appears behind the snake! Something metallic flashes in his hands, then the snake collapses to the ground. \n\n[char1]: \"Impressive... they rarely grow this big.\" [CTP]\n\nWith a few deft movements, [char1] skins and guts the snake. A short time later, a snake stew is simmering in your saucepan. You are skeptical at first, but the meat tastes surprisingly good.\n\nAfter your initial shock subsides, you investigate the rest of the area."
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в его руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalW_female",
-		"text": "As if from nowhere, [char1] appears behind the snake! Something metallic flashes in her hands, then the snake collapses to the ground. \n\n[char1]: \"Impressive... they rarely grow this big.\" [CTP]\n\nWith a few deft movements, [char1] skins and guts the snake. A short time later, a snake stew is simmering in your saucepan. You are skeptical at first, but the meat tastes surprisingly good.\n\nAfter your initial shock subsides, you investigate the rest of the area."
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в ее руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalF",
-		"text": "As if from nowhere, [char1] appears behind the snake! He makes a grab for it, but the animal slithers free! \n\nAs fast as lightning, [char1] dives away from the attacking cobra and rolls out of danger. You run for your lives!"
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Он пытается схватить змею, но животное выскальзывает на свободу! \n\nСо скоростью молнии [char1] уворачивается от атаки кобры и отскакивает подальше от опасности. Вы спасаетесь бегством!"
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalF_female",
-		"text": "As if from nowhere, [char1] appears behind the snake! She makes a grab for it, but the animal slithers free! \n\nAs fast as lightning, [char1] dives away from the attacking cobra and rolls out of danger. You run for your lives!"
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Она пытается схватить змею, но животное выскальзывает на свободу! \n\nСо скоростью молнии [char1] уворачивается от атаки кобры и отскакивает подальше от опасности. Вы спасаетесь бегством!"
 	},
 	{
 		"id": "LE_AngryCobra01_Loot",
-		"text": "You find a German soldier lying face down in the sand. The man obviously had worse reflexes than you! You see a German army crate next to the body and grab it unceremoniously."
+		"text": "Вы находите немецкого солдата, лежащего лицом вниз на песке. Его рефлексы были явно хуже ваших! Вы видите рядом с телом немецкий армейский ящик и бесцеремонно забираете его."
 	},
 	{
 		"id": "RE_DateTreeGrove01_Intro",
@@ -671,23 +671,23 @@
 	},
 	{
 		"id": "FE_GenericOldCemetery01_A_Intro",
-		"text": "You discover some crooked tombstones in the desert sands. A dismal silence blankets this forsaken place."
+		"text": "Вы обнаруживаете несколько кривых надгробий в песках пустыни. Мрачная тишина окутывает это заброшенное место."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_B_Intro",
-		"text": "The desert wind moans softly through the sun-bleached tombstones of this long-abandoned place."
+		"text": "Ветер пустыни мягко свистит сквозь выгоревшие на солнце надгробия этого давно заброшенного места."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_C_Intro",
-		"text": "Only the tips of the tombstones protrude from the sand. Soon, the shifting tides of the eternal desert will have reclaimed this place."
+		"text": "Из песка торчат только кончики надгробий. Скоро изменчивые течения вечной пустыни поглотят это место."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_D_Intro",
-		"text": "From afar, you see rows of tombstones in the wasteland. This ancient desert graveyard is desolate and deserted."
+		"text": "Издалека вы видите ряды надгробий на пустыре. Это древнее пустынное кладбище пустынно и заброшено."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_E_Intro",
-		"text": "Behind the next dune, you see a few weathered tombstones. You maintain a respectful distance so as not to desecrate the place."
+		"text": "За следующей дюной вы видите несколько обветренных надгробий. Вы соблюдаете уважительную дистанцию, чтобы не осквернить место."
 	},
 	{
 		"id": "FE_GenericBrushwood01_A_Intro",
@@ -1183,15 +1183,15 @@
 	},
 	{
 		"id": "GE_LockedWellChamber01_Intro",
-		"text": "The old caravansary is surrounded by a grove of overgrown palm trees. At first glance, you can tell that no one has lived here for decades: The place looks abandoned. The only sound is the rustling of parched palm leaves in the wind."
+		"text": "Старый караван-сарай окружен рощей высоких пальм. С первого взгляда можно сказать, что здесь уже несколько десятков лет никто не живет: место выглядит заброшенным. Единственным звуком является шелест высохших пальмовых листьев на ветру."
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice01",
-		"text": "Search the caravansary"
+		"text": "Обыскать караван-сарай"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice02",
-		"text": "Take a look at the outbuildings"
+		"text": "Осмотреть хозяйственные постройки"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice03",
@@ -1199,19 +1199,19 @@
 	},
 	{
 		"id": "GE_LockedWellChamber01_Search",
-		"text": "As you pace through the dusty chambers, your first impressions are confirmed: the place is deserted. You find nothing of value and continue your journey."
+		"text": "Пройдясь по пыльным залам вы подтверждаете свое первое впечатление: это место заброшено. Вы не находите ничего ценного и продолжаете свое путешествие."
 	},
 	{
 		"id": "GE_LockedWellChamber01_RawStrengthW",
-		"text": "As you thought, the caravansary is deserted, but a locked outbuilding arouses your curiosity. [char0] looks the massive wooden door up and down before heaving it open with his bare hands as if it were made of cardboard. [CTP] \n\nAs your eyes get used to the darkness, you realize that you're standing in the well room. You use the rope to lower the wooden bucket into the well until you hear a splash: Water!"
+		"text": "Как вы и думали, караван-сарай заброшен, но запертый флигель вызывает любопытство. [char0] осматривает массивную деревянную дверь сверху вниз, прежде чем открыть ее голыми руками, как-будто она была сделана из картона. [CTP] \n\nКогда ваши глаза привыкают к темноте, вы понимаете, что стоите в комнате для колодца. Вы опускаете в колодец деревянное ведро на веревке и слышите всплеск: вода!"
 	},
 	{
 		"id": "GE_LockedWellChamber01_RawStrengthW_female",
-		"text": "As you thought, the caravansary is deserted, but a locked outbuilding arouses your curiosity. [char0] looks the massive wooden door up and down before heaving it open with her bare hands as if it were made of cardboard. [CTP] \n\nAs your eyes get used to the darkness, you realize that you're standing in the well room. You use the rope to lower the wooden bucket into the well until you hear a splash: Water!"
+		"text": "Как вы и думали, караван-сарай заброшен, но запертый флигель вызывает любопытство. [char0] осматривает массивную деревянную дверь сверху вниз, прежде чем открыть ее голыми руками, как-будто она была сделана из картона. [CTP] \n\nКогда ваши глаза привыкают к темноте, вы понимаете, что стоите в комнате для колодца. Вы опускаете в колодец деревянное ведро на веревке и слышите всплеск: вода!"
 	},
 	{
 		"id": "GE_LockedWellChamber01_StatBoost",
-		"text": "The water tastes delicious. As you set off again, you feel miraculously refreshed..."
+		"text": "Просто чудесная вода. Отправляясь в путь, вы чувствуете себя чудесным образом отдохнувшими..."
 	},
 	{
 		"id": "CR_Brandy01_Intro",
@@ -1255,11 +1255,11 @@
 	},
 	{
 		"id": "CR_Parachute01_Intro",
-		"text": "From afar, you see a bulky, colorful silhouette flapping in the desert wind. What is it? A tent? A sail? \n\nAs you approach, you realize it’s a parachute! Next to it, you see [char0] sitting comfortably on the crest of a dune. When he sees you, he gets up and walks slowly towards you: [CTP]\n\n[char0]: \"This desert sun is terrible for the plane! I was looking for you, but the engine overheated.\" \n\n[char0]: \"Fortunately, I never fly without my parachute. It’s a habit that has saved my skin on more than one occasion.\" \n\n[char0]: \"So what do you think? Could you use an extra hand?\""
+		"text": "Издалека виднеется громоздкий красочный силуэт, развевающийся на пустынном ветру. Что это? Палатка? Парус? \n\nПодойдя ближе, вы понимаете, что это парашют! Рядом с ним на гребне дюны удобно устроился [char0]. Когда он вас замечает, он встаёт и идёт к вам навстречу: [CTP]\n\n[char0]: \"Это пустынное солнце ужасно для самолёта! Я искал вас, но двигатель перегрелся.\" \n\n[char0]: \"К счастью, я никогда не летаю без своего парашюта. Эта привычка не раз спасала мою шкуру.\" \n\n[char0]: \"Ну так что думаете? Вам пригодится дополнительная помощь?\""
 	},
 	{
 		"id": "CR_Parachute01_Intro_female",
-		"text": "From afar, you see a bulky, colorful silhouette flapping in the desert wind. What is it? A tent? A sail? \n\nAs you approach, you realize it’s a parachute! Next to it, you see [char0] sitting comfortably on the crest of a dune. When she sees you, she gets up and walks slowly towards you: [CTP]\n\n[char0]: \"This desert sun is terrible for the plane! I was looking for you, but the engine overheated.\" \n\n[char0]: \"Fortunately, I never fly without my parachute! It’s a habit that has saved my skin on more than one occasion.\" \n\n[char0]: \"So what do you think? Could you use an extra hand?\""
+		"text": "Издалека виднеется громоздкий красочный силуэт, развевающийся на пустынном ветру. Что это? Палатка? Парус? \n\nПодойдя ближе, вы понимаете, что это парашют! Рядом с ним на гребне дюны удобно устроилась [char0]. Когда она вас замечает, она встаёт и идёт к вам навстречу: [CTP]\n\n[char0]: \"Это пустынное солнце ужасно для самолёта! Я искала вас, но двигатель перегрелся.\" \n\n[char0]: \"К счастью, я никогда не летаю без своего парашюта. Эта привычка не раз спасала мою шкуру.\" \n\n[char0]: \"Ну так что думаете? Вам пригодится дополнительная помощь?\""
 	},
 	{
 		"id": "CR_Parachute01_Choice01",
@@ -1271,11 +1271,11 @@
 	},
 	{
 		"id": "CR_Excavation01_Intro",
-		"text": "You pause: what is that strange sound? It sounds like a soft hammering, echoing across the rocky wasteland! \n\nCurious, you follow the sound and soon come across an old temple ruin. Only the foundation walls remain. You see a makeshift camp that someone has pitched next to a small excavation site.[CTP] \n\n\nStanding in a pit - you see [char0], tapping on the wall with a hammer! You can barely believe your eyes. When he sees you, [char0]’s face lights up:  \n\n[char0]: \"What a coincidence!\"\n\n[char0]: \"Nomads told me about these ruins. They were kind enough to bring me here.\" [CTP]\n\n[char0]: \"I've been digging for three days now, but frankly I don’t think I’m going to find anything here!\"\n\n[char0]: \"If I know you, you're probably up to your neck in trouble again – do you need help?\""
+		"text": "Вы останавливаетесь: что это за странный звук? Это звучит как лёгкий стук молота, эхом разносящийся по каменистой пустоши! \n\nС любопытством вы идете на звук и вскоре натыкаетесь на руины старого храма. Остались только стены фундамента. Вы видите импровизированный лагерь, который кто-то разбил рядом с небольшим раскопками.[CTP] \n\n\nВы видите как [char0] стоит в яме и стучит по стене молотком! Вы едва можете поверить своим глазам. Когда он замечает вас, [char0] улыбается:  \n\n[char0]: \"Какое совпадение!\"\n\n[char0]: \"Кочевники рассказали мне об этих руинах. Они были достаточно добры, чтобы привести меня сюда.\" [CTP]\n\n[char0]: \"Я копаю уже три дня, но, честно говоря, я не думаю, что найду здесь хоть что-нибудь!!\"\n\n[char0]: \"Насколько я вас знаю, вы, вероятно, снова по уши в беде - вам нужна помощь?\""
 	},
 	{
 		"id": "CR_Excavation01_Intro_female",
-		"text": "You pause: what is that strange sound? It sounds like a soft hammering, echoing across the rocky wasteland! \n\nCurious, you follow the sound and soon come across an old temple ruin. Only the foundation walls remain. You see a makeshift camp that someone has pitched next to a small excavation site.[CTP] \n\n\nStanding in a pit - you see [char0], tapping on the wall with a hammer! You can barely believe your eyes. When she sees you, [char0]’s face lights up:\n  \n[char0]: \"What a coincidence!\"\n\n[char0]: \"Nomads told me about these ruins. They were kind enough to bring me here.\" [CTP]\n\n[char0]: \"I've been digging for three days now, but frankly I don’t think I’m going to find anything here!\"\n\n[char0]: \"If I know you, you're probably up to your neck in trouble again – do you need help?\""
+		"text": "Вы останавливаетесь: что это за странный звук? Это звучит как лёгкий стук молота, эхом разносящийся по каменистой пустоши! \n\nС любопытством вы идете на звук и вскоре натыкаетесь на руины старого храма. Остались только стены фундамента. Вы видите импровизированный лагерь, который кто-то разбил рядом с небольшим раскопками.[CTP] \n\n\nВы видите как [char0] стоит в яме и стучит по стене молотком! Вы едва можете поверить своим глазам. Когда она замечает вас, [char0] улыбается:  \n\n[char0]: \"Какое совпадение!\"\n\n[char0]: \"Кочевники рассказали мне об этих руинах. Они были достаточно добры, чтобы привести меня сюда.\" [CTP]\n\n[char0]: \"Я копаю уже три дня, но, честно говоря, я не думаю, что найду здесь хоть что-нибудь!!\"\n\n[char0]: \"Насколько я вас знаю, вы, вероятно, снова по уши в беде - вам нужна помощь?\""
 	},
 	{
 		"id": "CR_Excavation01_Choice01",
@@ -1287,11 +1287,11 @@
 	},
 	{
 		"id": "CR_Expenses01_Intro",
-		"text": "As you approach the huts, you see a familiar figure waving to you from the middle of the village: \n\n[char0]: \"[char1]! Is that really you? What brings you here?\"\n\n[char1]: \"I heard you were around here somewhere, so I thought you might need some help.\" [CTP]\n\n[char0]: \"Maybe. What’s the catch?\"\n\n[char1]: \"Well, I have incurred a few expenses, if you know what I mean.\""
+		"text": "Подходя к хижинам, вы видите знакомую фигуру, машущую вам рукой из центра деревни: \n\n[char0]: \"[char1]! Это действительно вы? Что привело вас сюда?\"\n\n[char1]: \"Мы слышали, что ты был где-то здесь, поэтому решили, что тебе может понадобиться помощь.\" [CTP]\n\n[char0]: \"Может быть. А в чем подвох?\"\n\n[char1]: \"Ну, мы понесли некоторые потери, если ты понимаешь, о чём идёт речь.\""
 	},
 	{
 		"id": "CR_Expenses01_Intro_female",
-		"text": "As you approach the huts, you see a familiar figure waving to you from the middle of the village: \n\n[char0]: \"[char1]! Is that really you? What brings you here?\"\n\n[char1]: \"I heard you were around here somewhere, so I thought you might need some help.\" [CTP]\n\n[char0]: \"Maybe. What’s the catch?\"\n\n[char1]: \"Well, I have incurred a few expenses, if you know what I mean.\""
+		"text": "Подходя к хижинам, вы видите знакомую фигуру, машущую вам рукой из центра деревни: \n\n[char0]: \"[char1]! Это действительно вы? Что привело вас сюда?\"\n\n[char1]: \"Мы слышали, что ты была где-то здесь, поэтому решили, что тебе может понадобиться помощь.\" [CTP]\n\n[char0]: \"Может быть. А в чем подвох?\"\n\n[char1]: \"Ну, мы понесли некоторые потери, если ты понимаешь, о чём идёт речь.\""
 	},
 	{
 		"id": "CR_Expenses01_Choice01",
@@ -1487,39 +1487,39 @@
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Intro",
-		"text": "The huts ahead of you appear to belong to a wealthy herdsman. As you approach, you see a worried-looking man sitting in front of the camel pens. \n\n[char0]: \"I am cursed with misfortune! My best camel mare has a fever and has stopped moving. If she has infected the other animals, I'm ruined!\""
+		"text": "Хижина перед вами, кажется, принадлежит богатому пастуху. Приблизившись, вы видите встревоженного мужчину, сидящего перед загонами для верблюдов. \n\n[char0]: \"Я обречен на несчастье! У моей лучшей верблюжьей кобылы лихорадка, и она перестала двигаться. Если она уже заразила других животных, мне конец!\""
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Choice01",
-		"text": "What a shame..."
+		"text": "Какое несчастье..."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Choice02",
-		"text": "Take a look at the camel"
+		"text": "Осмотреть верблюдицу"
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Leave",
-		"text": "The man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
+		"text": "Вы сочувствуете человеку, но, к сожалению, ничем не можете помочь и вскоре уходите."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalW",
-		"text": "[char1] takes a look at the sick animal. He scratches his head, grabs a handful of tablets from his case and feeds them to the animal. \n\nThe camel starts to improve visibly after just a short time."
+		"text": "[char1] осматривает больное животное. Он чешет затылок, достает из чемодана горсть таблеток и скармливает их животному. \n\nСпустя короткое время состояние верблюда заметно улучшается."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalW_female",
-		"text": "[char1] takes a look at the sick animal. She scratches her head, grabs a handful of tablets from her case and feeds them to the animal. \n\nThe camel starts to improve visibly after just a short time."
+		"text": "[char1] осматривает больное животное. Она чешет затылок, достает из чемодана горсть таблеток и скармливает их животному. \n\nСпустя короткое время состояние верблюда заметно улучшается."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalF",
-		"text": "[char1] takes a look at the sick animal. Then he shakes his head wearily: \n\n[char1]: \"It doesn’t look good...\"\n\nThe man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
+		"text": "[char1] осматривает больное животное. Затем он устало качает головой: \n\n[char1]: \"Выглядит нехорошо...\"\n\nВы сочувствуете мужчине, но, к сожалению, ничем помочь не может и вскоре уходите."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalF_female",
-		"text": "[char1] takes a look at the sick animal. Then she shakes her head wearily: \n\n[char1]: \"It doesn’t look good...\"\n\nThe man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
+		"text": "[char1] осматривает больное животное. Затем она устало качает головой: \n\n[char1]: \"Выглядит нехорошо...\"\n\nВы сочувствуете мужчине, но, к сожалению, ничем помочь не может и вскоре уходите."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Rest",
-		"text": "The herdsman is overjoyed and invites you into his house! \n\nYou share a hearty feast. After your meal, you oil your weapons and check the rest of your equipment before taking leave of your host."
+		"text": "Пастух вне себя от радости и приглашает вас в свой дом! \n\nВам устраивают целый пир. После еды вы смазываете свое оружие и проверяете остальное снаряжение, прежде чем попрощаться с хозяином."
 	},
 	{
 		"id": "FE_ShotsFromNowhere01_Intro",
@@ -2319,23 +2319,23 @@
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_A_Intro",
-		"text": "Between some palms you come across an abandoned nomad camp. You search the faded bundles for anything useful."
+		"text": "Между несколькими пальмами вы натыкаетесь на заброшенный лагерь кочевников. Вы ищете в выцветших узелках что-нибудь полезное."
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_B_Intro",
-		"text": "In the shadow of some gnarled bushes you discover the remnants of an old campsite. The nomads who rested here moved on long ago. Why did they leave so suddenly? You scour the camp in search of answers."
+		"text": "В тени корявых кустов вы обнаруживаете остатки старого кемпинга. Кочевники, отдыхавшие здесь, давно двинулись дальше. Почему они так внезапно ушли? Вы обыскиваете лагерь в поисках ответов."
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_C_Intro",
-		"text": "The herdsmen who camped in this wasteland moved on long ago. You search through the remains of their camp with few expectations."
+		"text": "Пастухи, разбившие лагерь в этой пустоши, давно ушли. Вы обыскиваете остатки их лагеря ни на что особо не надеясь."
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_D_Intro",
-		"text": "You stumble across a recently abandoned nomad camp. You search what little the wind, the sun and the desert animals have left behind."
+		"text": "Вы натыкаетесь на недавно заброшенный лагерь кочевников. Вы ищете то немногое, что могли оставить после себя ветер, солнце и животные пустыни."
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_E_Intro",
-		"text": "The camp among the palms was abandoned very recently. You take a look around, but you don’t see a single person. What happened here? Puzzled, you search the camp."
+		"text": "Лагерь среди пальм был покинут совсем недавно. Вы оглядываетесь вокруг, но не видите ни одного человека. Что здесь случилось? Недоумевая, вы обыскиваете лагерь."
 	},
 	{
 		"id": "LE_GenericNaziCamp01_A_Intro",
@@ -2619,27 +2619,27 @@
 	},
 	{
 		"id": "CR_Excavation01_Revisit",
-		"text": "You soon reach the old temple ruin where you left [char0]. You see him in the distance, waving you over: \n\n[char0]: \"Have you changed your mind?\""
+		"text": "Вскоре вы добираетесь до руин старого храма, где остался [char0]. Вы замечаете его издалека, он машет вам рукой: \n\n[char0]: \"Вы передумали?\""
 	},
 	{
 		"id": "CR_Excavation01_Revisit_female",
-		"text": "You soon reach the old temple ruin where you left [char0]. You see her in the distance, waving you over: \n\n[char0]: \"Have you changed your mind?\""
+		"text": "Вскоре вы добираетесь до руин старого храма, где осталась [char0]. Вы замечаете ее издалека, она машет вам рукой: \n\n[char0]: \"Вы передумали?\""
 	},
 	{
 		"id": "CR_Expenses01_Revisit",
-		"text": "You meet up again with [char1], who has made himself comfortable among the huts: \n\n[char1]: \"I would be pleased to join you - you know my price.\""
+		"text": "Вы видите, как [char1] удобно обустроился среди хижин: \n\n[char1]: \"С удовольствием присоединюсь к вам - вы знаете мою цену.\""
 	},
 	{
 		"id": "CR_Expenses01_Revisit_female",
-		"text": "You meet up again with [char1], who has made herself comfortable among the huts: \n\n[char1]: \"I would be pleased to join you - you know my price.\""
+		"text":  "Вы видите, как [char1] удобно обустроилась среди хижин: \n\n[char1]: \"С удовольствием присоединюсь к вам - вы знаете мою цену.\""
 	},
 	{
 		"id": "CR_Parachute01_Revisit",
-		"text": "When you return, you see that [char0] has converted his parachute into a tent: \n\n[char0]: \"It helps against the damned heat. Are you lost, or did you come back because you need my help? \""
+		"text": "Когда вы возвращаетесь, вы видите, что [char0] сделал из парашюта палатку: \n\n[char0]: \"Это помогает от этой проклятой жары. Вы потерялись или вернулись, потому что вам нужна моя помощь?\""
 	},
 	{
 		"id": "CR_Parachute01_Revisit_female",
-		"text": "When you return, you see that [char0] has converted her parachute into a tent: \n\n[char0]: \"It helps against the damned heat. Are you lost, or did you come back because you need my help? \""
+		"text": "Когда вы возвращаетесь, вы видите, что [char0] сделала из парашюта палатку: \n\n[char0]: \"Это помогает от этой проклятой жары. Вы потерялись или вернулись, потому что вам нужна моя помощь?\""
 	},
 	{
 		"id": "ME_GenericVillage01_A_Revisit",
@@ -3027,15 +3027,15 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Intro",
-		"text": "At the edge of a dried-up waterhole, you find the remains of a soldier clutching a bulky bundle. [CTP]\n\nAs you approach, you notice strange movement under the soldier's uniform – several hairy, fist-sized spiders crawl out slowly! Horrified, you step back..."
+		"text": "На краю пересохшего водопоя вы находите останки солдата, сжимающего громоздкий свёрток. [CTP]\n\nПриближаясь, вы замечаете странное движение под солдатской формой — из под нее медленно выползает несколько волосатых пауков размером с кулак! В ужасе, вы отступаете..."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Choice01",
-		"text": "Search the bundle"
+		"text": "Осмотреть свёрток"
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Choice02",
-		"text": "Stop and think"
+		"text": "Остановиться и подумать"
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Choice03",
@@ -3043,23 +3043,23 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchW",
-		"text": "You gently turn the body over to get at the bundle. The spiders become agitated, but you manage to pull the bundle away without provoking an attack!"
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Пауки начинают волноваться, но вам удается оттащить сверток, не спровоцировав нападение!"
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF",
-		"text": "You gently turn the body over to get at the bundle. The agitated spiders scurry around furiously. The creatures are faster than you expected! \n\nSuddenly, [char0] screams and shakes a spider out of his pant leg. His ankle is already starting to swell alarmingly where the creature bit him."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Его лодыжка уже начинает опухать в том месте, где существо его укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF_female",
-		"text": "You gently turn the body over to get at the bundle. The agitated spiders scurry around furiously. The creatures are faster than you expected! \n\nSuddenly, [char0] screams and shakes a spider out of her pant leg. Her ankle is already starting to swell alarmingly where the creature bit her."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Ее лодыжка уже начинает опухать в том месте, где существо ее укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_WildernessW",
-		"text": "[char1] thinks for a moment. Then he starts to dig under one of the palm trees. Eventually, he pulls out a strange root, which he rubs all over his hands and forearms. An acrid smell fills your nostrils. When [char1] returns to the corpse, the spiders recoil and scuttle away. \n\n[char1]: \"Tarantulas hate this smell!\""
+		"text": "[char1] какое-то время думает. Затем он начинает копать под одной из пальм. В конце концов, он вытаскивает странный корень, которым растирает руки и предплечья. Резкий запах наполняет ваши ноздри. Когда [char1] подходит к трупу, пауки отскакивают и убегают. \n\n[char1]: \"Тарантулы ненавидят этот запах!\""
 	},
 	{
 		"id": "LE_TarantulaCorpse01_WildernessW_female",
-		"text": "[char1] thinks for a moment. Then she starts to dig under one of the palm trees. Eventually, she pulls out a strange root, which she rubs all over her hands and forearms. An acrid smell fills your nostrils. When [char1] returns to the corpse, the spiders recoil and scuttle away. \n\n[char1]: \"Tarantulas hate this smell!\""
+		"text": "[char1] какое-то время думает. Затем она начинает копать под одной из пальм. В конце концов, она вытаскивает странный корень, которым растирает руки и предплечья. Резкий запах наполняет ваши ноздри. Когда [char1] подходит к трупу, пауки отскакивают и убегают. \n\n[char1]: \"Тарантулы ненавидят этот запах!\""
 	},
 	{
 		"id": "LE_GuardedCanisters01_Intro",
@@ -3143,83 +3143,83 @@
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_A_Intro",
-		"text": "The featureless burial chamber ends in a small, claustrophobic room with a sealed sarcophagus in the center!"
+		"text": "Безликая погребальная камера заканчивается маленькой, вызывающей клаустрофобию комнатой с запечатанным саркофагом в центре!"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_B_Intro",
-		"text": "As you break the wooden planks on the ruined temple wall and use your torches to illuminate the adjoining room, you almost cry out with joy: an untouched burial chamber that the raiders overlooked!"
+		"text": "Когда вы разламываете деревянные доски разрушенной стены храма и освещаете факелами соседнюю комнату, вы почти кричите от радости: нетронутая погребальная камера, которую не заметили мародёры!"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_C_Intro",
-		"text": "As you stretch your legs during a short break, you literally stumble across a shaft hidden in the jumble of rocks. \n\nYou descend on ropes - and discover a hidden burial chamber! A sealed sarcophagus rests in its midst, untouched for millennia... what secrets might it hold?"
+		"text": "Разминая ноги во время короткого перерыва, вы буквально натыкаетесь на шахту, спрятанную в нагромождении камней. \n\nВы спускаетесь по веревкам и обнаруживаете скрытую погребальную камеру! Посреди нее покоится запечатанный саркофаг, нетронутый на протяжении тысячелетий... Какие секреты он может хранить?"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_D_Intro",
-		"text": "The flickering glow of your torches casts unsettling shadows on the scene before you, you hold your breath with excitement: You have found an old, unopened sarcophagus in the dusty burial chamber!"
+		"text": "Мерцающий свет ваших факелов отбрасывает танцующие тени на сцену перед вами, вы затаите дыхание от волнения: вы нашли в пыльной погребальной камере старый, запечатанный саркофаг.!"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_E_Intro",
-		"text": "You discover a subterranean temple hidden in the desert wilderness. Its eastern wall sounds hollow. \n\nYou quickly smash the porous clay bricks and thrust your torches into the space behind the wall: your eyes fall on a large, granite sarcophagus that has survived the millennia in this tiny chamber!"
+		"text": "Вы обнаруживаете подземный храм, спрятанный в глуши пустыни. Его восточная стена кажется пустой. \n\nВы быстро разбиваете пористые глиняные кирпичи и просовываете факелы в пространство за стеной: ваш взгляд падает на большой гранитный саркофаг, который тысячелетиями простоял в этой крошечной камере!"
 	},
 	{
 		"id": "LE_GenericTempleAltar01_A_Intro",
-		"text": "An inconspicuous gap in the rocks leads to a flight of stairs and then to a long-forgotten temple. \n\nIn its central space, you find a massive stone altar surrounded by various ancient offerings!"
+		"text": "Незаметный проход в скалах ведет к лестничному пролету, а затем к давно забытому храму. \n\nВ его центре вы находите массивный каменный алтарь, окруженный различными древними подношениями!"
 	},
 	{
 		"id": "LE_GenericTempleAltar01_B_Intro",
-		"text": "Only a few corner blocks of the ancient temple complex jut out from the desert sands. \n\nYou squeeze through a narrow side shaft that eventually leads to a small altar room. You search it carefully for treasure."
+		"text": "Лишь несколько угловых блоков древнего храмового комплекса выступают из песков пустыни. \n\nВы протискиваетесь через узкую боковой проход, который в конце концов ведет в маленькую комнату с алтарем. Вы тщательно обыскиваете его в поисках сокровищ."
 	},
 	{
 		"id": "LE_GenericTempleAltar01_C_Intro",
-		"text": "The steps of the ancient stone temple that you find among the rocks lead you deeper and deeper underground. \n\nYour subterranean journey ends in a dusty vault. You see an altar at its center!"
+		"text": "Ступени древнего каменного храма, который вы обнаружили среди скал, ведут вас все глубже и глубже под землю. \n\nВаше подземное путешествие заканчивается в пыльном хранилище. Вы видите алтарь в его центре!"
 	},
 	{
 		"id": "LE_GenericTempleAltar01_D_Intro",
-		"text": "Hidden among the shifting dunes, you discover an inconspicuous temple entrance exposed by the wind. \n\nCarefully, you descend the stone steps. The temple consists of a single room dominated by an awe-inspiring altar!"
+		"text": "Вы обнаруживаете скрытый среди движущихся дюн, открытый ветром неприметный вход в храм. \n\nОсторожно спускайтесь по каменным ступеням. Храм состоит из единственной комнаты, над которой возвышается впечатляющий алтарь!"
 	},
 	{
 		"id": "LE_GenericTempleAltar01_E_Intro",
-		"text": "Inside a lonely desert temple, a series of labyrinthine corridors finally lead you to a larger chamber where you find an ancient altar with some dusty offerings!"
+		"text": "Внутри одинокого пустынного храма череда лабиринтных коридоров, наконец, приводит вас в большую комнату, где вы находите древний алтарь с несколькими пыльными подношениями!"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_A_Intro",
-		"text": "From the signs of forced entry on the stone slab at the entrance, you can tell that you are not the first to set foot in this burial chamber. \n\nNevertheless, you cannot help feeling vaguely disappointed when you see the broken stone lid next to the sarcophagus..."
+		"text": "По следам взлома на каменной плите у входа можно сказать, что вы не первый, кто ступил в эту погребальную камеру. \n\nТем не менее, вы не можете справится с лёгким разочарованием, когда видите разбитую каменную крышку рядом с саркофагом..."
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_B_Intro",
-		"text": "The trail of papyrus shreds and torn linen bandages leads you straight to the ransacked burial chamber. \n\nInside, you find a smashed stone sarcophagus. Dejectedly, you examine what the grave robbers left behind."
+		"text": "След из клочков папируса и порванных льняных бинтов ведет прямо к разграбленной погребальной камере. \n\nВнутри вы найдете разбитый каменный саркофаг. Разочаровавшись, вы изучаете то, что ещё оставили расхитители могил."
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_C_Intro",
-		"text": "The item in the surprised desert fox’s mouth looks suspiciously like a mummified hand! You follow the fleeing animal to its hole in the ground.\n\nAfter digging out its entranceway, you lower yourselves into a forgotten burial chamber. Wild animals have ransacked the open stone sarcophagus and scattered its contents everywhere!"
+		"text": "Предмет во рту удивленной пустынной лисы подозрительно похож на мумифицированную руку! Вы следуете за убегающим животным к его норе в земле.\n\nВыкопав вход, вы спускаетесь в забытую погребальную камеру. Дикие звери разграбили открытый каменный саркофаг и повсюду разбросали его содержимое!"
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_D_Intro",
-		"text": "As you come around the next corner, the glow of your torches falls on a massive stone sarcophagus. \n\nYour initial euphoria fades as you realize that grave robbers have beaten you to it..."
+		"text": "Когда вы заходите за следующий угол, свет ваших факелов падает на массивный каменный саркофаг. \n\nВаша первоначальная эйфория проходит, когда вы понимаете, что расхитители могил опередили вас..."
 	},
 	{
 		"id": "LE_GenericSarcophagusRobbed01_E_Intro",
-		"text": "You make your way ever deeper into the old burial chamber until you finally stand in front of an ancient sarcophagus. \n\nIts contents are scattered around the chamber - grave robbers!"
+		"text": "Вы пробираетесь все глубже в старую погребальную камеру, пока, наконец, не оказываетесь перед древним саркофагом. \n\nЕго содержимое разбросано по камере - расхитители могил!"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_A_Intro",
-		"text": "Hidden among some rocks, you find a lone desert shrine."
+		"text": "Вы найдете одинокий пустынный алтарь, спрятанный среди скал."
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_B_Intro",
-		"text": "The weathered shrine among the rocks looks like it's been here since the beginning of time."
+		"text": "Обветренный алтарь среди скал выглядит так, будто он стоит здесь с незапамятных времен."
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_C_Intro",
-		"text": "You find the remains of a nondescript desert shrine. Sun, sand and weather have etched deep lines into the stone."
+		"text": "Вы находите остатки невзрачного алтаря в пустыне. Солнце, песок и погода оставили на камне глубокие линии."
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_D_Intro",
-		"text": "The desert wind whistles dolefully over the ruins of an ancient altar. \n\nPriests of a long-forgotten cult once worshiped their long-forgotten god in this place."
+		"text": "Ветер пустыни заунывно свистит над развалинами древнего алтаря. \n\nЖрецы давно забытого культа когда-то поклонялись в этом месте своему давно забытому богу."
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_E_Intro",
-		"text": "As you walk past some jagged rocks, you startle a peregrine falcon that was perched on a deserted stone altar. \n\nThe majestic bird shoots into the air with a few strokes of its powerful wings and fills the sky above you with a hoarse screech of alarm."
+		"text": "Проходя мимо зазубренных скал, вы пугаете сапсана, который сидел на заброшенном каменном алтаре. \n\nВеличественная птица взмывает в воздух несколькими взмахами своих мощных крыльев и наполняет небо над вами хриплыми тревожными вскриками."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Intro",
@@ -3279,7 +3279,7 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Intro",
-		"text": "Using the surrounding rocks as cover, you make your way up to the enemy camp; a large unit of German soldiers have begun excavations here. They are uncovering a buried temple entrance. \n\nYou debate whether to risk an attack."
+		"text": "Используя окружающие камни в качестве укрытия, вы пробираетесь к вражескому лагерю;большой отряд немецких солдат начал здесь раскопки. Они раскапывают вход в храм. \n\nВы обсуждаете, стоит ли рисковать, чтобы атаковать."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Choice01",
@@ -3291,67 +3291,67 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Choice03",
-		"text": "Perform ritual"
+		"text": "Провести ритуал"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_SearchTemple",
-		"text": "After defeating your enemies, you explore the temple - what were the Germans looking for here? \n\nYou soon find a deep shaft that leads into the interior of the ancient building. You lower yourselves on ropes. [CTP]\n\nAfter a brief underground exploration, you reach a chamber decorated with hieroglyphs and wall drawings. \n\nThe Germans have smashed various stone chests and have begun setting up their metal crates. However, they have not yet managed to transport their find!"
+		"text": "После победы над врагами вы исследуете храм — что здесь искали немцы? \n\nВскоре вы находите глубокую шахту, ведущую внутрь древнего здания. Вы опускаетесь на веревках. [CTP]\n\nПосле краткого обхода подземелий вы добираетесь до комнаты, украшенной иероглифами и настенными рисунками. \n\nНемцы уже разбили несколько каменных сундуков и начали наполнять свои металлические ящики. Однако до сих пор не успели перевезти свою находку!"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_DetectionF",
-		"text": "You take a look around the vault but you cannot find anything of importance so you continue your journey."
+		"text": "Вы осматриваете склеп, но не можете найти ничего важного, поэтому продолжаете свое путешествие."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_DetectionW",
-		"text": "As you're about to leave the vault, [char0] stops suddenly:\n\n[char0]: \"That breeze... do you feel it too?\"[CTP]\n\n[char0] grabs a torch and moves it up and down the walls. He stands triumphantly in front of a crumbling brick wall, the flickering torch in his hand!\n\nA few minutes later, you are clambering through the rubble of the demolished wall. At the center of the chamber beyond, you see a stone tablet covered with ancient hieroglyphs."
+		"text": "Когда вы уже собирались покинуть хранилище, [char0] внезапно останавливается:\n\n[char0]: \"Слабый ветерок... вы его тоже чувствуете?\"[CTP]\n\n[char0] хватает факел и водит им вверх и вниз по стенам. Он останавливается перед рушащейся кирпичной стеной с мерцающим факелом в руке!\n\nЧерез несколько минут вы карабкаетесь через обломки разрушенной стены. В центре зала вы видите каменную табличку, покрытую древними иероглифами."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_DetectionW_female",
-		"text": "As you're about to leave the vault, [char0] stops suddenly:\n\n[char0]: \"That breeze... do you feel it too?\"[CTP]\n\n[char0] grabs a torch and moves it up and down the walls. She stands triumphantly in front of a crumbling brick wall, the flickering torch in her hand!\n\nA few minutes later, you are clambering through the rubble of the demolished wall. At the center of the chamber beyond, you see a stone tablet covered with ancient hieroglyphs."
+		"text": "Когда вы уже собирались покинуть хранилище, [char0] внезапно останавливается:\n\n[char0]: \"Слабый ветерок... вы его тоже чувствуете?\"[CTP]\n\n[char0] хватает факел и водит им вверх и вниз по стенам. Она останавливается перед рушащейся кирпичной стеной с мерцающим факелом в руке!\n\nЧерез несколько минут вы карабкаетесь через обломки разрушенной стены. В центре зала вы видите каменную табличку, покрытую древними иероглифами."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Illegible",
-		"text": "You try to decipher their meaning, but your attempts are in vain. Disappointed, you continue on your journey."
+		"text": "Вы пытаетесь расшифровать их значение, но ваши попытки тщетны. Разочарованный, вы продолжаете свой путь."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_LanguagesF",
-		"text": "[char1] scans the stone tablet excitedly, but eventually he has to admit defeat. \n\n[char1]: \"These symbols make no sense!\""
+		"text": "[char1] взволнованно осматривает каменную табличку, но в конце концов вынужден признать поражение. \n\n[char1]: \"Эти символы не имеют смысла!\""
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_LanguagesF_female",
-		"text": "[char1] scans the stone tablet excitedly, but eventually she has to admit defeat. \n\n[char1]: \"These symbols make no sense!\""
+		"text": "[char1] взволнованно осматривает каменную табличку, но в конце концов вынуждена признать поражение. \n\n[char1]: \"Эти символы не имеют смысла!\""
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_LanguagesW",
-		"text": "[char1] scans the stone tablet excitedly, mumbling under his breath before turning to you: [CTP]\n\n[char1]: \"This is the sanctuary where priests used to carry out their purification rituals. This says: The Chosen One performs the ritual, and is filled with the divine spirit.\""
+		"text": "[char1] взволнованно просматривает каменную табличку, бормоча себе под нос, прежде чем повернуться к вам: [CTP]\n\n[char1]: \"Это святилище, где священники проводили свои ритуалы очищения. Здесь говорится: Избранный совершит ритуал, и наполнит его божественный дух.\""
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_LanguagesW_female",
-		"text": "[char1] scans the stone tablet excitedly, mumbling under her breath before turning to you: [CTP]\n\n[char1]: \"This is the sanctuary where priests used to carry out their purification rituals. This says: The Chosen One performs the ritual, and is filled with the divine spirit.\""
+		"text": "[char1] взволнованно просматривает каменную табличку, бормоча себе под нос, прежде чем повернуться к вам: [CTP]\n\n[char1]: \"Это святилище, где священники проводили свои ритуалы очищения. Здесь говорится: Избранный совершит ритуал, и наполнит его божественный дух.\""
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_RitualW",
-		"text": "You perform an improvised ritual. Who shall be purified?"
+		"text": "Вы проводите импровизированный ритуал. Кто будет очищен?"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_OccultF",
-		"text": "You perform an improvised ritual, but nothing happens. Disappointed, you move on."
+		"text": "Вы выполняете импровизированный ритуал, но ничего не происходит. Разочаровавшись, вы идете дальше."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_OccultW",
-		"text": "[char2] intones an ancient consecration hymn as he guides you through the ritual. Who shall be purified?"
+		"text": "[char2] запевает древний гимн посвящения, проводя вас через ритуал. Кто будет очищен?"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_OccultW_female",
-		"text": "[char2] intones an ancient consecration hymn as she guides you through the ritual. Who shall be purified?"
+		"text": "[char2] запевает древний гимн посвящения, проводя вас через ритуал. Кто будет очищен?"
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Purified",
-		"text": "[char3] opens his eyes with a serene smile, as if a heavy burden had been lifted from his shoulders."
+		"text": "[char3] открывает глаза с безмятежной улыбкой, как будто с его плеч сняли тяжелую ношу."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Purified_female",
-		"text": "[char3] opens her eyes with a serene smile, as if a heavy burden had been lifted from her shoulders."
+		"text": "[char3] открывает глаза с безмятежной улыбкой, как будто с её плеч сняли тяжелую ношу."
 	},
 	{
 		"id": "GE_StargateFragment01_Intro",
@@ -5343,7 +5343,7 @@
 	},
 	{
 		"id": "SE_Adventure01Intro_Title",
-		"text": "Somewhere in Morocco"
+		"text": "Где-то в Марокко"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Title",
@@ -5375,7 +5375,7 @@
 	},
 	{
 		"id": "FE_GenericOldCemetery01_Title",
-		"text": "Some old tombstones"
+		"text": "Несколько старых надгробий"
 	},
 	{
 		"id": "FE_GenericOldCemetery02_Title",
@@ -5383,15 +5383,15 @@
 	},
 	{
 		"id": "FE_GenericOldCemetery03_Title",
-		"text": "An old desert graveyard"
+		"text": "Старое пустынное кладбище"
 	},
 	{
 		"id": "FE_GenericOldCemetery04_Title",
-		"text": "Some ancient tombs"
+		"text": "Несколько древних могил"
 	},
 	{
 		"id": "FE_GenericOldCemetery05_Title",
-		"text": "Some old graves"
+		"text": "Несколько старых могил"
 	},
 	{
 		"id": "FE_GenericBrushwood01_Title",
@@ -5567,7 +5567,7 @@
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenNeutral01_Title",
-		"text": "An empty water cistern"
+		"text": "Пустая водяная цистерна"
 	},
 	{
 		"id": "BE_GenericNaziSewerGreenNeutral02_Title",
@@ -5695,7 +5695,7 @@
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Title",
-		"text": "A campsite"
+		"text": "Кемпинг"
 	},
 	{
 		"id": "FE_UnknownPlane01_Title",
@@ -6115,7 +6115,7 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Title",
-		"text": "An old desert temple"
+		"text": "Старый пустынный храм"
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Title",
@@ -6135,7 +6135,7 @@
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched02_Title",
-		"text": "An ancient inner sanctum"
+		"text": "Древнее внутреннее святилище"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched03_Title",
@@ -6191,23 +6191,23 @@
 	},
 	{
 		"id": "LE_GenericOutdoorAltar01_Title",
-		"text": "An abandoned altar"
+		"text": "Брошенный алтарь"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar02_Title",
-		"text": "A desert altar"
+		"text": "Пустынный алтарь"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar03_Title",
-		"text": "A shrine in the sand"
+		"text": "Алтарь среди песков"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar04_Title",
-		"text": "A shrine"
+		"text": "Алтарь"
 	},
 	{
 		"id": "LE_GenericOutdoorAltar05_Title",
-		"text": "An old altar"
+		"text": "Старый алтарь"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Title",
@@ -6863,11 +6863,11 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_Intro",
-		"text": "It's like a scene from a bizarre fever dream: The twisted bodies of the dead cultists form a vast circle in the desert sands. At the center, you see an ugly stone idol!\n\nAs you approach the bodies, you see that their heads have been cracked like raw eggs. [CTP] \n\nWhat on earth happened here? A vague feeling of panic grips you..."
+		"text": "Это похоже на сцену из лихорадочного сна: искривленные тела мертвых культистов образуют огромный круг на пустынном песке. В центре вы видите уродливого каменного идола!\n\nПодходя к телам, вы видите, что их головы были разбиты, как сырые яйца. [CTP] \n\nЧто здесь произошло? Вас охватывает лёгкое чувство паники..."
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice01",
-		"text": "Examine the stone idol"
+		"text": "Осмотреть каменного идола"
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice02",
@@ -6875,15 +6875,15 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_ExamineIdol",
-		"text": "You fight back your fear and step over the corpses to approach the idol. The statue leers at you through tiny, empty eyes. \n\nYou hear a faint wailing slowly swelling - then you realize it's just the desert wind blowing past the grotesque statue, and you laugh nervously. [CTP]\n\nVarious objects are scattered around the idol in the desert sand."
+		"text": "Поборов страх вы перешагиваете через трупы, чтобы приблизиться к идолу. Статуя пристально смотрит на вас крошечными пустыми глазками. \n\nВы слышите слабый плач, медленно нарастающий, а затем понимаете, что это просто ветер пустыни дует мимо гротескной статуи, и нервно смеетесь. [CTP]\n\nВокруг идола на песке разбросано несколько предметов."
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice03",
-		"text": "Take the offerings"
+		"text": "Забрать подношения"
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice04",
-		"text": "Knock over the idol"
+		"text": "Опрокинуть идола"
 	},
 	{
 		"id": "LE_MurderousIdol01_Choice05",
@@ -6891,7 +6891,7 @@
 	},
 	{
 		"id": "LE_MurderousIdol01_ToppleIdol",
-		"text": "Working together, you manage to topple the idol. Immediately, you feel as if you have woken up from a nightmare."
+		"text": "Работая вместе, вам удается свалить идола. И сразу чувствуете себя так, как будто проснулся от кошмара."
 	},
 	{
 		"id": "LE_LavaBridge01_Title",
@@ -9083,15 +9083,15 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice03",
-		"text": "Greet man"
+		"text": "Поприветствовать мужчину"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice04",
-		"text": "Inspect camel"
+		"text": "Осмотреть верблюда"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice04",
-		"text": "Excuse me?"
+		"text": "Простите?"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice05",
@@ -9099,19 +9099,19 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice06",
-		"text": "Inspect spring"
+		"text": "Осмотрите пружину"
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice07",
-		"text": "A strange atmosphere..."
+		"text": "Странная атмосфера..."
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Choice01",
-		"text": "Inspect fire"
+		"text": "Осмотреть огонь"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Choice02",
-		"text": "Something is wrong here!"
+		"text": "Что-то здесь не так!"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice04",
@@ -9119,11 +9119,11 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice05",
-		"text": "Pause for a moment"
+		"text": "Сделать паузу"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice06",
-		"text": "Inspect hieroglyphics"
+		"text": "Изучить иероглифы"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice07",
@@ -9131,19 +9131,19 @@
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice08",
-		"text": "Improvise ritual"
+		"text": "Сымпровизировать ритуал"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_Choice09",
-		"text": "Hold ceremony"
+		"text": "Провести церемонию"
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_AltarRoomSearch",
-		"text": "The flickering glow of your torches fills the crooked altar room with restless shadows."
+		"text": "Мерцающий свет ваших факелов наполняет изогнутую алтарную комнату трясущимися тенями."
 	},
 	{
 		"id": "BE_SanctuaryExcavation01_SecretChamber",
-		"text": "The massive stone slab dominates the entire chamber."
+		"text": "Массивная каменная плита возвышается над всей комнатой."
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Choice01",
