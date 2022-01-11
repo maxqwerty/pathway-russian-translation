@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_Choice02",
-		"text": "Leave this place unseen"
+		"text": "Покинуть место незамеченными"
 	},
 	{
 		"id": "BE_GenericNaziDungeonAdvant01_A_Intro",
@@ -767,7 +767,7 @@
 	},
 	{
 		"id": "RE_GenericOasis01_A_Intro",
-		"text": "In the shade of some palm trees, you find a small, brackish waterhole – this would be a good place to take a break!"
+		"text": "В тени некоторых пальм вы находите небольшой солоноватый водоем — это было бы хорошим местом для отдыха!"
 	},
 	{
 		"id": "RE_GenericOasis01_A_Rest",
@@ -775,15 +775,15 @@
 	},
 	{
 		"id": "RE_GenericOasis01_B_Intro",
-		"text": "The waterhole is well shaded and inviting – do you want to set up camp here?"
+		"text": "Водопой хорошо затенен и привлекателен — вы хотите разбить здесь лагерь?"
 	},
 	{
 		"id": "RE_GenericOasis01_B_Rest",
-		"text": "You set up camp in the shade and tend to your wounds. You soon have coffee simmering over the campfire and your spirits improve. With morale restored, you continue your journey."
+		"text": "Вы разбиваете лагерь в тени и лечите свои раны. Вскоре у вас кипит кофе на костре, и ваше настроение улучшается. Восстановив боевой дух, вы продолжаете свое путешествие."
 	},
 	{
 		"id": "RE_GenericOasis01_C_Intro",
-		"text": "The waterhole is surrounded by a few palm trees and shrubs that sway gently in the wind. It might be a good idea to take a break..."
+		"text": "Водопой окружен несколькими пальмами и кустарниками, которые мягко качаются на ветру. Возможно, стоит сделать привал..."
 	},
 	{
 		"id": "RE_GenericOasis01_C_Rest",
@@ -791,19 +791,19 @@
 	},
 	{
 		"id": "RE_GenericOasis01_D_Intro",
-		"text": "You come across a small oasis in the endless sea of ​​dunes: A few hardy palms provide some shade. This would be a great place to take a break!"
+		"text": "Вы натыкаетесь на небольшой оазис в бескрайнем море дюн: несколько выносливых пальм бросают тень. Это будет отличное место для отдыха!"
 	},
 	{
 		"id": "RE_GenericOasis01_D_Rest",
-		"text": "You spend a long break treating your bruises and greasing your weapons. Rested and in good spirits, you pack your things to leave the oasis."
+		"text": "Вы делаете долгий привал, обрабатывая синяки и смазывая оружие. Отдохнув и в хорошем настроении, вы собираете вещи, чтобы покинуть оазис."
 	},
 	{
 		"id": "RE_GenericOasis01_E_Intro",
-		"text": "The oasis consists of a sparse palm grove, some hardy shrubs and a waterhole surrounded by old hoof tracks. You could stop here for a short break."
+		"text": "Оазис состоит из редкой пальмовой рощи, нескольких выносливых кустарников и водоема, окруженного старыми следами копыт. Здесь можно остановиться на короткий привал."
 	},
 	{
 		"id": "RE_GenericOasis01_E_Rest",
-		"text": "You use the break to care for your wounds. You complete your stay with a simple meal. Your strength restored, you continue your journey."
+		"text": "Вы используете перерыв, чтобы залечить свои раны. Вы завершаете свое пребывание простой едой. Ваши силы восстановились, вы продолжаете свой путь."
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_A_Intro",
@@ -1647,15 +1647,15 @@
 	},
 	{
 		"id": "LE_DerelictCar01_Intro",
-		"text": "Between the crooked huts of a deserted village, you find a dusty old wrecked car. The passenger door screeches as you pull it open. \n\n[char0]: \"What a pile of garbage!\"\n\nYou tap at the tank anyway to check for gasoline:"
+		"text": "Между покосившимися хижинами заброшенной деревни вы находите пыльный старый разбитый автомобиль. Пассажирская дверь скрипит, когда вы ее открываете. \n\n[char0]: \"Что за куча мусора!\"\n\nВы все равно стучите по баку, чтобы проверить наличие бензина:"
 	},
 	{
 		"id": "LE_DerelictCar01_LootW",
-		"text": "Who would have imagined? There’s still some gasoline in there!"
+		"text": "Кто бы мог подумать? Там еще есть немного топлива!"
 	},
 	{
 		"id": "LE_DerelictCar01_LootF",
-		"text": "The tank sounds as empty as you imagined it would."
+		"text": "Бак звучит так же пусто, как вы и ожидали."
 	},
 	{
 		"id": "LE_DerelictCar01_Choice01",
@@ -1667,19 +1667,19 @@
 	},
 	{
 		"id": "LE_DerelictCar01_DetectionW",
-		"text": "Just as you are about to leave, [char1]'s face lights up. He leans over one of the crooked walls and picks up a dusty jerrycan. \n\n[char1]: \"Ha! It’s still half full!\""
+		"text": "Как только вы собрались уходить, [char1] вдруг встрепенулся. Он перегибается через одну из кривых стен и достаёт пыльную канистру. \n\n[char1]: \"Ха! Она еще наполовину полна!\""
 	},
 	{
 		"id": "LE_DerelictCar01_DetectionW_female",
-		"text": "Just as you are about to leave, [char1]'s face lights up. She leans over one of the crooked walls and picks up a dusty jerrycan. \n\n[char1]: \"Ha! It’s still half full!\""
+		"text": "Как только вы собрались уходить, [char1] вдруг встрепенулась. Она перегибается через одну из кривых стен и достаёт пыльную канистру. \n\n[char1]: \"Ха! Она еще наполовину полна!\""
 	},
 	{
 		"id": "LE_DerelictCar01_DetectionF",
-		"text": "[char1] stops briefly and looks around, then frowns and shakes his head. You move on."
+		"text": "[char1] ненадолго останавливается и оглядывается, затем хмурится и качает головой. Вы идете дальше."
 	},
 	{
 		"id": "LE_DerelictCar01_DetectionF_female",
-		"text": "[char1] stops briefly and looks around, then frowns and shakes her head. You move on."
+		"text": "[char1] ненадолго останавливается и оглядывается, затем хмурится и качает головой. Вы идете дальше."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Intro",
@@ -1939,7 +1939,7 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Intro",
-		"text": "After hours in the scorching heat, you see a stone well at the side of the track. Finally! Cool water! With parched throats you rush to the well. It feels like an eternity until the bucket appears at the end of the rope, filled to the brim with water."
+		"text": "После нескольких часов палящего зноя вы видите каменный колодец у обочины трассы. Ну наконец то! Прохладная вода! С пересохшим горлом вы мчитесь к колодцу. Кажется, прошла вечность, пока на конце веревки не появляется ведро, до краев наполненное водой."
 	},
 	{
 		"id": "AE_PoisonWell01_Choice01",
@@ -1947,11 +1947,11 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Choice02",
-		"text": "Inspect the well"
+		"text": "Осмотреть колодец"
 	},
 	{
 		"id": "AE_PoisonWell01_Choice03",
-		"text": "Drink the water"
+		"text": "Выпить воду"
 	},
 	{
 		"id": "AE_PoisonWell01_Choice04",
@@ -1959,11 +1959,11 @@
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalW",
-		"text": "[char0] scrutinizes the water suspiciously and finally wrinkles his nose: \n\n[char0]: \"It smells stale and brackish – we should think twice about drinking this!\""
+		"text": "[char0] с подозрением разглядывает воду и, наконец, морщит нос: \n\n[char0]: \"Она пахнет затхлостью и солоноватостью — мы должны дважды подумать, прежде чем пить ее!\""
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalW_female",
-		"text": "[char0] scrutinizes the water suspiciously and finally wrinkles her nose: \n\n[char0]: \"It smells stale and brackish – we should think twice about drinking this!\""
+		"text": "[char0] с подозрением разглядывает воду и, наконец, морщит нос: \n\n[char0]: \"Она пахнет затхлостью и солоноватостью — мы должны дважды подумать, прежде чем пить ее!\""
 	},
 	{
 		"id": "AE_PoisonWell01_MedicalF",
@@ -1975,35 +1975,35 @@
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalW",
-		"text": "[char1] points at the sand around the well: \n\n[char1]: \"I don’t see a single footprint. It could just be a coincidence, but maybe we should take it as a warning...\""
+		"text": "[char1] указывает на песок вокруг колодца: \n\n[char1]: \"Я не вижу здесь ни одного следа. Это может быть просто совпадением, но, возможно, мы должны принять это как предупреждение...\""
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalW_female",
-		"text": "[char1] points at the sand around the well: \n\n[char1]: \"I don’t see a single footprint. It could just be a coincidence, but maybe we should take it as a warning...\""
+		"text": "[char1] указывает на песок вокруг колодца: \n\n[char1]: \"Я не вижу здесь ни одного следа. Это может быть просто совпадением, но, возможно, мы должны принять это как предупреждение...\""
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalF",
-		"text": "[char1] не заметил ничего странного на земле вокруг фонтана."
+		"text": "[char1] не заметил ничего странного на земле вокруг колодца."
 	},
 	{
 		"id": "AE_PoisonWell01_SurvivalF_female",
-		"text": "[char1] не заметила ничего странного на земле вокруг фонтана."
+		"text": "[char1] не заметила ничего странного на земле вокруг колодца."
 	},
 	{
 		"id": "AE_PoisonWell01_Lucky",
-		"text": "Refreshed, you move on."
+		"text": "Освежившись, вы продолжаете путь."
 	},
 	{
 		"id": "AE_PoisonWell01_Unlucky",
-		"text": "Some time later, [char2] starts complaining of dizziness and blurred vision. It seems like the water did not agree with him."
+		"text": "Через некоторое время, [char2] начинает жаловаться на головокружение и ухудшение зрения. Похоже, вода не пошла ему на пользу."
 	},
 	{
 		"id": "AE_PoisonWell01_Unlucky_female",
-		"text": "Some time later, [char2] starts complaining of dizziness and blurred vision. It seems like the water did not agree with her."
+		"text": "Через некоторое время, [char2] начинает жаловаться на головокружение и ухудшение зрения. Похоже, вода не пошла ей на пользу."
 	},
 	{
 		"id": "AE_PoisonWell01_Undecided",
-		"text": "Вы не можете определиться: что вам хочется сделать?"
+		"text": "Вы не можете определиться: что вы хотите сделать?"
 	},
 	{
 		"id": "AE_CarFailure01_Intro",
@@ -2703,23 +2703,23 @@
 	},
 	{
 		"id": "RE_GenericOasis01_A_Revisit",
-		"text": "You return to the small waterhole in the shade of the palm trees."
+		"text": "Вы возвращаетесь к небольшому водопою в тени пальм."
 	},
 	{
 		"id": "RE_GenericOasis01_B_Revisit",
-		"text": "You come across the small, palm-filled oasis once again."
+		"text": "Вы снова натыкаетесь на небольшой оазис с пальмами."
 	},
 	{
 		"id": "RE_GenericOasis01_C_Revisit",
-		"text": "You find the waterhole just as you left it."
+		"text": "Вы находите водопой таким же, каким оставили его."
 	},
 	{
 		"id": "RE_GenericOasis01_D_Revisit",
-		"text": "Your journey takes you past the old oasis again."
+		"text": "Ваше путешествие снова приведет вас к старому оазису."
 	},
 	{
 		"id": "RE_GenericOasis01_E_Revisit",
-		"text": "From a distance, you spot the sparse palm grove by a waterhole."
+		"text": "Издалека вы замечаете редкую пальмовую рощу у водоема."
 	},
 	{
 		"id": "RE_GenericRuins01_A_Revisit",
@@ -3539,7 +3539,7 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_ AltarRoom",
-		"text": "The room contains a small, non-descript altar from which the strange light emanates. A bizarre form stands in front of it. [CTP]\n\nYou study it cautiously, but you are not sure what you have come across: Is it a statue or the fossilized remains of a strangely deformed person? Or... something else?! \n\nEventually, you notice a mysterious bundle in the creature’s deformed hands."
+		"text": "В комнате стоит небольшой невзрачный алтарь, от которого исходит странный свет. Перед ним стоит причудливая форма. [CTP]\n\nВы внимательно изучаете ее, но не можете точно сказать, что это такое: статуя или окаменевшие останки странно деформированного человека? Или же... нечто другое?! \n\nВ конце концов, вы замечаете таинственный сверток в деформированных руках существа."
 	},
 	{
 		"id": "LE_BurningJeep01_Intro",
@@ -3575,23 +3575,23 @@
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Intro",
-		"text": "In the shade of some cliffs, you find a tree whose deep green foliage draws your interest. \n\nYou examine the dusty, rocky ground around the tree, but cannot find any trace of a water source. [CTP]\n\nWhen you look up, you see the juicy looking fruit of the strange tree."
+		"text": "В тени нескольких утесов вы обнаружили дерево, темно-зеленая листва которого привлекла ваше внимание. \n\nВы исследуете пыльную каменистую землю вокруг дерева, но не можете найти никаких следов источника воды. [CTP]\n\nКогда вы смотрите вверх, вы видите сочные плоды этого странного дерева."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice01",
-		"text": "Investigate tree"
+		"text": "Осмотреть дерево"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice02",
-		"text": "Identify tree species"
+		"text": "Определить вид дерева"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice03",
-		"text": "Pick a fruit and try it carefully"
+		"text": "Сорвать фрукт и осторожно попробовать его"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice04",
-		"text": "Pick and eat all the fruit"
+		"text": "Сорвать и съесть целый фрукт"
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Choice05",
@@ -3599,7 +3599,7 @@
 	},
 	{
 		"id": "GE_ForbiddenFruit01_ExamineTree",
-		"text": "Your investigation reveals little beyond establishing that the tree species is unknown to you."
+		"text": "Ваше расследование ни дало ничего, кроме того, что вид дерева вам неизвестен."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_WildernessW",
@@ -3611,27 +3611,27 @@
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Cautious",
-		"text": "You try a few bites of the weird fruit. The earthy-aromatic taste turns bitter after a little chewing. \n\nYou decide not to eat the rest of the fruit and continue your journey. You are vaguely refreshed and filled with a pleasant feeling of warmth."
+		"text": "Вы пробуете несколько кусочков странного фрукта. Ароматно-землистый вкус становится горьким после пережевывания. \n\nВы решаете не есть оставшиеся фрукты и продолжаете свое путешествие. Вы слегка освежаетесь и наполняетесь приятным ощущением тепла."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_EatAll",
-		"text": "You devour the fruits greedily. The initial, pleasantly aromatic taste soon turns bitter and you feel your stomachs rumble."
+		"text": "Вы жадно поедаете плоды. Первоначальный приятный ароматный вкус вскоре становится горьким, и вы чувствуете урчание в животе."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_EatAllW",
-		"text": "The bitter taste fades as you continue your journey. A pleasant warmth fills your stomachs. You feel strangely refreshed and full of confidence."
+		"text": "Горький вкус исчезает по мере того, как вы продолжаете свое путешествие. Приятное тепло наполняет желудок. Вы чувствуете себя странно отдохнувшим и полным уверенности."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_EatAllF",
-		"text": "As you continue your journey, you feel an unpleasant churning in your stomachs, but it soon fades. \n\nOnly [char1] starts complaining of painful stomach cramps."
+		"text": "Продолжая путь, вы чувствуете неприятное бурление в желудке, но вскоре оно проходит. \n\nТолько [char1] начинает жаловаться на болезненные спазмы желудка."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_EatAllF_female",
-		"text": "As you continue your journey, you feel an unpleasant churning in your stomachs, but it soon fades. \n\nOnly [char1] starts complaining of painful stomach cramps."
+		"text": "Продолжая путь, вы чувствуете неприятное бурление в желудке, но вскоре оно проходит. \n\nТолько [char1] начинает жаловаться на болезненные спазмы желудка."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Decision",
-		"text": "You’re not sure. What do you want to do?"
+		"text": "Вы не уверены. Что вы намерены делать дальше?"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Intro",
@@ -5759,7 +5759,7 @@
 	},
 	{
 		"id": "AE_PoisonWell01_Title",
-		"text": "Водопой"
+		"text": "Колодец"
 	},
 	{
 		"id": "AE_CarFailure01_Title",
@@ -6231,7 +6231,7 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Title",
-		"text": "A strange temple"
+		"text": "Странный храм"
 	},
 	{
 		"id": "LE_BurningJeep01_Title",
@@ -8383,7 +8383,7 @@
 	},
 	{
 		"id": "FA_TeamDied02_Intro",
-		"text": "You did your best, but in this race there is no second place!\n\nHopefully someone else can prevent The Wrath of God from falling into the hands of the Nazis..."
+		"text": "Вы выложились на максимум, но в этой гонке второго места нет!\n\nНадеюсь, кто-то еще сможет предотвратить попадание Божьего Гнева в руки нацистов..."
 	},
 	{
 		"id": "FA_TeamDied03_Title",
@@ -8391,7 +8391,7 @@
 	},
 	{
 		"id": "FA_TeamDied03_Intro",
-		"text": "Unfortunately, you did not manage to thwart the Brotherhood's blasphemous plans!\n\nWho can prevent the return of the Black Pharaoh now? You do not know..."
+		"text": "К сожалению, вам не удалось помешать кощунственным планам Братства!\n\nКто теперь может помешать возвращению Черного Фараона? Вы не знаете..."
 	},
 	{
 		"id": "FA_TeamDied04_Title",
@@ -8399,7 +8399,7 @@
 	},
 	{
 		"id": "FA_TeamDied04_Intro",
-		"text": "You fought to the bitter end, but you lost!\n\nPerhaps somebody else will look into the secrets of the German expedition to the holy Mount Sinai..."
+		"text": "Вы сражались до победного конца, но проиграли!\n\nВозможно, кто-то другой сможет заглянуть в тайны немецкой экспедиции на священную гору Синай..."
 	},
 	{
 		"id": "FA_TeamDied05_Title",
@@ -8407,7 +8407,7 @@
 	},
 	{
 		"id": "FA_TeamDied05_Intro",
-		"text": "You did your best, but you were unable to solve the mystery of Kharga Serabit!\n\nFabulous images of the magnificent desert city are the last thing that passes through your mind as you sink, exhausted, into the sand..."
+		"text": "Вы старались изо всех сил, но не смогли разгадать тайну Харга Серабит!\n\nСказочные образы великолепного пустынного города - последнее, что приходит в голову, когда вы, измученные, погружаетесь в песок..."
 	},
 	{
 		"id": "FA_TeamDied06_Title",
@@ -8415,7 +8415,7 @@
 	},
 	{
 		"id": "FA_TeamDied06_Intro",
-		"text": "Everything blurs before your eyes. The Divine Chariot, the Queen of Sheba - was any of it true, or have you been chasing the imaginings of a fever dream all this time?\n\nDream or reality - your journey ends here..."
+		"text": "Все расплывается перед глазами. Божественная Колесница, Царица Савская - было ли это правдой, или вы все это время гонялись за фантазиями лихорадочного сна?\n\nСон это или реальность - ваше путешествие заканчивается здесь..."
 	},
 	{
 		"id": "FA_Generic_Choice1",
@@ -8423,19 +8423,19 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_FreeChar",
-		"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char3]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char3]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленника от оков, и он бурно пожимает вам руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас всё могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_FreeChar_female",
-		"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char3]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char3]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленницу от ее оков, и она бурно жмет вам руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас всё могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_CU_FreeChar",
-		"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char2]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char2]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленника от оков, и он бурно пожимает вам руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас всё могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_CU_FreeChar_female",
-		"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char2]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char2]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленницу от ее оков, и она бурно жмет вам руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас всё могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar",
@@ -10367,15 +10367,15 @@
 	},
 	{
 		"id": "LE_DerelictCar01_Choice04",
-		"text": "Tap the tank"
+		"text": "Постучать по баку"
 	},
 	{
 		"id": "LE_DerelictCar01_MoveCar",
-		"text": "You’re in luck: The engine actually starts! \n\nBut a few yards on, it gives up the ghost, this time forever. \n\nYou turn and, to your surprise, you notice a cellar entrance that was previously concealed under the car..."
+		"text": "Вам повезло: двигатель действительно запускается! \n\nНо через несколько ярдов он испускает дух, на этот раз навсегда. \n\nВы оборачиваетесь и, к своему удивлению, замечаете вход в подвал, который раньше был скрыт под машиной..."
 	},
 	{
 		"id": "LE_DerelictCar01_SecretChamber",
-		"text": "You clamber down the steep steps into a long-forgotten storeroom. \n\nEagerly, you start to search!"
+		"text": "Вы спускаетесь по крутым ступеням в давно забытую кладовую. \n\nС нетерпением, вы начинаете поиски!"
 	},
 	{
 		"id": "BE_LostRockTemple01_SecretRoom",
@@ -10423,11 +10423,11 @@
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_HiddenLever",
-		"text": "Just as you are considering turning back, [char4] cries out in excitement! \n\nHe is pushing at an inconspicuous depression in the stone wall - to your surprise, the rocks rumble aside to reveal a secret passage!"
+		"text": "В тот момент, когда вы уже решаете повернуть назад, [char4] вскрикивает от волнения! \n\nОн нажимает на неприметное углубление в каменной стене - к вашему удивлению, камни с грохотом раздвигаются в стороны, открывая секретный проход!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_HiddenLever_female",
-		"text": "Just as you are considering turning back, [char4] cries out in excitement! \n\nShe is pushing at an inconspicuous depression in the stone wall - to your surprise, the rocks rumble aside to reveal a secret passage!"
+		"text": "В тот момент, когда вы уже решаете повернуть назад, [char4] вскрикивает от волнения! \n\nОна нажимает на неприметное углубление в каменной стене - к вашему удивлению, камни с грохотом раздвигаются в стороны, открывая секретный проход!"
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_BurialChamber",
@@ -11579,11 +11579,11 @@
 	},
 	{
 		"id": "SE_Adventure_HC_Refill",
-		"text": "Refill your jeep"
+		"text": "Заправить джип"
 	},
 	{
 		"id": "SE_Adventure_HC_FuelStation",
-		"text": "As you hit the road, you see a small fuel station at the side of the road. You decide to make a short stop and fuel up."
+		"text": "Как только вы выезжаете на дорогу, вы замечаете небольшую заправочную станцию на обочине дороги. Вы решаете сделать короткую остановку и заправиться."
 	},
 	{
 		"id": "SE_Adventure02Intro_HC_title",
