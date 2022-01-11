@@ -123,7 +123,7 @@
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_B_Intro",
-		"text": "Вы видите заброшенный лагерь среди руин. Костер больше не горит, но пепел свежий. Как давно здесь был этот лагерь?\n\nКак будто в ответ на свой невысказанный вопрос вы слышите шорох позади. Вы оборачиваетесь и видите отряд солдат, целящихся на вас винтовками! Вы попали в засаду!"
+		"text": "Вы видите заброшенный лагерь среди руин. Костер больше не горит, но пепел свежий. Как давно покинули этот лагерь?\n\nКСловно в ответ на ваш невысказанный вопрос, вы слышите шорох позади себя! Вы оборачиваетесь и видите отряд солдат, целящихся на вас винтовками! Вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_C_Intro",
@@ -1391,19 +1391,19 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_Intro",
-		"text": "Even from a distance, the strange stone formation attracts your attention. It is evidently the remnants of a local shrine, probably built by nomads eons ago.\n\nIt’s the only protection from the elements you are likely to find for miles, so you decide to take a short break."
+		"text": "Даже издалека странное каменное образование привлекает ваше внимание. Очевидно, это остатки местного святилища, вероятно, построенного кочевниками много веков назад.\n\nЭто единственная защита от стихии, которую вы можете найти на многие мили, поэтому вы решили сделать небольшую остановку."
 	},
 	{
 		"id": "LE_DesertedShrine01_Leave",
-		"text": "The strange characters on this forgotten shrine are truly ancient, almost entirely erased by the eons of wind, sand and sun. What became of the builders of this sanctuary? What of their gods? Deep in contemplation, you move on."
+		"text": "Странные, по настоящему древние символы на этом забытом святилище почти полностью стёрты столетиями ветра, песка и солнца. Что стало со строителями этого святилища? Что стало с их богами? Глубоко погрузившись в раздумья, вы идете дальше."
 	},
 	{
 		"id": "LE_DesertedShrine01_Languages",
-		"text": "As you approach the crude altar, [char0]’s gaze falls on the weathered hieroglyphics. Muttering excitedly, he examines the strange characters."
+		"text": "Когда вы приближаетесь к грубому алтарю, [char0] смотрит на выветрившиеся иероглифы. Взволнованно бормоча, он рассматривает странные иероглифы."
 	},
 	{
 		"id": "LE_DesertedShrine01_Languages_female",
-		"text": "As you approach the crude altar, [char0]’s gaze falls on the weathered hieroglyphics. Muttering excitedly, she examines the strange characters."
+		"text": "Когда вы приближаетесь к грубому алтарю, [char0] смотрит на выветрившиеся иероглифы. Взволнованно бормоча, она рассматривает странные иероглифы."
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesF",
@@ -1415,7 +1415,7 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesW",
-		"text": "[char0]: \"That was... instructive.\"\n \n[char0]: \"The inscription mentions a hidden sacred site in the hills close-by.\""
+		"text": "[char0]: \"Это очень... увлекательно.\"\n \n[char0]: \"В надписи упоминается скрытое священное место в холмах неподалеку.\""
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice01",
@@ -1427,7 +1427,7 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_Cave",
-		"text": "You reach some impassable rocks. Without the altar‘s inscription, you would never have thought of exploring these inaccessible hills, but you soon find an inconspicuous passage hidden between the rocky outcrops. [CTP]\n\nCurious, you enter the concealed rock temple. The ornamentations on its walls are strange and unfamiliar. Massive columns, covered from top to bottom with hieroglyphs, line an aisle that leads up to a dusty sarcophagus.\n\nYou push the granite slab aside to take a look inside the bizarre sarcophagus."
+		"text": "Вы добираетесь до непроходимых скал. Если бы не надпись на алтаре, вам бы и в голову не пришло исследовать эти неприступные холмы, но вскоре вы обнаруживаете неприметный проход, спрятанный между скальными выступами. [CTP]\n\nЛюбопытствуя, вы входите в скрытый скальный храм. Орнаменты на его стенах странные и незнакомые. Массивные колонны, покрытые сверху донизу иероглифами, выстроились вдоль прохода, который ведет к пыльному саркофагу.\n\nВы отодвигаете гранитную плиту в сторону, чтобы заглянуть внутрь причудливого саркофага."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Intro",
@@ -2099,23 +2099,23 @@
 	},
 	{
 		"id": "AE_TimeLost01_Intro",
-		"text": "A huge cloud of dust slowly moves towards you. Confused, you come to a stop. A large convoy of trucks is heading your way. It must be the Germans!\n\nYou hastily take cover in a nearby depression. The noise of the engines gets louder.\n\nAfter what seems like an eternity, the engine noise fades into the distance and you breathe a sigh of relief: The Nazis didn’t spot you!"
+		"text": "В вашу сторону медленно движется огромное облако пыли. В замешательстве вы останавливаетесь. К вам приближается большая колонна грузовиков. Это, должно быть, немцы!\n\nВы поспешно укрываетесь в ближайшей впадине. Шум двигателей становится все громче.\n\nСпустя целую вечность шум двигателей стих вдали, и вы вздыхаете с облегчением: нацисты вас не заметили!"
 	},
 	{
 		"id": "AE_TimeLost02_Intro",
-		"text": "Over the next dune, you stumble across a dried out riverbed that runs right across your path. Its rocky edges drop so abruptly that a crossing is out of the question. \n\nAnnoyed, you drive along the steep wadi until you finally find a flatter slope that allows you to cross."
+		"text": "За следующей дюной вы натыкаетесь на высохшее русло реки, которое проходит прямо поперек вашего пути. Его скалистые края обрываются так круто, что о переправе не может быть и речи. \n\nРазочаровавшись, вы едете по крутому берегу вади, пока, наконец, не находите более пологий склон, который можно пересечь."
 	},
 	{
 		"id": "AE_TimeLost03_Intro",
-		"text": "Before you lies an eerie moonscape: the banks of a salt lake. You step out carefully onto the salt crystals, but the ground creaks and crackles alarmingly under your boots. \n\nIt’s no use: you will have to travel around the salt lake!"
+		"text": "Перед вами - жуткий лунный пейзаж: берега соленого озера. Вы осторожно ступаете на кристаллы соли, но земля тревожно скрипит и трещит под вашими сапогами. \n\nВсё бесполезно: вам придется объезжать соленое озеро"
 	},
 	{
 		"id": "AE_TimeLost04_Intro",
-		"text": "You are making excellent progress and morale is high. A realization suddenly hits you: didn’t you drive past those palm trees a while back? \n\nYes! Those are your tire tracks! You’ve been driving in circles!"
+		"text": "Вы добиваетесь отличных успехов, и моральный дух высок. Но вдруг вас осеняет мысль: а не проезжали ли вы недавно мимо этих пальм? \n\nДа! Это следы ваших шин! Вы ездили по кругу!"
 	},
 	{
 		"id": "AE_TimeLost05_Intro",
-		"text": "You have driven into rockier terrain. The stones around you are getting bigger and sharper. \n\nYou look for an alternative route, but eventually you have to admit that you won’t get any further in this scree. You have to turn back and find a way around the rocky landscape!"
+		"text": "Вы въезжаете на скалистую местность. Камни вокруг вас становятся все больше и острее. \n\nВы ищете альтернативный маршрут, но в конце концов вам приходится признать, что дальше по этой осыпи вы не пройдете. Приходится повернуть назад и искать обходной путь по скалистому ландшафту!"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Intro",
@@ -3063,19 +3063,19 @@
 	},
 	{
 		"id": "LE_GuardedCanisters01_Intro",
-		"text": "Not far ahead, you see several stacks of jerrycans in the shade of some palm trees. Next to them is a Wehrmacht jeep containing a napping soldier. \n\nAs you approach, he jumps up and ducks down behind the jerrycans: [CTP]\n\n[char0]: \"I’m holding a grenade! Not a step closer, or I blow the whole place up!\""
+		"text": "Недалеко впереди вы видите несколько канистр в тени пальм. Рядом с ними стоит джип вермахта, в котором дремлет солдат. \n\nКогда вы приближаетесь, он вскакивает и прячется за канистрами: [CTP]\n\n[char0]: \"У меня в руках граната! Ни шагу ближе, или я взорву все вокруг!\""
 	},
 	{
 		"id": "LE_GuardedCanisters01_Choice01",
-		"text": "Talk to the soldier"
+		"text": "Поговорить с солдатом"
 	},
 	{
 		"id": "LE_GuardedCanisters01_Choice02",
-		"text": "Convince the man"
+		"text": "Убедить мужчину"
 	},
 	{
 		"id": "LE_GuardedCanisters01_Choice03",
-		"text": "Intimidate soldier"
+		"text": "Запугать солдата"
 	},
 	{
 		"id": "LE_GuardedCanisters01_Choice04",
@@ -3083,23 +3083,23 @@
 	},
 	{
 		"id": "LE_GuardedCanisters01_Talk",
-		"text": "[char1]: \"Umm, can we come to some sort of arrangement?\""
+		"text": "[char1]: \"Эмм, мы можем договориться?\""
 	},
 	{
 		"id": "LE_GuardedCanisters01_TrickNPC",
-		"text": "[char2]: \"Just think about it, kid... are those few canisters really worth it? How about we split them, fifty-fifty?\""
+		"text": "[char2]: \"Просто подумай, парень... эти несколько канистр действительно того стоят? Как насчет того, чтобы разделить их пятьдесят на пятьдесят?\""
 	},
 	{
 		"id": "LE_GuardedCanisters01_Intimidate",
-		"text": "[char3]: \"Listen you! Our sniper has you in his sights. All I have to do is count to three and that will be the end of you! One, two...\""
+		"text": "[char3]: \"Слушай сюда! Наш снайпер держит тебя на прицеле. Мне достаточно досчитать до трех, и тебе придет конец! Раз, два...\""
 	},
 	{
 		"id": "LE_GuardedCanisters01_NegotiationW",
-		"text": "The soldier waves a white handkerchief and calls out in a quavering voice: \n\n[char0]: \"I will pack as many canisters as fit in the car, and you promise me safe passage! You can have the rest!\" [CTP] \n\nA few minutes later, the Wehrmacht jeep races away from the fuel dump at full speed. You wait until the man is out of sight, and then examine the supplies."
+		"text": "Солдат машет белым платком и зовет дрожащим голосом: \n\n[char0]: \"Я упакую столько канистр, сколько поместится в машине, а вы обещаете мне безопасный проезд! Остальное можете забрать себе!\" [CTP] \n\nЧерез несколько минут джип вермахта на полной скорости уносится прочь от топливного бака. Вы ждете, пока человек скроется из виду, а затем осматриваете припасы."
 	},
 	{
 		"id": "LE_GuardedCanisters01_NegotiationF",
-		"text": "The soldier ducks down out of your field of vision and shouts: \n\n[char0]: \"This is too risky for me! I think I will wait for reinforcements – then we can talk again!\" [CTP]\n\nIt’s hard to tell whether the man is bluffing - but if he really does have a hand grenade, then the slightest mistake will roast you all alive.  It isn’t worth the risk! You sigh, and prepare to continue your journey."
+		"text": "Солдат отступает за пределы вашего поля зрения и кричит: \n\n[char0]: \"Это слишком рискованно для меня! Думаю, я дождусь подкрепления - тогда мы сможем поговорить снова!\" [CTP]\n\nТрудно сказать, блефует ли он, но если у него действительно есть ручная граната, то малейшая ошибка поджарит вас всех заживо.  Не стоит рисковать! Вы вздыхаете и готовитесь продолжить свой путь."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Intro",
@@ -4203,27 +4203,27 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral01",
-		"text": "As you walk around the ruined walls, a cultist sentry spots you and sounds the alarm! \n\nYou have startled a group of Brotherhood cultists who are camping here!"
+		"text": "Когда вы обходили разрушенные стены, часовой-культист заметил вас и поднял тревогу! \n\nВы испугали группу культистов Братства, которые разбили здесь лагерь!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral02",
-		"text": "A group of cultists are camped among the ruins! They have seen you and jump up with murderous intent!"
+		"text": "Группа культистов разбила лагерь среди руин! Они увидели вас и вскочили на ноги с убийственными намерениями!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsNeutral03",
-		"text": "You hear a shout and a group of cultists jump up from the shadows of the ruins. \n\nYou dive for cover – moments later, they rush towards you!"
+		"text": "Вы слышите крик, и группа культистов выскакивает из тени руин. \n\nВы бросаетесь в укрытие - мгновение спустя они стремительно мчатся в вашу сторону!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage02",
-		"text": "Some cultists are camping in the shadow of some dilapidated ruins. They are engrossed in a strange ritual and have not noticed you!"
+		"text": "Несколько культистов разбили лагерь в тени полуразрушенных руин. Они заняты странным ритуалом и не заметили вас!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage04",
-		"text": "In the distance, you hear a wailing, many-voiced lament. \n\nUsing some ruins for cover, you cautiously sneak closer to discover a group of cultists conducting some kind of ritual here!"
+		"text": "Вдалеке слышны многоголосые причитания. \n\nИспользуя в качестве прикрытия немногочисленные руины, вы осторожно пробираетесь ближе и встречаете группу культистов, проводящих здесь какой-то ритуал!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage05",
-		"text": "The large group of cultists in the ruins ahead of you did not consider it necessary to post sentries – presumably they think nobody will dare to attack!\n\nPerhaps they are right."
+		"text": "Большая группа культистов в руинах впереди вас не сочла нужным выставить дозорных - видимо, они думают, что никто не осмелится напасть!\n\nВозможно, они правы."
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage01_Choice01",
@@ -4255,11 +4255,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage02_Choice02",
-		"text": "Avoid a fight"
+		"text": "Избежать боя"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage03_Choice02",
-		"text": "Back to the car"
+		"text": "Вернуться в машину"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsAdvantage04_Choice02",
@@ -4275,15 +4275,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage01",
-		"text": "The camp among the ruins ahead of you seems deserted until half a dozen frenzied cultists jump up behind you: You have walked into an ambush!"
+		"text": "Лагерь среди руин перед вами кажется пустынным, пока полдюжины взбешенных культистов не выскочили за вашей спиной: вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage02",
-		"text": "You spot an abandoned camp among the ruins. The campfire is no longer lit, but the ashes are fresh. \n\nJust how recent is this camp?\n\nAs if in response to your unspoken question, you hear a rustle behind you!\n\nYou have walked into an ambush!"
+		"text": "Среди развалин вы обнаруживаете заброшенный лагерь. Костер больше не горит, но пепел свежий. \n\nКак давно покинули этот лагерь?\n\nСловно в ответ на ваш невысказанный вопрос, вы слышите шорох позади себя!\n\nВы забрели в засаду!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage03",
-		"text": "The old camp in the ruins appears deserted, but you are suspicious of the silence...\n\nYour instincts are right: You have walked into a cultist ambush! \n\nSeveral cultists step out of the shadows with weapons drawn, their faces twisted with hatred!"
+		"text": "Старый лагерь в руинах кажется заброшенным, но вы с подозрением относитесь к тишине...\n\nВаши инстинкты не подвели: вы попадаете в засаду культистов! \n\nНесколько культистов выходят из тени с оружием наизготовку, их лица искажены ненавистью!"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral02",
@@ -6351,7 +6351,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral01_Title",
-		"text": "Старый тунель шахты"
+		"text": "Старый туннель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral02_Title",
@@ -6363,7 +6363,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage01_Title",
-		"text": "Старый тунель шахты"
+		"text": "Старый туннель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage02_Title",
@@ -6375,7 +6375,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage01_Title",
-		"text": "Старый тунель шахты"
+		"text": "Старый туннель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage02_Title",
@@ -6383,7 +6383,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage03_Title",
-		"text": "A forgotten mine shaft"
+		"text": "Заброшенный ствол шахты"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardNeutral01_Title",
@@ -6719,11 +6719,11 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Intro",
-		"text": "You spot the strange monolith from a distance as you enter the graveyard. As you approach, you notice a strange glow emanating from the black monolith. \n\nYou examine the mysterious structure and discover a hand-shaped depression at chest level next to a series of jagged characters. [CTP]\n\nThere is a faint humming in the air, but you cannot make out its source."
+		"text": "Зайдя на кладбище, вы издалека заметили странный монолит. Подойдя ближе, вы увидели странное свечение, исходящее от черного монолита. \n\nВы исследуете загадочную конструкцию и обнаруживаете углубление в форме руки на уровне груди рядом с последовательностью зазубренных символов. [CTP]\n\nВ воздухе слышен слабый гул, но вы не можете определить его источник."
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice01",
-		"text": "Place hand in recess"
+		"text": "Поместить руку в углубление"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice02",
@@ -6731,7 +6731,7 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice03",
-		"text": "Investigate the tombs"
+		"text": "Осмотреть надгробия"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Choice04",
@@ -6739,19 +6739,19 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand",
-		"text": "[char0] places his hand in the recess on the obsidian monolith. The humming swells for a moment and then stops. Nothing happens. \n\nJust as you are about to leave in disappointment, you hear a soft click behind you."
+		"text": "[char0] кладет руку в углубление на обсидиановом монолите. Гудение на мгновение усиливается, а затем затихает. Ничего не происходит. \n\nКак раз в тот момент, когда вы собираетесь уйти в разочаровании, вы слышите тихий щелчок позади себя."
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand_female",
-		"text": "[char0] places her hand in the recess on the obsidian monolith. The humming swells for a moment and then stops. Nothing happens. \n\nJust as you are about to leave in disappointment, you hear a soft click behind you."
+		"text": "[char0] кладет руку в углубление на обсидиановом монолите. Гудение на мгновение усиливается, а затем затихает. Ничего не происходит. \n\nКак раз в тот момент, когда вы собираетесь уйти в разочаровании, вы слышите тихий щелчок позади себя."
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Loot",
-		"text": "You look around to see that the doors to one of the mausoleums has opened. Inside, you discover a rich haul of burial objects!"
+		"text": "Оглянувшись, вы видите, что двери одного из мавзолеев открылись. Внутри вы обнаруживаете богатую коллекцию погребальных предметов!"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Fight",
-		"text": "You look around and shudder in horror: Several of the tombs have opened around you! \n\nAs if in some nightmare, misshapen creatures shuffle towards you..."
+		"text": "Вы оглядываетесь вокруг и содрогаетесь от ужаса: Несколько могил открылись вокруг вас! \n\nБудто в каком-то кошмаре, к вам приближаются бесформенные существа..."
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_LanguagesW",
@@ -6775,7 +6775,7 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_ExamineTombs",
-		"text": "You inspect some of the surrounding tombs and mausoleums but you find nothing of interest."
+		"text": "Вы осматриваете несколько ближайших надгробий и мавзолеев, но не находите ничего интересного."
 	},
 	{
 		"id": "LE_SlipperyWell01_Title",
@@ -7495,7 +7495,7 @@
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_anabelle_Title",
-		"text": "Старый тунель шахты"
+		"text": "Старый туннель шахты"
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Intro",
@@ -11259,7 +11259,7 @@
 	},
 	{
 		"id": "LE_DesertedShrine01_PostLoot_B",
-		"text": "You are about to leave when you notice a small, ornate brooch at the bottom of the sarcophagus.\n\nIt is truly beautiful! Who puts it on?"
+		"text": "Вы уже собираетесь уходить, когда замечаете маленькую, богато украшенную брошь на дне саркофага.\n\nОна действительно прекрасна! Кто ее носил?"
 	},
 	{
 		"id": "LE_DesertedShrine01_Goodie_B",
@@ -11271,19 +11271,19 @@
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice01_B",
-		"text": "Incredible!"
+		"text": "Невероятно!"
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice02_B",
-		"text": "Take a close look at the vases"
+		"text": "Осмотреть вазы поближе"
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice03_B",
-		"text": "Great!"
+		"text": "Замечательно!"
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice04_B",
-		"text": "Examine the sarcophagus carefully"
+		"text": "Осторожно осмотреть саркофаг"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_DetectionChoice_B",
@@ -11355,11 +11355,11 @@
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand_B",
-		"text": "[char1]: \"Apparently, sticking your hand in that niche will bring you good fortune – possibly...\""
+		"text": "[char1]: \"Очевидно, что если вы сунете руку в эту нишу, это принесет вам удачу - возможно...\""
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_MagicLoot_B",
-		"text": "One of the burial objects is a filigree brooch that gives off a strange aura...\n\nWho wants to wear it?"
+		"text": "Один из предметов захоронения - филигранная брошь, от которой исходит странная аура...\n\nКто её наденет?"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Boost_B",
