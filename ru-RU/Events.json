@@ -119,27 +119,27 @@
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_A_Intro",
-		"text": "The camp in the ruins ahead of you seems deserted, until you realize the truth: You have fallen into an ambush!"
+		"text": "Лагерь в руинах перед вами выглядел заброшенным, пока вы не осознали правду: вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_B_Intro",
-		"text": "You see an abandoned camp among some ruins. The campfire is no longer lit, but the ashes are fresh. Just how recent is this camp?\n\nAs if in response to your unspoken question, you hear a rustle behind you. You spin around to see a detachment of soldiers pointing their rifles at you! You have walked into an ambush!"
+		"text": "Вы видите заброшенный лагерь среди руин. Костер больше не горит, но пепел свежий. Как давно здесь был этот лагерь?\n\nКак будто в ответ на свой невысказанный вопрос вы слышите шорох позади. Вы оборачиваетесь и видите отряд солдат, целящихся на вас винтовками! Вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_C_Intro",
-		"text": "The old camp in the ruins ahead of you seems deserted. You are not sure whether to trust in the apparent peacefulness of this place... \n\nSuddenly, a detachment of soldiers emerges from the shadows with weapons drawn and mocking grins on their faces! You have walked into an ambush!"
+		"text": "Старый лагерь в руинах перед вами кажется заброшенным. Вы не уверены, стоит ли верить в кажущуюся безмятежность этого места... \n\nВнезапно из тени выходит отряд солдат с оружием наготове и ухмылками на лицах! Вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_D_Intro",
-		"text": "You come across a burnt-out campfire among some abandoned ruins. A last wisp of smoke rises lazily into the air. The camp looks like it was abandoned in a hurry – what happened here? \n\nYou hear the sound of jackboots behind you – to your dismay, you realize: You have walked into a German ambush!"
+		"text": "Вы натыкаетесь на потухший костер среди заброшенных руин. Последняя струйка дыма лениво поднимается в воздух. Лагерь выглядит так, будто его бросили в спешке — что здесь произошло? \n\nВы слышите позади себя звук ботфортов и, к своему ужасу, понимаете, что попали немцам в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_E_Intro",
-		"text": "From a distance, you spot an abandoned military camp among the ruins. All signs point to a hasty departure. Hoping to find more clues, you start to investigate the camp.\n\nOnly when German soldiers appear all around you with weapons drawn, do you realize that you have been ambushed!"
+		"text": "Издалека вы замечаете среди руин заброшенный военный лагерь. Все признаки указывают на поспешное отбытие. Надеясь найти больше улик, вы начинаете исследовать лагерь.\n\nТолько когда вокруг вас появляются немецкие солдаты с оружием наготове, вы понимаете, что попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsDisadv01_F_Intro",
-		"text": "You find the remains of a hastily abandoned camp in the ruins ahead of you. You make a quick search of the camp when you suddenly spot a movement out of the corner of your eye!\n\nYou look up and realize that you have been ambushed by a unit of German soldiers!"
+		"text": "В руинах перед вами вы находите остатки наспех заброшенного лагеря. Вы быстро обыскиваете лагерь и вдруг краем глаза замечаете движение!\n\nВы поднимаете глаза и понимаете, что попали в засаду, устроенную отрядом немецких солдат!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_Choice01",
@@ -151,55 +151,55 @@
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_A_Intro",
-		"text": "The unit of soldiers in the ruins ahead are completely unaware of you – an ambush is the last thing they expect!"
+		"text": "Отряд солдат в руинах перед вами совершенно не подозревает о вас, а засада — последнее, что они ожидают!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_B_Intro",
-		"text": "A group of soldiers is encamped in some ruins up ahead of you. They have not noticed you yet!"
+		"text": "Группа солдат расположилась лагерем в руинах перед вами. Они еще вас не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_C_Intro",
-		"text": "You stumble across a German military camp. The soldiers lounge around listlessly in the ruins – they have not noticed you!"
+		"text": "Вы натыкаетесь на немецкий военный лагерь. Солдаты вяло слоняются по развалинам — они вас не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_D_Intro",
-		"text": "From afar you hear commands echoing in the desert air. You sneak closer and find a squad of soldiers setting up camp among some ruins."
+		"text": "Издалека вы слышите команды, эхом отдающиеся в воздухе пустыни. Вы подкрадываетесь ближе и обнаруживаете группу солдат, разбивающих лагерь среди руин."
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_E_Intro",
-		"text": "The large detachment of soldiers in the ruins ahead of you did not think it necessary to set up guards as they clearly feel secure in their numerical advantage!"
+		"text": "Большой отряд солдат в руинах перед вами не счел нужным выставлять охрану, так как явно чувствует себя в безопасности благодаря своему численному преимуществу!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsAdvant01_F_Intro",
-		"text": "There is a large group of soldiers in the ruins up ahead of you. They do not appear to have noticed you yet!"
+		"text": "В руинах перед вами - большая группа солдат. Похоже, они вас еще не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_A_Intro",
-		"text": "As you walk around a ruined building, an enemy sentry spots you and sounds the alarm! You have startled a unit of German soldiers who are camping among the ruins!"
+		"text": "Когда вы ходили по разрушенному зданию, вражеский часовой заметил вас и забил тревогу! Вы напугали группу немецких солдат, разбивших лагерь среди руин!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_B_Intro",
-		"text": "Up ahead of you, a detachment of German soldiers are hunkered down among the ruins! They have seen you and are running for cover! Moments later, they open fire!"
+		"text": "Среди развалин перед вами притаился отряд немецких солдат! Они увидели вас и бегут в укрытие! Через несколько мгновений они открывают огонь!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_C_Intro",
-		"text": "You hear a shout and a unit of soldiers jump up from the shadows of the ruins. You dive for cover – moments later the bullets begin to fly!"
+		"text": "Вы слышите крик, и из тени руин выскакивает отряд солдат. Вы ныряете в укрытие – мгновение спустя начинают свистеть пули!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_D_Intro",
-		"text": "You don’t see the soldiers resting among the ruins until you are almost on top of them – they are as surprised as you are! They frantically grab their weapons and open fire! You rush for cover and return fire!"
+		"text": "Вы не замечаете солдат, отдыхавших среди руин, пока практически не сталкиваетесь с ними нос к носу — они так же удивлены, как и вы! Они судорожно хватаются за оружие и открывают огонь! Вы бросаетесь в укрытие и стреляете в ответ!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_E_Intro",
-		"text": "The soldiers in the ruins up ahead have not noticed you yet, so you decide to withdraw.\n\nSuddenly, you hear a shout: The guards have spotted you! The Germans grab their weapons as you dive for cover!"
+		"text": "Солдаты в руинах перед вами еще вас не заметили, поэтому вы решаете отступить.\n\nSuddenly, Внезапно вы слышите крик: Охранники заметили вас! Немцы хватают свое оружие, пока вы прячетесь в укрытие!"
 	},
 	{
 		"id": "BE_GenericNaziRuinsNeutral01_F_Intro",
-		"text": "As you approach the ruins, you hear a loud shout! The soldiers ahead of you are as surprised as you are!"
+		"text": "Когда вы приближаетесь к руинам, вы слышите громкий крик! Солдаты перед вами так же удивлены, как и вы!"
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Intro",
-		"text": "Вы проходите к группе ветхих руин, возможно, давно заброшенному караван-сараю. Пустынный ветер и палящее солнце не пощадили разрушенные зпостройки.[CTP]\n\nВ заросшем дворе вы находите пересохший колодец. Вы замечаете несколько грубых ступенек ведущих в глубь колодца. На песке вокруг колодца остались многочисленные следы ног."
+		"text": "Вы проходите к группе ветхих руин, возможно, давно заброшенному караван-сараю. Пустынный ветер и палящее солнце не пощадили разрушенные постройки.[CTP]\n\nВ заросшем дворе вы находите пересохший колодец. Вы замечаете несколько грубых ступенек ведущих в глубь колодца. На песке вокруг колодца остались многочисленные следы ног."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice01",
@@ -563,11 +563,11 @@
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeW",
-		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханное лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
+		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханно лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок проходит, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeW_female",
-		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханное лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
+		"text": "[char0] нажимаешь на курок - прямое попадание! С подобающим уважением вы осматриваете огромное существо, бездыханно лежащее у ваших ног.\n\nПосле того, как ваш первоначальный шок проходит, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_AttackSnakeF1",
@@ -595,11 +595,11 @@
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalW",
-		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в его руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в его руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок проходит, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalW_female",
-		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в ее руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок спадает, вы исследуете остальную часть окрестностей."
+		"text": "Словно из ниоткуда [char1] выскакивает позади змеи! Что-то металлическое сверкает в ее руке, и змея падает на землю. \n\n[char1]: \"Впечатляет... Они редко вырастают до таких размеров.\" [CTP]\n\nНесколькими ловкими движениями [char1] снимает шкуру и выпотрошит змею. Вскоре в вашей кастрюле кипит тушеная змея. Сначала вы настроены скептически, но на вкус мясо оказывается на удивление хорошим.\n\nПосле того, как ваш первоначальный шок проходит, вы исследуете остальную часть окрестностей."
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalF",
@@ -651,23 +651,23 @@
 	},
 	{
 		"id": "FE_GenericDesertRuins01_A_Intro",
-		"text": "You are probably the first people in many years to set foot in this deserted place. The desert sand has left little more than a few crumbling walls."
+		"text": "Вы, наверное, первый человек за много лет, ступивший в это пустынное место. Песок пустыни оставил лишь несколько рушащихся стен."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_B_Intro",
-		"text": "The meager remains of a few ruined walls in the desert sands mark the site of a former settlement. Today, the place is barren and deserted."
+		"text": "Скудные остатки нескольких разрушенных стен в песках пустыни отмечают место бывшего поселения. Сегодня это место бесплодно и безлюдно."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_C_Intro",
-		"text": "Only the foundations of this ancient, abandoned village remain. You find nothing of importance and continue your journey."
+		"text": "Остались только основы этой древней заброшенной деревни. Вы не находите ничего важного и продолжаете свой путь."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_D_Intro",
-		"text": "A few crumbling walls break the monotony of the desert dunes, presumably the ruins of some shepherds’ huts. They were abandoned many years ago."
+		"text": "Несколько рушащихся стен, нарушающих однообразие пустынных дюн, предположительно являются руинами нескольких пастушьих хижин. Они были заброшены много лет назад."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_E_Intro",
-		"text": "You come across the remains of a desperate battle. Over countless years, the desert sands have reclaimed what was once denied them."
+		"text": "Вы натыкаетесь на остатки отчаянной битвы. За бесчисленные годы пески пустыни вернули себе то, в чем им когда-то было отказано."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_A_Intro",
@@ -691,43 +691,43 @@
 	},
 	{
 		"id": "FE_GenericBrushwood01_A_Intro",
-		"text": "You come across some scraggy shrubs and trees defying the searing desert heat."
+		"text": "Вы наткнетесь на тощие кусты и деревья, бросающие вызов палящему зною пустыни."
 	},
 	{
 		"id": "FE_GenericBrushwood01_B_Intro",
-		"text": "The relentless desert sun has parched the gnarled roots of a few tangled shrubs. They look like weird sculptures, twisted in agony."
+		"text": "Беспощадное солнце пустыни выжгло корявые корни нескольких спутанных кустов. Они выглядят как странные скульптуры, скрюченные в агонии."
 	},
 	{
 		"id": "FE_GenericBrushwood01_C_Intro",
-		"text": "A grove of tangled brush indicates that there must be water somewhere around here, but you find no sign of an overground source."
+		"text": "Роща спутанных кустов указывает на то, что где-то поблизости должна быть вода, но вы не находите признаков надземного источника."
 	},
 	{
 		"id": "FE_GenericBrushwood01_D_Intro",
-		"text": "You find nothing here but a few parched trees and wiry bushes."
+		"text": "Вы не находите здесь ничего, кроме нескольких высохших деревьев и жестких кустов."
 	},
 	{
 		"id": "FE_GenericBrushwood01_E_Intro",
-		"text": "Despite the dryness and heat, a few crippled trees surrounded by some low shrubs survive here."
+		"text": "Несмотря на сухость и жару, здесь сохранились несколько изувеченных деревьев, окруженных невысоким кустарником."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_A_Intro",
-		"text": "You hear the guttural bleating of the desert goats before they emerge from behind the next dune: The lonely herd wanders this desolate wilderness in search of its next paltry meal."
+		"text": "Вы слышите гортанное блеяние пустынных коз, прежде чем они появятся из-за ближайшей дюны: одинокое стадо бродит по этой необитаемой пустыне в поисках хоть какой-то еды."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_B_Intro",
-		"text": "A small herd of goats grazes on the brushwood in front of you. The gaunt, wiry animals eye you curiously before turning back to their meager pasture."
+		"text": "Перед вами в зарослях пасется небольшое стадо коз. Изможденные, жилистые животные с любопытством смотрят на вас, прежде чем вернуться на свое скудное пастбище."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_C_Intro",
-		"text": "The barren, gnarled shrubbery in this place has attracted some starving goats that huddle closer together when they see you."
+		"text": "Бесплодные корявые кусты в этом месте привлекли голодных коз, сбившихся в кучу при виде вас."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_D_Intro",
-		"text": "The goats lounging lazily on the ground do not seem wild. You look around, but you do not see a shepherd."
+		"text": "Козы, лениво развалившиеся на земле, не кажутся дикими. Вы смотрите по сторонам, но не замечаете пастуха."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_E_Intro",
-		"text": "When they see you, the goats that have been dozing here bleat excitedly and jump up.\n\nWhen the animals realize you pose no threat, they return to their grazing."
+		"text": "При виде вас козы, дремавшие здесь, возбужденно блеют и вскакивают.\n\nКогда животные понимают, что вы не представляете угрозы, они возвращаются на пастбище."
 	},
 	{
 		"id": "ME_GenericOriental01_Choice01",
@@ -739,23 +739,23 @@
 	},
 	{
 		"id": "ME_GenericOriental01_A_Intro",
-		"text": "You arrive exhausted at the oasis and discover that a traveler has already set up camp here. The trader waves you over enthusiastically!"
+		"text": "Уставшие, вы прибываете в оазис и обнаруживаете, что здесь уже разбил лагерь путник. Торговец с энтузиазмом машет вам рукой!"
 	},
 	{
 		"id": "ME_GenericOriental01_B_Intro",
-		"text": "At an oasis, you meet a merchant who is very eager to sell you his merchandise."
+		"text": "В оазисе вы встречаете торговца, который очень хочет продать вам свой товар."
 	},
 	{
 		"id": "ME_GenericOriental01_C_Intro",
-		"text": "The merchant has pitched his modest camp in the shade of some palm trees."
+		"text": "Торговец разбил свой скромный лагерь в тени пальм."
 	},
 	{
 		"id": "ME_GenericOriental01_D_Intro",
-		"text": "When the merchant sees you, he waves to you excitedly and spreads his wares out in front of you."
+		"text": "Когда торговец замечает вас, он взволнованно машет вам рукой и раскладывает перед вами свои товары."
 	},
 	{
 		"id": "ME_GenericOriental01_E_Intro",
-		"text": "A man is taking a nap in the shade of the palm trees. When he hears you, he jumps up and points invitingly to his goods. He is a traveling merchant!"
+		"text": "Мужчина дремлет в тени пальм. Когда он слышит вас, он вскакивает и призывно указывает на свой товар. Это странствующий торговец!"
 	},
 	{
 		"id": "RE_GenericOasis01_Choice01",
@@ -887,7 +887,7 @@
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice01",
-		"text": "Open fire from an ambush"
+		"text": "Открыть огонь из засады"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice02",
@@ -895,75 +895,75 @@
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_A_Intro",
-		"text": "The freshly churned up sand and footprints around the entrance lead to just one conclusion: The ancient cisterns of this abandoned settlement have visitors! \n\nYou give in to your curiosity and carefully descend into the old ruins. You soon spot a squad of soldiers at work on the crumbling walls. They have not noticed you yet!"
+		"text": "Недавно взбитый песок и следы вокруг входа наводят только на одну мысль: у древних цистерн этого заброшенного поселения есть посетители! \n\nВы поддаетесь своему любопытству и осторожно спускаетесь в старые руины. Вскоре вы замечаете отряд солдат, что-то делающих с рушащимися стенами. Они еще не заметили вас!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_B_Intro",
-		"text": "The ancient well house has taken some rough treatment: Clay jars have been smashed and the open door hangs from its hinges. Could the perpetrators still be in the well shaft? \n\nA short time later, you sneak up on a squad of soldiers. They remain oblivious to your approach and keep tapping on the walls of the caverns under the well."
+		"text": "Древний колодезный дом подвергся грубому обращению: глиняные кувшины были разбиты, а открытая дверь свисает с петель. Могут ли преступники все еще находиться в шахте колодца? \n\nНекоторое время спустя вы подкрадываетесь к отряду солдат. Они не замечают вашего приближения и продолжают стучать по стенам пещер под колодцем."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_C_Intro",
-		"text": "Muted voices rise from the depths of the abandoned well. You ready your weapons and decide to investigate.\n\nYou descend into the depths and sneak up on a group of soldiers wandering through the dank cisterns."
+		"text": "Из глубины заброшенного колодца доносятся приглушенные голоса. Вы готовите свое оружие и решаете разведать обстановку.\n\nВы спускаетесь в глубины и подкрадываетесь к группе солдат, блуждающих по сырым цистернам."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_D_Intro",
-		"text": "The footprints you have been following lead to the foundations of an abandoned water cistern. You carefully enter the structure to find out more about its mysterious visitors.\n\nYou soon discover a troop of soldiers lying exhausted in the dank corridors of the extensive system of water cisterns."
+		"text": "Следы, по которым вы шли, ведут к фундаменту заброшенной цистерны с водой. Вы осторожно входите в сооружение, чтобы узнать больше о его таинственных посетителях.\n\nВскоре вы обнаруживаете отряд солдат, лежащих в изнеможении в сырых коридорах разветвленной системы водных цистерн."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_E_Intro",
-		"text": "You hear loud shouts nearby and take cover. You cautiously sneak closer and spot a large unit of soldiers entering a cave. \n\nYou wait a few minutes before following them. You come across the soldiers again at a tunnel junction. They still have not noticed you!"
+		"text": "Вы слышите громкие крики поблизости и прячетесь. Вы осторожно подкрадываетесь и замечаете большой отряд солдат, входящих в пещеру. \n\nВы ждете несколько минут, прежде чем следовать за ними. Вы снова встречаете солдат на туннельном перекрестке. Они до сих пор не заметили вас!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_F_Intro",
-		"text": "You explore the ruins of an abandoned village and discover the half-buried entrance to an ancient, labyrinthine system of water cisterns.\n\nYou carefully creep closer and discover a large section of German soldiers. They are completely unaware of your approach..."
+		"text": "Вы исследуете руины заброшенной деревни и обнаруживаете полузасыпанный вход в древнюю, запутанную систему цистерн с водой.\n\nВы осторожно подкрадываетесь ближе и обнаруживаете большую группу немецких солдат. Они совершенно не в курсе о вашем прибытии..."
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_A_Intro",
-		"text": "You come across a deserted oasis, half buried in the desert sand. After a quick search, you discover that the dried-out well shaft leads further underground. You start your descent.\n\nYou soon reach a major junction where the dank tunnels converge – a sudden sound startles you and you spin around to see: a unit of soldiers with weapons drawn! \n\nIt’s an ambush!"
+		"text": "Вы натыкаетесь на заброшенный оазис, наполовину погребенный в песке пустыни. После недолгих поисков вы обнаруживаете, что высохшая шахта колодца ведет дальше под землю. Вы начинаете спуск.\n\nВскоре вы достигаете крупного перекрестка, где сходятся сырые туннели. Внезапный звук пугает вас, и вы оборачиваетесь и видите: отряд солдат с оружием наготове! \n\nЭто засада!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_B_Intro",
-		"text": "Beyond the next sand dune, you stumble across the entrance to an old system of cisterns! You pause briefly to consult with your companions.\n\nYou set out to explore the system – and run straight into a German ambush!"
+		"text": "За следующей песчаной дюной вы натыкаетесь на вход в старую систему цистерн! Вы делаете короткую паузу, чтобы посоветоваться со своими товарищами.\n\nВы отправляетесь исследовать систему и натыкаетесь прямо на засаду немцев!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_C_Intro",
-		"text": "The entrance to the system of cisterns seems long deserted. Driven by curiosity, you descend into the darkness.\n\nAfter some time wandering around, you finally reach a junction among the sprawling system of tunnels. Suddenly, you are ambushed by a unit of German soldiers who have been following you unnoticed!"
+		"text": "Вход в систему цистерн кажется давно заброшенным. Движимые любопытством, вы спускаетесь во тьму.\n\nПосле некоторого блуждания вы, наконец, достигаете перекрестка в растянувшейся системе туннелей. Внезапно вы попадаете в засаду отряда немецких солдат, которые незаметно преследовал вас!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_D_Intro",
-		"text": "Between the sand dunes, you come across the outer walls of an abandoned caravansary. Inside, you find a narrow descent into the cisterns.\n\nYou explore the subterranean watercourses and finally enter the main vault, where the water has collected since time untold. \n\nUnfortunately, you run directly into the guns of a squad of soldiers, who clearly found another way in!"
+		"text": "Между песчаными дюнами вы натыкаетесь на внешние стены заброшенного караван-сарая. Внутри вы найдете узкий спуск к цистернам.\n\nВы исследуете подземные потоки воды и, наконец, входите в главное хранилище, где с незапамятных времен скапливалась вода. \n\nК сожалению, вы пришли прямо под орудия отряда солдат, которые явно нашли другой путь!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_E_Intro",
-		"text": "You find a rope ladder leading down into the dried-out well. You ready your weapons and advance through the cisterns until you finally arrive at a junction.\n\nUnfortunately, you were noisy enough to alert the German soldiers who are waiting in ambush!"
+		"text": "Вы нашли веревочную лестницу, ведущую вниз в высохший колодец. Вы готовите свое оружие и продвигаетесь через цистерны, пока, наконец, не добираетесь до перекрестка.\n\nК сожалению, вы вели себя слишком шумно, и предупредили немецких солдат, которые ждали вас в засаде!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_F_Intro",
-		"text": "Only a few buildings in the village are still standing. In one of them, you find a deep shaft with a long ladder leaning against its side.\n\nYou start to explore what soon turns out to be a vast underground system of water tunnels. A short time later, you are staring down the barrels of several German rifles - you have walked into an ambush!"
+		"text": "Лишь небольшая часть деревенских зданий сохранились до наших дней. В одном из них вы найдете глубокую шахту с прислоненной к ней длинной лестницей.\n\nВы начинаете исследовать то, что вскоре оказывается обширной подземной системой водных туннелей. Через некоторое время вы смотрите прямо на стволы нескольких немецких винтовок — вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_A_Intro",
-		"text": "Up ahead of you, the ruins of an abandoned caravansary rise from the desert sands! You search the buildings and find a trapdoor that leads to an underground system of water tunnels. \n\nAs you finally reach a sprawling vault where the brackish water converges, you hear a loud shout! You have been discovered by a squad of German soldiers!"
+		"text": "Впереди из песков пустыни возвышаются руины заброшенного караван-сарая! Вы обыскиваете здания и находите люк, ведущий в подземную систему водных туннелей. \n\nКогда вы, наконец, достигаете обширного свода, где сходится солоноватая вода, вы слышите громкий крик! Вас обнаружил отряд немецких солдат!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_B_Intro",
-		"text": "The entrance to the underground system of water cisterns has been smashed in. With weapons drawn, you descend a steep, narrow staircase.\n\nInside, your suspicions are confirmed: A squad of soldiers are replenishing their water supplies here! They have seen you!"
+		"text": "Вход в подземную систему цистерн с водой выбит. С оружием наготове вы спускаетесь по крутой узкой лестнице.\n\nВнутри ваши подозрения подтверждаются: отряд солдат пополняет здесь свои запасы воды! Они вас заметили!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_C_Intro",
-		"text": "The ancient, dilapidated well dried up many years ago. You see a side tunnel that branches off from the bottom of the well and you decide to rappel down to it.\n\nAs you enter the main cistern, you see a bored-looking German sentry leaning against a wall. He spots you too and alerts his comrades!"
+		"text": "Древний полуразрушенный колодец высох много лет назад. Вы видите боковой туннель, ответвляющийся от дна колодца, и решаете спуститься к нему.\n\nКогда вы входите в главную цистерну, вы видите скучающего немецкого часового, прислонившегося к стене. Он тоже замечает вас и предупреждает своих товарищей!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_D_Intro",
-		"text": "Even from a distance, the silhouette of the caravansary breaks the monotony of the desert horizon. As you enter it, you find a tunnel that leads you to an underground system of water cisterns.\n\nSuddenly, you hear footsteps ahead of you. Before you can react, a soldier comes around the corner! He immediately alerts the rest of his unit!"
+		"text": "Даже издалека силуэт караван-сарая нарушает монотонность пустынного горизонта. Войдя в него, вы обнаружите туннель, ведущий к подземной системе цистерн с водой.\n\nВнезапно вы слышите шаги впереди себя. Прежде чем вы успеваете среагировать, из-за угла появляется солдат! Он немедленно предупреждает остальную часть своего отряда!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_E_Intro",
-		"text": "You notice a strange-looking mine shaft. The entrance is half buried, but you manage to squeeze through.\n\nInside, you follow a steep corridor that leads to an extensive system of water tunnels. You come across a group of German soldiers, who are looking for drinking water here. The enemy soldiers open fire!"
+		"text": "Вы замечаете странную шахту. Вход наполовину скрыт, но вам удается протиснуться.\n\nВнутри вы идете по крутому коридору, ведущему к разветвленной системе водных туннелей. Вы встречаете группу немецких солдат, которые ищут здесь питьевую воду. Солдаты противника открывают огонь!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_F_Intro",
-		"text": "You see a single soldier descending on a rope into a desert well. Driven by a mixture of curiosity and the thrill of the chase, you decide to follow him.\n\nBelow, you discover a veritable network of tunnels - but unfortunately, you also startle a group of soldiers who have been waiting here for their comrade. It seems like a fight is unavoidable!"
+		"text": "Вы видите одинокого солдата, спускающегося по веревке в колодец в пустыне. Движимый любопытством и азартом погони, вы решаете следовать за ним.\n\nВнизу вы обнаружили настоящую сеть туннелей, но, к сожалению, вы также напугали группу солдат, которые ждали здесь своего товарища. Похоже, драки не избежать!"
 	},
 	{
 		"id": "BE_NaziExcavation01_Intro",
@@ -2163,27 +2163,27 @@
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_A_Intro",
-		"text": "You discover telltale footprints in the shadow of the temple. \n\nYou hear a noise and spin around to find half a dozen rifles pointed at you! You have fallen into an ambush!"
+		"text": "В тени храма вы обнаружили следы. \n\nВы слышите шум и оборачиваетесь, чтобы увидеть с полдюжины винтовок, направленных на вас! Вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_B_Intro",
-		"text": "You come across the outer buildings of an ancient temple complex. The place seems deserted, but is it really?\n\nAs if in response to your unspoken question, you hear a rustle behind you. You spin around to find a detachment of soldiers pointing their rifles at you! It’s an ambush!"
+		"text": "Вы сталкиваетесь с внешними постройками древнего храмового комплекса. Место кажется безлюдным, но так ли это на самом деле?\n\nСловно в ответ на ваш невысказанный вопрос, вы слышите шорох позади себя. Вы оборачиваетесь и обнаруживаете отряд солдат, направивших на вас свои винтовки! Это засада!"
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_C_Intro",
-		"text": "The remote temple among the dunes seems deserted, but can you trust its apparent tranquility? \n\nSoldiers appear from behind the walls with weapons drawn. It’s a German ambush!"
+		"text": "Далекий храм среди дюн кажется заброшенным, но можно ли доверять его кажущемуся спокойствию? \n\nСолдаты появляются из-за стен с оружием наготове. Это засада немцев!"
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_D_Intro",
-		"text": "The desert wind whistles gently around the walls of an abandoned desert temple. But wait... what’s that? Rapid movement along the edge of the wall?\n\nYou're still trying to work out what’s happening when you hear the sound of jackboots behind you. To your horror you realize - you have walked into a German ambush!"
+		"text": "Ветер пустыни мягко свистит у стен заброшенного пустынного храма. Но подождите... что это? Быстрое движение вдоль края стены?\n\nВы все еще пытаетесь понять, что происходит, когда слышите звук ботфортов позади себя. К своему ужасу вы понимаете - вы попали в засаду немцев!"
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_E_Intro",
-		"text": "From a distance, you spot the deserted temple complex among the dunes. In the sand, you notice numerous footprints, but not a human soul to be seen. Hoping to find more clues, you start to investigate the temple.\n\nWhen soldiers appear around you with weapons drawn, you realize that you have been ambushed!"
+		"text": "Издалека вы замечаете среди дюн заброшенный храмовый комплекс. На песке вы видите многочисленные следы, но людей не видно. Надеясь найти больше улик, вы начинаете исследовать храм.\n\nКогда вокруг вас появляются солдаты с оружием наготове, вы понимаете, что попали в засаду!"
 	},
 	{
 		"id": "BE_GenericNaziTempleDisadv01_F_Intro",
-		"text": "The silhouette of an abandoned temple appears between the dunes. Mighty pillars tower before you. What secrets are hidden here?\n\nSuddenly, a shot shatters the silence! You dive for cover and peer around: You have walked into a German ambush!"
+		"text": "Между дюнами появляется силуэт заброшенного храма. Перед вами возвышаются могучие столбы. Какие секреты здесь спрятаны?\n\nВнезапно тишину разрывает выстрел! Вы ныряете в укрытие и осматриваетесь: вы попали в засаду немцев!"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_Choice01",
@@ -2195,51 +2195,51 @@
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_A_Intro",
-		"text": "The detachment of soldiers in the ruins ahead of you are completely unaware of your approach – an attack is the last thing they expect!"
+		"text": "Отряд солдат в руинах перед вами совершенно не подозревает о вашем приближении, а атака — это последнее, чего они ждут!"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_B_Intro",
-		"text": "Up ahead of you, a group of soldiers are camping within the walls of an ancient temple. They have not seen you yet!"
+		"text": "Впереди группа солдат расположилась лагерем в стенах древнего храма. Они вас еще не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_C_Intro",
-		"text": "You come across a detachment of German soldiers resting at a temple – they have not seen you!"
+		"text": "Вы встречаете отряд немецких солдат, отдыхающих у храма — они вас еще не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_D_Intro",
-		"text": "From afar, you hear orders echoing in the desert air. You cautiously sneak closer and discover a detachment of soldiers searching a temple."
+		"text": "Издалека вы слышите приказы, эхом отдающиеся в воздухе пустыни. Вы осторожно подкрадываетесь и обнаруживаете отряд солдат, обыскивающих храм."
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_E_Intro",
-		"text": "The large detachment of soldiers in the temple have forgotten to set up sentries - what amateurs!"
+		"text": "Большой отряд солдат в храме забыл выставить часовых — что за дилетанты!"
 	},
 	{
 		"id": "BE_GenericNaziTempleAdvant01_F_Intro",
-		"text": "As you cautiously sneak up on the temple, you spot a large group of soldiers relaxing in the temple grounds. They are completely unaware of you."
+		"text": "Когда вы осторожно подкрадываетесь к храму, вы замечаете большую группу солдат, отдыхающих на территории храма. Они совершенно не знают о вашем приближении."
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_A_Intro",
-		"text": "As you walk around the walls of the temple complex, you are spotted by an enemy sentry who sounds the alarm! You have startled a unit of German soldiers who were resting here!"
+		"text": "Пока вы шли вдоль стен храмового комплекса, вас заметил вражеский часовой и забил тревогу! Вы потревожили отряд немецких солдат, отдыхавших здесь!"
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_B_Intro",
-		"text": "Right ahead of you, a detachment of German soldiers are at work on a temple! They spot you immediately and dash for cover! Moments later, you must fight for your lives!"
+		"text": "В храме прямо перед вами находится отряд немецких солдат! Они сразу замечают вас и бросаются в укрытие! Через несколько мгновений вам предстоит бороться за свою жизнь!"
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_C_Intro",
-		"text": "You hear a shout and see a group of soldiers who have been resting in the shadow of a temple. You rush for cover - and the battle begins!"
+		"text": "Вы слышите крик и видите группу солдат, которые отдыхали в тени храма. Вы бросаетесь в укрытие - и начинается битва!"
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_D_Intro",
-		"text": "You don’t see the soldiers resting by the temple until you are almost on top of them – they are as surprised as you are! They jump up in alarm and start shooting wildly in all directions!"
+		"text": "Вы не замечаете отдыхающих у храма солдат, пока не оказываетесь прямо перед ними — они так же удивлены, как и вы! Они в тревоге вскакивают и начинают бешено стрелять во все стороны!"
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_E_Intro",
-		"text": "You spot a group of soldiers by the temple ahead of you. They have not noticed you yet, so you throw yourselves to the ground. \n\nYou suddenly hear a shrill whistle: The guards have spotted you! The soldiers grab their weapons as you scramble for cover!"
+		"text": "У храма перед вами вы замечаете группу солдат. Они еще не заметили вас, поэтому вы бросаетесь на землю. \n\nВнезапно вы слышите пронзительный свист: вас заметила охрана! Солдаты хватают свое оружие, пока вы пытаетесь спрятаться в укрытии!"
 	},
 	{
 		"id": "BE_GenericNaziTempleNeutral01_F_Intro",
-		"text": "As you approach the temple ahead of you, a lone sentry suddenly steps into sight from behind a wall. He spots you immediately and alerts his comrades! You rush for cover before opening fire."
+		"text": "Пока вы подходили к храму впереди, из-за стены внезапно появился одинокий часовой. Он сразу же заметил вас и предупредил своих товарищей! Вы бросаетесь в укрытие, прежде чем открыть огонь."
 	},
 	{
 		"id": "ME_GenericVillage01_Choice01",
@@ -2251,23 +2251,23 @@
 	},
 	{
 		"id": "ME_GenericVillage01_A_Intro",
-		"text": "The village ahead of you is inhabited. You hear the bleating of goats and children’s laughter as you approach. The village merchant beckons you over to his stall."
+		"text": "Деревня перед вами обитаема. Подойдя ближе, вы слышите блеяние коз и детский смех. Деревенский торговец подзывает вас к своему прилавку."
 	},
 	{
 		"id": "ME_GenericVillage01_B_Intro",
-		"text": "In a desert village, you meet a merchant who beckons to you politely."
+		"text": "В пустынной деревне вы встречаете торговца, который вежливо манит вас."
 	},
 	{
 		"id": "ME_GenericVillage01_C_Intro",
-		"text": "In the shade of some huts, you meet a traveling merchant who has set up a modest stall in this village."
+		"text": "В тени нескольких хижин вы встречаете странствующего торговца, который открыл в этой деревне скромный прилавок."
 	},
 	{
 		"id": "ME_GenericVillage01_D_Intro",
-		"text": "The village is in a state of great excitement due to the arrival of a traveling merchant. The merchant waves you over and spreads his wares out in front of you."
+		"text": "Деревня очень взволнована прибытием странствующего торговца. Торговец машет вам рукой и раскладывает перед вами свой товар."
 	},
 	{
 		"id": "ME_GenericVillage01_E_Intro",
-		"text": "The villagers welcome you as a rare and welcome diversion. They proudly lead you to the village chief, who also owns the only shop in the settlement."
+		"text": "Жители деревни приветствуют вас как редкое и долгожданное развлечение. Они с гордостью ведут вас к старосте деревни, который также владеет единственным магазином в поселении."
 	},
 	{
 		"id": "RE_GenericRuins01_Choice01",
@@ -2643,43 +2643,43 @@
 	},
 	{
 		"id": "ME_GenericVillage01_A_Revisit",
-		"text": "When the village merchant sees you, his face lights up."
+		"text": "Когда деревенский торговец видит вас, его лицо светится."
 	},
 	{
 		"id": "ME_GenericVillage01_B_Revisit",
-		"text": "The dignified merchant nods as he recognizes you and places his wares on the carpet in front of him."
+		"text": "Величавый торговец кивает, узнав вас, и кладет свои товары на ковер перед собой."
 	},
 	{
 		"id": "ME_GenericVillage01_C_Revisit",
-		"text": "The traveling merchant is packing up his goods - but when you arrive, he pauses expectantly."
+		"text": "Странствующий торговец уже убирал свои товары, но когда вы подходите, он выжидающе останавливается."
 	},
 	{
 		"id": "ME_GenericVillage01_D_Revisit",
-		"text": "The traveling merchant has unpacked his goods and beckons you over cheerfully."
+		"text": "Странствующий торговец распаковал свои товары и весело подзывает вас к себе."
 	},
 	{
 		"id": "ME_GenericVillage01_E_Revisit",
-		"text": "The village chief waves you joyfully into his shop."
+		"text": "Деревенский староста радостно машет вам рукой, приглашая в свой магазин."
 	},
 	{
 		"id": "ME_GenericOriental01_A_Revisit",
-		"text": "The trader is dozing at his camp, but he jumps up in joy when he sees you."
+		"text": "Торговец дремлет в своем лагере, но при виде вас вскакивает от радости."
 	},
 	{
 		"id": "ME_GenericOriental01_B_Revisit",
-		"text": "The merchant sees you from afar and waves you over enthusiastically."
+		"text": "Торговец видит вас издалека и восторженно машет рукой."
 	},
 	{
 		"id": "ME_GenericOriental01_C_Revisit",
-		"text": "When you return, the merchant has made himself comfortable among the palm trees."
+		"text": "Когда вы возвращаетесь, купец удобно сидел среди пальм"
 	},
 	{
 		"id": "ME_GenericOriental01_D_Revisit",
-		"text": "The merchant is still there and comes running forward when he sees you."
+		"text": "Торговец все еще там и бежит навстречу, когда замечает вас."
 	},
 	{
 		"id": "ME_GenericOriental01_E_Revisit",
-		"text": "The traveling merchant has been resting and welcomes you joyfully."
+		"text": "Странствующий торговец отдыхал и радостно приветствует вас."
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Revisit",
@@ -5327,7 +5327,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Title",
-		"text": "A shepherds’ village"
+		"text": "Деревня пастухов"
 	},
 	{
 		"id": "BE_LostRockTemple01_Title",
@@ -5419,7 +5419,7 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoats02_Title",
-		"text": "Стадо козлов"
+		"text": "Стадо коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoats03_Title",
@@ -5427,11 +5427,11 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoats04_Title",
-		"text": "Стадо козлов"
+		"text": "Стадо коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoats05_Title",
-		"text": "Несколько тощих козлов"
+		"text": "Несколько тощих коз"
 	},
 	{
 		"id": "BE_GenericNaziCampAdvantage01_Title",
@@ -5999,7 +5999,7 @@
 	},
 	{
 		"id": "ME_GenericVillage01_Title",
-		"text": "An oasis village"
+		"text": "Деревня в оазисе"
 	},
 	{
 		"id": "ME_GenericVillage02_Title",
@@ -6023,7 +6023,7 @@
 	},
 	{
 		"id": "ME_GenericOriental02_Title",
-		"text": "Some palms"
+		"text": "Несколько пальм"
 	},
 	{
 		"id": "ME_GenericOriental03_Title",
@@ -8855,7 +8855,7 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep02_Title",
-		"text": "Стадо козлов"
+		"text": "Стадо коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep03_Title",
@@ -8863,11 +8863,11 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep04_Title",
-		"text": "Стадо козлов"
+		"text": "Стадо коз"
 	},
 	{
 		"id": "FE_GenericLonelyGoatsNoJeep05_Title",
-		"text": "Несколько тощих козлов"
+		"text": "Несколько тощих коз"
 	},
 	{
 		"id": "FE_AbandonedJeepNoJeep01_Title",
@@ -9407,7 +9407,7 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Intro",
-		"text": "Strange, iridescent crystals line the path. You stop to investigate the weird mineral formations when you hear the sound of engines. \n\nYou sneak forward and soon discover a unit of unsuspecting German soldiers who have also stumbled across this bizarre crystal forest!"
+		"text": "Путь выстилают странные переливающиеся кристаллы. Вы останавливаетесь, чтобы исследовать странные минеральные образования, когда слышите звук двигателей. \n\nВы крадётесь вперед и вскоре обнаруживаете отряд ничего не подозревающих немецких солдат, которые тоже наткнулись на этот причудливый хрустальный лес!"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage01_Choice01",
@@ -9419,15 +9419,15 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertDisadvantage01_Intro",
-		"text": "You move deeper into the strange crystal landscape, until a dead end forces you to stop. \n\nA sudden whistle rouses you from your thoughts - you turn to stare in dismay down the rifle barrels of the German soldiers who had been waiting in ambush behind the crystals!"
+		"text": "Вы продвигаетесь глубже в странный кристаллический пейзаж, пока тупик не заставит вас остановиться. \n\nВнезапный свист прерывает ваши раздумья - от испуга вы резко оборачиваетесь, и смотрите прямо на стволы винтовок немецких солдат, которые поджидали вас в засаде за кристаллами!"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertNeutral01_Intro",
-		"text": "The glittering, sharp-edged crystals line your way and loom over you in strange formations. \n\nYou gasp in surprise as you turn the next bend: A Wehrmacht vehicle is racing towards you!\n\nBarely avoiding a collision - your opponents take a nosedive into the desert sand and scramble frantically for cover!"
+		"text": "Блестящие кристаллы с острыми краями выстраиваются на вашем пути и нависают над вами странными образованиями. \n\nПовернув за следующий угол, вы вздыхаете от удивления: навстречу вам мчится машина вермахта!\n\nЕдва избегая столкновения, ваши противники ныряют в песок пустыни и отчаянно пытаются найти укрытие."
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage01_Intro",
-		"text": "As you approach the strange oasis with its mysterious crystals, your fears are confirmed: You are not alone!\n\nYou sneak closer and soon spy a group of German soldiers camped ahead of you. They are completely unaware of your presence."
+		"text": "Когда вы приближаетесь к странному оазису с его таинственными кристаллами, ваши опасения подтверждаются: вы тут не одни!\n\nВы подкрадываетесь ближе и вскоре замечаете большую группу немецких солдат, расположившихся лагерем перед вами. Они совершенно не замечают вашего присутствия."
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage01_Choice01",
@@ -9439,11 +9439,11 @@
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisDisadvantage01_Intro",
-		"text": "The oasis is riddled with bizarre, flickering crystals. You rub your eyes in disbelief - what is this place?\n\nA shot whistles over your heads - you have been ambushed by the Germans!"
+		"text": "Оазис пронизан причудливыми мерцающими кристаллами. Вы недоверчиво протираете глаза - что это за место?\n\nНад вашими головами свистит выстрел: вы попали в засаду немцев!"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisNeutral01_Intro",
-		"text": "As you come over the dune ridge, two things catch your eye: The strange crystals around the oasis in front of you - and the detachment of German soldiers resting in their shade!\n\nThe soldiers jump up shouting when they see you! You hurl yourselves to the ground and return fire!"
+		"text": "Когда вы подходите к гребню дюн, вашему взору предстают две вещи: странные кристаллы вокруг оазиса перед вами и отряд немецких солдат, отдыхающих в их тени!\n\nСолдаты с криками вскакивают завидев вас! Вы бросаетесь на землю и стреляете в ответ!"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Title",
@@ -9483,39 +9483,39 @@
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Intro",
-		"text": "As you peer over the dune ridge, you can barely believe your eyes: The Germans have built an improvised airfield here in the endless desert!\n\nShouted commands and the rumble of engines echo as you crouch behind your dune to discuss your options..."
+		"text": "Глядя через гребень дюн, вы едва можете поверить своим глазам: немцы построили импровизированный аэродром прямо здесь, посреди бескрайней пустыни!\n\nВыкрикиваемые команды и рокот двигателей отдаются эхом, пока вы, присев за своей дюной, обсуждаете возможные варианты..."
 	},
 	{
 		"id": "BE_GenericNaziAirfieldDisadvantage01_Intro",
-		"text": "There is something spooky about the silence over the deserted airfield. You approach carefully - but this soon turns out to be a grave error!\n\nMoving in unison, the Germans jump out from their hiding places with loaded weapons: It’s a trap!"
+		"text": "Есть что-то жуткое в той тишине, что стоит над пустынным аэродромом. Вы подходите осторожно, но это оказывается серьезной ошибкой!\n\nДвигаясь в унисон, немцы выскакивают из укрытий с заряженным оружием: это ловушка!"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldNeutral01_Intro",
-		"text": "The small desert airfield bustles with activity: German soldiers are busy unloading an aircraft. \n\nYou have an uneasy feeling and move back carefully. \n\nSuddenly, you hear a whistle – you have been discovered! The soldiers immediately draw their weapons and take cover!"
+		"text": "На маленьком пустынном аэродроме бурлит деятельность: немецкие солдаты заняты разгрузкой самолета. \n\nВы чувствуете себя неловко и осторожно отходите назад. \n\nВдруг вы слышите свист — вас обнаружили! Солдаты немедленно выхватывают оружие и прячутся в укрытие!"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage01_Intro",
-		"text": "You spot the huge directional antenna from afar and approach the mysterious camp with caution. \n\nIt appears to be a fortified German radio station. You weigh your options:"
+		"text": "Вы замечаете издалека огромную направленную антенну и осторожно приближаетесь к таинственному лагерю. \n\nПохоже, это полностью укомплектованная немецкая радиостанция. Вы взвешиваете свои возможности:"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationDisadvantage01_Intro",
-		"text": "You approached the German radio station unnoticed: This must be an important Wehrmacht communications hub...\n\nYou hear a metallic click behind you and spin around in alarm: You stare down the gun barrels of a German desert patrol!"
+		"text": "Вы незаметно подошли к немецкой радиостанции: это должно быть важный узел связи вермахта...\n\nВы слышите металлический щелчок позади себя и в резко оборачиваетесь: вы смотрите прямо на стволы орудий немецкого пустынного патруля!"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationNeutral01_Intro",
-		"text": "As you come around the lonely rock formation, a nasty surprise awaits you: You are right in front of a Wehrmacht radio station! \n\nIt’s too late to run - the startled soldiers jump up and grab their weapons!"
+		"text": "Обойдя одинокую скалу, вы находите неприятный сюрприз: вы стоите прямо перед радиостанцией Вермахта! \n\nБежать уже поздно - испуганные солдаты вскакивают и хватаются за оружие!"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage01_Intro",
-		"text": "You find no trace of the inhabitants of the sprawling farm - instead, you find that a Wehrmacht unit has taken up lodging here! \n\nDo you want to risk an attack?"
+		"text": "Вы не находите никаких следов обитателей обширной фермы — вместо этого вы обнаруживаете, что здесь поселилось подразделение вермахта! \n\nВы хотите рискнуть атаковав?"
 	},
 	{
 		"id": "BE_GenericNaziFarmDisadvantage01_Intro",
-		"text": "Something isn’t right at the farmstead you just came across...\n\nWhen you go to investigate the buildings, German soldiers appear at the windows with their weapons drawn! \n\nThe trap is sprung!"
+		"text": "Что-то не так в этом хуторе, на который вы только что наткнулись...\n\nКогда вы подходите осмотреть постройки, в окнах появляются немецкие солдаты с обнаженным оружием! \n\nЛовушка захлопнулась!"
 	},
 	{
 		"id": "BE_GenericNaziFarmNeutral01_Intro",
-		"text": "The inhabitants of the wealthy farmstead are nowhere to be seen, but you hear muted voices coming from the main building.\n\nAs you peer through the windows, you realize that you have surprised a unit of German soldiers! They quickly grab their weapons - you have no choice but to open fire!"
+		"text": "Жителей богатой усадьбы нигде не видно, но вы слышите приглушенные голоса, доносящиеся из главного здания.\n\nЗаглянув в окно, вы понимаете, что застали врасплох отряд немецких солдат! Они тот час хватаются за оружие — у вас нет выбора, кроме как открыть огонь!"
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Choice01",
@@ -9523,7 +9523,7 @@
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage01_Choice02",
-		"text": "Retreat"
+		"text": "Отступить"
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage01_Choice01",
@@ -9607,7 +9607,7 @@
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Intro",
-		"text": "Здание впереди - часть системы простых заправочных станций: \n\n[char0]: \"Топливо - не проблема, если вы сможете заплатить.\""
+		"text": "Здание перед вами - часть системы простых заправочных станций: \n\n[char0]: \"Топливо - не проблема, если вы сможете заплатить.\""
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Choice01",
@@ -9803,23 +9803,23 @@
 	},
 	{
 		"id": "BE_GenericNaziAirfieldAdvantage03_Intro",
-		"text": "As you peer over the dune ridge, you can barely believe your eyes: The Germans have built an improvised airfield here in the endless desert!\n\nShouted commands and rumbling engines echo as you crouch behind your dune and discuss your options against a superior enemy..."
+		"text": "Глядя через гребень дюн, вы едва можете поверить своим глазам: немцы построили импровизированный аэродром прямо здесь, посреди бескрайней пустыни!\n\nВыкрикиваемые команды и рокот двигателей отдаются эхом, пока вы, присев за своей дюной, обсуждаете возможные варианты..."
 	},
 	{
 		"id": "BE_GenericNaziRadiostationAdvantage03_Intro",
-		"text": "You spot the huge directional antenna from afar and approach the mysterious camp with caution. \n\nIt appears to be a fully manned German radio station. You weigh your options against a superior enemy:"
+		"text": "Вы замечаете издалека огромную направленную антенну и осторожно приближаетесь к таинственному лагерю. \n\nПохоже, это полностью укомплектованная немецкая радиостанция. Вы взвешиваете свои возможности против превосходящего врага:"
 	},
 	{
 		"id": "BE_GenericNaziFarmAdvantage03_Intro",
-		"text": "You find no trace of the inhabitants of the sprawling farm - instead, you find that a large Wehrmacht detachment has taken up lodging here! \n\nDo you want to risk an attack?"
+		"text": "Вы не находите никаких следов обитателей обширной фермы — вместо этого вы обнаруживаете, что здесь поселилось подразделение вермахта! \n\nВы хотите рискнуть атаковав?"
 	},
 	{
 		"id": "BE_GenericNaziCrystalDesertAdvantage03_Intro",
-		"text": "Strange, iridescent crystals line the path. You stop to investigate the strange mineral formations when you hear the sound of engines. \n\nYou sneak forward and soon discover a large detachment of unsuspecting German soldiers who have also stumbled across this bizarre crystal forest!"
+		"text": "Путь выстилают странные переливающиеся кристаллы. Вы останавливаетесь, чтобы исследовать странные минеральные образования, как вдруг слышите звук двигателей. \n\nВы прокрадываетесь вперед и вскоре обнаруживаете большой отряд ничего не подозревающих немецких солдат, которые тоже наткнулись на этот причудливый хрустальный лес!"
 	},
 	{
 		"id": "BE_GenericNaziCrystalOasisAdvantage03_Intro",
-		"text": "As you approach the strange oasis with its mysterious crystals, your fears are confirmed: You are not alone!\n\nYou sneak closer and soon spy a large group of German soldiers camped ahead of you. They are completely unaware of your presence."
+		"text": "Когда вы приближаетесь к странному оазису с его таинственными кристаллами, ваши опасения подтверждаются: вы тут не одни!\n\nВы подкрадываетесь ближе и вскоре замечаете большую группу немецких солдат, расположившихся лагерем перед вами. Они совершенно не замечают вашего присутствия."
 	},
 	{
 		"id": "TR_TradeCashForFuel01_Leave",
@@ -9883,7 +9883,7 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Title",
-		"text": "Стадо козлов"
+		"text": "Стадо коз"
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Intro",
@@ -10943,15 +10943,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaNeutral01_Title",
-		"text": "Nubian steep pyramid"
+		"text": "Высокая Нубийская пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaNeutral02_Title",
-		"text": "Strange pyramid"
+		"text": "Странная пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaNeutral03_Title",
-		"text": "Small pyramid"
+		"text": "Маленькая пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage01_Title",
@@ -10959,7 +10959,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage02_Title",
-		"text": "Nubian pyramid"
+		"text": "Нубийская пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage03_Title",
@@ -10967,7 +10967,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage01_Title",
-		"text": "Archaic pyramid"
+		"text": "Архаичная пирамида"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage02_Title",
@@ -10979,11 +10979,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaNeutral01_Intro",
-		"text": "Curious, you walk along the base of the steep-stepped, half-ruined Nubian pyramid. Suddenly, you hear muffled voices. \n \nYou carefully go up to the corner and nearly stumble over a group of cultists approaching the pyramid from the other side!"
+		"text": "С любопытством вы идете вдоль основания полуразрушенной нубийской пирамиды с крутыми ступенями. Внезапно вы слышите приглушенные голоса. \n \nВы осторожно подходите к углу и чуть ли не сталкиваетесь с группой сектантов, приближавшихся к пирамиде с другой стороны!"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaDisadvantage01_Intro",
-		"text": "The peculiar angles of the squat pyramid arouse your curiousity. It is a strange structure!\n \nShuffling footsteps in the desert sand shake you from your thoughts: A few cultists have sneaked up on you unnoticed in order to ambush you!"
+		"text": "Своеобразные углы приземистой пирамиды вызывают интерес. Это очень странное сооружение!\n\nШорох шагов по песку пустыни отрывает вас от мыслей: несколько культистов незаметно подкрались к вам, чтобы устроить засаду!"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage_Choice01",
@@ -10995,11 +10995,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage01_Intro",
-		"text": "You see suspicious movements at the base of the oddly angular Nubian tomb! You sneak closer and peer carefully over the crest of the dune: \n \nA few oblivious cultists have pitched their camp here!"
+		"text": "Вы видите подозрительные движения у основания странно угловатой нубийской гробницы! Вы подкрадываетесь ближе и внимательно вглядываетесь через гребень дюны: \n \nНесколько ничего не подозревающих культистов разбили здесь свой лагерь!"
 	},
 	{
 		"id": "BE_GenericUndeadNubiaAdvantage03_Intro",
-		"text": "You see suspicious movements at the base of the oddly angular Nubian tomb! You sneak closer and peer carefully over the crest of the dune: \n \nA large group of oblivious cultists is camped here!"
+		"text": "Вы видите подозрительные движения у основания странно угловатой нубийской гробницы! Вы подкрадываетесь ближе и внимательно вглядываетесь через гребень дюны: \n \nЗдесь разбила свой лагерь большая группа ничего не подозревающих культистов!"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral01_Title",
@@ -11007,7 +11007,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral02_Title",
-		"text": "In the middle of the desert"
+		"text": "В самом сердце пустыни"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral03_Title",
@@ -11039,11 +11039,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaNeutral01_Intro",
-		"text": "Bleached white like scattered bones, the salt lake extends before you. Apart from the nearby rocks, the wasteland is devoid of any details that might give orientation to the human eye. \n\nWhen you reach the rocks, you disturb a group of cultists who were resting there!"
+		"text": "Сияя белизной, подобно разбросанным костям, перед вами простирается соленое озеро. За исключением близлежащих скал, пустошь лишена каких-либо ориентиров, за которые мог бы зацепиться человеческий глаз. \n\nКогда вы доберетесь до скал, вы натыкаетесь на группу культистов, которые там отдыхали!"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaDisadvantage01_Intro",
-		"text": "The salt lake extends endlessly before you. The monotony of the horizon in all directions is hard to bear. \n \nFinally, you stop for a break - but just a few moments later, you jump at the sound footsteps crunching in the salt: Somehow, a few cultists have approached you unnoticed!\n \nWhat witchcraft is this?!"
+		"text": "Перед вами простирается бесконечное соленое озеро. Однообразие горизонта во всех направлениях тяжело переносить. \n \nНаконец, вы делаете передышку, но уже через несколько мгновений подпрыгиваете от звука хрустящих на соли шагов: каким-то образом к вам незаметно подошли несколько культистов!\n \nЧто это за колдовство?!"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage_Choice01",
@@ -11051,15 +11051,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage_Choice02",
-		"text": "Keep your distance"
+		"text": "Держаться на расстоянии"
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage01_Intro",
-		"text": "First, all you see is a few tiny dots in the endless distance of the salt lake, but eventually you are sure: \n\nYou see a column of cultists trekking through this hostile wasteland! \n\nThey do not seem to have noticed you yet..."
+		"text": "Сначала вы видите только несколько крошечных точек в бесконечной дали соленого озера, но в конце концов вы уверены: \n\nВы видите колонну культистов, пересекающих это враждебную пустошь! \n\nПохоже, они вас еще не заметили..."
 	},
 	{
 		"id": "BE_GenericUndeadSaltseaAdvantage03_Intro",
-		"text": "First, all you see is a few tiny dots in the endless distance of the salt lake, but eventually you are certain: \n \nA long column of cultists is trekking through this hostile wasteland! \n \nThey do not seem to have noticed you yet..."
+		"text": "Сначала вы видите только несколько крошечных точек в бесконечной дали соленого озера, но в конце концов вы уверены: \n\nВы видите колонну культистов, пересекающих это враждебную пустошь! \n\nПохоже, они вас еще не заметили..."
 	},
 	{
 		"id": "BE_GenericUndeadHutNeutral01_Title",
@@ -11075,11 +11075,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage01_Title",
-		"text": "Semi-dilapidated hut"
+		"text": "Полуразрушенная хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage02_Title",
-		"text": "Not a good place"
+		"text": "Недоброе место"
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage03_Title",
@@ -11095,15 +11095,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage03_Title",
-		"text": "Dilapidated hut"
+		"text": "Ветхая хижина"
 	},
 	{
 		"id": "BE_GenericUndeadHutNeutral01_Intro",
-		"text": "From a distance, you spot the dilapidated hut alone in the wilderness.\n \nAs you approach the hut, loud shouts and strange, guttural growls warn you that you are not alone..."
+		"text": "Издалека вы замечаете одинокую ветхую хижину посреди пустыни.\n \nКогда вы приближаетесь к ней, громкие крики и странное гортанное рычание предупреждают вас, что вы не одиноки..."
 	},
 	{
 		"id": "BE_GenericUndeadHutDisadvantage01_Intro",
-		"text": "The desert wind howls past the dismal, abandoned hut.\n \nJust as you reach it, the flimsy door is flung open: A few cultists were hiding here and are now rushing you!"
+		"text": "Ветер пустыни с воем проносится мимо унылой заброшенной хижины.\n \nКак только вы подходите к ней, хлипкая дверь распахивается: здесь прятались несколько сектантов, которые теперь бросаются на вас!"
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage_Choice01",
@@ -11115,11 +11115,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage01_Intro",
-		"text": "You carefully observe the lonely hut you spotted from the distance: You see a few cultists prowling around inside the dilapidated building..."
+		"text": "Вы внимательно осматриваете одинокую хижину, которую заметили издалека: вы видите несколько культистов, бродящих внутри полуразрушенного здания..."
 	},
 	{
 		"id": "BE_GenericUndeadHutAdvantage03_Intro",
-		"text": "You carefully observe the lonely hut you spotted from the distance: You see a large group of cultists prowling around inside the dilapidated building..."
+		"text": "Вы внимательно осматриваете одинокую хижину, которую заметили издалека: вы видите большую группу культистов, бродящих внутри полуразрушенного здания..."
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral01_Title",
@@ -11131,11 +11131,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral03_Title",
-		"text": "Тонель шахты"
+		"text": "Тоннель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage01_Title",
-		"text": "Old mine"
+		"text": "Старая шахта"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage02_Title",
@@ -11151,7 +11151,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage02_Title",
-		"text": "Тонель шахты"
+		"text": "Тоннель шахты"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage03_Title",
@@ -11159,11 +11159,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineNeutral01_Intro",
-		"text": "As you approach the entrance of the old mine, you hear strange, disturbing sounds echoing from its depths - moments later, you come face to face with a group of cultists. They look just as astonished as you!"
+		"text": "Когда вы приближаетесь ко входу в старую шахту, вы слышите странные тревожные звуки, доносящиеся эхом из ее глубин — через несколько мгновений вы сталкиваетесь лицом к лицу с группой культистов. Они выглядят такими же удивленными, как и вы!"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineDisadvantage01_Intro",
-		"text": "An abandoned mine! Curious, you step closer - what secrets might it contain?\n \nYou spin round at the sound of evil laughter: A group of cultists has crept up on you from behind!"
+		"text": "Заброшенная шахта! Вы подходите ближе — любопытно, какие тайны она может скрывать?\n \nВы оборачиваетесь на звук зловещего смеха: к вам сзади подкралась группа культистов!"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage_Choice01",
@@ -11175,11 +11175,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage01_Intro",
-		"text": "The old mine seemed deserted at first - but you soon discover your mistake: A group of cultists is working at the entrance to the abandoned mine!\n \nThey do not seem to have noticed you yet..."
+		"text": "Старая шахта поначалу казалась заброшенной, но вскоре вы понимаете свою ошибку: у входа в заброшенную шахту чем-то занимается группа культистов!\n \nКажется, они вас еще не заметили..."
 	},
 	{
 		"id": "BE_GenericUndeadOutsideMineAdvantage03_Intro",
-		"text": "The old mine seems deserted at first - but you soon discover your mistake: A large group of cultists is working at the entrance to the abandoned mine! \n \nThey do not seem to have noticed you yet..."
+		"text": "Старая шахта поначалу казалась заброшенной, но вскоре вы понимаете свою ошибку: у входа в заброшенную шахту чем-то занимается большая группа культистов!\n \nКажется, они вас еще не заметили..."
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral01_Title",
@@ -11195,7 +11195,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage01_Title",
-		"text": "Stormed bunker"
+		"text": "Захваченный бункер"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage02_Title",
@@ -11219,11 +11219,11 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerNeutral01_Intro",
-		"text": "The lone bunker in the wasteland has sparked your curiosity. \n \nYou realize you are not alone when you startle a group of cultists. They charge you, screaming with rage!"
+		"text": "Одинокий бункер в пустоши вызывает у вас любопытство. \n \nВы понимаете, что вы не одиноки, когда пугаете группу культистов. Крича от ярости, они бросаются на вас!"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage01_Intro",
-		"text": "You are not sure whether the desert bunker is still occupied, so you carefully sneak closer. \n \nUpon closer inspection, the structure looks abandoned. Then you hear whispering sounds behind you, and you realize you are not alone..."
+		"text": "Вы не уверены, занят ли бункер в пустыне, поэтому осторожно подкрадываетесь ближе. \n \nПри ближайшем рассмотрении строение выглядит заброшенным. Но затем вы слышите шепот позади и понимаете, что не один..."
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage_Choice01",
@@ -11231,15 +11231,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage_Choice02",
-		"text": "Sneak away quietly"
+		"text": "Тихо уйти"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage01_Intro",
-		"text": "Something isn’t right with the strange bunker you found among the desert dunes...\n \nYou carefully sneak closer. Your caution was justified! A group of cultists is working at the bunker entrance!"
+		"text": "Что-то не так со странным бункером, который вы нашли среди дюн пустыни...\n \nВы осторожно подкрадываетесь ближе. Ваша осторожность была оправдана! Группа культистов чем-то занята у входа в бункер!"
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage03_Intro",
-		"text": "Something isn’t right with the strange bunker you found among the desert dunes... \n \nYou carefully sneak closer. Your caution was justified! A large group of cultists is working at the bunker entrance!"
+		"text": "Что-то не так со странным бункером, который вы нашли среди дюн пустыни...\n \nВы осторожно подкрадываетесь ближе. Ваша осторожность была оправдана! Большая группа культистов чем-то занята у входа в бункер!"
 	},
 	{
 		"id": "LE_BurningJeep01_PerkChoice_B",
