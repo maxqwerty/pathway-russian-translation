@@ -71,7 +71,7 @@
 	},
 	{
 		"id": "EventAdjustmentType_Occult",
-		"text": "Запретные Предания"
+		"text": "Запретные Знания"
 	},
 	{
 		"id": "GrenadeAdjustmentType_Damage",
@@ -455,7 +455,7 @@
 	},
 	{
 		"id": "healthBonus02_name",
-		"text": "Благословленный эонами"
+		"text": "Благословение эонов"
 	},
 	{
 		"id": "healthEvadeBonus01_name",
@@ -639,7 +639,7 @@
 	},
 	{
 		"id": "occultStarter_name",
-		"text": "Запретные Предания"
+		"text": "Запретные Знания"
 	},
 	{
 		"id": "survivalStarter_name",
@@ -1143,7 +1143,7 @@
 	},
 	{
 		"id": "IconCaption_SpecArm",
-		"text": "ПАТ"
+		"text": "БРОН"
 	},
 	{
 		"id": "IconCaption_SpecShredding",
