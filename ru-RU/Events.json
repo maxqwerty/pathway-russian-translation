@@ -479,19 +479,19 @@
 	},
 	{
 		"id": "CR_AngryMob01_Intro",
-		"text": "As you approach the village, you hear the shouting of an angry crowd! A furious mob has gathered in front of one of the houses. You make out the village chief and speak to him:\n\n[char0]: \"What's going on here?\"\n\n[char4]: \"The people have caught a con artist in the act and now they want blood.\"[CTP] \n\nYou assess the situation: Isn’t that [char1]? He also recognizes you and waves frantically: \n\n[char1]: \"It's all just a misunderstanding! Get me out of here!\""
+		"text": "Приблизившись к деревне, вы слышите крики разъяренной толпы! Перед одним из домов собралась разъяренная толпа. Вы узнаете старосту деревни и обращаетесь к нему:\n\n[char0]: \"Что здесь происходит?\"\n\n[char4]: \"Народ поймал мошенника на месте преступления и теперь жаждет крови.\"[CTP] \n\nВы оцениваете ситуацию: разве это не [char1]? Он также узнает вас и активно машет руками: \n\n[char1]: \"Это все просто недоразумение! Вытащите меня отсюда!\""
 	},
 	{
 		"id": "CR_AngryMob01_Intro_female",
-		"text": "As you approach the village, you hear the shouting of an angry crowd! A furious mob has gathered in front of one of the houses. You make out the village chief and speak to him:\n\n[char0]: \"What's going on here?\"\n\n[char4]: \"The people have caught a con artist in the act and now they want blood.\"[CTP] \n\nYou assess the situation: Isn’t that [char1]? She also recognizes you and waves frantically: \n\n[char1]: \"It's all just a misunderstanding! Get me out of here!\""
+		"text": "Приблизившись к деревне, вы слышите крики разъяренной толпы! Перед одним из домов собралась разъяренная толпа. Вы узнаете старосту деревни и обращаетесь к нему:\n\n[char0]: \"Что здесь происходит?\"\n\n[char4]: \"Народ поймал мошенницу на месте преступления и теперь жаждет крови.\"[CTP] \n\nВы оцениваете ситуацию: разве это не [char1]? Она также узнает вас и активно машет руками: \n\n[char1]: \"Это все просто недоразумение! Вытащите меня отсюда!\""
 	},
 	{
 		"id": "CR_AngryMob01_Choice01",
-		"text": "Pay money"
+		"text": "Заплатить"
 	},
 	{
 		"id": "CR_AngryMob01_Recruit",
-		"text": "[char0]: \"Perhaps compensation for any losses will calm things down?\"\n\n[char4]: \"You can try, but it won’t be cheap!\"\n\n[char1]: \"Don’t leave me here!\"\n\nSighing, you gather your funds together and pay."
+		"text": "[char0]: \"Возможно, компенсация за любые потери успокоит ситуацию?\"\n\n[char4]: \"Вы можете попробовать, но это будет недешево!\"\n\n[char1]: \"Не оставляй меня здесь!\"\n\nВздохнув, вы собираете свои сбережения и платите."
 	},
 	{
 		"id": "CR_AngryMob01_Choice02",
@@ -499,23 +499,23 @@
 	},
 	{
 		"id": "CR_AngryMob01_Intimidate",
-		"text": "[char3] уверенно зашагал в сторону толпы:\n\n[char3]: \"Мне не нравится, когда люди распространяют ложь о моих друзьях!\""
+		"text": "[char3] уверенно зашагал в сторону толпы:\n\n[char3]: \"Мне не нравится, когда о моих друзьях распространяют ложь!\""
 	},
 	{
 		"id": "CR_AngryMob01_Intimidate_female",
-		"text": "[char3] уверенно зашагала в сторону толпы:\n\n[char3]: \"Мне не нравится, когда люди распространяют ложь о моих друзьях!\""
+		"text": "[char3] уверенно зашагала в сторону толпы:\n\n[char3]: \"Мне не нравится, когда о моих друзьях распространяют ложь!\""
 	},
 	{
 		"id": "CR_AngryMob01_IntimidateW",
-		"text": "[char3] does not look like he is joking. After a few words of protest, the grumbling crowd disperses."
+		"text": "[char3] не похож, на того, кто шутит. После нескольких слов протеста ропщущая толпа расходится."
 	},
 	{
 		"id": "CR_AngryMob01_IntimidateW_female",
-		"text": "[char3] does not look like she is joking. After a few words of protest, the grumbling crowd disperses."
+		"text": "[char3] не похожа, на того, кто шутит. После нескольких слов протеста ропщущая толпа расходится."
 	},
 	{
 		"id": "CR_AngryMob01_IntimidateF",
-		"text": "A reluctant grumble goes through the crowd. Insults fly back and forth, the mood is getting ugly! The village chief grows impatient:\n\n[char2]: \"What do you mean, lies? We have a dozen witnesses! Will you pay now or not?\" \n\nCowed, you gather your funds together and pay."
+		"text": "Через толпу проходит ропот. Оскорбления летят туда-сюда, атмосфера накаляется! Староста деревни начинает терять терпение:\n\n[char2]: \"Что значит \"ложь\"? У нас дюжина свидетелей! Вы будете платить или нет?\" \n\nСмутившись, вы собираете свои средства и платите."
 	},
 	{
 		"id": "CR_AngryMob01_Choice03",
@@ -1071,11 +1071,11 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_Intro",
-		"text": "In the shade of a palm grove, you sneak up to the enemy camp. As you peer through the bushes, you see a sprawling, apparently deserted archaeological site. But then you spot a few guards patrolling the area."
+		"text": "В тени пальмовой рощи вы подкрадываетесь к лагерю противника. Заглянув через кусты, вы видите обширный и, по-видимому, заброшенный археологический комплекс. Но затем вы замечаете нескольких охранников, патрулирующих территорию."
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Ambushed",
-		"text": "Just as you are about to discuss what to do next, you hear a metallic click behind you. You turn around in dismay to see half a dozen rifles pointed right at you!  [CTP]\n\nThe squad of German soldiers has a prisoner. An officer stands off to one side: \n\n[char0]: \"It always pays to be thorough!\""
+		"text": "Как раз в тот момент, когда вы собираетесь обсудить, что делать дальше, вы слышите металлический щелчок позади себя. Вы в ужасе оборачиваетесь и видите полдюжины винтовок, направленных прямо на вас!  [CTP]\n\nУ отряда немецких солдат есть пленный. Офицер стоит в стороне: \n\n[char0]: \"Стоит быть всегда на стороже!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice01",
@@ -1083,27 +1083,27 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice02",
-		"text": "Take the officer hostage"
+		"text": "Взять офицера в заложники"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilW",
-		"text": "As if by magic, [char1] is suddenly standing beside the enemy officer. A moment later he seizes him and uses him as a human shield. A blade flashes in his free hand. [CTP]\n\n[char1]: \"I’d call this a classic standoff situation. How about: you men drop your weapons and take three steps back?\"\n\n[char0]: \"Do as he says!\""
+		"text": "Как по волшебству, [char1] внезапно оказывается рядом с вражеским офицером. Мгновение спустя он хватает его и использует как живой щит. В его свободной руке мелькает клинок. [CTP]\n\n[char1]: \"Я бы назвал это классической патовой ситуацией. Как насчёт такого: вы, парни, бросаете оружие и делаете три шага назад?\"\n\n[char0]: \"Делайте так, как он сказал!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilW_female",
-		"text": "As if by magic, [char1] is suddenly standing beside the enemy officer. A moment later she seizes him and uses him as a human shield. A blade flashes in her free hand. [CTP]\n\n[char1]: \"I’d call this a classic standoff situation. How about: you men drop your weapons and take three steps back?\"\n\n[char0]: \"Do as she says!\""
+		"text": "Как по волшебству, [char1] внезапно оказывается рядом с вражеским офицером. Мгновение спустя она хватает его и использует как живой щит. В ее свободной руке мелькает клинок. [CTP]\n\n[char1]: \"Я бы назвала это классической патовой ситуацией. Как насчёт такого: вы, парни, бросаете оружие и делаете три шага назад?\"\n\n[char0]: \"Делайте так, как она сказала!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Attack",
-		"text": "A sharp blow to the back of the head sends the commander to sleep. You dive for cover and open fire on the remaining soldiers!"
+		"text": "Резкий удар по затылку вырубает офицера. Вы ныряете в укрытие и открываете огонь по оставшимся солдатам!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice03",
-		"text": "Free prisoner and withdraw"
+		"text": "Освободить заключенного и уйти"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Withdraw",
-		"text": "[char1]: \"We would also like the prisoner – do you think you can arrange that?\"\n\n[char0]: \"I suppose so...\"\n\nYou take the prisoner and quickly get out of range of the enemy rifles. You withdraw, keeping your officer hostage. [CTP]\n\nOut of sight of the camp, you search him quickly before knocking him out with a sharp blow to the back of the head. \n\nHastily, you continue your journey, but see no sign of the enemy soldiers."
+		"text": "[char1]: \"Мы также хотели бы забрать пленника - как вы думаете, вы можете это разрешить?\"\n\n[char0]: \"Полагаю, что да...\"\n\nВы берете пленного и быстро уходите за пределы досягаемости вражеских винтовок. Вы отступаете, держа в заложниках офицера. [CTP]\n\nВыйдя за пределы лагеря, вы быстро обыскиваете офицера, прежде чем вырубить его резким ударом по затылку. \n\nВы спешно продолжаете свой путь, но больше не видите никаких признаков вражеских солдат."
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilF",
@@ -1115,7 +1115,7 @@
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Unseen",
-		"text": "You notice a large detachment arriving from a reconnaissance mission with a prisoner in tow. Because of the sentries, you cannot sneak any closer. What do you want to do?"
+		"text": "Вы замечаете большой отряд, прибывший с разведывательной миссии с пленником на буксире. Из-за караула вы не можете подкрасться ближе. Что вы хотите предпринять?"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Choice01",
@@ -1127,7 +1127,7 @@
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Intro",
-		"text": "You sneak up on an improvised Wehrmacht camp. Soldiers are piling sandbags, digging latrine ditches: there is a lot of activity. \n\nOff to one side, you see a small barbed wire stockade with a sentry in front of it – do they have a prisoner? You try to decide what to do."
+		"text": "Вы подкрадываетесь к импровизированному лагерю вермахта. Солдаты складывают мешки с песком, копают канавы для уборных: здесь кипит бурная деятельность. \n\nС одной стороны вы видите небольшой заслон из колючей проволоки с часовым перед ним - у них есть пленный? Вы пытаетесь решить, что делать."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice01",
@@ -1143,27 +1143,27 @@
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPC",
-		"text": "[char0] clears his throat and stands to attention. Then he marches confidently up to the sentry, who immediately chambers a round! \n\n[char0] reaches into his satchel, takes out a handful of crumpled papers and holds them under the guard's nose."
+		"text": "[char0] прочищает горло и встает во весь рост. Затем он уверенно подходит к часовому, который тут же перезаряжает оружие! \n\n[char0] лезет в свой ранец, достает горсть скомканных бумаг и держит их перед носом охранника."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPC_female",
-		"text": "[char0] clears her throat and stands to attention. Then she marches confidently up to the sentry, who immediately chambers a round! \n\n[char0] reaches into her satchel, takes out a handful of crumpled papers and holds them under the guard's nose."
+		"text": "[char0] прочищает горло и встает во весь рост. Затем она уверенно подходит к часовому, который тут же перезаряжает оружие! \n\n[char0] лезет в свой ранец, достает горсть скомканных бумаг и держит их перед носом охранника."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCW",
-		"text": "As the soldier scans the papers, [char0] lays him low with a deft blow to the temple!\n\nYou hold your breath, but the rest of the camp has not noticed. [char0] soon finds the keys to the compound and returns with the prisoner."
+		"text": "Пока солдат просматривал бумаги, [char0] уложил его на землю ловким ударом в висок!\n\nВы затаили дыхание, но остальная часть лагеря ничего не заметила. [char0] вскоре находит ключи от лагеря и возвращается с пленником."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCW_female",
-		"text": "As the soldier scans the papers, [char0] lays him low with a deft blow to the temple!\n\nYou hold your breath, but the rest of the camp has not noticed. [char0] soon finds the keys to the compound and returns with the prisoner."
+		"text": "Пока солдат просматривал бумаги, [char0] уложила его на землю ловким ударом в висок!\n\nВы затаили дыхание, но остальная часть лагеря ничего не заметила. [char0] вскоре находит ключи от лагеря и возвращается с пленником."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCF",
-		"text": "The panicked soldier points his weapon in alarm and [char0] throws his hands in the air. Within seconds, the entire camp is alerted!"
+		"text": "Запаниковавший солдат поднимает оружие, а [char0] поднимает руки. Через несколько секунд весь лагерь поднимается по тревоге!"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCF_female",
-		"text": "The panicked soldier points his weapon in alarm and [char0] throws her hands in the air. Within seconds, the entire camp is alerted!"
+		"text": "Запаниковавший солдат поднимает оружие, а [char0] поднимает руки. Через несколько секунд весь лагерь поднимается по тревоге!"
 	},
 	{
 		"id": "RE_PalmCopse01_Intro",
@@ -1331,7 +1331,7 @@
 	},
 	{
 		"id": "GE_BuriedMerchant01_Intro",
-		"text": "You see a lonely camel standing in the shade of a small grove of palm trees. As you approach, you see that the animal is tethered. You find traces of a camp, but not a human soul."
+		"text": "Вы видите одинокого верблюда, стоящего в тени небольшой рощи пальм. Приблизившись, вы видите, что животное привязано. Вы находите следы лагеря, но ни единой человеческой души."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice01",
@@ -1343,39 +1343,39 @@
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice03",
-		"text": "Search the place thoroughly"
+		"text": "Тщательно обыскать это место"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Search",
-		"text": "You scan the rocky terrain but do not see anyone. After a short rest, you continue on your journey."
+		"text": "Вы осматриваете скалистую местность, но никого не видите. После короткого отдыха вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrength",
-		"text": "Not far from the abandoned camp, you find a crevice in the cliffs next to the grove. It may be a cave entrance, but it has been buried by a rock avalanche. The debris looks like it fell recently."
+		"text": "Недалеко от заброшенного лагеря рядом с рощей вы обнаружите расщелину в скалах. Возможно, это вход в пещеру, но он был засыпан каменной лавиной. Завал выглядит так, как будто он обрушился недавно."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthW",
-		"text": "[char0] spits on his hands and starts to heave the massive boulders out of the way. Suddenly, you hear muffled cries for help. [char0] redoubles his efforts. A short time later, you are pulling a dust-covered nomad out from behind the debris. \n\n[char1]: \"Surely heaven has sent you! An avalanche must have come down during the night. I was caught like a fox in a trap!\""
+		"text": "[char0] плюет на руки и начинает сдвигать массивные валуны. Вдруг вы слышите приглушенные крики о помощи. [char0] удваивает свои усилия. Через некоторое время вы вытаскиваете из-под завала покрытого пылью кочевника. \n\n[char1]: \"Вас послали небеса! Должно быть, ночью сошла горная лавина. Я попал, как лиса в капкан!\""
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthW_female",
-		"text": "[char0] spits on her hands and starts to heave the massive boulders out of the way. Suddenly, you hear muffled cries for help. [char0] redoubles her efforts. A short time later, you are pulling a dust-covered nomad out from behind the debris. \n\n[char1]: \"Surely heaven has sent you! An avalanche must have come down during the night. I was caught like a fox in a trap!\""
+		"text": "[char0] плюет на руки и начинает сдвигать массивные валуны. Вдруг вы слышите приглушенные крики о помощи. [char0] удваивает свои усилия. Через некоторое время вы вытаскиваете из-под завала покрытого пылью кочевника. \n\n[char1]: \"Вас послали небеса! Должно быть, ночью сошла горная лавина. Я попал, как лиса в капкан!\""
 	},
 	{
 		"id": "GE_BuriedMerchant01_ThankfulMerchant",
-		"text": "He goes back into the cave and returns with some bundles over his shoulders: \n\n[char1]: \"You have saved the life of a simple traveler - please, take this as a token of my gratitude!\" [CTP]\n\nIn his hands he holds a nondescript amulet - who will take it?"
+		"text": "Он уходит в пещеру и возвращается с несколькими свертками на плечах: \n\n[char1]: \"Вы спасли жизнь простому путешественнику - примите это в знак моей благодарности!\" [CTP]\n\nВ руках он держит непонятный амулет - кто возьмет его?"
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthF",
-		"text": "[char0] starts to heave at the rocks but after a short while he gives up: the gigantic boulders won’t budge an inch! Shrugging, you continue your journey."
+		"text": "[char0] наваливается на камни, но через некоторое время сдается: гигантские валуны больше не сдвигаются ни на дюйм! Пожав плечами, вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthF_female",
-		"text": "[char0] starts to heave at the rocks but after a short while she gives up: the gigantic boulders won’t budge an inch! Shrugging, you continue your journey."
+		"text": "[char0] наваливается на камни, но через некоторое время сдается: гигантские валуны больше не сдвигаются ни на дюйм! Пожав плечами, вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Reward",
-		"text": "The amulet is worn right over the heart. You thank the man and continue your journey."
+		"text": "Амулет одевается прямо на область сердца. Вы благодарите человека и продолжаете свой путь."
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Intro",
@@ -1431,23 +1431,23 @@
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Intro",
-		"text": "You meet a few goatherds camped around a small well."
+		"text": "Вы встречаете нескольких козопасов, разбивших лагерь вокруг небольшого колодца."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Gestures",
-		"text": "You attempt to communicate using signs and gestures. The nomads look at you with interest, but they do not understand you. You continue on your journey."
+		"text": "Вы пытаетесь общаться с помощью знаков и жестов. Кочевники смотрят на вас с интересом, но не понимают вас. Вы продолжаете свой путь."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_LanguagesW",
-		"text": "[char0] greets the men. One word leads to another, and soon an animated conversation develops. [char0] returns with a satisfied smile on his face."
+		"text": "[char0] приветствует мужчин. Слово за слово, и вскоре завязывается оживленная беседа. [char0] возвращается с довольной улыбкой на лице."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_LanguagesW_female",
-		"text": "[char0] greets the men. One word leads to another, and soon an animated conversation develops. [char0] returns with a satisfied smile on her face."
+		"text": "[char0] приветствует мужчин. Слово за слово, и вскоре завязывается оживленная беседа. [char0] возвращается с довольной улыбкой на лице."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_StrangeRumor",
-		"text": "[char0]: \"The shepherds told me about a strange black pillar in the desert dunes east of here.\""
+		"text": "[char0]: \"Пастухи рассказали мне о странном черном столбе в пустынных дюнах к востоку отсюда.\""
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice01",
@@ -1459,19 +1459,19 @@
 	},
 	{
 		"id": "LE_FriendlyBeduins01_SearchFail",
-		"text": "The search is more difficult than expected, because one dune looks much like the next dune.\n\nYou finally give up your search for the strange stone pillar, frustrated by the knowledge that you just wasted your precious fuel for nothing..."
+		"text": "Поиск оказывается сложнее, чем ожидалось, потому что дюны очень похожа друг на друга.\n\nВ конце концов вы прекращаете поиски странного каменного столба, расстроенные тем, что потратили драгоценное топливо впустую..."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_SearchWin",
-		"text": "After a bumpy ride through the dunes, you finally reach the place the nomads spoke of. \n\nA titanic black pillar rises menacingly over the desert sand. Someone has been digging at its base, but the small chamber you find there is intact. [CTP]\n\nWhat prevented the mysterious excavators from taking a closer look at their find?\n\nYou look warily over your shoulder - then you kneel in the sand to investigate the mysteries of the strange column."
+		"text": "После тряски по дюнам вы, наконец, достигаете места, о котором говорили кочевники. \n\nТитанический черный столб угрожающе возвышается над песками пустыни. Кто-то копал у его основания, но небольшая комната, которую вы там находите, осталась нетронутой. [CTP]\n\nЧто помешало таинственным раскопщикам рассмотреть свою находку поближе?\n\nВы настороженно оглядываетесь через плечо - затем опускаетесь на колени в песок, чтобы разгадать тайну странной колонны."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Intro",
-		"text": "A few nomads have pitched camp by a small, brackish waterhole."
+		"text": "Несколько кочевников разбили лагерь у небольшого солоноватого водопоя."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Gestures",
-		"text": "You communicate with gestures and exchange polite nods. You soon continue on your journey."
+		"text": "Вы общаетесь жестами и обмениваетесь вежливыми кивками. Вскоре вы продолжаете свой путь."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW",
@@ -2119,11 +2119,11 @@
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Intro",
-		"text": "Not far away, you see vultures circling in the sky. In the desert, that could mean all kinds of things, so you decide to investigate. You climb to the top of a dune to get a good view: You see the remains of a German soldier. [CTP]\n\nYou search through what little the vultures have left behind. The man has been dead for some time. He probably died of thirst. You find a courier bag on his belt. \n\nWhen you open it, a folded map falls out onto the hot desert sand. You examine the map – somebody has marked a cross not far from your position. [CTP]\n\nYou bury the man’s remains to protect them from the vultures and move on."
+		"text": "Недалеко от вас в небе кружат стервятники. В пустыне это может означать все что угодно, поэтому вы решаете разобраться. Вы взбираетесь на вершину дюны, чтобы хорошо видеть: Вы замечаете останки немецкого солдата. [CTP]\n\nВы обыскиваете то немногое, что оставили стервятники. Человек был мертв уже довольно давно. Вероятно, он умер от жажды. Вы находите курьерскую сумку на его поясе. \n\nКогда вы открываете ее, на горячий песок пустыни выпадает сложенная карта. Вы изучаете карту - кто-то отметил крест недалеко от вашего местоположения. [CTP]\n\nВы хороните останки человека, чтобы защитить их от стервятников, и продолжаете свой путь."
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice01",
-		"text": "Drive to the spot"
+		"text": "Доехать до места"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice02",
@@ -2131,31 +2131,31 @@
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Stash",
-		"text": "Hidden between some palms you find a German army crate. When you break it open, you’re not sure what to make of the contents: Hundreds of small white pills, neatly packaged in convenient, unlabeled cardboard boxes. [CTP]\n\nApparently, you've come across some Wehrmacht pharmaceutical supplies, but there's no sign of an instruction manual or anything that might give you a clue to its strange contents."
+		"text": "Вы находите спрятанный между пальмами ящик немецкой армии. Когда вы открываете его, то не знаете, что делать с содержимым: там сотни маленьких белых таблеток, аккуратно упакованных в удобные картонные коробки без этикеток. [CTP]\n\nСудя по всему, вам попались какие-то фармацевтические принадлежности вермахта, но нет никакой инструкции по эксплуатации или чего-либо, что могло бы дать подсказку об этой находке."
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice03",
-		"text": "Try the pills"
+		"text": "Попробовать таблетки"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Question",
-		"text": "Who will try?"
+		"text": "Кто попробует?"
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Good",
-		"text": "It doesn’t take long for the effects to kick in. [char0] seems restless, his movements are jerky:\n\n[char0]: \"What are you waiting for? Come on, we have things to do!\""
+		"text": "Эффект проявляется не сразу. [char0] выглядит неугомонным, его движения нервные:\n\n[char0]: \"Чего вы ждете? Давайте выдвигаться, у нас есть дело!\""
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Good_female",
-		"text": "It doesn’t take long for the effects to kick in. [char0] seems restless, her movements are jerky:\n\n[char0]: \"What are you waiting for? Come on, we have things to do!\""
+		"text": "Эффект проявляется не сразу. [char0] выглядит неугомонной, ее движения нервные:\n\n[char0]: \"Чего вы ждете? Давайте выдвигаться, у нас есть дело!\""
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Bad",
-		"text": "A few minutes later, [char0] doubles over and groans in agony. Cold sweat stands out on his forehead and his hands are shaking.\n\n[char0]: \"That was a pretty stupid idea ...\""
+		"text": "Спустя пару минут [char0] перевернулся на спину и застонал в агонии. На его лбу выступил холодный пот, а руки задрожали.\n\n[char0]: \"Это была довольно глупая идея...\""
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Bad_female",
-		"text": "A few minutes later, [char0] doubles over and groans in agony. Cold sweat stands out on her forehead and her hands are shaking.\n\n[char0]: \"That was a pretty stupid idea ...\""
+		"text": "Спустя пару минут [char0] перевернулась на спину и застонала в агонии. На ее лбу выступил холодный пот, а руки задрожали.\n\n[char0]: \"Это была довольно глупая идея...\""
 	},
 	{
 		"id": "GE_OrientalTinkerer01_Intro",
@@ -2279,7 +2279,7 @@
 	},
 	{
 		"id": "RE_GenericRuins01_A_Intro",
-		"text": "The village ahead of you appears to be deserted. The wind blows quietly through the ruins. As you approach, you can see that the well has not dried up yet. You can rest up here."
+		"text": "Деревня перед вами кажется пустынной. Ветер тихо дует в руинах. Когда вы приближаетесь, то видите, что колодец еще не высох. Вы можете отдохнуть здесь."
 	},
 	{
 		"id": "RE_GenericRuins01_A_Rest",
@@ -2287,35 +2287,35 @@
 	},
 	{
 		"id": "RE_GenericRuins01_B_Intro",
-		"text": "In a deserted village, you find a watering post. A short break could do you good..."
+		"text": "В заброшенной деревне вы находите колодец. Небольшой перерыв может пойти вам на пользу..."
 	},
 	{
 		"id": "RE_GenericRuins01_B_Rest",
-		"text": "You set up camp in the shade and tend to your wounds. \n\nYou soon have coffee simmering over the campfire and your spirits improve. With morale restored, you continue your journey."
+		"text": "Вы разбиваете лагерь в тени и лечите свои раны. \n\nВскоре на костре закипает кофе, и ваше настроение улучшается. Восстановив боевой дух, вы продолжаете свой путь."
 	},
 	{
 		"id": "RE_GenericRuins01_C_Intro",
-		"text": "An old well stands in the shade of some ruins. You examine it and discover, to your astonishment, that it still holds water. Do you want to set up camp here?"
+		"text": "Старый колодец стоит в тени каких-то развалин. Вы осматриваете его и, к своему удивлению, обнаруживаете, что в нем все еще есть вода. Хотите разбить здесь лагерь?"
 	},
 	{
 		"id": "RE_GenericRuins01_C_Rest",
-		"text": "Вы используете перерыв, чтобы размять ноги и обработать порезы и синяки. В конце-концов вы снова набираетесь сил."
+		"text": "Вы используете остановку, чтобы размять ноги и обработать порезы и синяки. В конце-концов вы снова набираетесь сил."
 	},
 	{
 		"id": "RE_GenericRuins01_D_Intro",
-		"text": "The desert sands are gradually reclaiming this village. The herdsmen who lived here have long since departed. Only the village well defies the desert and refuses to dry out. What a stroke of luck! You could take a break here."
+		"text": "Пески пустыни постепенно отвоевывают эту деревню. Пастухи, жившие здесь, давно ушли. Только деревенский колодец не поддался пустыне и отказался пересыхать. Какая удача! Здесь можно отдохнуть."
 	},
 	{
 		"id": "RE_GenericRuins01_D_Rest",
-		"text": "You spend a long break treating your wounds and greasing your weapons. Rested and in good spirits, you pack your things to leave the oasis."
+		"text": "Вы делаете долгий перерыв, обрабатывая раны и смазывая оружие. Отдохнувшие и в хорошем настроении, вы собираете свои вещи, чтобы покинуть оазис."
 	},
 	{
 		"id": "RE_GenericRuins01_E_Intro",
-		"text": "The village is ruined and long abandoned, but its well has not yet silted up. Some rest and refreshment might be good right now."
+		"text": "Деревня разрушена и давно заброшена, но ее колодец еще не обмелел. Сейчас не помешает отдохнуть и подкрепиться."
 	},
 	{
 		"id": "RE_GenericRuins01_E_Rest",
-		"text": "You use the break to care for your wounds. A simple meal completes your stay. Your strength restored, you continue your journey."
+		"text": "Вы используете перерыв для ухода за ранами. Простая еда дополняет ваш отдых. Восстановив силы, вы продолжаете свой путь."
 	},
 	{
 		"id": "LE_GenericOrientalCamp01_A_Intro",
@@ -2551,11 +2551,11 @@
 	},
 	{
 		"id": "CR_AngryMob01_Revisit",
-		"text": "Вы возвращаетесь в деревню, где остался [Char1]. Разъяренная толпа все еще стоит перед домом главы деревни:\n\n[char4]: \"Вы еще не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знал, что вы меня не бросите!\""
+		"text": "Вы возвращаетесь в деревню, где остался [Char1]. Разъяренная толпа все еще стоит перед домом старосты деревни:\n\n[char4]: \"Вы еще не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знал, что вы меня не бросите!\""
 	},
 	{
 		"id": "CR_AngryMob01_Revisit_female",
-		"text": "Вы возвращаетесь в деревню, где осталась [Char1]. Разъяренная толпа все еще стоит перед домом главы деревни:\n\n[char4]: \"Вы еще не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знала, что вы меня не бросите!\""
+		"text": "Вы возвращаетесь в деревню, где осталась [Char1]. Разъяренная толпа все еще стоит перед домом старосты деревни:\n\n[char4]: \"Вы еще не передумали?\" [CTP]\n\n[Char1] кивает вам:\n\n[char1]: \"Я знала, что вы меня не бросите!\""
 	},
 	{
 		"id": "SE_Adventure01Clue03_Intro",
@@ -2723,35 +2723,35 @@
 	},
 	{
 		"id": "RE_GenericRuins01_A_Revisit",
-		"text": "The abandoned village seems strangely familiar. When you see the old well at its center, you remember that you came through here before."
+		"text": "Заброшенная деревня кажется странно знакомой. Когда вы видите старый колодец в ее центре, вы вспоминаете, что уже проходили здесь раньше."
 	},
 	{
 		"id": "RE_GenericRuins01_B_Revisit",
-		"text": "You return to the deserted village with its watering post."
+		"text": "Вы возвращаетесь в заброшенную деревню с колодцем."
 	},
 	{
 		"id": "RE_GenericRuins01_C_Revisit",
-		"text": "The old well among the ruins still holds plenty of water."
+		"text": "В старом колодце среди руин до сих пор много воды."
 	},
 	{
 		"id": "RE_GenericRuins01_D_Revisit",
-		"text": "After a short search, you find the half-buried village with its old well behind some dunes."
+		"text": "После недолгих поисков вы находите за дюнами наполовину погребенную деревню со старым колодцем."
 	},
 	{
 		"id": "RE_GenericRuins01_E_Revisit",
-		"text": "As before, a ghostly silence hangs over the ruined village and its well."
+		"text": "Как и прежде, над разрушенной деревней и ее колодцем висит жуткая тишина."
 	},
 	{
 		"id": "LE_BooyTrap01_Intro",
-		"text": "You come upon an abandoned German military camp. Curiously, you search the camp – maybe the Germans left something valuable behind. You're in luck! You find a stack of Wehrmacht crates."
+		"text": "Вы наткнулись на заброшенный немецкий военный лагерь. Из любопытства вы обыскиваете лагерь - может быть, немцы оставили что-то ценное. Вам повезло! Вы находите целую кучу ящиков вермахта."
 	},
 	{
 		"id": "LE_BooyTrap01_Choice01",
-		"text": "Open the crates"
+		"text": "Открыть ящики"
 	},
 	{
 		"id": "LE_BooyTrap01_Choice02",
-		"text": "Inspect the crates"
+		"text": "Осмотреть ящики"
 	},
 	{
 		"id": "LE_BooyTrap01_Choice03",
@@ -2759,31 +2759,31 @@
 	},
 	{
 		"id": "LE_BooyTrap01_DetectW",
-		"text": "[char0] stops you just before you grab one of the crates. He points to an innocuous-looking wire, almost entirely concealed by the desert sand: The Germans have booby-trapped the crates! \n\n[char0] carefully disconnects the wire from the crate lid, then lifts it gently: He has deactivated the booby trap!"
+		"text": "[char0] останавливает вас как раз перед тем, как вы возьмете один из ящиков. Он указывает на безобидную на вид проволоку, почти полностью скрытую песком пустыни: немцы заминировали ящики! \n\n[char0] осторожно отсоединяет провод от крышки ящика, затем аккуратно приподнимает ее: он деактивировал мину-ловушку!"
 	},
 	{
 		"id": "LE_BooyTrap01_DetectW_female",
-		"text": "[char0] stops you just before you grab one of the crates. She points to an innocuous-looking wire, almost entirely concealed by the desert sand: The Germans have booby-trapped the crates! \n\n[char0] carefully disconnects the wire from the crate lid, then lifts it gently: She has deactivated the booby trap!"
+		"text": "[char0] останавливает вас как раз перед тем, как вы возьмете один из ящиков. Она указывает на безобидную на вид проволоку, почти полностью скрытую песком пустыни: немцы заминировали ящики! \n\n[char0] осторожно отсоединяет провод от крышки ящика, затем аккуратно приподнимает ее: она деактивировала мину-ловушку!"
 	},
 	{
 		"id": "LE_BooyTrap01_Explosion",
-		"text": "Enthusiastically, you tear off the lid of the first crate when you hear a soft, metallic click: You triggered a German booby trap! Immediately, you throw yourselves to the ground and put your arms out to shield your faces.\n\nAn instant later, the device explodes!"
+		"text": "С энтузиазмом вы отрываете крышку первого ящика, когда слышите тихий металлический щелчок: Вы привели в действие немецкую мину-ловушку! Вы тут же бросаетесь на землю и вытягиваете руки, чтобы закрыть лица.\n\nМгновение спустя устройство взрывается!"
 	},
 	{
 		"id": "LE_BooyTrap01_Loot",
-		"text": "Enthusiastically, you tear off the lid of the crate: The Germans really did leave some of their supplies behind! In the desert, \"finders keepers\" applies..."
+		"text": "С энтузиазмом вы отрываете крышку ящика: Немцы действительно оставили часть своих запасов! В пустыне действует принцип \"Кто нашёл, берёт себе\"..."
 	},
 	{
 		"id": "LE_BooyTrap01_Lucky",
-		"text": "You're in luck! The explosion sweeps over you but you escape unharmed as the main force of the blast is directed upwards. Older and wiser, but without any loot, you return to your car."
+		"text": "Вам повезло! Взрыв прошел над вами, но вы остались невредимы, так как основная сила взрыва была направлена вверх. Получив ценный опыт, но не добычу, вы возвращаетесь к своей машине."
 	},
 	{
 		"id": "LE_BooyTrap01_Unlucky",
-		"text": "You are fortunate, as the main force of the blast goes over your heads. Once you get past the initial shock, you look around. [char1] is rolling around in the sand, clutching his calf, which has been ripped open by shrapnel!"
+		"text": "Вам повезло, так как основная сила взрыва прошла над вашими головами. Когда вы оправитесь от первоначального шока, вы осматриваетесь. [char1] катается по песку, держась за икру, которую разорвало осколками!"
 	},
 	{
 		"id": "LE_BooyTrap01_Unlucky_female",
-		"text": "You are fortunate as the main force of the blast goes over your heads. Once you get past the initial shock, you look around. [char1] is rolling around in the sand, clutching her calf, which has been ripped open by shrapnel!"
+		"text": "Вам повезло, так как основная сила взрыва прошла над вашими головами. Когда вы оправитесь от первоначального шока, вы осматриваетесь. [char1] катается по песку, держась за икру, которую разорвало осколками!"
 	},
 	{
 		"id": "BE_SupplyTransport01_Intro",
@@ -4287,27 +4287,27 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral02",
-		"text": "The old mine was abandoned many years ago. \n\nYou rappel down the deep mineshaft and set out to explore it. You freeze at the sound of soft footsteps. A weird procession comes around the corner! \n\nThe cultists have also seen you and attack immediately!"
+		"text": "Старая шахта была заброшена много лет назад. \n\nВы спускаетесь в глубокую шахту и отправляетесь её исследовать. Вы замираете при звуке тихих шагов. Странная процессия появляется из-за угла! \n\nКультисты тоже заметили вас и немедленно атакуют!"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral03",
-		"text": "Work at this ancient copper mine must have ceased generations ago. \n\nIn search of a suitable resting place, you advance deeper into the mine. You startle a small group of cultists who apparently had the same plan!"
+		"text": "Работа на этом древнем медном руднике, должно быть, прекратилась много поколений назад. \n\nВ поисках подходящего места для отдыха, вы продвигаетесь вглубь шахты. Вы испугали небольшую группу культистов, у которых, очевидно, был тот же план!"
 	},
 	{
 		"id": "BE_GenericUndeadMineNeutral05",
-		"text": "Miners last labored in these tunnels many centuries ago. With your hearts in your throats, you begin your journey into the depths. \n\nWhat’s that? Voices echo in the corridors! Before you have a chance to hide, you are discovered by a group of Brotherhood cultists!"
+		"text": "Последний раз шахтеры трудились в этих туннелях много веков назад. С замиранием сердца вы начинаете спуск в глубины. \n\nЧто это? Голоса отдаются эхом в коридорах! Прежде чем вы успеете спрятаться, вас обнаружит группа культистов Братства!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage02",
-		"text": "The footprints in front of the old mineshaft are fresh – you are not alone here! \n\nYou scurry forward from cover to cover until you come across a group of Brotherhood cultists. They are squatting on the stone floor in some kind of trance. You could still withdraw unnoticed..."
+		"text": "Следы перед старой шахтой свежие - вы здесь не одни! \n\nВы перебегаете от укрытия к укрытию, пока не натыкаетесь на группу культистов Братства. Сидя на корточках на каменном полу, они находятся в каком-то трансе. Вы можете уйти незамеченными..."
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage04",
-		"text": "The flickering on the wall indicates that you are not alone in the mine! \n\nYou peer carefully around the corner: You see a group of cultists crouching in a circle around several torches!"
+		"text": "Мерцание на стене указывает на то, что в шахте вы не одни! \n\nВы осторожно заглядываете за угол: группа культистов сидят вокруг нескольких факелов!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage05",
-		"text": "The old mine seems deserted – but as you advance deeper into the depths, you soon realize that you are not alone here! \n\nMurmuring voices lead you to a large group of cultists who seem immersed in some kind of unholy communion!"
+		"text": "Старая шахта кажется заброшенной - но по мере продвижения вглубь вы вскоре понимаете, что вы здесь не одни! \n\nБормочущие голоса приводят вас к большой группе культистов, которые, похоже, погружены в какое-то нечестивое единение!"
 	},
 	{
 		"id": "BE_GenericUndeadMineAdvantage01_Choice01",
@@ -4359,15 +4359,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage02",
-		"text": "The dilapidated old mine leads deep into the mountain. You spin around: Was that voices behind you? \n\nWhile you're still wondering, dark forms emerge from the shadows around you – you have been ambushed by the Brotherhood..."
+		"text": "Старая полуразрушенная шахта ведет глубоко в гору. Вы крутитесь на месте: это были голоса позади вас? \n\nПока вы размышляете, из тени перед вами появляются темные фигуры - вы попали в засаду Братства..."
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage03",
-		"text": "Your exploration of the old mine ends in disappointment: You find nothing of interest. \n\nAt a slight sound, you spin round in alarm – a group of cultists have snuck up on you from behind! It’s an ambush!"
+		"text": "Ваше исследование старой шахты заканчивается разочарованием: Вы не находите ничего интересного. \n\nУслышав слабый шорох, вы в тревоге оборачиваетесь - группа культистов подкралась к вам сзади! Это засада!"
 	},
 	{
 		"id": "BE_GenericUndeadMineDisadvantage06",
-		"text": "You explore the main tunnel of the old mine and decide there is nothing of interest here. \n\nOr is there? \n\nYou realize your mistake when you hear the sneering laughter: A group of cultists have surrounded you!"
+		"text": "Вы исследуете главный тоннель старой шахты и решаете, что здесь нет ничего интересного. \n\nИли все-таки есть? \n\nВы понимаете свою ошибку, когда слышите ехидный смех: Группа культистов окружила вас!"
 	},
 	{
 		"id": "BE_GenericUndeadGraveyardNeutral02",
@@ -4783,7 +4783,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Intro",
-		"text": "The Brotherhood has seized control of the old, abandoned mine – they appear to be preparing an unholy ritual here! [CTP]\n\nHelpless, you cower in the shadows as the cultists’ chanting grows louder. They have gathered around a clay idol and are repeatedly prostrating themselves in the dust before the idol."
+		"text": "Братство захватило контроль над старой заброшенной шахтой - похоже, они готовят здесь какой-то нечестивый ритуал! [CTP]\n\nВ беспомощности вы прячетесь в тени, когда песнопения культистов становятся все громче. Они собрались вокруг глиняного идола и многократно кланяются перед ним до самого песка."
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice01",
@@ -4791,11 +4791,11 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice02",
-		"text": "Wait for the ritual to end"
+		"text": "Дождаться окончания ритуала"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice03",
-		"text": "Smash the idol"
+		"text": "Разбить идола"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice04",
@@ -4803,11 +4803,11 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_WaitNoFight",
-		"text": "The cultists whip themselves into a frenzy before finally sinking to the floor, exhausted. Nothing else happens. [CTP]\n\nIn front of the statue surrounded by the unconscious cultists, a collection of objects catches your eye."
+		"text": "Культисты бьются в исступлении, а затем в изнеможении опускаются на пол. Больше ничего не происходит. [CTP]\n\nПеред статуей, окруженной бессознательными культистами, в глаза бросается куча разных предметов."
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice05",
-		"text": "Steal objects"
+		"text": "Украсть их"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Choice06",
@@ -4815,7 +4815,7 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_WaitAFight",
-		"text": "The guttural chanting of the cultists transforms into an awful howling. Eventually, nightmarish beings appear out of thin air right before your eyes. \n\nSuddenly, you hear a scream – you have been discovered!"
+		"text": "Гортанное пение культистов превращается в ужасный вой. В конце концов, прямо на ваших глазах из воздуха появляются кошмарные существа. \n\nВдруг вы слышите крик - вас обнаружили!"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Occult",
@@ -4827,19 +4827,19 @@
 	},
 	{
 		"id": "BE_ClayIdolMine01_OccultW",
-		"text": "With these words, [char0] lunges at the clay statue and shatters it with a few deliberate blows of his rifle butt. \n\nThe cultists instantly throw themselves to the ground in pain, thrashing around as if possessed! [CTP]\n\nA few moments later, they are lying lifeless on the ground. In front of the statue surrounded by the cultists, a collection of objects catches your eye..."
+		"text": "С этими словами [char0] бросается на глиняную статую и разбивает ее несколькими целенаправленными ударами приклада. \n\nКультисты мгновенно бросаются на землю, корчась от боли, словно обезумевшие! [CTP]\n\nЧерез несколько мгновений они оказываются безжизненно лежащими на земле. Перед статуей, окруженной культистами, бросается в глаза груда предметов..."
 	},
 	{
 		"id": "BE_ClayIdolMine01_OccultW_female",
-		"text": "With these words, [char0] lunges at the clay statue and shatters it with a few deliberate blows of her rifle butt. \n\nThe cultists instantly throw themselves to the ground in pain, thrashing around as if possessed! [CTP]\n\nA few moments later, they are lying lifeless on the ground. In front of the statue surrounded by the cultists, a collection of objects catches your eye..."
+		"text": "С этими словами [char0] бросается на глиняную статую и разбивает ее несколькими целенаправленными ударами приклада. \n\nКультисты мгновенно бросаются на землю, корчась от боли, словно обезумевшие! [CTP]\n\nЧерез несколько мгновений они оказываются безжизненно лежащими на земле. Перед статуей, окруженной культистами, бросается в глаза груда предметов..."
 	},
 	{
 		"id": "BE_ClayIdolMine01_OccultF",
-		"text": "With these words, [char0] rushes towards the statue, but stumbles and falls sprawled out on the stone floor! \n\nThe dumbfounded cultists stop for a moment, but then seize their weapons in rage!"
+		"text": "С этими словами [char0] бросается к статуе, но спотыкается и падает на каменный пол! \n\nОшеломленные культисты на мгновение замирают, но затем в ярости хватаются за оружие!"
 	},
 	{
 		"id": "BE_ClayIdolMine01_OccultF_female",
-		"text": "With these words, [char0] rushes towards the statue, but stumbles and falls sprawled out on the stone floor! \n\nThe dumbfounded cultists stop for a moment, but then seize their weapons in rage!"
+		"text": "С этими словами [char0] бросается к статуе, но спотыкается и падает на каменный пол! \n\nОшеломленные культисты на мгновение замирают, но затем в ярости хватаются за оружие!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Intro",
@@ -6567,31 +6567,31 @@
 	},
 	{
 		"id": "BE_VillageBloodbath01_Intro",
-		"text": "At first glance, the village seems deserted, but you soon discover the reason for the ghostly silence that blankets this place: An unknown enemy has brutally slaughtered the villagers! Their mutilated remains lie scattered in the blood-soaked sand. [CTP]\n\nYou are shaken by the sheer brutality of the massacre – who or what could have caused such a bloodbath?"
+		"text": "На первый взгляд, деревня кажется пустынной, но вскоре вы узнаете причину царящей здесь тишины: неизвестный враг жестоко расправился с жителями деревни! Их изуродованные тела лежат на пропитанном кровью песке. [CTP]\n\nВы потрясены жестокостью расправы - кто или что могло устроить такую кровавую бойню?"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Choice01",
-		"text": "Look around the immediate vicinity"
+		"text": "Осмотреть окрестности"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Choice02",
-		"text": "Search the whole village"
+		"text": "Обыскать всю деревню"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Choice03",
-		"text": "Continue your journey immediately"
+		"text": "Немедленно продолжить путешествие"
 	},
 	{
 		"id": "BE_VillageBloodbath01_CautiousW",
-		"text": "You cautiously inspect some of the bodies and peer into the nearby huts, but you do not find any survivors. \n\nIn one of the larger huts, you find some valuables carelessly scattered around. Perplexed and troubled, you leave this place of horror."
+		"text": "Вы с опаской осматриваете некоторые тела и заглядываете в соседние хижины, но не находите выживших. \n\nВ одной из больших хижин вы находите несколько ценностей, небрежно разбросанных вокруг. В ужасе и недоумении вы покидаете это ужасное место."
 	},
 	{
 		"id": "BE_VillageBloodbath01_CautiousF",
-		"text": "You cautiously inspect some of the bodies and peer into the nearby huts, but you do not find any survivors. \n\nYou stop at the sound of a deep growl – you are surrounded by an implacable foe!"
+		"text": "Вы с опаской осматриваете некоторые тела и заглядываете в соседние хижины, но не находите выживших. \n\nВы останавливаетесь при звуке глубокого рычания - вас окружил непримиримый враг!"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Systematic",
-		"text": "You search the village hut by hut, but you don’t find a single survivor. \n\nWhen you reach the village square, you startle a group of grotesque creatures crouched over some of the corpses – you have found the monsters that slaughtered the villagers!"
+		"text": "Вы обыскиваете деревню хижину за хижиной, но не находите ни одного выжившего. \n\nКогда вы достигаете деревенской площади, вы пугаете группу ужасных существ, склонившихся над трупами - вы нашли монстров, которые убили жителей деревни!"
 	},
 	{
 		"id": "BE_TreasureCamp01_Title",
@@ -6599,7 +6599,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Intro",
-		"text": "You manage to sneak up on the huge cultist camp unnoticed. There is a lot of activity behind its rough palisades. [CTP]\n\nYou discover a gap in the fence that is filled by a colorful tent – with a bit of luck, you could use it to sneak into the camp unseen.."
+		"text": "Вам удалось незаметно подкрасться к огромному лагерю культистов. За его грубым забором кипит бурная деятельность. [CTP]\n\nВы находите брешь в заборе за разноцветной палаткой - если повезет, вы сможете использовать ее, чтобы незаметно пробраться в лагерь."
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice01",
@@ -6607,7 +6607,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice02",
-		"text": "Try to slip into the tent"
+		"text": "Попытаться проскользнуть в палатку"
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice03",
@@ -6615,7 +6615,7 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_SneakIntoCamp",
-		"text": "You reach the tent unseen. You carefully cut the tent open with your knives. \n\nFortunately, the tent is unoccupied. As you peek carefully out of the tent entrance, you see several things: [CTP]\n\nThe cultists are busy setting up an altar and have their backs to you – in a tent a few steps away, you notice a chest full of strange objects..."
+		"text": "Вы незаметно подходите к палатке. Вы осторожно вскрываете палатку ножом. \n\nК счастью, в палатке никого нет. Когда вы осторожно выглядываете из входа в палатку, вы видите несколько вещей: [CTP]\n\nКультисты заняты установкой алтаря и стоят к вам спиной - в палатке в нескольких шагах от них вы замечаете сундук, полный странных предметов..."
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice04",
@@ -6623,11 +6623,11 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice05",
-		"text": "Sneak up to chest"
+		"text": "Подкрасться к сундуку"
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice06",
-		"text": "Open fire on cultists"
+		"text": "Открыть огонь по культистам"
 	},
 	{
 		"id": "BE_TreasureCamp01_Choice07",
@@ -6635,27 +6635,27 @@
 	},
 	{
 		"id": "BE_TreasureCamp01_SneakW",
-		"text": "You wait for the right moment and then sneak up to the tent with the chest as inconspicuously as possible. \n\nYou are lucky: nobody notices you! The cultists’ belongings are now in front of you!"
+		"text": "Вы ждете подходящего момента, а затем как можно незаметнее подкрадываетесь к палатке с сундуком. \n\nВам повезло: вас никто не замечает! Вещи культистов теперь перед вами!"
 	},
 	{
 		"id": "BE_TreasureCamp01_SneakF",
-		"text": "You carefully peek out of your tent – this seems like your chance! \n\nBut you have barely taken a few steps when an angry scream breaks the silence: You have been discovered!"
+		"text": "Вы осторожно выглядываете из палатки - похоже, это ваш шанс! \n\nНо едва вы сделали несколько шагов, как тишину нарушает гневный крик: вас обнаружили!"
 	},
 	{
 		"id": "BE_TreasureCamp01_StealthW",
-		"text": "[char0] dashes from cover to cover unnoticed until he finally reaches the tent with the chest. \n\nA short time later, he returns fully laden with the spoils of his daring exploit! You leave the camp and the unsuspecting cultists behind you."
+		"text": "[char0] перебегает от укрытия к укрытию незамеченным, пока, наконец, не достигает палатки с сундуком. \n\nСпустя некоторое время он возвращается с добычей за свой смелый подвиг! Вы оставляете лагерь и ничего не подозревающих культистов позади себя."
 	},
 	{
 		"id": "BE_TreasureCamp01_StealthW_female",
-		"text": "[char0] dashes from cover to cover unnoticed until she finally reaches the tent with the chest. \n\nA short time later, she returns fully laden with the spoils of her daring exploit! You leave the camp and the unsuspecting cultists behind you."
+		"text": "[char0] перебегает от укрытия к укрытию незамеченной, пока, наконец, не достигает палатки с сундуком. \n\nСпустя некоторое время она возвращается с добычей за свой смелый подвиг! Вы оставляете лагерь и ничего не подозревающих культистов позади себя."
 	},
 	{
 		"id": "BE_TreasureCamp01_StealthF",
-		"text": "[char0] sneaks from cover to cover. Slowly but surely, he approaches his target, when a sudden shout breaks the silence: [char0] has been discovered!"
+		"text": "[char0] крадется от укрытия к укрытию. Медленно, но верно он приближается к своей цели, когда внезапный крик нарушает тишину: [char0] обнаружен!"
 	},
 	{
 		"id": "BE_TreasureCamp01_StealthF_female",
-		"text": "[char0] sneaks from cover to cover. Slowly but surely, she approaches her target, when a sudden shout breaks the silence: [char0] has been discovered!"
+		"text": "[char0] крадется от укрытия к укрытию. Медленно, но верно она приближается к своей цели, когда внезапный крик нарушает тишину: [char0] обнаружена!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Title",
@@ -8439,11 +8439,11 @@
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar",
-		"text": "You release the prisoner from his bonds and he shakes your hands effusively. \n\n[char1]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char1]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленника, и он с восторгом пожимает вам руки. \n\n[char1]: \"Спасибо вам от всего сердца! Без вас все пошло бы совсем плохо!\" [CTP] \n\n[char1]: \"Эй, похоже, вам не помешает помощь... Но, полагаю, у вас нет места для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar_female",
-		"text": "You release the prisoner from her bonds and she shakes your hands effusively. \n\n[char1]: \"Thank you from the bottom of my heart! Things would have gone badly without you!\" [CTP] \n\n[char1]: \"Hey – you look like you could do with some help... I don’t suppose you have room for another passenger?\""
+		"text": "Вы освобождаете пленницу, и она с восторгом пожимает вам руки. \n\n[char1]: \"Спасибо вам от всего сердца! Без вас все пошло бы совсем плохо!\" [CTP] \n\n[char1]: \"Эй, похоже, вам не помешает помощь... Но, полагаю, у вас нет места для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_Fenrir01_Intro_female",
@@ -9203,7 +9203,7 @@
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Choice02",
-		"text": "Sit down"
+		"text": "Присесть"
 	},
 	{
 		"id": "SE_Adventure01Clue03_Choice03",
@@ -9255,7 +9255,7 @@
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice04",
-		"text": "Greet the men"
+		"text": "Поприветствовать мужчин"
 	},
 	{
 		"id": "AE_CarFailure01_Choice01",
@@ -10891,19 +10891,19 @@
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Intro_B",
-		"text": "A group of tax collectors have pitched camp by a small, brackish waterhole."
+		"text": "Группа сборщиков налогов разбила лагерь у небольшого солоноватого водопоя."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Gestures_B",
-		"text": "You exchange polite nods. You soon continue on your journey."
+		"text": "Вы обмениваетесь вежливыми кивками. Вскоре вы продолжаете свой путь."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW_B",
-		"text": "The men exchange furtive glances and persuade [char0] to join them in a harmless game of dice – he then enjoys a completely unexpected streak of luck..."
+		"text": "Мужчины обмениваются коварными взглядами и уговаривают [char0] присоединяется к безобидной игре в кости - и тут ему совершенно неожиданно везет..."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW_B_female",
-		"text": "The men exchange furtive glances and persuade [char0] to join them in a harmless game of dice – she then enjoys a completely unexpected streak of luck..."
+		"text": "Мужчины обмениваются коварными взглядами и уговаривают [char0] присоединяется к безобидной игре в кости - и тут ей совершенно неожиданно везет..."
 	},
 	{
 		"id": "CR_AngryMob01_Choice02_B",
@@ -11531,23 +11531,23 @@
 	},
 	{
 		"id": "BE_VillageBloodbath01_ChoiceMedic_B",
-		"text": "Look for survivors"
+		"text": "Искать выживших"
 	},
 	{
 		"id": "BE_VillageBloodbath01_ChoiceStealth_B",
-		"text": "Creep into the houses"
+		"text": "Проникнуть в дома"
 	},
 	{
 		"id": "BE_VillageBloodbath01_Survivor_B",
-		"text": "In one of the huts, you find a wounded young man. You quickly attend to his wounds and staunch the bleeding. \n\n[char2]: \"Those monsters! They attacked us! We didn’t stand a chance...\"\n\nYou learn that the man has relatives nearby and decide to take him there."
+		"text": "В одной из хижин вы находите раненого юношу. Вы быстро обработаете его раны и остановите кровотечение. \n\n[char2]: \"Эти монстры! Они напали на нас! У нас не было ни единого шанса...\"\n\nВы узнаете, что у этого мальчика есть родственники поблизости, и решаете отвезти его туда."
 	},
 	{
 		"id": "BE_VillageBloodbath01_FamilyRest_B",
-		"text": "The boy’s family is overjoyed! \n\nThey invite you to stay with them and rest for a while."
+		"text": "Семья мальчика вне себя от радости! \n\nОни приглашают вас остаться у них и немного отдохнуть."
 	},
 	{
 		"id": "BE_VillageBloodbath01_FuelBye_B",
-		"text": "When you are ready to leave, the farmer wordlessly hands you an old, half-full gas canister. \n\nYou thank him and set off again in good spirits."
+		"text": "Когда вы собираетесь уезжать, фермер молча протягивает вам старую, наполовину заполненную канистру. \n\nВы благодарите его и снова отправляетесь в путь с приподнятым настроением."
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice_Stealth_B",
