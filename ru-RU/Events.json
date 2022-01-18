@@ -2787,15 +2787,15 @@
 	},
 	{
 		"id": "BE_SupplyTransport01_Intro",
-		"text": "As you drive around the next dune, you meet a fully loaded Wehrmacht truck coming the other way. The truck makes a tight U-turn in a frantic attempt to escape!"
+		"text": "Объезжая следующую дюну, вы сталкиваетесь с грузовиком вермахта, который едет в противоположную сторону. Грузовик совершает крутой разворот в отчаянной попытке спастись!"
 	},
 	{
 		"id": "BE_SupplyTransport01_Choice01",
-		"text": "Follow enemy vehicle"
+		"text": "Преследовать вражеский транспорт"
 	},
 	{
 		"id": "BE_SupplyTransport01_Choice02",
-		"text": "Take up the chase"
+		"text": "Устроить погоню"
 	},
 	{
 		"id": "BE_SupplyTransport01_Choice03",
@@ -2803,59 +2803,59 @@
 	},
 	{
 		"id": "BE_SupplyTransport01_ChaseW",
-		"text": "You gun the engine and take up the pursuit. After a frantic chase you finally catch up with the Germans at some ruins! The soldiers hastily take cover as you move in to attack."
+		"text": "Вы запускаете двигатель и бросаетесь в погоню. После бешеной погони вы, наконец, настигаете немцев у каких-то развалин! Солдаты поспешно занимают укрытия, пока вы движетесь в атаку.."
 	},
 	{
 		"id": "BE_SupplyTransport01_ChaseF",
-		"text": "You take up the pursuit, but after a short while you realize there is no way you will catch up with the enemy truck. The Germans disappear in a cloud of dust. You continue your journey, but as a precaution you choose a side track to avoid any reinforcements that might be coming your way."
+		"text": "Вы бросаетесь в погоню, но через некоторое время понимаете, что вам ни за что не догнать вражеский грузовик. Немцы исчезают в облаке пыли. Вы продолжаете свой путь, но из предосторожности выбираете объездную дорогу, чтобы избежать подкреплений, которые могут появиться на вашем пути."
 	},
 	{
 		"id": "BE_SupplyTransport01_Daredevil",
-		"text": "You put your foot down and race after the escaping soldiers. You continue to close the distance until you are finally neck to neck with the Germans! \n\nWithout a second thought, [char0] leaps from your speeding jeep into the enemy vehicle, grabbing the driver’s wheel!"
+		"text": "Вы жмете на газ и мчитесь за удирающими солдатами. Вы продолжаете сокращать расстояние, пока наконец не оказываетесь один на один с немцами! \n\nНе раздумывая ни секунды, [char0] прыгает с вашего джипа на вражеский автомобиль, хватаясь за руль!"
 	},
 	{
 		"id": "BE_SupplyTransport01_Daredevil_female",
-		"text": "You put your foot down and race after the escaping soldiers. You continue to close the distance until you are finally neck to neck with the Germans!\n\nWithout a second thought, [char0] leaps from your speeding jeep into the enemy vehicle, grabbing the driver’s wheel!"
+		"text": "Вы жмете на газ и мчитесь за удирающими солдатами. Вы продолжаете сокращать расстояние, пока наконец не оказываетесь один на один с немцами! \n\nНе раздумывая ни секунды, [char0] прыгает с вашего джипа на вражеский автомобиль, хватаясь за руль!"
 	},
 	{
 		"id": "BE_SupplyTransport01_DaredevilW",
-		"text": "After a short but desperate struggle, the Wehrmacht truck trundles to a stop. The Germans jump out and take cover in some ruins!"
+		"text": "После короткой, но отчаянной борьбы грузовик вермахта останавливается. Немцы выпрыгивают и укрываются в развалинах!"
 	},
 	{
 		"id": "BE_SupplyTransport01_DaredevilF",
-		"text": "A desperate struggle ensues, and a few moments later [char0] is thrown head-first into the desert sands! \n\nYou hit the brakes to check on [char0]! [CTP]\n\nAs the Germans escape, you see [char0] stagger to his feet. Bruised and battered but otherwise unharmed, he limps over to you with a rueful grin: \n\n[char0]: \"Probably not one of my better ideas...\""
+		"text": "Завязывается отчаянная борьба, и через несколько мгновений [char0] падает головой в пустынный песок! \n\nВы нажимаете на тормоза, чтобы проверить, как там [char0]! [CTP]\n\nКогда немцы скрываются, вы видите как [char0], шатаясь, поднялся на ноги. Помятый и побитый, но в остальном невредимый, он хромает к вам с горькой усмешкой: \n\n[char0]: \"Возможно, это не самая лучшая моя идея....\""
 	},
 	{
 		"id": "BE_SupplyTransport01_DaredevilF_female",
-		"text": "A desperate struggle ensues, and a few moments later [char0] is thrown head-first into the desert sands! \n\nYou hit the brakes to check on [char0]! [CTP]\n\nAs the Germans escape, you see [char0] stagger to her feet. Bruised and battered but otherwise unharmed, she limps over to you with a rueful grin: \n\n[char0]: \"Probably not one of my better ideas...\""
+		"text": "Завязывается отчаянная борьба, и через несколько мгновений [char0] падает головой в пустынный песок! \n\nВы нажимаете на тормоза, чтобы проверить, как там [char0]! [CTP]\n\nКогда немцы скрываются, вы видите как [char0], шатаясь, поднялась на ноги. Помятая и побитая, но в остальном невредимая, она хромает к вам с горькой усмешкой: \n\n[char0]: \"Возможно, это не самая лучшая моя идея....\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Intro",
-		"text": "The village looks run-down and deserted. You see a small plume of smoke rising from the courtyard of a caravansary. \n\nYou decide to investigate – and run straight into a unit of German soldiers who have set up camp here!"
+		"text": "Деревня выглядит запущенной и заброшенной. Вы видите небольшой шлейф дыма, поднимающийся из двора караван-сарая. \n\nВы решаете все разузнать - и натыкаетесь на отряд немецких солдат, которые разбили здесь лагерь!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPC",
-		"text": "For a moment, you stare at each other dumbfounded, when [char0] suddenly takes a step forward: \n\n[char0]: \"I’m glad I’ve found you here! Lieutenant Müller of the Casablanca office, reporting a covert prisoner transport!\" [CTP]\n\nA weather-beaten sergeant rises behind his field table and looks [char0] up and down suspiciously: \n\n[char1]: \"Lieutenant Müller, hmm...?\""
+		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рад, что нашел вас здесь! Лейтенант Мюллер из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на него: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPC_female",
-		"text": "For a moment, you stare at each other dumbfounded, when [char0] suddenly takes a step forward: \n\n[char0]: \"I’m glad I’ve found you here! Lieutenant Müller of the Casablanca office, reporting a covert prisoner transport!\" [CTP]\n\nA weather-beaten sergeant rises from behind his field table and looks [char0] up and down suspiciously: \n\n[char1]: \"Lieutenant Müller, hmm...?\""
+		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рада, что нашла вас здесь! Лейтенант Мюллер из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на нее: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCW",
-		"text": "[char0]: \"Stand to attention when you address a German officer!\"\n\nThe soldiers jump to attention in alarm. [char0] clears his throat vigorously: [CTP]\n\n[char0]: \"As I was saying: I’m glad I’ve found you. Tell me, how well supplied with fuel is your unit?\"\n\nThe sergeant struggles for words as [char0] slaps him jovially on the shoulder:\n\n[char0]: \"Splendid! I will have high praise indeed for you in my report!\""
+		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже говорил: Я рад, что нашел вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCW_female",
-		"text": "[char0]: \"Stand to attention when you address a German officer!\"\n\nThe soldiers jump to attention in alarm. [char0] clears her throat vigorously: [CTP]\n\n[char0]: \"As I was saying: I’m glad I’ve found you. Tell me, how well supplied with fuel is your unit?\"\n\nThe sergeant struggles for words as [char0] slaps him jovially on the shoulder:\n\n[char0]: \"Splendid! I will have high praise indeed for you in my report!\""
+		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже говорила: я рада, что нашла вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCF",
-		"text": "[char1]: \"Papers please!\"\n\n[char0] looks around nervously, then shrugs in resignation. The next instant, he flips over the Germans’ field table! \n\nYou take advantage of the sudden confusion to take cover while the startled soldiers rush about!"
+		"text": "[char1]: \"Документы, пожалуйста!\"\n\n[char0] нервно оглядывается по сторонам, затем пожимает плечами в знак покорности. В следующее мгновение он переворачивает полевой стол немцев! \n\nВы пользуетесь внезапным замешательством, чтобы укрыться, пока испуганные солдаты суетятся вокруг!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCF_female",
-		"text": "[char1]: \"Papers please!\"\n\n[char0] looks around nervously, then shrugs in resignation. The next instant, she flips over the Germans’ field table! \n\nYou take advantage of the sudden confusion to take cover while the startled soldiers rush about!"
+		"text": "[char1]: \"Документы, пожалуйста!\"\n\n[char0] нервно оглядывается по сторонам, затем пожимает плечами в знак покорности. В следующее мгновение она переворачивает полевой стол немцев! \n\nВы пользуетесь внезапным замешательством, чтобы укрыться, пока испуганные солдаты суетятся вокруг!"
 	},
 	{
 		"id": "LE_CobraCache01_Intro",
@@ -3419,11 +3419,11 @@
 	},
 	{
 		"id": "BE_CreepyHut01_Intro",
-		"text": "You find a windblown hut among a few ancient, barely recognizable graves. \n\nAs you approach, you feel the hair on your hackles rising: large puddles of blood have congealed in the sand around the hut, turning it a reddish brown! You see bones and skull fragments, as well as scraps of cloth that might come from German uniforms. [CTP] \n\nA rotten wooden door squeaks on its hinges – probably just from a gust of wind but to your ears it sounds like a warning..."
+		"text": "Вы находите продуваемую ветром хижину среди древних, едва различимых могил. \n\nПо мере приближения вы чувствуете, как у вас встают дыбом волосы: большие лужи крови застыли на песке вокруг хижины, окрасив его в красновато-коричневый цвет! Вы видите кости и фрагменты черепов, а также обрывки ткани, которые могли бы быть частью немецкой униформы. [CTP] \n\nПрогнившая деревянная дверь скрипит на петлях - возможно, просто от порыва ветра, но для ваших ушей это звучит как предупреждение..."
 	},
 	{
-		"id": "BE_CreepyHut01_Choice01",
-		"text": "Search hut"
+		"id": "BE_CreepyHutCreepyHut01_Choice01",
+		"text": "Осмотреть хижину"
 	},
 	{
 		"id": "BE_CreepyHut01_Choice02",
@@ -3431,7 +3431,7 @@
 	},
 	{
 		"id": "BE_CreepyHut01_Loot",
-		"text": "You enter and search the hut. Under some faded rags, you find a small bundle. You wonder who must have hidden it there!"
+		"text": "Вы входите и осматриваете хижину. Под несколькими выцветшими тряпками вы находите небольшой сверток. Интересно, кто его там спрятал?"
 	},
 	{
 		"id": "BE_AlienMonolith01_Intro",
@@ -3543,35 +3543,35 @@
 	},
 	{
 		"id": "LE_BurningJeep01_Intro",
-		"text": "As you leave the rocky foothills behind, you notice a cloud of dust approaching rapidly on your right: On a parallel sandy track, you see a fully laden Wehrmacht jeep! [CTP]\n\nIts driver has spotted you and is trying to get away! After several minutes of hot pursuit, it looks like the enemy jeep is going to get away. Then the driver fails to see a small boulder at the edge of the track: The vehicle flips and rolls off to the side! [CTP] \n\nAs you get out of your own vehicle, you see the driver hanging lifelessly in the windshield. Small flames flicker out from under the hood - a small plume of smoke rises into the air. You notice the jeep’s cargo: It is loaded with gasoline canisters!"
+		"text": "Когда вы оставляете позади скалистые предгорья, вы замечаете облако дорожной пыли, быстро приближающееся справа от вас: на параллельной песчаной дорожке вы видите полностью нагруженный джип вермахта! [CTP]\n\nЕго водитель заметил вас и пытается скрыться! После нескольких минут жаркой погони кажется, что вражескому джипу удастся оторваться. Но тут его водитель не замечает небольшой валун на краю трассы: автомобиль переворачивается и скатывается в сторону! [CTP] \n\nВыйдя из своего автомобиля, вы видите, что водитель безжизненно висит на лобовом стекле. Из-под капота мерцают небольшие языки пламени - в воздух поднимается шлейф дыма. Вы обращаете внимание на груз джипа: он заполнен канистрами с бензином!"
 	},
 	{
 		"id": "LE_BurningJeep01_Choice01",
-		"text": "Loot gasoline"
+		"text": "Забрать канистры"
 	},
 	{
 		"id": "LE_BurningJeep01_Choice02",
-		"text": "Take cover"
+		"text": "В укрытие"
 	},
 	{
 		"id": "LE_BurningJeep01_Win",
-		"text": "With desperate courage, you spring towards the burning car. The driver is beyond help, but you frantically release the guy line and grab a few jerrycans before the fire spreads to them! [CTP]\n\nYou sprint to safety as fast as your legs will carry you - just as you reach your vehicle, a huge explosion destroys the Wehrmacht jeep!"
+		"text": "С отчаянной храбростью вы бросаетесь к горящей машине. Водителю уже не помочь, но вы судорожно отцепляете трос и хватаете несколько канистр, пока огонь не перекинулся на них! [CTP]\n\nВы бежите в безопасное место так быстро, как только позволяют ноги - как только вы достигаете своего автомобиля, мощный взрыв уничтожает джип вермахта!"
 	},
 	{
 		"id": "LE_BurningJeep01_Fail",
-		"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! \n\nThe force of the explosion throws you to the ground! You count your blessings, since you escape with scorched hair and a few minor burns."
+		"text": "С отчаянной храбростью вы бросаетесь к горящей машине, но вы опоздали: мощный взрыв разносит джип вермахта! \n\nВзрывная волна повалила вас на землю! Вам повезло, так как вы отделались опаленными волосами и небольшими ожогами."
 	},
 	{
 		"id": "LE_BurningJeep01_CriticalFail",
-		"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! [CTP] \n\nThe force of the explosion throws you to the ground! You look up to see [char0] engulfed in flames and rolling in the sand! You frantically pile desert sand over his burning, petrol-soaked clothing – but [char0] has suffered severe burns, which you are barely capable of treating properly..."
+		"text": "С отчаянной храбростью вы бросаетесь к горящей машине, но вы опоздали: мощный взрыв разносит джип вермахта! [CTP] \n\nВзрывная волна повалила вас на землю! Вы поднимаете голову и видите, что [char0] охвачен пламенем и катается по песку! Вы судорожно насыпаете пустынный песок на его горящую, пропитанную бензином одежду, но [char0] получил сильные ожоги, которые вам едва удается обработать должным образом..."
 	},
 	{
 		"id": "LE_BurningJeep01_CriticalFail_female",
-		"text": "With desperate courage, you rush towards the burning vehicle, but you are too late: a huge explosion tears through the Wehrmacht jeep! [CTP] \n\nThe force of the explosion throws you to the ground! You look up to see [char0] engulfed in flames and rolling in the sand! You frantically pile desert sand over her burning, petrol-soaked clothing – but [char0] has suffered severe burns, which you are barely capable of treating properly..."
+		"text": "С отчаянной храбростью вы бросаетесь к горящей машине, но вы опоздали: мощный взрыв разносит джип вермахта! [CTP] \n\nВзрывная волна повалила вас на землю! Вы поднимаете голову и видите, что [char0] охвачена пламенем и катается по песку! Вы судорожно насыпаете пустынный песок на ее горящую, пропитанную бензином одежду, но [char0] получила сильные ожоги, которые вам едва удается обработать должным образом..."
 	},
 	{
 		"id": "LE_BurningJeep01_Cover",
-		"text": "You quickly throw yourselves to the ground – not a second too soon – moments later, a huge explosion tears through the Wehrmacht jeep! \n\nThanks to your prudence you are able to continue your journey unscathed."
+		"text": "Вы быстро бросаетесь на землю - не медля ни секунды - мгновение спустя мощный взрыв разносит джип вермахта! \n\nБлагодаря вашему благоразумию вы смогли продолжить свой путь невредимыми."
 	},
 	{
 		"id": "GE_ForbiddenFruit01_Intro",
@@ -3815,11 +3815,11 @@
 	},
 	{
 		"id": "LE_TempleGusher01_Intro",
-		"text": "A strange column of steam rises from the rocks ahead of you. As you approach, you see that it comes from a pool of water among the rocks. A lifeless German soldier lies at the edge of the pool. [CTP]\n\nBeyond the clouds of steam, you see the outline of a temple entrance that seems to lead deeper into the rocks. The only way to get to it is directly through the steaming pool of water. \n\nIt is a choice that appears to have brought little fortune to the dead man..."
+		"text": "Из скал впереди вас поднимается странный столб пара. Когда вы приближаетесь, вы видите, что он исходит из бассейна с водой среди скал. На краю бассейна лежит безжизненный немецкий солдат. [CTP]\n\nЗа облаками пара вы видите очертания входа в храм, который, кажется, ведет еще глубже в скалы. Единственный способ добраться до него - прямо через дымящийся бассейн с водой. \n\nЭтот способ, похоже, стал роковым для покойника..."
 	},
 	{
 		"id": "LE_TempleGusher01_Choice01",
-		"text": "Wade through the water"
+		"text": "Пробираться по воде"
 	},
 	{
 		"id": "LE_TempleGusher01_Choice02",
@@ -3827,51 +3827,51 @@
 	},
 	{
 		"id": "LE_TempleGusher01_Wading",
-		"text": "The water is pleasantly warm. It comes up to your hips. The steam has a sulfurous odor. \n\nYou are a third of the way across the basin when you notice small bubbles rising from hidden crevices beneath you."
+		"text": "Вода приятно теплая. Она доходит до бедер. Пар имеет сернистый запах. \n\nВы прошли треть пути по бассейну, когда заметили маленькие пузырьки, поднимающиеся из скрытых щелей под вами."
 	},
 	{
 		"id": "LE_TempleGusher01_Choice03",
-		"text": "Continue wading at the same pace"
+		"text": "Продолжать двигаться в том же темпе"
 	},
 	{
 		"id": "LE_TempleGusher01_Choice04",
-		"text": "Rush to the temple entrance"
+		"text": "Поспешить ко входу в храм"
 	},
 	{
 		"id": "LE_TempleGusher01_Choice05",
-		"text": "Withdraw quickly"
+		"text": "Быстро вернуться"
 	},
 	{
 		"id": "LE_TempleGusher01_SlowW",
-		"text": "You ignore the bubbles and focus instead on reaching your destination unharmed over the sharp, uneven ground beneath your feet. The bubbling soon ceases, and a short time later you reach the temple entrance safe and sound."
+		"text": "Вы не обращаете внимания на пузырьки и сосредотачиваетесь на том, чтобы добраться до места назначения невредимым по острой, неровной земле под ногами. Пузырение вскоре прекращается, и через некоторое время вы достигаете входа в храм целым и невредимым."
 	},
 	{
 		"id": "LE_TempleGusher01_SlowF",
-		"text": "You ignore the bubbles and focus instead on reaching your destination unharmed over the sharp, uneven ground beneath your feet. \n\nBut the bubbles increase in number - and the water temperature rises noticeably! [CTP]\n\nGripped with panic, you rush for the temple entrance as all hell breaks loose around you! You are lucky that the main jet of the boiling geyser barely clips you: nevertheless, you come away with a painful scalding!"
+		"text": "Вы не обращаете внимания на пузырьки и сосредотачиваетесь на том, чтобы добраться до места назначения невредимым по острой, неровной земле под ногами. \n\nНо количество пузырьков увеличивается - и температура воды заметно повышается! [CTP]\n\nОхваченные паникой, вы бросаетесь ко входу в храм, в то время как вокруг вас разворачивается настоящий ад! Вам повезло, что основная струя кипящего гейзера едва не задела вас: тем не менее, вы отделались болезненным ожогом!"
 	},
 	{
 		"id": "LE_TempleGusher01_FastW",
-		"text": "Gripped by panic, you scramble over to the opposite bank!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+		"text": "Охваченные паникой, вы бросаетесь на противоположный берег!\n\nНе медля ни секунды, вы достигаете входа в храм: Через несколько секунд в небо взлетает шлейф кипящей воды!"
 	},
 	{
 		"id": "LE_TempleGusher01_FastF",
-		"text": "Gripped by panic, you scramble over to the opposite bank. [char0] stumbles and scratches his knee on the sharp rocks beneath you!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+		"text": "Охваченные паникой, вы бросаетесь на противоположный берег. [char0] спотыкается и царапает колено об острые камни под собой!\n\nНе медля ни секунды, вы достигаете входа в храм: через несколько секунд в небо взлетает шлейф кипящей воды!"
 	},
 	{
 		"id": "LE_TempleGusher01_FastF_female",
-		"text": "Gripped by panic, you scramble over to the opposite bank! [char0] stumbles and scratches her knee on the sharp rocks beneath you!\n\nYou reach the temple entrance not a moment too soon: Seconds later, a plume of boiling water shoots into the sky!"
+		"text": "Охваченные паникой, вы бросаетесь на противоположный берег. [char0] спотыкается и царапает колено об острые камни под собой!\n\nНе медля ни секунды, вы достигаете входа в храм: через несколько секунд в небо взлетает шлейф кипящей воды!"
 	},
 	{
 		"id": "LE_TempleGusher01_TurnBack",
-		"text": "Panicked, you turn back immediately. You reach the opposite bank not a moment too soon: Seconds later, a plume of boiling water shoots into the sky! \n\nYou won’t be getting back in the water any time soon! You continue your journey."
+		"text": "В панике вы немедленно поворачиваете назад. Вы достигли берега как раз вовремя: через несколько секунд в небо взлетает шлейф кипящей воды! \n\nВы не собираетесь больше лезть в воду! Вы продолжаете свое путешествие."
 	},
 	{
 		"id": "LE_TempleGusher01_TempleNoLoot",
-		"text": "The temple in front of you consists of a single altar room. The Germans were very thorough: You find nothing of importance."
+		"text": "Храм перед вами состоит из одной комнаты с алтарем. Немцы были очень дотошны: вы не находите ничего важного."
 	},
 	{
 		"id": "LE_TempleGusher01_TempleLoot",
-		"text": "The temple in front of you consists of a single altar room, which you search excitedly. \n\nThe Germans must have been here before you, but your prudence pays off!"
+		"text": "Храм перед вами состоит из одной комнаты с алтарем, которую вы с волнением обыскиваете. \n\nНемцы, должно быть, были здесь до вас, но ваше упорство оправдалось!"
 	},
 	{
 		"id": "LE_MountainChase01_Intro",
@@ -7011,11 +7011,11 @@
 	},
 	{
 		"id": "LE_FungusOfDeath01_Intro",
-		"text": "Some palm trees breaking up the monotony of the sandy desert draw your attention. Where there are plants, there is usually water – have you found an oasis? [CTP]\n\nA short time later, you reach a small palm grove on the edge of a dried out waterhole. You discover some parched, emaciated corpses – the remains of some cultists who met their end here! A strange fungus appears to be growing on their bodies... \n\nThe men are lying around a chest in an irregular semicircle. [CTP]\n\nThey probably carried it until their strength ran out and they took their last rest at this oasis.\n\nAs you approach the chest, you notice that it is also covered by the strange mold..."
+		"text": "Несколько пальм, нарушающих монотонность песчаной пустыни, привлекают ваше внимание. Там, где есть растения, обычно есть и вода - неужели вы нашли оазис? [CTP]\n\nЧерез некоторое время вы добираетесь до небольшой пальмовой рощи на краю высохшего водоема. Вы обнаруживаете несколько иссохших, истощенных трупов - останки культистов, которые встретили здесь свой конец! На их телах, похоже, растет странный грибок... \n\nМужчины лежат вокруг сундука неровным полукругом. [CTP]\n\nВероятно, они несли его до тех пор, пока их силы не иссякли и они не устроили свой последний отдых в этом оазисе.\n\nПодойдя к сундуку, вы замечаете, что он также покрыт странной плесенью..."
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice01",
-		"text": "Open the chest"
+		"text": "Открыть сундук"
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice02",
@@ -7027,23 +7027,23 @@
 	},
 	{
 		"id": "LE_FungusOfDeath01_MedicalF",
-		"text": "[char0] ties a cloth over his face and cautiously leans over one of the corpses:\n\n[char0]: \"I’ve never seen a fungus like this... It looks like it’s growing out of their mouths! Maybe the spores got lodged in their respiratory tracts...\"\n\nYou feel none the wiser. What do you want to do?"
+		"text": "[char0] завязывает тряпку на лице и осторожно наклоняется над одним из трупов:\n\n[char0]: \"Я никогда не видел такого гриба... Похоже, он растет у них изо рта! Возможно, споры попали в их дыхательные пути...\"\n\nВы чувствуете себя не в своей тарелке. Что вы собираетесь делать?"
 	},
 	{
 		"id": "LE_FungusOfDeath01_MedicalF_female",
-		"text": "[char0] ties a cloth over her face and cautiously leans over one of the corpses:\n\n[char0]: \"I’ve never seen a fungus like this... It looks like it’s growing out of their mouths! Maybe the spores got lodged in their respiratory tracts...\"\n\nYou feel none the wiser. What do you want to do?"
+		"text": "[char0] завязывает тряпку на лице и осторожно наклоняется над одним из трупов:\n\n[char0]: \"Я никогда не видела такого гриба... Похоже, он растет у них изо рта! Возможно, споры попали в их дыхательные пути...\"\n\nВы чувствуете себя не в своей тарелке. Что вы собираетесь делать?"
 	},
 	{
 		"id": "LE_FungusOfDeath01_LootLucky",
-		"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside and wait until the the cloud has dissipated. \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+		"text": "Когда вы открываете сундук, в воздух поднимается небольшое красновато-ржавое облако! Инстинктивно вы отпрыгиваете в сторону и ждете, пока облако не рассеется. \n\nНа всякий случай вы завязываете на лицах тряпки. Затем вы используете пустынный песок, чтобы максимально очистить свои находки."
 	},
 	{
 		"id": "LE_FungusOfDeath01_LootSpores",
-		"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside, but [char1] inhales the cloud and is seized with a violent coughing fit! \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+		"text": "Когда вы открываете сундук, в воздух поднимается небольшое красновато-ржавое облако! Инстинктивно вы отпрыгиваете в сторону, но [char1] вдыхает облако, и его охватывает сильный приступ кашля! \n\nНа всякий случай вы завязываете на лицах тряпки. Затем вы используете пустынный песок, чтобы максимально очистить свои находки."
 	},
 	{
 		"id": "LE_FungusOfDeath01_LootSpores_female",
-		"text": "When you open the chest, a small rust-red cloud rises into the air! Instinctively, you dive aside, but [char1] inhales the cloud and is seized with a violent coughing fit! \n\nJust to be safe, you tie cloths over your faces. Then you use the desert sand to clean your finds as much as possible."
+		"text": "Когда вы открываете сундук, в воздух поднимается небольшое красновато-ржавое облако! Инстинктивно вы отпрыгиваете в сторону, но [char1] вдыхает облако, и ее охватывает сильный приступ кашля! \n\nНа всякий случай вы завязываете на лицах тряпки. Затем вы используете пустынный песок, чтобы максимально очистить свои находки."
 	},
 	{
 		"id": "LE_UnstableSewer01_Title",
@@ -9151,7 +9151,7 @@
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Choice02",
-		"text": "Stay calm..."
+		"text": "Сохранять спокойствие..."
 	},
 	{
 		"id": "BE_UnholyVault01_Choice06",
@@ -10575,11 +10575,11 @@
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice_Medic",
-		"text": "Cover your faces"
+		"text": "Прикрыть лицо"
 	},
 	{
 		"id": "LE_FungusOfDeath01_Precautions",
-		"text": "When you open the chest, a small rust-red cloud rises into the air! Fortunately, you had tied cloths over your faces. \n\nA few moments later, the wind has blown the cloud away. \n\nYou carefully clean your finds in the desert sand and and take a closer look."
+		"text": "Когда вы открываете сундук, в воздух поднимается небольшое красновато-ржавое облако! К счастью, вы прикрыли лица тканью. \n\nЧерез несколько мгновений ветер уносит облако. \n\nВы тщательно очищаете свои находки песком пустыни и присматриваетесь к ним."
 	},
 	{
 		"id": "LE_SewerAltar01_Choice_Survival",
@@ -10707,31 +10707,31 @@
 	},
 	{
 		"id": "BE_CreepyHut01_Choice_Occult",
-		"text": "Concentrate"
+		"text": "Сконцентрироваться"
 	},
 	{
 		"id": "BE_CreepyHut01_Choice_Leave",
-		"text": "Let’s get out of here!"
+		"text": "Давайте уйдем отсюда!"
 	},
 	{
 		"id": "BE_CreepyHut01_ForbiddenWin",
-		"text": "[char0] closes his eyes and hums a strange tune. \n\nHe opens his eyes and points to a pile of old skulls in the corner of the room: \n\n[char0]: \"Over there... There is a trap door under those skulls!\""
+		"text": "[char0] закрывает глаза и напевает странную мелодию. \n\nОн открывает глаза и указывает на груду старых черепов в углу комнаты: \n\n[char0]: \"Вон там... Под этими черепами есть дверь с ловушкой.!\""
 	},
 	{
 		"id": "BE_CreepyHut01_ForbiddenWin_female",
-		"text": "[char0] closes her eyes and hums a strange tune. \n\nShe opens her eyes and points to a pile of old skulls in the corner of the room: \n\n[char0]: \"Over there... There is a trap door under those skulls!\""
+		"text": "[char0] закрывает глаза и напевает странную мелодию. \n\nОна открывает глаза и указывает на груду старых черепов в углу комнаты: \n\n[char0]: \"Вон там... Под этими черепами есть люк!\""
 	},
 	{
 		"id": "BE_CreepyHut01_Choice_Detect",
-		"text": "Look around in panic"
+		"text": "Внимательно осмотреться"
 	},
 	{
 		"id": "BE_CreepyHut01_Choice_Fight",
-		"text": "Get ready to fight"
+		"text": "Приготовиться к бою"
 	},
 	{
 		"id": "BE_CreepyHut01_HiddenRoom",
-		"text": "You climb down to the cellar room under the trapdoor and find an ancient altar surrounded by several dead bodies. \n\nA black door at the back of the room appears to be sealed shut and there is a strange object on the altar. \n\n[CTP] \n\nWho will take it?"
+		"text": "Вы спускаетесь в подвальное помещение под люком и находите древний алтарь, окруженный несколькими мертвыми телами. \n\nЧерная дверь в задней части комнаты кажется запечатанной, а на алтаре лежит странный предмет. \n\n[CTP] \n\nКто его заберет?"
 	},
 	{
 		"id": "BE_CreepyHut01_Goodie",
@@ -10743,31 +10743,31 @@
 	},
 	{
 		"id": "BE_CreepyHut01_DetectWin",
-		"text": "[char1] scours the hut with his eyes. Frantically, he tears aside some crooked shelves to reveal a small back door hidden behind them. \n\n[char1]: \"Quick, this way! We can still escape if we hurry!\" [CTP] \n\nWithout a second thought, you rush through the back door and run as fast as you can! Not a second too soon - behind you the dead are rising from their graves..."
+		"text": "[char1] осматривает хижину. В неистовстве он отрывает несколько кривых полок, чтобы обнаружить спрятанную за ними маленькую заднюю дверь. \n\n[char1]: \"Быстрее, сюда! Мы еще можем спастись, если поторопимся!\" [CTP] \n\nНе раздумывая ни секунды, вы бросаетесь через заднюю дверь и бежите так быстро, как только можете! Не прошло и секунды, как позади вас мертвецы восстают из могил..."
 	},
 	{
 		"id": "BE_CreepyHut01_DetectWin_female",
-		"text": "[char1] scours the hut with her eyes. Frantically, she tears aside some crooked shelves to reveal a small back door hidden behind them. \n\n[char1]: \"Quick, this way! We can still escape if we hurry!\" [CTP] \n\nWithout a second thought, you rush through the back door and run as fast as you can! Not a second too soon - behind you the dead are rising from their graves..."
+		"text": "[char1] осматривает хижину. В неистовстве она отрывает несколько кривых полок, чтобы обнаружить спрятанную за ними маленькую заднюю дверь. \n\n[char1]: \"Быстрее, сюда! Мы еще можем спастись, если поторопимся!\" [CTP] \n\nНе раздумывая ни секунды, вы бросаетесь через заднюю дверь и бежите так быстро, как только можете! Не прошло и секунды, как позади вас мертвецы восстают из могил..."
 	},
 	{
 		"id": "BE_CreepyHut01_StrangePlace",
-		"text": "You suddenly feel strange - the hairs stand up on the back of your necks..."
+		"text": "Вы вдруг почувствовали себя странно - волосы встали дыбом..."
 	},
 	{
 		"id": "BE_CreepyHut01_NoLoot",
-		"text": "As expected, a search of the cabin reveals nothing. \n\nYou suddenly feel strange - the hairs stand up on the back of your necks..."
+		"text": "Как и ожидалось, обыск хижины ничего не дал. \n\nВы вдруг почувствовали себя странно - волосы встали дыбом..."
 	},
 	{
 		"id": "BE_CreepyHut01_LivingDead",
-		"text": "As you peek out of the window, a nightmarish scene greets you - the dead have risen from their graves!"
+		"text": "Когда вы выглядываете из окна, вас встречает кошмарная сцена - мертвые восстали из своих могил!"
 	},
 	{
 		"id": "BE_CreepyHut01_Fight",
-		"text": "As you prepare to leave, you hear a strange, tortured groaning! \n\nShuffling steps approach slowly from every direction..."
+		"text": "Когда вы собираетесь уходить, вы слышите странный, мучительный стон! \n\nШаркающие шаги медленно приближаются со всех сторон..."
 	},
 	{
 		"id": "BE_CreepyHut01_NoLoot_Fight",
-		"text": "As expected, a search of the cabin reveals nothing. \n\nAs you prepare to leave, you hear a strange, tortured groaning! \n\nShuffling steps approach slowly from every direction..."
+		"text": "Как и ожидалось, обыск хижины ничего не дал. \n\nКогда вы собираетесь уходить, вы слышите странный, мучительный стон! \n\nШаркающие шаги медленно приближаются со всех сторон..."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice_Trick",
@@ -11243,15 +11243,15 @@
 	},
 	{
 		"id": "LE_BurningJeep01_PerkChoice_B",
-		"text": "Smother the fire with sand!"
+		"text": "Затушить огонь песком!"
 	},
 	{
 		"id": "LE_BurningJeep01_AfterFire_B",
-		"text": "When the smoke dissipates, you consider your next steps."
+		"text": "Когда дым рассеивается, вы обдумываете свои дальнейшие действия."
 	},
 	{
 		"id": "LE_BurningJeep01_PerkChoice01_B",
-		"text": "Follow the tracks"
+		"text": "Следовать по следам"
 	},
 	{
 		"id": "LE_BurningJeep01_LastChoice_B",
@@ -11487,27 +11487,27 @@
 	},
 	{
 		"id": "BE_SupplyTransport01_PostBattle_B",
-		"text": "Excited, you search the storage boxes you found in the back of the truck!"
+		"text": "В предвкушении вы обыскиваете ящики, которые нашли в кузове грузовика!"
 	},
 	{
 		"id": "BE_SupplyTransport01_DaredevilLoot_B",
-		"text": "As you help [char0] to his feet, you notice that the German truck lost several supply crates on its wild ride..."
+		"text": "Пока [char0] поднимается на ноги, вы замечаете, что немецкий грузовик потерял несколько ящиков с припасами во время своей безумной езды..."
 	},
 	{
 		"id": "BE_SupplyTransport01_DaredevilLoot_B_female",
-		"text": "As you help [char0] to her feet, you notice that the German truck lost several supply crates on its wild ride..."
+		"text": "Пока [char0] поднимается на ноги, вы замечаете, что немецкий грузовик потерял несколько ящиков с припасами во время своей безумной езды..."
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Choice_RStrength_B",
-		"text": "Are you are looking for trouble?!"
+		"text": "Вы ищете неприятности?!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_RawStrength_B",
-		"text": "With speed that surprises you all, [char2] attacks two of the soldiers, cracking their heads together!\n\nYou use the element of surprise and open fire!"
+		"text": "Со скоростью, которая удивит вас всех, [char2] атакует двух солдат, разбивая им головы!\n\nВы используете элемент неожиданности и открываете огонь!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_RawStrength_B_female",
-		"text": "With speed that surprises you all, [char2] attacks two of the soldiers, cracking their heads together!\n\nYou use the element of surprise and open fire!"
+		"text": "Со скоростью, которая удивит вас всех, [char2] атакует двух солдат, разбивая им головы!\n\nВы используете элемент неожиданности и открываете огонь!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_ChoiceDetect_B",
