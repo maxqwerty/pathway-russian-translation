@@ -7119,15 +7119,15 @@
 	},
 	{
 		"id": "SE_Adventure02Intro_Title",
-		"text": "Выйти из Иерусалима"
+		"text": "За стенами Иерусалима"
 	},
 	{
 		"id": "SE_Adventure02Intro_Intro",
-		"text": "You gun your engine: You have no intention of losing the race for the Wrath of God!"
+		"text": "Вы запускаете двигатель: вы не намерены проигрывать гонку за Божьим Гневом!"
 	},
 	{
 		"id": "SE_Adventure02Intro_Intro_HC",
-		"text": "The long travels have allowed your wounds to heal and you have forgotten some knowledge. \n\nYou gun your engine: You have no intention of losing the race for the Wrath of God!"
+		"text": "Долгие странствия позволили вашим ранам затянуться, но вы успели забыть некоторые знания. \n\nВы запускаете двигатель: вы не намерены проигрывать гонку за Божьим Гневом!"
 	},
 	{
 		"id": "SE_Adventure03Intro_Title",
@@ -7143,39 +7143,39 @@
 	},
 	{
 		"id": "SE_Adventure02FinalFight_Title",
-		"text": "Mount Ararat"
+		"text": "Гора Арарат"
 	},
 	{
 		"id": "SE_Adventure02FinalFight_Intro",
-		"text": "At the foot of the mighty mountain, you finally find the vehicles of the Nazi expedition parked by an old mine entrance – you have reached your destination!\n\nYou park your own vehicle behind a rock and cautiously sneak closer with your weapons drawn, but you do not encounter anybody."
+		"text": "У подножия могучей горы вы, наконец, обнаружили машины нацистской экспедиции, припаркованные у старого входа в шахту - вы достигли цели!\n\nВы паркуете свой автомобиль за скалой и осторожно подкрадываетесь ближе, держа оружие наготове, но никого не встречаете."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_TheHall",
-		"text": "After a long trek through the enormous mine you hear voices. You sneak closer and hide behind some boxes. \n\nThe hall is teeming with soldiers! \n\nYou hear a loud shout! \n\nA detachment of soldiers runs into an adjoining room. You crane your necks, but you cannot see what they are doing there... [CTP] \n\n... suddenly you feel the muzzles of several rifle being jammed into your backs! You have been discovered!"
+		"text": "После долгого пути по огромной шахте вы слышите голоса. Вы подкрадываетесь ближе, спрятавшись за какими-то ящиками. \n\nЗал полон солдат! \n\nВы слышите громкий крик! \n\nОтряд солдат вбегает в соседнюю комнату. Вы вытягиваете шеи, но не видите, что они там делают... [CTP] \n\n... вдруг вы чувствуете, как в ваши спины упираются дула нескольких винтовок! Вас обнаружили!"
 	},
 	{
 		"id": "SE_Adventure02FinalFight_TheInnerChamber",
-		"text": "The patrol escorts you into the stone chamber. The soldiers and a senior officer are standing there around a huge, sprawling device. \n\nThe officer’s face lights up when he sees you:\n\n[char0]: \"Delightful! I do love company! Please, come closer!\" [CTP]\n\n[char0]: \"You see, this is the problem with these old myths: You never know what to expect...\"\n\n[char0]: \"The Wrath of God! Presumably an artifact of untold power! Deadly power, if you understand me...\" [CTP]\n\nThe officer points casually towards the object: \n\n[char0]: \"I’m sure you can appreciate that I am reluctant to risk the lives of my men. Perhaps you might help me...?\"\n\nThe officer nods to you encouragingly. You look around to see several rifles pointed at you! \n\nYou have no choice..."
+		"text": "Патруль проводит вас в каменную камеру. Солдаты и старший офицер стоят там вокруг огромного, раскидистого устройства. \n\nЛицо офицера озаряется, когда он видит вас:\n\n[char0]: \"Восхитительно! Я обожаю гостей! Пожалуйста, подходите ближе!\" [CTP]\n\n[char0]: \"Видите ли, в этом и заключается проблема этих старых мифов: Вы никогда не знаете, чего ожидать...\"\n\n[char0]: \"Божий Гнев! Предположительно, артефакт несказанной силы! Смертоносной силы, если вы меня понимаете...\" [CTP]\n\nОфицер непринужденно указывает на предмет: \n\n[char0]: \"Уверен, вы понимаете, что я не хочу рисковать жизнями своих людей. Возможно, вы сможете мне помочь...?\"\n\nОфицер поощрительно кивает вам. Вы оглядываетесь и видите несколько винтовок, направленных на вас! \n\nУ вас нет выбора..."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_WrathOfGod",
-		"text": "You approach the strange object. It is covered with arcane devices. In their midst you see a bizarre, yet fearsome-looking object!\n\nIs this the mythical Wrath of God? What will happen if you take it?\n\n[char1] shrugs and grabs the artifact. Then everything happens very quickly..."
+		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы примете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_WrathOfGod_female",
-		"text": "You approach the strange object. It is covered with arcane devices. In their midst you see a bizarre, yet fearsome-looking object!\n\nIs this the mythical Wrath of God? What will happen if you take it?\n\n[char1] shrugs and grabs the artifact. Then everything happens very quickly..."
+		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы примете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_StartFight",
-		"text": "Among the startled shouts of the surprised soldiers you also hear [char1]’s cries of pain! \n\nThe Wrath of God glows red in his hands! \n\nIn a swift motion, [char1] hurls the weapon aside!\n\nYou take cover, anticipating a German counterattack!"
+		"text": "Среди испуганных криков удивленных солдат вы также слышите как [char1] плачет от боли! \n\nБожий Гнев пылает красным цветом в его руках! \n\nБыстрым движением [char1] отбрасывает оружие в сторону!\n\nВы прячетесь в укрытие, готовясь к контратаке немцев!"
 	},
 	{
 		"id": "SE_Adventure02FinalFight_StartFight_female",
-		"text": "Among the startled shouts of the surprised soldiers you also hear [char1]’s cries of pain! \n\nThe Wrath of God glows red in her hands! \n\nIn a swift motion, [char1] hurls the weapon aside!\n\nYou take cover, anticipating a German counterattack!"
+		"text": "Среди испуганных криков удивленных солдат вы также слышите как [char1] плачет от боли! \n\nБожий Гнев пылает красным цветом в ее руках! \n\nБыстрым движением [char1] отбрасывает оружие в сторону!\n\nВы прячетесь в укрытие, готовясь к контратаке немцев!"
 	},
 	{
 		"id": "SE_Adventure02FinalFight_Aftermath",
-		"text": "As the last soldier falls to the ground, you look at each other in disbelief: You actually did it! \n\nBut you don’t have much time! A loud creaking noise warns you of another impending danger – the monstrous construct did not survive the battle unscathed! [CTP]\n\nThe whole place could collapse at any moment! \n\nYou run as fast as you can to escape the collapsing masonry! [CTP] \n\nOnly when you have reached your jeep do you have time to catch your breath."
+		"text": "Когда последний солдат падает на землю, вы смотрите друг на друга в недоумении: Вы действительно сделали это! \n\nНо у вас не так много времени! Громкий скрип предупреждает вас о другой надвигающейся опасности - чудовищная конструкция не пережила битву без повреждений! [CTP]\n\nВсе это место может рухнуть в любой момент! \n\nВы бежите так быстро, как только можете, спасаясь от разрушающихся стен! [CTP] \n\nТолько когда вы добираетесь до своего джипа, у вас появляется время перевести дух."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Title",
@@ -7211,27 +7211,27 @@
 	},
 	{
 		"id": "SE_Adventure02Clue03_Intro",
-		"text": "The cloud of dust is heading straight for you! You soon hear the loud engine – a Wehrmacht jeep races along the desert track at breakneck speed! Several military vehicles are hard on his heels! \n\nOne of them peels away in an attempt to cut the fugitive off: They’ll catch up with him soon!"
+		"text": "Облако пыли движется прямо на вас! Вскоре вы слышите громкий звук двигателя - джип вермахта с бешеной скоростью мчится по пустынной трассе! Несколько военных машин следуют за ним по пятам! \n\nОдна из них отходит в сторону, пытаясь отрезать путь беглецу: Они скоро его догонят!"
 	},
 	{
 		"id": "SE_Adventure02Clue03_Choice01",
-		"text": "Hide behind a dune"
+		"text": "Спрятаться за дюной"
 	},
 	{
 		"id": "SE_Adventure02Clue03_Choice02",
-		"text": "Attack the pursuers"
+		"text": "Атаковать преследователей"
 	},
 	{
 		"id": "SE_Adventure02Clue03_AvoidBattle",
-		"text": "You hear tires squeal and loud shouting! Then the sounds of a short firefight. A short time later, engines roar and finally disappear into the distance. \n\nYou wait a few minutes and then search the body of the lone soldier in the desert sand. \n\nYou find nothing of interest."
+		"text": "Вы слышите визг шин и громкие крики! Затем звуки короткой перестрелки. Через некоторое время раздается рев двигателей и, в конце концов, они исчезают вдали. \n\nВы ждете несколько минут, а затем обыскиваете тело одинокого солдата в песке пустыни. \n\nВы не находите ничего интересного."
 	},
 	{
 		"id": "SE_Adventure02Clue03_Aftermath",
-		"text": "The soldier waves his arms in the air excitedly as he runs over to you:\n\n[char0]: \"You saved my life! Colonel von Ortzen is an insane sadist! I couldn’t take the constant cruelty!\"\n\nYou ask the man what he knows about the Wrath of God: [CTP]\n\n[char0]: \"I only know the rumors - but apparently it is a weapon of terrible power. We are supposed to find it and take it back to Berlin.\"\n\n[char0]: \"A super weapon for the German army! It will make us invincible! Just think of the possibilities!\""
+		"text": "Солдат возбужденно размахивает руками в воздухе, подбегая к вам:\n\n[char0]: \"Вы спасли мне жизнь! Полковник фон Ортцен - безумный садист! Я не смог выдержать постоянной жестокости!\"\n\nВы спрашиваете этого человека, что он знает о Божьем Гневе: [CTP]\n\n[char0]: \"Я знаю только слухи - но, судя по всему, это оружие ужасающей силы. Мы должны были найти его и доставить в Берлин.\"\n\n[char0]: \"Супер-оружие для немецкой армии! Оно сделало бы нас непобедимыми! Только подумайте о перспективах!\""
 	},
 	{
 		"id": "SE_Adventure02Clue03_Goodbye",
-		"text": "The man sees that his enthusiasm is less than infectious and clears his throat in embarrassment: \n\n[char0]: \"Well - thank you for your help.\"\n\nWith these words he gets into his vehicle and drives off."
+		"text": "Мужчина видит, что его энтузиазм не слишком заразителен, и смущенно прочищает горло: \n\n[char0]: \"Что ж - спасибо за помощь.\"\n\nС этими словами он садится в свой автомобиль и уезжает."
 	},
 	{
 		"id": "SE_Adventure02Clue01_Title",
@@ -7239,11 +7239,11 @@
 	},
 	{
 		"id": "SE_Adventure02Clue01_Intro",
-		"text": "As you reach the outer buildings of an abandoned village, a rifle shot comes out of nowhere! \n\nAs fast as lightning, you veer off the track and jump out of your vehicle, diving behind some low walls for cover! [CTP]\n\nSomewhere in the ruins, a voice shouts out:\n\n[char0]: \"Colonel von Ortzen was right: We were being followed!\"\n\n[char0]: \"I think we can handle this problem! Open fire!\""
+		"text": "Когда вы достигаете внешних зданий заброшенной деревни, из ниоткуда раздается ружейный выстрел! \n\nМолниеносно вы сворачиваете с трассы и выпрыгиваете из машины, ныряя за низкие стены в укрытие! [CTP]\n\nГде-то в руинах раздается голос:\n\n[char0]: \"Полковник фон Ортцен был прав: За нами следили!\"\n\n[char0]: \"Думаю, мы справимся с этой проблемой! Открыть огонь!\""
 	},
 	{
 		"id": "SE_Adventure02Clue01_Aftermath",
-		"text": "In the officer's map case, you find some torn Bible pages. \n\nYou scan the pages and find a passage underlined in pencil: [CTP]\n\n\"And the LORD God said, Behold, Adam is become as one of Us, to know Good and Evil. So He drove out the Man; and He placed at the East of the Garden of Eden Cherubims, and a Flaming Sword which turned every way, to guard the Way of the Tree of Life with The Wrath of God.\"\n\nPerturbed, you shake your heads..."
+		"text": "В футляре для карт офицера вы находите несколько вырванных страниц из Библии. \n\nВы просматриваете страницы и натыкаетесь на отрывок, подчеркнутый карандашом: [CTP]\n\n\"И сказал Господь Бог: вот, Адам стал как один из Нас, чтобы познать Добро и Зло. И изгнал Он человека, и поставил на Востоке Эдемского Сада Херувимов и Пламенный Меч, обращающийся во все стороны света, чтобы охранять путь к Древу Жизни от Божьего Гнева.\"\n\nВстревоженные, вы качаете головами..."
 	},
 	{
 		"id": "SE_Adventure02Clue02_Title",
@@ -7251,59 +7251,59 @@
 	},
 	{
 		"id": "SE_Adventure02Clue02_Intro",
-		"text": "On a rise ahead of you, you spot a lone soldier with his back to you! You sneak forward quickly and easily overpower him! \n\nNow you crouch behind the Wehrmacht jeep and survey the site below: An improvised German camp! [CTP]\n\nIts size suggests it must be a base of some importance!\n\nA soft groan tells you that the soldier has regained consciousness."
+		"text": "На возвышении впереди вы заметили одинокого солдата, стоящего к вам спиной! Вы быстро пробираетесь вперед и легко справляетесь с ним! \n\nТеперь вы прячетесь за джипом вермахта и осматриваете местность под вами: импровизированный немецкий лагерь! [CTP]\n\nСудя по его размерам, это должна быть какая-то важная база!\n\nТихий стон говорит о том, что солдат пришел в сознание."
 	},
 	{
 		"id": "SE_Adventure02Clue02_Choice01",
-		"text": "Attack the base"
+		"text": "Атаковать базу"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Choice02",
-		"text": "Interrogate the man"
+		"text": "Допросить мужчину"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Choice03",
-		"text": "Intimidate the soldier"
+		"text": "Запугать солдата"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Choice04",
-		"text": "Take a wide detour around the camp"
+		"text": "Объехать лагерь по широкой дуге"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Question",
-		"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\nThat’s all you're going to get out of him. You gag and tie the man, then think about what to do."
+		"text": "[char0]: \"Нам приказали установить здесь радиостанцию. Пожалуйста, не бейте меня, я всего лишь радист! Я просто искал подходящее место для установки антенны...\"\n\nЭто все, что вы узнаете от него. Вы затыкаете ему рот и связываете мужчину, а затем думаете, что делать."
 	},
 	{
 		"id": "SE_Adventure02Clue02_Intimidate",
-		"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\n[char1]: \"Radio operator, huh? Listen, you're going to drive us into the camp in your car, understand?\""
+		"text": "[char0]: \"Нам приказали установить здесь радиостанцию. Пожалуйста, не бейте меня, я всего лишь радист! Я просто искал подходящее место для установки антенны...\"\n\n[char1]: \"Радист, да? Слушай, ты отвезешь нас в лагерь на своей машине, понял?\""
 	},
 	{
 		"id": "SE_Adventure02Clue02_Intimidate_female",
-		"text": "[char0]: \"We were ordered to set up a radio station here. Please don’t hurt me, I'm just the radio operator! I was just looking for a better place to set up the antenna...\"\n\n[char1]: \"Radio operator, huh? Listen, you're going to drive us into the camp in your car, understand?\""
+		"text": "[char0]: \"Нам приказали установить здесь радиостанцию. Пожалуйста, не бейте меня, я всего лишь радист! Я просто искал подходящее место для установки антенны...\"\n\n[char1]: \"Радист, да? Слушай, ты отвезешь нас в лагерь на своей машине, понял?\""
 	},
 	{
 		"id": "SE_Adventure02Clue02_IntimidateF",
-		"text": "The young man looks at you angrily:\n\n[char0]: \"I may not be a hero, but I'm no traitor!\"\n\nIt’s pointless trying to convince him. You gag and tie the man, then think about what to do."
+		"text": "Молодой человек сердито смотрит на вас:\n\n[char0]: \"Может, я и не герой, но я не предатель!\"\n\nБесполезно пытаться убедить его. Вы затыкаете рот и связываете мужчину, а затем думаете, что делать дальше."
 	},
 	{
 		"id": "SE_Adventure02Clue02_IntimidateW",
-		"text": "[char1] sees the defiance on the soldier's face:\n\n[char1]: \"I can be very unpleasant when I don’t get my way...!\"\n\nThe man caves in:\n\n[char0]: \"Fine... what do I have to do?\""
+		"text": "[char1] видит непокорность на лице солдата:\n\n[char1]: \"Я бываю очень недовольным, когда не добиваюсь своего...!\"\n\nМужчина сдается:\n\n[char0]: \"Хорошо... что я должен сделать?\""
 	},
 	{
 		"id": "SE_Adventure02Clue02_IntimidateW_female",
-		"text": "[char1] sees the defiance on the soldier's face:\n\n[char1]: \"I can be very unpleasant when I don’t get my way...!\"\n\nThe man caves in:\n\n[char0]: \"Fine... what do I have to do?\""
+		"text": "[char1] видит непокорность на лице солдата:\n\n[char1]: \"Я бываю очень недовольна, когда не добиваюсь своего...!\"\n\nМужчина сдается:\n\n[char0]: \"Хорошо... что я должен сделать?\""
 	},
 	{
 		"id": "SE_Adventure02Clue02_EnterCamp",
-		"text": "A few minutes later, your vehicle enters the camp without incident. Behind the wheel sits a nervous German radio operator with a gun pointed at the back of his neck from under some blankets!\n\nThe soldier stops right next to his radio tent. You knock him out with a sharp blow to the back of the head, then you slip into the empty tent."
+		"text": "Через несколько минут ваша машина без происшествий въезжает в лагерь. За рулем сидит нервный немецкий радист с пистолетом, направленным ему из-под одеяла в шею!\n\nСолдат останавливается рядом с палаткой радистов. Вы вырубаете его резким ударом по затылку, а затем незаметно пробираетесь в пустую палатку."
 	},
 	{
 		"id": "SE_Adventure02Clue02_SearchTent",
-		"text": "You search the tent in frantic haste. Apart from a small field radio you do not find anything of interest. Then your eyes fall on a wastepaper basket next to the field table, full to the brim with radio transcripts... [CTP]\n\n\"Interim Report on the Ararat Expedition\"\n\n\"To the Research Battalion Near East: We are gratified to announce that we have also encountered outposts of the target culture in the Armenian Highlands.\" [CTP]\n\n\"The Valkyrium network is therefore considerably larger than previously believed. It should extend at least from the African Atlantic coast to the Caucasus. In the north, as is known, to the Russian White Sea. We will keep you informed about any further findings.\n\nHeil Hitler! Colonel von Ortzen, Expedition Leader\" [CTP]\n\nYou climb back into the Wehrmacht jeep and leave the camp at an inconspicuous pace through a gap in the perimeter by the latrines. Once you have passed the next sand dune, you slam your foot down on the accelerator!"
+		"text": "С судорожной спешкой вы обыскиваете палатку. Кроме небольшой полевой рации вы не находите ничего интересного. Затем ваш взгляд падает на корзину для бумаг рядом с полевым столом, до краев наполненную расшифровками радиопередач... [CTP]\n\n\"Промежуточный отчет об Араратской Экспедиции\"\n\n\"Исследовательскому Батальону Ближнего Востока: Мы рады сообщить, что мы также обнаружили форпосты искомой культуры на Армянском нагорье.\" [CTP]\n\n\"Таким образом, сеть Валькирия значительно больше, чем считалось ранее. Она должна простираться, по крайней мере, от африканского побережья Атлантики до Кавказа. На севере, как уже известно, до российского Белого моря. Мы будем информировать вас о любых дальнейших находках.\n\nХайль Гитлер! Полковник фон Ортцен, руководитель экспедиции\" [CTP]\n\nВы садитесь обратно в джип вермахта и незаметно покидаете лагерь через брешь в ограждении возле туалетов. Как только вы проезжаете следующую песчаную дюну, вы вдавливаете педаль газа в пол!"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Aftermath",
-		"text": "You search the radio tent. Apart from a small field radio you do not find anything of interest. Then your eyes fall on a wastepaper basket next to the field table, full to the brim with radio transcripts... [CTP]\n\n\"Interim Report on the Ararat Expedition\"\n\n\"To the Research Battalion Near East: We are gratified to announce that we have also encountered outposts of the target culture in the Armenian Highlands.\" [CTP]\n\n\"The Valkyrium network is therefore considerably larger than previously believed. It should extend at least from the African Atlantic coast to the Caucasus. In the north, as is known, to the Russian White Sea. We will keep you informed about any further findings.\n\nHeil Hitler! Colonel von Ortzen, Expedition Leader\""
+		"text": "Вы обыскиваете радиопалатку. Кроме небольшой полевой рации вы не находите ничего интересного. Затем ваш взгляд падает на корзину для бумаг рядом с полевым столом, до краев наполненную расшифровками радиопередач... [CTP]\n\n\"Промежуточный отчет об Араратской Экспедиции\"\n\n\"Исследовательскому Батальону Ближнего Востока: Мы рады сообщить, что мы также обнаружили форпосты искомой культуры на Армянском нагорье.\" [CTP]\n\n\"Таким образом, сеть Валькирия значительно больше, чем считалось ранее. Она должна простираться, по крайней мере, от африканского побережья Атлантики до Кавказа. На севере, как уже известно, до российского Белого моря. Мы будем информировать вас о любых дальнейших находках.\n\nХайль Гитлер! Полковник фон Ортцен, руководитель экспедиции\""
 	},
 	{
 		"id": "SE_Adventure03Clue02_Title",
@@ -7475,15 +7475,15 @@
 	},
 	{
 		"id": "SE_Adventure02MapArrival01_Title",
-		"text": "The Syrian Desert"
+		"text": "Сирийская Пустыня"
 	},
 	{
 		"id": "SE_Adventure02MapArrival01_Intro",
-		"text": "The rocky mountain track provides an excellent view of the arid Syrian desert stretching out below you. You carefully follow the narrow hairpin bends on your way down.\n\nSuddenly, [char0] steps on the brakes and points excitedly to the scree slope below you: A wrecked Wehrmacht jeep! [CTP]\n\nYou get out to investigate. Three dead soldiers lie around the car. They appear to have died as a result of the accident, but you can’t be certain. \n\nYou quickly search the car. You’re in luck: In the trunk, you find a half-full jerrycan and a small supply crate!"
+		"text": "С каменистой горной трассы открывается прекрасный вид на раскинувшуюся под вами засушливую Сирийскую пустыню. Спускаясь вниз, вы осторожно следуете по узким крутым поворотам.\n\nВнезапно, [char0] жмет на тормоз и взволнованно указывает на обрывистый склон под вами: разбитый джип вермахта! [CTP]\n\nВы выходите из машины, чтобы осмотреть ее. Вокруг машины лежат три мертвых солдата. Похоже, что они погибли в результате аварии, но вы не можете быть уверены. \n\nВы быстро обыскиваете машину. Вам повезло: в багажнике вы находите наполовину заполненную канистру и небольшой ящик с припасами!"
 	},
 	{
 		"id": "SE_Adventure02MapArrival01_Intro_female",
-		"text": "The rocky mountain track provides an excellent view of the arid Syrian desert stretching out below you. You carefully follow the narrow hairpin bends on your way down.\n\nSuddenly, [char0] steps on the brakes and points excitedly to the scree slope below you: A wrecked Wehrmacht jeep! [CTP]\n\nYou get out to investigate. Three dead soldiers lie around the car. They appear to have died as a result of the accident, but you can’t be certain. \n\nYou quickly search the car. You’re in luck: In the trunk, you find a half-full jerrycan and a small supply crate!"
+		"text": "С каменистой горной трассы открывается прекрасный вид на раскинувшуюся под вами засушливую Сирийскую пустыню. Спускаясь вниз, вы осторожно следуете по узким крутым поворотам.\n\nВнезапно, [char0] жмет на тормоз и взволнованно указывает на обрывистый склон под вами: разбитый джип вермахта! [CTP]\n\nВы выходите из машины, чтобы осмотреть ее. Вокруг машины лежат три мертвых солдата. Похоже, что они погибли в результате аварии, но вы не можете быть уверены. \n\nВы быстро обыскиваете машину. Вам повезло: в багажнике вы находите наполовину заполненную канистру и небольшой ящик с припасами!"
 	},
 	{
 		"id": "SE_Adventure02MapArrival02_Title",
@@ -7491,7 +7491,7 @@
 	},
 	{
 		"id": "SE_Adventure02MapArrival02_Intro",
-		"text": "You breathe a sigh of relief as you finally leave the merciless heat of the Syrian Desert behind you. The awe-inspiring mountains of the Armenian Highlands rise before you!\n\nLegend has it that Noah landed somewhere here with his ark as the waters of the Great Flood receded. But what is the connection with the Wrath of God? [CTP]\n\nInstinctively, you look up, but the mountain peaks around you do not reveal their secrets...\n\nYou take another long break before you set off on the last leg of your journey."
+		"text": "Вы с облегчением вздыхаете, когда сирийская пустыня наконец остается позади. Перед вами возвышаются внушающие благоговение горы Армянского нагорья!\n\nЛегенда гласит, что Ной высадился где-то здесь со своим ковчегом, когда воды Великого Потопа отступили. Но какая здесь связь с Божьим Гневом? [CTP]\n\nИнстинктивно вы смотрите вверх, но горные вершины вокруг вас не раскрывают своих секретов...\n\nВы делаете еще один долгий привал, прежде чем отправиться в последний путь."
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_anabelle_Title",
@@ -9855,31 +9855,31 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet01_Intro",
-		"text": "The unsuspecting German courier walks right into your arms - he probably thought you were stragglers from the German convoy. \n\nYou tie him up and search his document pouch. You come across a letter from the German Research Center for Materials Science in Berlin: [CTP] \n\n\"Our research shows that Valkyrium - a hitherto unknown element - is something completely outside our periodic table. \n\nWith an atomic weight of 500, Valkyrium is by far the heaviest known element. Its immense energy density is a scientific sensation.\" [CTP]\n\n\"In short: theoretically, we know of no more efficient energy supply - but we still lack the means to effectively exploit this energy.\n\nWhen handling Valkyrium 500, we must warn you expressly against overheating!\n\nWe will inform you of any further research results.\""
+		"text": "Ничего не подозревающий немецкий курьер идет прямо к вам в руки - вероятно, он принял вас за отставших от немецкого конвоя. \n\nВы связываете его и обыскиваете сумку с документами. Вы находите письмо из Немецкого Исследовательского Центра Материаловедения в Берлине: [CTP] \n\n\"Наши исследования показывают, что Валькирий - доселе неизвестный элемент - находится за пределами нашей периодической таблицы. \n\nИмея атомный вес 500, Валькирий на сегодняшний день является самым тяжелым из известных элементов. Его огромная плотность энергии является научной сенсацией.\" [CTP]\n\n\"Одним словом: теоретически мы не знаем более эффективного источника энергии, но у нас все еще нет средств для эффективного использования этой энергии.\n\nМы должны предупредить вас о том, что при работе с Валькирий 500 необходимо избегать перегрева!\n\nМы проинформируем вас о результатах дальнейших исследований.\""
 	},
 	{
 		"id": "SE_Adventure02Snippet02_Title",
-		"text": "Some dusty huts"
+		"text": "Пыльные хижины"
 	},
 	{
 		"id": "SE_Adventure02Snippet02_Intro",
-		"text": "On your journey, you pass some huts with several Bedouins perched on their mud walls. You exchange polite greetings. \n\nThe men nod when you inquire about the German expedition: [CTP]\n\n[char0]: \"The foreign soldiers stayed overnight in our village. Some of the men were unhappy - they were complaining among themselves.\"\n\n[char0]: \"Something about their journey scared them. At the signal to depart, one of them began to rant openly at their leaders.\" [CTP] \n\nThe old man points to the palm grove behind you. You turn to see a mound of freshly dug sand. \n\n[char0]: \"That is all that remains of him.\"\n\nThe old Bedouin shrugs thoughtfully:\n\n[char0]: \"The other soldiers had no further objections...\""
+		"text": "По дороге вы проходите мимо нескольких хижин, на глиняных стенах которых сидят несколько бедуинов. Вы обмениваетесь вежливыми приветствиями. \n\nМужчины кивают, когда вы спрашиваете о немецкой экспедиции: [CTP]\n\n[char0]: \"Иностранные солдаты остались ночевать в нашей деревне. Некоторые из мужчин были недовольны - они жаловались друг другу.\"\n\n[char0]: \"Что-то в их путешествии пугало их. По сигналу к отъезду один из них начал открыто разглагольствовать о своих лидерах.\" [CTP] \n\nСтарик указывает на пальмовую рощу позади вас. Вы поворачиваетесь и видите курган свежевырытого песка. \n\n[char0]: \"Это все, что от него осталось.\"\n\nСтарый бедуин задумчиво пожимает плечами:\n\n[char0]: \"Другие солдаты больше не возражали...\""
 	},
 	{
 		"id": "SE_Adventure02Snippet03_Title",
-		"text": "A few nomads"
+		"text": "Несколько кочевников"
 	},
 	{
 		"id": "SE_Adventure02Snippet03_Intro",
-		"text": "A group of nomads are camped in the shade of a few shrubs. They are armed, and some of them are bandaged.\n\nWhen the men see you, they take up their rifles. \n\nYou stare at each other for a few tense moments, then their faces relax: [CTP]\n\n[char0]: \"Foreign soldiers cross our pastures. They draw from our wells and take our goats as they please. They laugh loudly at our complaints.\" \n\n[char0]: \"The proud warriors of our tribe waited in ambush as they crossed the ravines of the wadi.\" [CTP]\n\n[char0]: \"We shot six of them and disappeared before they knew where the shots came from!\"\n\n[char0]: \"Our tradition of hospitality is sacred, but nobody shall abuse it with impunity! We are a free people and we will fight when our freedom is trampled on!\""
+		"text": "Группа кочевников разбила лагерь в тени нескольких кустарников. Они вооружены, а некоторые из них перебинтованы.\n\nКогда мужчины видят вас, они хватаются за винтовки. \n\nНесколько напряженных мгновений вы смотрите друг на друга, затем их лица расслабляются: [CTP]\n\n[char0]: \"Иностранные солдаты переходят через наши пастбища. Они черпают воду из наших колодцев и забирают наших коз, когда им заблагорассудится. Они громко смеются над нашими претензиями.\" \n\n[char0]: \"Гордые воины нашего племени ждали в засаде, когда они переходили овраги вади.\" [CTP]\n\n[char0]: \"Мы подстрелили шестерых из них и исчезли, прежде чем они поняли, откуда были сделаны выстрелы!\"\n\n[char0]: \"Наша традиция гостеприимства священна, но никто не должен безнаказанно злоупотреблять ею! Мы - свободный народ, и мы будем бороться, когда попирают нашу свободу!\""
 	},
 	{
 		"id": "SE_Adventure02Snippet04_Title",
-		"text": "In the desert"
+		"text": "Посреди пустыни"
 	},
 	{
 		"id": "SE_Adventure02Snippet04_Intro",
-		"text": "The bundles you find in the sand of the Syrian desert turn out to be the bodies of some German soldiers. They are executed mutineers. \n\nSuddenly, you see a movement - the soldier is seriously injured but alive! \n\nWith difficulty, the man begins to speak: [CTP]\n\n[char0]: \"It all started with that Russian professor, who fled to us across the Finnish taiga. Those poor devils in the prison camp found something in the eternal ice.\"\n\n[char0]: \"I do not know the details, but it must have been... enormous. The news Dr. Poliakowski brought was incredible.\" [CTP]\n\n[char0]: \"The lost culture had technologies that eclipse everything we know!\"\n\n[char0]: \"Whoever claims their legacy will win the coming war!\"\n\nThe man doubles up and coughs in pain. Blood flows from his mouth and he goes limp."
+		"text": "Кучки, которые вы находите в песке сирийской пустыни, оказываются телами немецких солдат. Это казненные мятежники. \n\nВдруг вы видите движение - солдат тяжело ранен, но жив! \n\nС трудом мужчина начинает говорить: [CTP]\n\n[char0]: \"Все началось с того русского профессора, который бежал к нам через финскую тайгу. Эти несчастные черти в тюремном лагере нашли что-то в вечных льдах.\"\n\n[char0]: \"Я не знаю подробностей, но это должно было быть нечто... грандиозное. Новости, которые принес доктор Поляковский, были невероятными.\" [CTP]\n\n[char0]: \"Утраченная культура обладала технологиями, превосходящими все, что мы знаем!\"\n\n[char0]: \"Тот, кто заявит о своем наследии, победит в грядущей войне!\"\n\nМужчина складывается вдвое и кашляет от боли. Из его рта течет кровь, и он теряет сознание."
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Title",
@@ -9887,7 +9887,7 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet05_Intro",
-		"text": "You hear the bleating of the goats long before you see the goatherd himself. The man has made himself comfortable in the shade of some trees.\n\nYou nod to each other and exchange a few words. When the conversation turns to the Germans, the goatherd jumps up excitedly: [CTP]\n\n[char0]: \"I have seen the men you seek. They are on the path to their own ruin!\"\n\nConfused, you ask the goatherd what he means.\n\n[char0]: \"The wise men and women in our village know that no stranger may approach the Holy Mount Ararat without incurring its wrath.\" [CTP]\n\n[char0]: \"Listen and believe: Once Ararat has awakened, the earth will shake in its foundations.\"\n\nYou say goodbye to the shepherd and set off again, confused and thoughtful..."
+		"text": "Вы слышите блеяние коз задолго до того, как встречаете самого козовода. Он устроился поудобнее в тени нескольких деревьев.\n\nВы киваете друг другу и обмениваетесь несколькими словами. Когда разговор переходит на немцев, козопас взволнованно вскакивает: [CTP]\n\n[char0]: \"Я видел людей, которых вы ищете. Они на пути к собственной гибели!\"\n\nВ замешательстве вы спрашиваете пастуха, что он имеет в виду.\n\n[char0]: \"Мудрые мужчины и женщины нашей деревни знают, что ни один чужак не может приблизиться к Священной горе Арарат, не испытав ее гнева.\" [CTP]\n\n[char0]: \"Слушайте и внимайте: Когда Арарат пробудится, земля содрогнется у самого основания.\"\n\nВы прощаетесь с пастухом и снова отправляетесь в путь, растерянные и задумчивые..."
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Title",
@@ -9895,35 +9895,35 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Intro",
-		"text": "Among the rocks, you see the remains of a broken-down truck that must have veered off the steep mountain road. \n\nUnfortunately, after a short search, it becomes clear that the Germans left nothing of value. \n\n[Char0] suddenly cries out in delight! [CTP]\n\nIn the glove compartment, you find a forgotten edition of the \"Journal of National-Racial Archeology\" from April 1932. \n\nYou leaf through it and pause at an article about finds in southeastern Anatolia. [CTP] \n\nIt contains images of Hittite relief fragments, including the depiction of a winged birdman shooting lightning bolts from his hands.\n\nThe caption is an ancient eastern saying: 'The flame of the hand banishes the hungry ones from the gardens.'\n\nYou exchange confused looks - what could it mean?"
+		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя руки изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Intro_female",
-		"text": "Among the rocks, you see the remains of a broken-down truck that must have veered off the steep mountain road. \n\nUnfortunately, after a short search, it becomes clear that the Germans left nothing of value. \n\n[Char0] suddenly cries out in delight! [CTP]\n\nIn the glove compartment, you find a forgotten edition of the \"Journal of National-Racial Archeology\" from April 1932. \n\nYou leaf through it and pause at an article about finds in southeastern Anatolia. [CTP] \n\nIt contains images of Hittite relief fragments, including the depiction of a winged birdman shooting lightning bolts from his hands.\n\nThe caption is an ancient eastern saying: 'The flame of the hand banishes the hungry ones from the gardens.'\n\nYou exchange confused looks - what could it mean?"
+		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя руки изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
 	},
 	{
 		"id": "SE_Adventure02Flavor01_Title",
-		"text": "The road to Damascus"
+		"text": "Дорога в Дамаск"
 	},
 	{
 		"id": "SE_Adventure02Flavor01_Intro",
-		"text": "A caravan route crosses your dusty desert track. Some Bedouins are camped in the shade of the rocks. \nBeyond the rocky hills, further to the northeast, lies Damascus with its glorious palaces and pleasure gardens!\n\nBut the tire tracks are unmistakable: The Germans have taken the route north, directly into the interior of the Syrian desert. Sighing, you start on your way..."
+		"text": "Маршрут каравана пересекает вашу пыльную пустынную дорогу. Несколько бедуинов разбили лагерь в тени скал. \nЗа скалистыми холмами, дальше на северо-восток, находится Дамаск с его великолепными дворцами и садами!\n\nНо следы шин безошибочны: Немцы взяли курс на север, прямо в глубь сирийской пустыни. Вздохнув, вы отправляетесь в путь..."
 	},
 	{
 		"id": "SE_Adventure02Flavor02_Title",
-		"text": "The Holy Land"
+		"text": "Священная Земля"
 	},
 	{
 		"id": "SE_Adventure02Flavor02_Intro",
-		"text": "In silent prayer, a group of women kneel before a half-ruined shrine. Of course - you are in the Holy Land, over which so many of the faithful have fought so bitterly...\n\nCanaan, the land of a thousand cities and gods!\n\nThe divine Astarte once reigned here with her graceful temple servants, until the One God drove her away forever.\n\nCanaan, where once milk and honey flowed - where are your gods today?"
+		"text": "В безмолвной молитве группа женщин преклоняет колени перед полуразрушенной святыней. Конечно же - вы находитесь на Священной Земле, за которую так ожесточенно сражались многие верующие...\n\nХанаан, земля тысячи городов и богов!\n\nКогда-то здесь царствовала божественная Астарта со своими изящными храмовыми служанками, пока Единый Бог не изгнал ее навсегда.\n\nХанаан, где когда-то текли молоко и мед, - где же сейчас твои боги?"
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Title",
-		"text": "The desert hospice"
+		"text": "Хоспис в пустыне"
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Intro",
-		"text": "The dilapidated building houses an infirmary run by nuns of the Carmelite Order. The charitable Carmelites care for the outcast and hopeless here. \n\nFurther west, you see the ridge of the holy Mount Carmel, which runs along the Mediterranean coast. The convent must be somewhere on those mountain slopes.\n\n[CTP]\n\nWhen she sees you, an elderly nun approaches: \n\n[char0]: \"Peace be with you! All are welcome here, as long as they do not disturb our peace.\"\n\nYou could do with a break - do you want to rest here?"
+		"text": "В полуразрушенном здании находится лазарет, которым управляют монахини Ордена Кармелитов. Благотворительные Кармелитки заботятся здесь об отверженных и безнадежных. \n\nДальше на запад виден хребет священной горы Кармель, которая тянется вдоль побережья Средиземного моря. Монастырь должен быть где-то на этих горных склонах.\n\n[CTP]\n\nЗавидев вас, к вам подходит пожилая монахиня: \n\n[char0]: \"Мир вам! Здесь рады всем, если они не нарушают наш покой.\"\n\nВам не помешает отдых - не хотите ли вы отдохнуть здесь?"
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Choice01",
@@ -9935,11 +9935,11 @@
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Refreshed",
-		"text": "Silently, but expertly, the sisters tend to your wounds and abrasions. After a meager but fortifying meal, they assign you an unadorned chamber where you can rest for a few hours. \n\n[CTP]\n\nWhen you ask the Mother Superior what you owe her, she is is firm but friendly as she waves you away: \n\n[char0]: \"We have everything we need for our work here. Go in peace!\""
+		"text": "Сестры молча, но умело обрабатывают ваши раны и ссадины. После скудного, но питательного обеда они отводят вам ничем не украшенную комнату, где вы отдыхаете в течение нескольких часов. \n\n[CTP]\n\nКогда вы спрашиваете мать-настоятельницу, сколько вы ей должны, она твердо, но дружелюбно отмахивается от вас: \n\n[char0]: \"У нас здесь есть все необходимое для нашей работы. Идите с миром!\""
 	},
 	{
 		"id": "SE_Adventure02Flavor04_Revisit",
-		"text": "As you return to the Carmelite Hospice, the nuns nod to you in friendly greeting."
+		"text": "Когда вы возвращаетесь в Хоспис Кармелитов, монахини кивают вам в знак дружеского приветствия."
 	},
 	{
 		"id": "SE_Adventure02Flavor05_Title",
@@ -9947,71 +9947,71 @@
 	},
 	{
 		"id": "SE_Adventure02Flavor05_Intro",
-		"text": "On the side of a hill, you come across a remote farmstead. The house adjoins a walled olive grove, whose branches bend under the weight of the olives. \n\nA sprightly old man is busy drawing water from his well to water the olive grove. When he sees you, he nods politely, but with cautious mistrust. \n\nYou exchange a few words with the man, but soon move on."
+		"text": "На склоне холма вы наткнетесь на отдаленную ферму. Дом примыкает к обнесенной стеной оливковой роще, ветви которой гнутся под тяжестью оливок. \n\nЭнергичный старик занят тем, что черпает воду из своего колодца, чтобы полить оливковую рощу. Увидев вас, он вежливо кивает, но с осторожным недоверием. \n\nВы обмениваетесь с ним несколькими словами, но вскоре уходите."
 	},
 	{
 		"id": "SE_Adventure02Flavor06_Title",
-		"text": "Holy ground"
+		"text": "Святая земля"
 	},
 	{
 		"id": "SE_Adventure02Flavor06_Intro",
-		"text": "You come across a group of exhausted travelers taking a break. These are Christian pilgrims on their way to the sites of the Holy Land. Their next destination is Nazareth, the home town of the man so many believe to be the son of God. \n\nIt will soon be two thousand years since the Nazarene walked the Earth - but has the world really changed for the better since that time?\n\nYou are not so sure..."
+		"text": "Вы встречаете группу уставших путников, которые решили устроить привал. Это христианские паломники, направляющиеся к местам Святой Земли. Их следующий пункт назначения - Назарет, родной город человека, которого многие считают сыном Божьим. \n\nСкоро исполнится две тысячи лет с тех пор, как Назарянин ходил по земле, но изменился ли мир к лучшему с тех пор?\n\nВы не уверены..."
 	},
 	{
 		"id": "SE_Adventure02Flavor07_Title",
-		"text": "Old boundary stone"
+		"text": "Старый межевой камень"
 	},
 	{
 		"id": "SE_Adventure02Flavor07_Intro",
-		"text": "The stone cube next to the desert track bears faded Roman letters. You stop to examine the strange stone.\n\nThere’s no doubt about it: It’s an ancient Roman boundary stone. \n\nIt probably marked the course of the Limes Arabicus, the ancient border with the wild horse tribes of the Arabian desert."
+		"text": "На каменном кубе рядом с пустынной дорожкой видны выцветшие римские буквы. Вы останавливаетесь, чтобы осмотреть странный камень.\n\nВ этом нет сомнений: Это древнеримский пограничный камень. \n\nВероятно, он обозначал курс Limes Arabicus, древней границы с племенами диких лошадей Аравийской пустыни."
 	},
 	{
 		"id": "SE_Adventure02Flavor08_Title",
-		"text": "Cedar grove"
+		"text": "Кедровая роща"
 	},
 	{
 		"id": "SE_Adventure02Flavor08_Intro",
-		"text": "The branches of cedar trees sway gently in the rising breeze. The Lebanon cedars in the grove are typical for the region. \n\nThe ancient Phoenicians used these trees to build their slender galleys; individual trees can reach an age of over a thousand years.\n\nYou breathe in the resinous scent of the trees and move on, refreshed."
+		"text": "Ветви кедровых деревьев мягко покачиваются под дуновением ветерка. Ливанские кедры в роще типичны для этого региона. \n\nДревние финикийцы использовали эти деревья для строительства своих изящных галер; возраст отдельных деревьев может достигать более тысячи лет.\n\nВы вдыхаете смолистый аромат деревьев и, освежившись, идете дальше."
 	},
 	{
 		"id": "SE_Adventure02Flavor10_Title",
-		"text": "Old castle ruin"
+		"text": "Руины старого замка"
 	},
 	{
 		"id": "SE_Adventure02Flavor10_Intro",
-		"text": "The castle ruin on the hill is clearly of Christian origin. Perhaps the remains of a Crusader stronghold?\n\nThis was probably an outpost of the hapless Principality of Antioch, which fell to the onslaughts of the Mamluks and the Mongols. \n\nThese dismal walls are all that remains of the lofty ambitions of the crusader princes..."
+		"text": "Руины замка на холме явно христианского происхождения. Возможно, это остатки крепости крестоносцев?\n\nВозможно, это был форпост незадачливого княжества Антиохия, которое пало под натиском мамлюков и монголов. \n\nЭти мрачные стены - все, что осталось от возвышенных амбиций князей-крестоносцев..."
 	},
 	{
 		"id": "SE_Adventure02Flavor11_Title",
-		"text": "Roman military road"
+		"text": "Римская военная дорога"
 	},
 	{
 		"id": "SE_Adventure02Flavor11_Intro",
-		"text": "Between the dunes, the desert winds have uncovered the flagstones of an old army road that runs parallel to your track. A closer examination reveals that the flagstones are ancient. \n\nIt is probably a section of the ancient Roman road known as the Via Nova Traiana, that connected inland Palmyra with Tarsus on the Mediterranean coast. Romans, Arabs, Crusaders, they all walked along this ancient military road - and now you follow in their footsteps!"
+		"text": "Между дюнами ветры пустыни обнажили камни старой военной дороги, которая идет параллельно вашему пути. При ближайшем рассмотрении выясняется, что камни очень древние. \n\nВероятно, это участок древнеримской дороги, известной как Via Nova Traiana, которая соединяла внутреннюю Пальмиру с Тарсусом на побережье Средиземного моря. Римляне, арабы, крестоносцы - все они шли по этой древней военной дороге - и теперь вы пройдете по их следам!"
 	},
 	{
 		"id": "SE_Adventure02Flavor13_Title",
-		"text": "Wild apricots"
+		"text": "Дикие абрикосы"
 	},
 	{
 		"id": "SE_Adventure02Flavor13_Intro",
-		"text": "A heavy, enticing aroma pervades the rocky area. As you round the next bend, you find the source of the fragrance: a handful of wild apricot trees. \n\n[CTP] \n\nThe branches of the trees are laden with fruit – so you decide to take a break. \n\nWith stuffed bellies and in improved spirits, you finally move on."
+		"text": "Тяжелый, манящий аромат пронизывает скалистую местность. На следующем повороте вы обнаружите источник аромата: несколько диких абрикосовых деревьев. \n\n[CTP] \n\nВетви деревьев усеяны фруктами, и вы решаете сделать привал. \n\nС набитыми животами и в приподнятом настроении вы, наконец, отправляетесь дальше."
 	},
 	{
 		"id": "SE_Adventure02Flavor15_Title",
-		"text": "A mountain river"
+		"text": "Горная река"
 	},
 	{
 		"id": "SE_Adventure02Flavor15_Intro",
-		"text": "The wooden bridge over the gurgling mountain torrent looks far from trustworthy – but if the Germans made it, you guess you too will survive the crossing!\n\nThe bridge creaks and sways menacingly... as you reach the middle, it sags by a few more inches! \n\nWith your hearts in your mouths, you reach the other side without further incident!"
+		"text": "Деревянный мост через журчащий горный поток выглядит очень ненадежным - но если уж немцы смогли его преодолеть, то, наверняка, и вы сможете!\n\nМост скрипит и угрожающе раскачивается... когда вы доходите до середины, он провисает еще на несколько дюймов! \n\nС бешено стучащими сердцами, вы достигаете другой стороны без дальнейших инцидентов!"
 	},
 	{
 		"id": "SE_Adventure02Flavor16_Title",
-		"text": "Obsidian block"
+		"text": "Обсидиановый блок"
 	},
 	{
 		"id": "SE_Adventure02Flavor16_Intro",
-		"text": "Not far from the path, a misshapen black object looms out of the sand. It appears to be a huge obsidian block of natural origin, hurled here by a volcanic eruption many eons ago.\n\nYou see the menacing silhouette of the Mount Süphan volcano in the distance. You feel tiny and vulnerable in the face of such timeless vastness. \n\nYou set off again soon afterwards."
+		"text": "Недалеко от тропинки из песка вырисовывается черный предмет неправильной формы. Похоже, это огромный обсидиановый блок природного происхождения, выброшенный сюда извержением вулкана много веков назад.\n\nВдалеке вы видите грозный силуэт вулкана Сюпхан. Вы чувствуете себя крошечным и уязвимым перед лицом такого безграничного простора. \n\nВскоре вы снова отправляетесь в путь."
 	},
 	{
 		"id": "SE_Adventure03Snippet01_Title",
@@ -11587,7 +11587,7 @@
 	},
 	{
 		"id": "SE_Adventure02Intro_HC_title",
-		"text": "Выйти из Иерусалима"
+		"text": "За стенами Иерусалима"
 	},
 	{
 		"id": "SE_Adventure03Intro_HC_title",
