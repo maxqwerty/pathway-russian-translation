@@ -2007,15 +2007,15 @@
 	},
 	{
 		"id": "AE_CarFailure01_Intro",
-		"text": "After an endless drive along dusty tracks, you hear a disturbing, rhythmic clatter from the engine – moments later, it dies with a tortured howl and your jeep slowly rolls to a stop. \n\nYou stare at each other in alarm."
+		"text": "После длительной езды по пыльным дорогам вы слышите тревожный, ритмичный стук двигателя - мгновения спустя он глохнет с мучительным воем, и ваш джип медленно останавливается. \n\nВы с тревогой смотрите друг на друга."
 	},
 	{
 		"id": "AE_CarFailure01_Standard",
-		"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock he was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+		"text": "Вы осматриваете дымящийся двигатель, в то время как [char1] сидел на близлежащем камне.\n\nКак только вы заканчиваете ремонт, [char1] закричал и резко подскочил! [CTP]\n\nКамень, на котором он сидел, оказался термитником! [char1] судорожно пытается стряхнуть термитов, но они повсюду! \n\nК тому времени, как вы наконец-то уезжаете, все его тело было покрыто болезненными укусами термитов..."
 	},
 	{
 		"id": "AE_CarFailure01_Standard_female",
-		"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock she was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+		"text": "Вы осматриваете дымящийся двигатель, в то время как [char1] сидела на близлежащем камне.\n\nКак только вы закончили ремонт, [char1] закричала и резко подскочила! [CTP]\n\nКамень, на котором она сидела, оказался термитником! [char1] судорожно пытается стряхнуть термитов, но они повсюду! \n\nК тому времени, как вы наконец-то уезжаете, все ее тело было покрыто болезненными укусами термитов..."
 	},
 	{
 		"id": "AE_CarFailure01_Technical",
@@ -2035,67 +2035,67 @@
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalF",
-		"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock he was sitting on was a termite mound! The insect bites are extremely painful..."
+		"text": "[char0]: \"Выглядит не очень...\"\n\nПока джип чинят и можно будет продолжить путь, вы вынуждены сидеть на камнях и ждать. [CTP]\n\n[char1] кричит и резко подпрыгивает! Камень, на котором он сидел, оказался термитником! Укусы насекомых чрезвычайно болезненны..."
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalF_female",
-		"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock she was sitting on was a termite mound! The insect bites are extremely painful..."
+		"text": "[char0]: \"Выглядит не очень...\"\n\nПока джип чинят и можно будет продолжить путь, вы вынуждены сидеть на камнях и ждать. [CTP]\n\n[char1] кричит и резко подпрыгивает! Камень, на котором она сидела, оказался термитником! Укусы насекомых чрезвычайно болезненны..."
 	},
 	{
 		"id": "AE_CarFailure02_Intro",
-		"text": "With no warning, your jeep’s engine starts to sputter and then dies completely. It slowly rolls to a stop in the desert sands."
+		"text": "Без всякого предупреждения двигатель вашего джипа начинает хрипеть, а затем полностью глохнет. Он плавно останавливается в песках пустыни."
 	},
 	{
 		"id": "AE_CarFailure02_Standard",
-		"text": "It takes you a while to work out what’s wrong with the jeep. The tank has sprung a leak and is losing gas! \n\nYou manage an improvised repair. After a short delay, you resume your journey."
+		"text": "Вам потребуется время, чтобы понять, что случилось с джипом. В баке образовалась течь, и он потерял часть топлива! \n\nВы сумели провести импровизированный ремонт. После небольшой задержки вы возобновляете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalW",
-		"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. He soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. Вскоре он находит и устраняет неисправность: двигатель снова работает без сбоев, и вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalW_female",
-		"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. She soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. Вскоре она находит и устраняет неисправность: двигатель снова работает без сбоев, и вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalF",
-		"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. \n\nIt takes him some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. \n\nЕму требуется некоторое время, чтобы устранить проблему. Время тянется мучительно медленно, но в конце концов вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalF_female",
-		"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. \n\nIt takes her some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. \n\nЕй требуется некоторое время, чтобы устранить проблему. Время тянется мучительно медленно, но в конце концов вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_Intro",
-		"text": "The gravel road you have been following for the past few hours finally peters out. Slowly and laboriously you slog your way through the sand dunes. \n\nSuddenly, your jeep gets stuck in the sand – you gun the engine in vain, kicking up a fountain of sand. You’re stuck!"
+		"text": "Грунтовая дорога, по которой вы ехали последние несколько часов, наконец-то заканчивается. Медленно и тяжело вы пробираетесь через песчаные дюны. \n\nВнезапно ваш джип застревает в песке - вы тщетно пытаетесь завести двигатель, поднимая фонтан песка. Вы застряли!"
 	},
 	{
 		"id": "AE_CarFailure03_Standard",
-		"text": "Drenched in sweat, you work tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, you manage to maneuver the jeep to more stable ground. The journey can finally continue.\n\nIt is not until much later that you notice that you lost one of your ammo crates in the sand!"
+		"text": "Обливаясь потом, вы неустанно работаете, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, вам удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие.\n\nИ только гораздо позже вы замечаете, что потеряли в песке один из ящиков с патронами!"
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthW",
-		"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+		"text": "[char0] выпрыгивает из машины и, пыхтя и отдуваясь, выталкивает ее из дюны. Вскоре вы оказываетесь на более устойчивой земле. Теперь вы можете беспрепятственно продолжить свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthW_female",
-		"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+		"text": "[char0] выпрыгивает из машины и, пыхтя и отдуваясь, выталкивает ее из дюны. Вскоре вы оказываетесь на более устойчивой земле. Теперь вы можете беспрепятственно продолжить свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthF",
-		"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, he manages to maneuver the jeep to more stable ground. The journey can finally continue."
+		"text": "Обливаясь потом, [char0] неустанно работает, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, ему удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthF_female",
-		"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, she manages to maneuver the jeep to more stable ground. The journey can finally continue."
+		"text": "Обливаясь потом, [char0] неустанно работает, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, ей удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие."
 	},
 	{
 		"id": "AE_CarFailure04_Intro",
-		"text": "You are racing along the endless desert track, when suddenly a massive jet of steam and hot water shoots out of the front of your jeep and splashes against your windshield. \n\nYour radiator has boiled over! [CTP] \n\nYou step on the brakes and get out to investigate the damage: Fortunately, the engine is in good working order. You take a forced break and look for the radiator cap in the desert sand as you wait for the engine to cool down. \n\nWith new water in the cooler, you continue your journey."
+		"text": "Вы мчитесь по бесконечной пустынной трассе, как вдруг из передней части вашего джипа вырывается мощная струя пара и горячей воды и брызгает на лобовое стекло. \n\nУ вас закипел радиатор! [CTP] \n\nВы нажимаете на тормоза и выходите из машины, чтобы осмотреть повреждения: к счастью, двигатель в рабочем состоянии. Вы делаете вынужденный перерыв и ищете крышку радиатора в песке пустыни, ожидая, пока остынет двигатель. \n\nЗалив новую воду в охладитель, вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure05_Intro",
-		"text": "You are racing along the gravel track at full speed and enjoying the cool wind on your face when a loud bang breaks the monotonous sound of the engine! \n\nAt first, you think it is a gunshot, but as your jeep starts to skid, you realize: you have a flat tire! [CTP]\n\nWith some difficulty, you bring the car to a halt so you can take a closer look at the damage. \n\nYou’re going to have to change the wheel. You take the opportunity to retighten all the screws on your wheels before restarting your journey."
+		"text": "Вы мчитесь по гравийной трассе на полной скорости и наслаждаетесь прохладным ветром на лице, как вдруг монотонный звук мотора нарушает громкий взрыв! \n\nСначала вы думаете, что это выстрел, но когда ваш джип начинает заносить, вы понимаете: у вас спустило колесо! [CTP]\n\nС некоторым трудом вы останавливаете машину, чтобы осмотреть повреждения. \n\nВам придется менять колесо. Вы пользуетесь случаем, чтобы затянуть винты всех на колесах, прежде чем продолжить путь."
 	},
 	{
 		"id": "AE_TimeLost01_Intro",
@@ -9259,7 +9259,7 @@
 	},
 	{
 		"id": "AE_CarFailure01_Choice01",
-		"text": "What’s the problem?"
+		"text": "В чем проблема?"
 	},
 	{
 		"id": "AE_CarFailure01_Choice02",
@@ -9267,7 +9267,7 @@
 	},
 	{
 		"id": "AE_CarFailure02_Choice01",
-		"text": "Oh no..."
+		"text": "О нет..."
 	},
 	{
 		"id": "AE_CarFailure02_Choice02",
@@ -9275,11 +9275,11 @@
 	},
 	{
 		"id": "AE_CarFailure03_Choice01",
-		"text": "This won’t be easy..."
+		"text": "Будет непросто..."
 	},
 	{
 		"id": "AE_CarFailure03_Choice02",
-		"text": "Let me have a go at it!"
+		"text": "Дайте мне попробовать.!"
 	},
 	{
 		"id": "BE_LostIdol01_Byebye",
