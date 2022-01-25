@@ -6663,7 +6663,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Intro",
-		"text": "The entrance to the mine is heavily guarded by grim-faced cultists and other, more sinister figures lurking in the shadows. \n\nYou decide to avoid the main entrance and take a hidden, narrow mineshaft that leads you deep into the mine instead. [CTP]\n\nThe mineshaft ends in a large cave. You see a few cultists standing around a handful of exhausted nomads."
+		"text": "Вход в шахту усиленно охраняется мрачного вида культистами и другими, более зловещими фигурами, скрывающимися в тени. \n\nВы решаете обойти главный вход и воспользоваться скрытым, узким шахтным ходом, который приводит вас вглубь шахты. [CTP]\n\nШахта заканчивается в большой пещере. Вы видите несколько культистов, стоящих вокруг горстки измученных кочевников."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice01",
@@ -6679,39 +6679,39 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nHe takes a handful of cartridges out of his magazine and wraps them in some rags. He then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing him. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nОн достает из магазина горсть патронов и заворачивает их в тряпки. Затем он осторожно бросает сверток в пламя. [char0] возвращается на свою позицию так, чтобы культисты его не заметили. [CTP] \n\nСпустя несколько мгновений начинается фейерверк, когда в костре взрываются патроны! Культисты в тревоге вскакивают и начинают искать невидимого врага! И вскоре они исчезают из виду.\n\nВы быстро зовете кочевников к себе и уводите их в безопасное место через туннель шахты!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_female",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nShe takes a handful of cartridges out of her magazine and wraps them in some rags. She then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing her. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nОна достает из магазина горсть патронов и заворачивает их в тряпки. Затем она осторожно бросает сверток в пламя. [char0] возвращается на свою позицию так, чтобы культисты ее не заметили. [CTP] \n\nСпустя несколько мгновений начинается фейерверк, когда в костре взрываются патроны! Культисты в тревоге вскакивают и начинают искать невидимого врага! И вскоре они исчезают из виду.\n\nВы быстро зовете кочевников к себе и уводите их в безопасное место через туннель шахты!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionF",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see him fumbling in his pockets when you hear a loud shout: the cultists have spotted him too! \n\nPrepare to fight!"
+		"text": "[char0] осторожно крадется к костру в другом конце пещеры. Вы видите, как он роется в карманах, как вдруг слышите громкий крик: культисты его заметили! \n\nГотовьтесь к битве!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionF_female",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see her fumbling in her pockets when you hear a loud shout: the cultists have spotted her too! \n\nPrepare to fight!"
+		"text": "[char0] осторожно крадется к костру в другом конце пещеры. Вы видите, как она роется в карманах, как вдруг слышите громкий крик: культисты ее заметили! \n\nГотовьтесь к битве!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Thank",
-		"text": "The liberated nomads are beside themselves with gratitude!\n\n[char1]: \"These fanatics are searching this place for an ancient burial chamber. They abducted us and forced us to work for them!\"\n\nBefore they make their way to freedom, the man turns around again: [CTP]\n\n[char1]: \"The cultists are storing their belongings in one of the chambers on the right at the far end of the cave. May the spirits watch over you!\""
+		"text": "Освобожденные кочевники вне себя от радости!\n\n[char1]: \"Эти фанатики ищут здесь древнюю погребальную камеру. Они похитили нас и заставили работать на них!\"\n\nПеред тем, как они выходят на свободу, мужчина снова оборачивается: [CTP]\n\n[char1]: \"Культисты хранят свои вещи в одной из камер справа в дальнем конце пещеры. Да хранят вас духи!\""
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Unlucky",
-		"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – but you do not find the chamber the old man spoke of... \n\nDisappointed, you turn back."
+		"text": "Вы тщательно обыскиваете пещеру. К счастью, вы не встретили больше культистов - но и не нашли комнату, о которой говорил старик... \n\nРазочаровавшись, вы поворачиваете назад."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Lucky",
-		"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – you soon reach the chamber that the old man spoke of."
+		"text": "Вы тщательно обыскиваете пещеру. К счастью, вы больше не встретите культистов - вскоре вы добираетесь до камеры, о которой говорил старик."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice04",
-		"text": "Look for the chamber"
+		"text": "Отыскать камеру"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice05",
-		"text": "Return to the exit"
+		"text": "Вернуться к выходу"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Title",
@@ -11439,19 +11439,19 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Hide_B",
-		"text": "It’s a small altar room. You crouch behind the altar and hope for the best..."
+		"text": "Это небольшая алтарная комната. Вы прячетесь за алтарем и надеетесь на лучшее..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Loot_B",
-		"text": "Not a second too soon!\n\nAngry cries tell you that the furious cultists are looking for the escaped prisoners!\n\nYou wait until the shouting has receded. \n\nThen you notice an old chest in the corner of the chamber..."
+		"text": "И как раз вовремя!\n\nГневные крики говорят о том, что разъяренные культисты ищут сбежавших пленников!\n\nВы ждете, пока крики не стихнут. \n\nЗатем вы замечаете старый сундук в углу комнаты..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_B",
-		"text": "[char0] creeps carefully up to the campfire at the other end of the cave. \n\nYou watch as he ejects several cartridges from his magazine and wraps them in a few cloths. He then throws the bundle carefully into the flames. [Char0] makes it back to you unnoticed by the cultists. [CTP] \n\nMoments later, you are treated to a real fireworks display as the cartridges explode in the campfire! The cultists jump up in alarm and search for the unseen enemy! They soon disappear from sight. \n\nFrantically, you beckon the nomads over!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nВы наблюдаете, как он извлекает несколько патронов из магазина и заворачивает их в тряпки. Затем он осторожно бросает сверток в пламя. [Char0] возвращается к вам незамеченный культистами. [CTP] \n\nСпустя несколько мгновений вы видите настоящий фейерверк, когда патроны взрываются в костре! Культисты вскакивают в тревоге и начинают искать невидимого врага! Вскоре они пропадают из виду. \n\nВы судорожно зовете кочевников к себе!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_B_female",
-		"text": "[char0] creeps carefully up to the campfire at the other end of the cave. \n\nYou watch as she ejects several cartridges from her magazine and wraps them in a few cloths. She then throws the bundle carefully into the flames. [char0] makes it back to you unnoticed by the cultists. [CTP] \n\nMoments later, you are treated to a real fireworks display as the cartridges explode in the campfire! The cultists jump up in alarm and search for the unseen enemy! They soon disappear from sight. \n\nFrantically, you beckon the nomads over!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nВы наблюдаете, как она извлекает несколько патронов из магазина и заворачивает их в тряпки. Затем она осторожно бросает сверток в пламя. [Char0] возвращается к вам незамеченная культистами. [CTP] \n\nСпустя несколько мгновений вы видите настоящий фейерверк, когда патроны взрываются в костре! Культисты вскакивают в тревоге и начинают искать невидимого врага! Вскоре они пропадают из виду. \n\nВы судорожно зовете кочевников к себе!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_SearchOfficer_B",
