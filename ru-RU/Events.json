@@ -727,7 +727,7 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_E_Intro",
-		"text": "При виде вас козы, дремавшие здесь, возбужденно блеют и вскакивают.\n\nКогда животные понимают, что вы не представляете угрозы, они возвращаются на пастбище."
+		"text": "При виде вас козы, дремавшие здесь, взволнованно блеют и вскакивают.\n\nКогда животные понимают, что вы не представляете угрозы, они возвращаются на пастбище."
 	},
 	{
 		"id": "ME_GenericOriental01_Choice01",
@@ -1551,7 +1551,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilW",
-		"text": "Вы слышите несколько приглушенных ударов и звук поднимаемого с опоры тяжелого пулемета. \n\nМгновением позже тишину разрывает залп выстрелов, за которым следует оглушительный взрыв! Вы слышите возбужденные крики и выстрелы, в небо поднимается гигантское облако дыма. \n\nТопливохранилище загорается ярким огнем! [CTP]\n\nВоспользовавшись всеобщим хаосом, вы пробираетесь к радиостанции. Там вы хватаете пачку документов и ускользаете, пока солдаты все еще бегают вокруг, как испуганные муравьи! Когда вы добираетесь до безопасного места, вы внимательно осматриваете свои трофеи."
+		"text": "Вы слышите несколько приглушенных ударов и звук поднимаемого с опоры тяжелого пулемета. \n\nМгновением позже тишину разрывает залп выстрелов, за которым следует оглушительный взрыв! Вы слышите взволнованные крики и выстрелы, в небо поднимается гигантское облако дыма. \n\nТопливохранилище загорается ярким огнем! [CTP]\n\nВоспользовавшись всеобщим хаосом, вы пробираетесь к радиостанции. Там вы хватаете пачку документов и ускользаете, пока солдаты все еще бегают вокруг, как испуганные муравьи! Когда вы добираетесь до безопасного места, вы внимательно осматриваете свои трофеи."
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF",
@@ -3047,11 +3047,11 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF",
-		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Его лодыжка уже начинает опухать в том месте, где существо его укусило."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Взволнованные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Его лодыжка уже начинает опухать в том месте, где существо его укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF_female",
-		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Ее лодыжка уже начинает опухать в том месте, где существо ее укусило."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Взволнованные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Ее лодыжка уже начинает опухать в том месте, где существо ее укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_WildernessW",
@@ -4455,7 +4455,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral02",
-		"text": "Культисты заняты строительством места поклонения в центре укрепленного лагеря. Интересно, какую роль будут играть многочисленные груды костей. \n\nВы вздрагиваете, несмотря на пустынную жару. Возбужденные голоса предупреждают вас, что ваше присутствие не осталось незамеченным!"
+		"text": "Культисты заняты строительством места поклонения в центре укрепленного лагеря. Интересно, какую роль будут играть многочисленные груды костей. \n\nВы вздрагиваете, несмотря на пустынную жару. Взволнованные голоса предупреждают вас, что ваше присутствие не осталось незамеченным!"
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral04",
@@ -4559,7 +4559,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage06",
-		"text": "Бункер представляет собой сцену отчаянной борьбы: узкие проходы завалены телами солдат. Они, должно быть, затаптывали друг друга в суматохе, пытаясь избежать своей участи. \n\nНикто из них не смог спастись. [CTP]\n\nВнутри бункера вы осторожно подкрадываетесь к существам, устроившим эту резню. Большая группа из них возбужденно обнюхивает останки солдат - похоже, они вас не заметили!"
+		"text": "Бункер представляет собой сцену отчаянной борьбы: узкие проходы завалены телами солдат. Они, должно быть, затаптывали друг друга в суматохе, пытаясь избежать своей участи. \n\nНикто из них не смог спастись. [CTP]\n\nВнутри бункера вы осторожно подкрадываетесь к существам, устроившим эту резню. Большая группа из них взволнованно обнюхивает останки солдат - похоже, они вас не заметили!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice01",
@@ -4991,67 +4991,67 @@
 	},
 	{
 		"id": "BE_LostIdol01_Intro",
-		"text": "The cavernous crevice in the rock wall in front of you is clad with crude bricks. A small, murky gully indicates that you have come across an outlet of an ancient system of water cisterns. \n\nYou hear a distant chanting, interspersed with screams and the noise of battle."
+		"text": "Пещерная расщелина в скале перед вами обложена сырым кирпичом. Небольшой мутный овраг указывает на то, что вы наткнулись на выход древней системы водяных цистерн. \n\nВы слышите отдаленное песнопение, перемежающееся с криками и шумом битвы."
 	},
 	{
 		"id": "BE_LostIdol01_Choice01",
-		"text": "Charge into battle"
+		"text": "Вступить в бой"
 	},
 	{
 		"id": "BE_LostIdol01_Choice02",
-		"text": "Sneak closer"
+		"text": "Подобраться ближе"
 	},
 	{
 		"id": "BE_LostIdol01_PostFightWounded",
-		"text": "After the fight, you check the cultists’ victims. You hear a low moan! \n\nYou stoop over an old tribesman, struggling for breath."
+		"text": "После окончания боя вы осматриваете жертв культистов. Вы слышите тихий стон! \n\nВы наклоняетесь над старым членом племени, с трудом переводящим дыхание."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightNoMedical",
-		"text": "You do everything you can, but unfortunately it is all too late: The old man breathes his last in your arms. \n\nIn low spirits, you make your way back."
+		"text": "Вы делаете все возможное, но, к сожалению, уже слишком поздно: старик умирает на ваших руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightMedicalF",
-		"text": "[char0] does everything he can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у него на руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightMedicalF_female",
-		"text": "[char0] does everything she can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у нее на руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_Wounded",
-		"text": "You stumble over the remains of a desperate battle. Mangled bodies in tattered caftans lie scattered around, but there is no trace of the victors. \n\nYou stoop over a groaning tribesman, struggling for breath."
+		"text": "Вы натыкаетесь на следы отчаянной битвы. Искалеченные тела в изорванных кафтанах валяются повсюду, но от следов победителей ничего не осталось. \n\nВы наклоняетесь над стонущим членом племени, который с трудом дышит."
 	},
 	{
 		"id": "BE_LostIdol01_Choice03",
-		"text": "Check the wounded"
+		"text": "Осмотреть раненых"
 	},
 	{
 		"id": "BE_LostIdol01_Choice04",
-		"text": "Tend to his wounds"
+		"text": "Позаботиться о его ранах"
 	},
 	{
 		"id": "BE_LostIdol01_NoMedic",
-		"text": "You do everything you can, but is too late: The old man breathes his last in your arms. \n\nIn low spirits, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "Вы делаете все возможное, но, к сожалению, уже слишком поздно: старик умирает на ваших руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalF",
-		"text": "[char0] does everything he can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у него на руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalF_female",
-		"text": "[char0] does everything she can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у нее на руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalW",
-		"text": "[char0] rips the old man's cloak. He uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+		"text": "[char0] разрывает плащ старика. С помощью импровизированного бинта он останавливает у раненого кровотечение. \n\nЧерез некоторое время старый фермер приходит в сознание: [CTP]\n\n[char1]: \"Братство напало на нашу деревню и украло священный идол, который мы охраняли на протяжении многих поколений! Мы сделали все возможное, но их верховная жрица унесла идол.\" \n\n[char1]: \"Вы поможете мне, если я скажу вам, как ее найти?\""
 	},
 	{
 		"id": "BE_LostIdol01_MedicalW_female",
-		"text": "[char0] rips the old man's cloak. She uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+		"text": "[char0] разрывает плащ старика. С помощью импровизированного бинта он останавливает у раненого кровотечение. \n\nЧерез некоторое время старый фермер приходит в сознание: [CTP]\n\n[char1]: \"Братство напало на нашу деревню и украло священный идол, который мы охраняли на протяжении многих поколений! Мы сделали все возможное, но их верховная жрица унесла идол.\" \n\n[char1]: \"Вы поможете мне, если я скажу вам, как ее найти?\""
 	},
 	{
 		"id": "BE_LostIdol01_Choice05",
-		"text": "Search for the idol"
+		"text": "Искать идол"
 	},
 	{
 		"id": "BE_LostIdol01_Choice06",
@@ -5059,19 +5059,19 @@
 	},
 	{
 		"id": "BE_LostIdol01_HighPriestess",
-		"text": "The old man’s directions take you deeper into the cisterns until you come to a crooked wooden ladder that you climb to a vault above the tunnels. [CTP]\n\nYou hunker down behind a low wall and watch as the High Priestess rants and gesticulates wildly before a group of her followers. She holds the idol in her hands!"
+		"text": "По указаниям старика вы отправитесь вглубь цистерн, пока не приходите к кривой деревянной лестнице, по которой поднимаетесь в хранилище над туннелями. [CTP]\n\nВы притаились за низкой стеной и наблюдаете, как Верховная Жрица разглагольствует и бурно жестикулирует перед группой своих последователей. Она держит в руках идол!"
 	},
 	{
 		"id": "BE_LostIdol01_HappyEnd",
-		"text": "At the exit of the underground pipe system, you meet the old man again.\n\n[char1]: \"You have the idol! You have our eternal gratitude!\""
+		"text": "На выходе из подземной системы труб вы снова встречаете старика.\n\n[char1]: \"Идол у вас! Мы вам бесконечно благодарны!\""
 	},
 	{
 		"id": "BE_LostIdol01_LanguagesW",
-		"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. He becomes increasingly excited as he inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+		"text": "Как только вы покидаете старое хранилище, [char2] останавливается, чтобы осмотреть странные надписи на стенах. Он становится все более взволнованным, рассматривая странные символы, нажимая на камень в разных местах. [CTP]\n\nЧерез некоторое время стена отодвигается в сторону, открывая странную маленькую камеру, в которой находится древний саркофаг.\n\nПо разбросанным на земле остаткам можно определить, что не так давно здесь была группа культистов!"
 	},
 	{
 		"id": "BE_LostIdol01_LanguagesW_female",
-		"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. She becomes increasingly excited as she inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+		"text": "Как только вы покидаете старое хранилище, [char2] останавливается, чтобы осмотреть странные надписи на стенах. Она становится все более взволнованной, рассматривая странные символы, нажимая на камень в разных местах. [CTP]\n\nЧерез некоторое время стена отодвигается в сторону, открывая странную маленькую камеру, в которой находится древний саркофаг.\n\nПо разбросанным на земле остаткам можно определить, что не так давно здесь была группа культистов!"
 	},
 	{
 		"id": "BE_MonsterAssault01_Intro",
@@ -7227,7 +7227,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue03_Aftermath",
-		"text": "Солдат возбужденно размахивает руками в воздухе, подбегая к вам:\n\n[char0]: \"Вы спасли мне жизнь! Полковник фон Ортцен - безумный садист! Я не смог выдержать постоянной жестокости!\"\n\nВы спрашиваете этого человека, что он знает о Божьем Гневе: [CTP]\n\n[char0]: \"Я знаю только слухи - но, судя по всему, это оружие ужасающей силы. Мы должны были найти его и доставить в Берлин.\"\n\n[char0]: \"Супер-оружие для немецкой армии! Оно сделало бы нас непобедимыми! Только подумайте о перспективах!\""
+		"text": "Солдат взволнованно размахивает руками в воздухе, подбегая к вам:\n\n[char0]: \"Вы спасли мне жизнь! Полковник фон Ортцен - безумный садист! Я не смог выдержать постоянной жестокости!\"\n\nВы спрашиваете этого человека, что он знает о Божьем Гневе: [CTP]\n\n[char0]: \"Я знаю только слухи - но, судя по всему, это оружие ужасающей силы. Мы должны были найти его и доставить в Берлин.\"\n\n[char0]: \"Супер-оружие для немецкой армии! Оно сделало бы нас непобедимыми! Только подумайте о перспективах!\""
 	},
 	{
 		"id": "SE_Adventure02Clue03_Goodbye",
@@ -9179,7 +9179,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice07",
-		"text": "Go back to the old man"
+		"text": "Вернуться к старику"
 	},
 	{
 		"id": "BE_LostIdol01_Choice08",
@@ -9187,7 +9187,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_CultistsVanquished",
-		"text": "Your defeated opponents lie lifeless at your feet - breathing hard, you think about what to do next."
+		"text": "Ваши поверженные противники лежат неподвижно у ваших ног - тяжело дыша, вы думаете о том, что делать дальше."
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice06",
@@ -9307,7 +9307,7 @@
 	},
 	{
 		"id": "SE_Adventure01Snippet01_End",
-		"text": "Когда бойцы узнают о ваших поисках, они возбужденно перешептываются. Их лидер поворачивается к вам: \n\n[char0]: \"Удача сопутствует вам! Наши разведчики заметили вашего друга и его охранников, пробирающихся через пустыню.\"\n\nМортен жив! Вы благодарите кочевников за информацию и отправляетесь в указанном ими направлении."
+		"text": "Когда бойцы узнают о ваших поисках, они взволновано перешептываются. Их лидер поворачивается к вам: \n\n[char0]: \"Удача сопутствует вам! Наши разведчики заметили вашего друга и его охранников, пробирающихся через пустыню.\"\n\nМортен жив! Вы благодарите кочевников за информацию и отправляетесь в указанном ими направлении."
 	},
 	{
 		"id": "SE_Adventure01Snippet02_Intro",
@@ -11403,7 +11403,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice_TrickNPC_B",
-		"text": "Diversionary tactics"
+		"text": "Отвлекающий маневр"
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPCWin_B",
@@ -11415,11 +11415,11 @@
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPC_Attack_B",
-		"text": "The cultists hear the noises too and run off to investigate!\n\nThe tables have turned – you open fire!"
+		"text": "Культисты тоже слышат шум и бегут на разведку!\n\nСитуация изменилась - вы открываете огонь!"
 	},
 	{
 		"id": "BE_LostIdol01_Choice_Look_B",
-		"text": "Investigate the wall"
+		"text": "Осмотреть стену"
 	},
 	{
 		"id": "BE_LostIdol01_Choice_SixthSense_B",
@@ -11427,15 +11427,15 @@
 	},
 	{
 		"id": "BE_LostIdol01_LookFail_B",
-		"text": "You take a look around, but find nothing of interest. Eventually, you decide to turn back."
+		"text": "Вы осматриваетесь вокруг, но не находите ничего интересного. В конце концов, вы решаете повернуть назад."
 	},
 	{
 		"id": "BE_LostIdol01_Boost_B",
-		"text": "You suddenly feel a shiver run up your spines – what is that?!\n\nThen you are filled with a sensation of calm: you feel strangely relaxed!\n\nWhat a strange place..."
+		"text": "Вы вдруг чувствуете, как по спине пробегает дрожь - что это?!\n\nЗатем вас наполняет ощущение спокойствия: вы чувствуете себя необычайно спокойно!\n\nКакое странное место..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Panic_B",
-		"text": "Moments later, you hear voices approach: the cultists are coming back!\n\nThere – a small passage! You hide in the little chamber at the end of the passage!"
+		"text": "Мгновением спустя вы слышите приближающиеся голоса: культисты возвращаются!\n\nТуда - в небольшой проход! Вы прячетесь в маленькой камере в конце прохода!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Hide_B",
