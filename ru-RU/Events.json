@@ -3987,15 +3987,15 @@
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Intro",
-		"text": "You have lost sight of the unit of German soldiers you were trailing in the confusing labyrinth of water tunnels. \n\nAs you silently traverse the ancient cisterns, you hear the echo of their boots around you."
+		"text": "Вы потеряли из виду отряд немецких солдат, за которым следовали по запутанному лабиринту водных туннелей. \n\nБесшумно ступая по древним цистернам, вы слышите кругом эхо их ботинок."
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Intro2",
-		"text": "Suddenly, screams echo through the tunnels. You hear a few shots – then silence! \n\nWarily, you continue down tunnels bathed in the unreal light of the strange, iridescent flowers that grow on the damp walls. [CTP]\n\nAs the passage finally widens, you see the bodies of the German soldiers lying lifeless in a sea of ​​dimly glowing flowers. \n\nWhat happened here?"
+		"text": "Внезапно крики эхом разносятся по туннелям. Вы слышите несколько выстрелов - затем тишина! \n\nНасторожившись, вы продолжаете идти по туннелям, залитым нереальным светом странных, радужных цветов, растущих на влажных стенах. [CTP]\n\nКогда проход наконец расширяется, вы видите тела немецких солдат, безжизненно лежащие в океане тускло светящихся цветов. \n\nЧто здесь произошло?"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice01",
-		"text": "Leave the cisterns"
+		"text": "Покинуть цистерну"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice02",
@@ -4003,27 +4003,27 @@
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice03",
-		"text": "Search the side tunnels"
+		"text": "Обыскать боковые туннели"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_SideSewerF",
-		"text": "A search of the side tunnels provides no new information. These luminous flowers seem to be all around you! \n\nYou guess you’ll never know what the Germans were doing here. You return to the open air and continue your journey."
+		"text": "Поиск в боковых туннелях не дает никакой новой информации. Кажется, будто эти светящиеся цветы окружают вас повсюду! \n\nНаверное, вы никогда не узнаете, что здесь делали немцы. Вы возвращаетесь на открытое пространство и продолжаете свой путь."
 	},
 	{
 		"id": "LE_HungrySewerFlower01_SideSewerW",
-		"text": "In one of the side tunnels, you find another dead soldier. As you approach him, you see a sudden movement: a vine that had been wrapped around the man slithers free! [CTP]\n\nA murderous, carnivorous plant? You are not keen to get to the bottom of this! You seize the man's equipment and beat a hasty retreat!"
+		"text": "В одном из боковых туннелей вы находите еще одного мертвого солдата. Когда вы приближаетесь к нему, вы видите внезапное движение: лоза, обвивавшая человека, вырвалась на свободу! [CTP]\n\nСмертоносное, плотоядное растение? У вас нет желания разбираться с этим! Вы забираете снаряжение мужчины и поспешно отступаете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersF",
-		"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling him! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! Следов таинственных убийц не видно... [CTP]\n\nКогда вы начинаете подбирать вещи солдат, [char0] внезапно вскрикивает! Вы оборачиваетесь и видите извилистую лозу, которая обвилась его шеи и начинает душить! Вы яростно бьете лозу, разрывая ее как раз вовремя, когда [char0] начинает задыхаться! [CTP]\n\nСмертоносное, плотоядное растение? Вы убегаете от моря смертоносных цветов так быстро, как только можете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersF_female",
-		"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling her! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! Следов таинственных убийц не видно... [CTP]\n\nКогда вы начинаете подбирать вещи солдат, [char0] внезапно вскрикивает! Вы оборачиваетесь и видите извилистую лозу, которая обвилась его шеи и начинает душить! Вы яростно бьете лозу, разрывая ее как раз вовремя, когда [char0] начинает задыхаться! [CTP]\n\nСмертоносное, плотоядное растение? Вы убегаете от моря смертоносных цветов так быстро, как только можете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersW",
-		"text": "You inspect the dead soldiers to work out what killed them. In the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! [CTP]\n\nThere is no trace of their mysterious assailants... \n\nYou snatch up the valuables scattered on the ground and quickly leave this eerie place!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! [CTP]\n\nСледов таинственных убийц не видно... \n\nВы подбираете разбросанные на земле ценности и быстро покидаете это жуткое место!"
 	},
 	{
 		"id": "AE_CollapsingSewer01_Intro",
