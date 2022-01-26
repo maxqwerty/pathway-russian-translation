@@ -3875,43 +3875,43 @@
 	},
 	{
 		"id": "LE_MountainChase01_Intro",
-		"text": "As you turn the next bend on the bumpy mountain track, you see a lone German soldier standing at the side of the path. \n\nWhen he sees you, he leaps into his jeep and accelerates away!"
+		"text": "Повернув на следующем повороте на ухабистой горной дороге, вы видите одинокого немецкого солдата, стоящего на обочине. \n\nУвидев вас, он прыгает в свой джип и мчится прочь!"
 	},
 	{
 		"id": "LE_MountainChase01_Choice01",
-		"text": "Car chase!"
+		"text": "Преследовать!"
 	},
 	{
 		"id": "LE_MountainChase01_Choice02",
-		"text": "Follow carefully"
+		"text": "Осторожно последовать"
 	},
 	{
 		"id": "LE_MountainChase01_Choice03",
-		"text": "Ignore the fleeing German"
+		"text": "Игнорировать убегающего немца"
 	},
 	{
 		"id": "LE_MountainChase01_RecklessW",
-		"text": "For several minutes, you race after the man at breakneck speed along steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nSuddenly, a camel appears on the track around the next corner. The man swerves frantically - but it is too late! \n\nThe car starts to skid and then flips over, rolling several times before coming to a stop at the edge of the track! You jump out to investigate the jeep and its lifeless driver."
+		"text": "В течение нескольких минут вы на бешеной скорости гонитесь за человеком по отвесным скалам и крутым поворотам! \n\nВы предпринимаете несколько попыток поравняться с вражеским джипом, но каждый раз он резко сворачивает, почти сбивая вас с трассы! [CTP]\n\nВнезапно за следующим поворотом на трассе появляется верблюд. Мужчина резко сворачивает - но уже слишком поздно! \n\nАвтомобиль начинает заносить, а затем он переворачивается, перекатывается несколько раз, и затем останавливается на краю трассы! Вы выскакиваете наружу, чтобы осмотреть джип и его безжизненного водителя."
 	},
 	{
 		"id": "LE_MountainChase01_RecklessF",
-		"text": "For several minutes, you follow the man at breakneck speed along the steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nYou round the next turn to see a camel standing directly in your path! You hit the brakes and tear at the steering wheel! Your jeep skids from side to side and eventually comes to a screeching halt, inches away from the abyss! \n\nYou watch as the enemy jeep disappears around the next corner. As you examine your cargo, you notice that a jerrycan broke loose..."
+		"text": "В течение нескольких минут вы на бешеной скорости гонитесь за человеком по отвесным скалам и крутым поворотам! \n\nВы предпринимаете несколько попыток поравняться с вражеским джипом, но каждый раз он резко сворачивает, почти сбивая вас с трассы! [CTP]\n\nНа следующем повороте вы видите верблюда, стоящего прямо на вашем пути! Вы жмете на тормоза и поворачиваете руль! Ваш джип скользит из стороны в сторону и в конце концов с визгом останавливается в нескольких сантиметрах от пропасти! \n\nВы наблюдаете, как вражеский джип исчезает за следующим поворотом. Осматривая свой груз, вы замечаете, что отвалилась одна канистра..."
 	},
 	{
 		"id": "LE_MountainChase01_CautiousW",
-		"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on him inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: He has stopped his jeep at the side of the track and is attempting to climb down the steep cliff face. \n\nSuddenly, you hear a deep rumble - a layer of scree slides away from the side of the cliff and buries the unfortunate man!"
+		"text": "Благодаря железным нервам вы остаетесь на хвосте у убегающего автомобиля, неумолимо настигая его. \n\nВскоре вы догоните вражеский джип! [CTP]\n\nПовернув на следующем повороте, вы видите, что немец пришел к такому же выводу: он бросил свой джип на обочине и пытается спуститься вниз по отвесной скале. \n\nВдруг раздается глубокий грохот - пласт осыпи сползает со стороны обрыва и погребает под собой несчастного!"
 	},
 	{
 		"id": "LE_MountainChase01_CautiousF",
-		"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on them inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: Slamming his foot down on the accelerator in one last desperate attempt to escape, he loses control of the jeep and crashes into the depths! The vehicle disappears in a ball of flames!"
+		"text": "Благодаря железным нервам вы остаетесь на хвосте у убегающего автомобиля, неумолимо настигая его. \n\nВскоре вы догоните вражеский джип! [CTP]\n\nПовернув на следующем повороте, вы видите, что немец пришел к такому же выводу: нажимая на педаль газа в отчаянной попытке спастись, он теряет контроль над джипом и падает в пропасть! Автомобиль исчезает в клубах пламени!"
 	},
 	{
 		"id": "LE_MountainChase01_IgnoreF",
-		"text": "With a shrug, you ignore the man. He soon disappears from sight. \n\nAs you leave the mountains behind, you decide to take a side track, just in case the man sent reinforcements your way. But you encounter no one."
+		"text": "Пожав плечами, вы не обращаете внимания на этого человека. Вскоре он исчезает из виду. \n\nКогда вы оставляете горы позади, вы решаете свернуть на боковую тропу, на случай, если этот человек пришлет подкрепление в вашу сторону. Но вы так никого и не встретили."
 	},
 	{
 		"id": "LE_MountainChase01_IgnoreW",
-		"text": "Shrugging, you ignore the man, who soon disappears from sight. Several minutes later, you round a sharp bend to find the overturned wreck of the fleeing car.\n\nYou quickly get out to investigate the jeep and its lifeless driver."
+		"text": "Пожав плечами, вы не обращаете внимания на этого человека. Через несколько минут, обогнув крутой поворот, вы обнаруживаете перевернутые обломки убегавшей машины.\n\nВы быстро выходите из машины, чтобы осмотреть джип и его безжизненного водителя."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Intro",
@@ -6259,7 +6259,7 @@
 	},
 	{
 		"id": "LE_MountainChase01_Title",
-		"text": "A mountain track"
+		"text": "Горная дорога"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Title",
