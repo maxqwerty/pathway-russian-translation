@@ -4075,11 +4075,11 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Intro",
-		"text": "The porous masonry disappears into the rock face. It looks like the entrance to an old, abandoned sewage system. \n\nA noxious, unhealthy smell rises to your nostrils - you're not sure what to do: Do you really want to explore this dank, dilapidated labyrinth?"
+		"text": "Пористая кладка уходит в толщу скалы. Это похоже на вход в старую, заброшенную канализационную систему. \n\nОтвратительный, нездоровый запах доносится до ваших ноздрей - вы не уверены, что делать: действительно ли вы хотите исследовать этот затхлый, полуразрушенный лабиринт?"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice01",
-		"text": "Explore the cisterns"
+		"text": "Исследовать цистерны"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice02",
@@ -4087,19 +4087,19 @@
 	},
 	{
 		"id": "LE_SewerAltar01_DeadEnd",
-		"text": "To your disappointment, the tunnels soon finish in a dead end. Like it or not, you have to turn back."
+		"text": "К вашему разочарованию, туннели вскоре заканчиваются тупиком. Хотите вы этого или нет, но вам приходится повернуть назад."
 	},
 	{
 		"id": "LE_SewerAltar01_GraveRobber",
-		"text": "To your disappointment, the tunnels soon finish in a dead end. \n\nJust as you are about to turn back, your gaze falls on the remains of the man who was crushed by the cave-in. [CTP]\n\nA grave robber? Or a goatherd seeking protection from the scorching sun? You find a bundle in the dead man’s hands, but the contents do not answer your questions."
+		"text": "К вашему разочарованию, туннели вскоре заканчиваются тупиком. \n\nКогда вы уже собираетесь повернуть назад, ваш взгляд падает на останки человека, которого придавило обвалом. [CTP]\n\nРасхититель могил? Или пастух, ищущий защиты от палящего солнца? Вы находите в руках мертвеца сверток, но его содержимое не отвечает на ваши вопросы."
 	},
 	{
 		"id": "LE_SewerAltar01_WadeWater",
-		"text": "As you move deeper into the tunnels, the ground becomes increasingly unstable. \n\nWhat began as foul-smelling puddles soon becomes a viscous body of sludge that fills the passages ahead of you. [CTP]\n\nA short time later, you are wading up to your hips in the oily, foul-smelling liquid. Strangely luminous flowers cling to the brick walls above you and bathe the corridors in their eerie light."
+		"text": "По мере продвижения вглубь туннеля грунт становится все более неустойчивым. \n\nНачавшееся как пахучие лужи, вскоре превращается в вязкий ил, заполняющий проходы перед вами. [CTP]\n\nСпустя некоторое время вы по пояс погружаетесь в маслянистую, дурно пахнущую жидкость. Странные светящиеся цветы цепляются за кирпичные стены над вами и освещают коридоры своим жутким светом."
 	},
 	{
 		"id": "LE_SewerAltar01_Choice03",
-		"text": "Continue wading"
+		"text": "Продолжить пробираться вброд"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice04",
@@ -4107,15 +4107,15 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Spores",
-		"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+		"text": "Продолжая пробираться по туннелям, вы заметите странные цветочные стручки, свисающие с лиан на потолке.\n\nКогда [char0] неохотно отодвигает один из стручков в сторону, тот лопается! Облако спор окружает вас, заполняя ваши легкие! [CTP]\n\nКашляя и отхаркиваясь, вы бросаетесь обратно ко входу! Проходит некоторое время, прежде чем вам снова становится легче дышать. Странное царапанье в горле остается с вами еще долго..."
 	},
 	{
 		"id": "LE_SewerAltar01_Spores_female",
-		"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+		"text": "Продолжая пробираться по туннелям, вы заметите странные цветочные стручки, свисающие с лиан на потолке.\n\nКогда [char0] неохотно отодвигает один из стручков в сторону, тот лопается! Облако спор окружает вас, заполняя ваши легкие! [CTP]\n\nКашляя и отхаркиваясь, вы бросаетесь обратно ко входу! Проходит некоторое время, прежде чем вам снова становится легче дышать. Странное царапанье в горле остается с вами еще долго..."
 	},
 	{
 		"id": "LE_SewerAltar01_Loot",
-		"text": "You continue to wade through the nauseating sludge. The ground soon starts to slope upwards again and you reach firm ground, ending in a circular room. \n\nOn the wall you find a series of rusty metal protrusions that lead upwards in a spiral! [CTP]\n\nAfter some strenuous climbing, you reach a small chamber. Next to the hole from which you emerged, you discover a rusty crate, its lock broken."
+		"text": "Вы продолжаете пробираться через тошнотворный ил. Вскоре земля снова начинает подниматься вверх, и вы выходите на твердую почву, заканчивающуюся круглой комнатой. \n\nНа стене вы находите ряд ржавых металлических выступов, которые ведут вверх по спирали! [CTP]\n\nПосле трудного подъема вы попадаете в небольшую камеру. Рядом с отверстием, из которого вы вышли, вы находите ржавый ящик, замок которого сломан."
 	},
 	{
 		"id": "BE_GenericUndeadDungeonNeutral01",
@@ -10583,15 +10583,15 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Choice_Survival",
-		"text": "Examine the plants"
+		"text": "Осмотреть растения"
 	},
 	{
 		"id": "LE_SewerAltar01_SurvivalWin",
-		"text": "[char1] carefully examines the strange plants that are hanging around you: \n\n[char1]: \"Make sure you don’t touch the pods! You really don’t want to breathe in those spores or get them in your eyes!\""
+		"text": "[char1] внимательно изучает странные растущие кругом растения: \n\n[char1]: \"Следите за тем, чтобы не прикасаться к стручкам! Вам не захочется вдыхать эти споры или получить ими по глазам!\""
 	},
 	{
 		"id": "LE_SewerAltar01_SurvivalWin_female",
-		"text": "[char1] carefully examines the strange plants that are hanging around you: \n\n[char1]: \"Make sure you don’t touch the pods! You really don’t want to breathe in those spores or get them in your eyes!\""
+		"text": "[char1] внимательно изучает странные растущие кругом растения: \n\n[char1]: \"Следите за тем, чтобы не прикасаться к стручкам! Вам не захочется вдыхать эти споры или получить ими по глазам!\""
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Tech",
