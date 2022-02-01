@@ -3223,7 +3223,7 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Intro",
-		"text": "You cannot miss the Wehrmacht vehicles at the edge of the ruined village, so you approach with care. \n\nIn the village square, you see a goatherd surrounded by a large unit of German soldiers. You cannot make out what’s going on, but the mood is tense."
+		"text": "Вы не можете пройти мимо машин вермахта на окраине разрушенной деревни, поэтому осторожно подходите к ним. \n\nНа деревенской площади вы видите козопаса, окруженного большим отрядом немецких солдат. Вы не можете разобрать, что происходит, но атмосфера в деревне напряженная."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice01",
@@ -3239,43 +3239,43 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_BeduinThank",
-		"text": "After the sound of battle subsides, the nomad reappears from behind the rocks where he was taking cover. He thanks you effusively in an unfamiliar language."
+		"text": "Когда шум битвы стихает, кочевник снова появляется из-за скал, где он укрывался. Он горячо благодарит вас на незнакомом языке."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesF",
-		"text": "Unfortunately, the man speaks a dialect that is unknown to you, so you do not understand a word he says. You politely bid farewell and continue your journey."
+		"text": "К сожалению, этот человек говорит на неизвестном вам диалекте, поэтому вы не понимаете ни слова из того, что он говорит. Вы вежливо прощаетесь и продолжаете свой путь."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesW",
-		"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+		"text": "Вы не понимаете ни слова из того диалекта кочевников, на котором говорит этот человек. \n\n[char0] произносит несколько гортанных слов, и лицо мужчины озаряется. Между ними завязывается оживленный разговор, сопровождаемый знаками и жестами. [CTP]\n\n[char0]: \"Я не уверен, что правильно его понял - но мне кажется, он рассказывает о священном месте недалеко отсюда...\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesW_female",
-		"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+		"text": "Вы не понимаете ни слова из того диалекта кочевников, на котором говорит этот человек. \n\n[char0] произносит несколько гортанных слов, и лицо мужчины озаряется. Между ними завязывается оживленный разговор, сопровождаемый знаками и жестами. [CTP]\n\n[char0]: \"Я не уверена, что правильно его поняла - но мне кажется, он рассказывает о священном месте недалеко отсюда...\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_HolySite",
-		"text": "You bid the grateful nomad farewell and follow his directions. Some time later you reach a rock formation. \n\nAt its summit, a small spring flows from a small nook in the rock. Simple offerings indicate that travelers stop here occasionally."
+		"text": "Вы прощаетесь с благодарным кочевником и следуете его указаниям. Через некоторое время вы доходите до скалы. \n\nНа его вершине из небольшого углубления в скале течет небольшой источник. Простые подношения указывают на то, что здесь иногда останавливаются путешественники."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultF",
-		"text": "You take a look around the summit but do not find anything of importance. The offerings are wilted flowers and crude, worthless clay statuettes. \n\nYou drink from the spring and then continue your journey refreshed and in unusually good spirits."
+		"text": "Вы осматриваете вершину, но не находите ничего важного. Подношения состоят из увядших цветов и грубых, никчемных глиняных статуэток. \n\nВы пьете из источника, и затем продолжаете свой путь освеженными и в необычайно хорошем расположении духа."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultW",
-		"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[char1] throws back his head, stretches out his arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+		"text": "Внезапно, [char1] начинает весь дрожать: \n\n[char1]: \"Я чувствую странное присутствие в этом месте... не угрожающее или враждебное... но мощное и древнее, как само время...!\"\n\n[char1] запрокидывает голову назад, вытягивает руки с растопыренными пальцами и бормочет, словно в трансе: [CTP]\n\n[char1]: \"Я - вечный хозяин этого мирного места, ныне и вовеки веков! Все, что вы сделали для моего простого слуги, воздастся вам - кто примет мой дар?\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultW_female",
-		"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[Char1] throws back her head, stretches out her arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+		"text": "Внезапно, [char1] начинает вся дрожать: \n\n[char1]: \"Я чувствую странное присутствие в этом месте... не угрожающее или враждебное... но мощное и древнее, как само время...!\"\n\n[char1] запрокидывает голову назад, вытягивает руки с растопыренными пальцами и бормочет, словно в трансе: [CTP]\n\n[char1]: \"Я - вечный хозяин этого мирного места, ныне и вовеки веков! Все, что вы сделали для моего простого слуги, воздастся вам - кто примет мой дар?\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Blessed",
-		"text": "[char2] takes a deep breath. He has a strange glint in his eyes."
+		"text": "[char2] делает глубокий вдох. У него странный блеск в глазах."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Blessed_female",
-		"text": "[char2] takes a deep breath. She has a strange glint in her eyes."
+		"text": "[char2] делает глубокий вдох. У нее странный блеск в глазах."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Intro",
