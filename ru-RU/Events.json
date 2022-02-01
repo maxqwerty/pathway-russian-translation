@@ -207,7 +207,7 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Enter",
-		"text": "Таинственный колодец вызвал у вас интерес. Без лишних слов вы спускаетесь по каменным выступам, встроенным в стенку колодца. Пройдя по подземным туннелям, вы видите свет нескольких факелов на стенах хранилища перед собой. Вскоре вы начинаете слышать громкие, угрожающие голоса. [CTP]\n\nВы внимательно выглядываете из-за угла и видите большую группу немецких солдат! В центре группы стоит заключенный, которого агрессивно допрашивают солдаты. Они так увлечены допросом, что не замечают вас. Вы остановились, чтобы решить, что делать дальше."
+		"text": "Таинственный колодец вызвал у вас интерес. Без лишних слов вы спускаетесь по каменным выступам, встроенным в стенку колодца. Пройдя по подземным туннелям, вы видите свет нескольких факелов на стенах хранилища впереди. Вскоре вы начинаете слышать громкие, грозные голоса. [CTP]\n\nВы внимательно выглядываете из-за угла и видите большую группу немецких солдат! В центре группы стоит заключенный, которого агрессивно допрашивают солдаты. Они так увлечены допросом, что не замечают вас. Вы остановились, чтобы решить, что делать дальше."
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_Choice02",
@@ -659,7 +659,7 @@
 	},
 	{
 		"id": "FE_GenericDesertRuins01_C_Intro",
-		"text": "Остались только основы этой древней заброшенной деревни. Вы не находите ничего важного и продолжаете свой путь."
+		"text": "От этой древней заброшенной деревни остался только фундамент. Вы не находите ничего важного и продолжаете свой путь."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_D_Intro",
@@ -727,7 +727,7 @@
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_E_Intro",
-		"text": "При виде вас козы, дремавшие здесь, возбужденно блеют и вскакивают.\n\nКогда животные понимают, что вы не представляете угрозы, они возвращаются на пастбище."
+		"text": "При виде вас козы, дремавшие здесь, взволнованно блеют и вскакивают.\n\nКогда животные понимают, что вы не представляете угрозы, они возвращаются на пастбище."
 	},
 	{
 		"id": "ME_GenericOriental01_Choice01",
@@ -807,51 +807,51 @@
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_A_Intro",
-		"text": "A ghostly silence blankets the abandoned military camp. Its barricades are unmanned, the tarpaulins rustle in the wind. What happened to the soldiers who were camped here? \n\nYou do not have to wait long for an answer. All of a sudden, the camp springs to life: With mocking grins, the Nazi soldiers emerge from behind barrels and tents. It’s a trap!"
+		"text": "Жуткая тишина окутывает заброшенный военный лагерь. Его баррикады безлюдны, брезент шелестит на ветру. Что случилось с солдатами, которые стояли здесь лагерем? \n\nВам не придется долго ждать ответа. Внезапно лагерь оживает: с глумливыми насмешками нацистские солдаты выходят из-за бочек и палаток. Это ловушка!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_B_Intro",
-		"text": "You arrive at an abandoned military camp. The place seems deserted, the sandbag barriers are unmanned. Why did the Germans abandon the camp? \n\nAs if in response to your unspoken question, the camp suddenly springs to life: Soldiers jump out from behind barrels and tents. They point their rifles at you! You have walked into a trap!"
+		"text": "Вы приезжаете в заброшенный военный лагерь. Место кажется пустынным, заграждения из мешков с песком безлюдны. Почему немцы бросили лагерь? \n\nСловно в ответ на ваш невысказанный вопрос, лагерь внезапно оживает: солдаты выскакивают из-за бочек и палаток. Они направляют на вас свои винтовки! Вы попали в ловушку!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_C_Intro",
-		"text": "The military camp in front of you appears deserted, but you are suspicious of the silence. You approach carefully...\n\n… and walk right into a Nazi ambush! A detachment of soldiers emerges from the tents with weapons drawn and mocking grins on their faces!"
+		"text": "Военный лагерь перед вами кажется пустынным, но вас настораживает тишина. Вы осторожно приближаетесь...\n\n... и попадаете прямо к нацистам в засаду! Из палаток появляется отряд солдат с оружием наготове и насмешливыми оскалами на лицах!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_D_Intro",
-		"text": "You come across a German military camp. There isn’t a human soul to be seen far and wide. The camp looks like it was abandoned in a hurry – what happened here? \n\nAs you start to search the camp for answers you suddenly realize you have made a terrible mistake: You have fallen into a German trap, as soldiers emerge from the shadows with weapons drawn!"
+		"text": "Вы попадаете в немецкий военный лагерь. Вокруг не видно ни единой человеческой души. Лагерь выглядит так, будто его покинули в спешке - что здесь произошло? \n\nКогда вы начинаете искать ответы в лагере, вы вдруг понимаете, что совершили ужасную ошибку: вы попали в ловушку к немцам, а солдаты выходят из тени с оружием наготове!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_E_Intro",
-		"text": "You spot the abandoned military camp from a distance. All the clues point to a hasty departure. Hoping for further insights, you start to search the camp. \n\nOnly when you see soldiers stepping out of their tents with their guns drawn, do you realize that you've fallen into a trap!"
+		"text": "Вы замечаете заброшенный военный лагерь издалека. Все улики указывают на поспешное бегство. В надежде на новые сведения вы начинаете обыскивать лагерь. \n\nТолько когда вы видите солдат, выходящих из палаток с оружием наготове, вы понимаете, что попали в ловушку!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_F_Intro",
-		"text": "A ghostly silence hangs over the fortified camp in front of you. Your curiosity piqued, you begin to search the place.\n\nYou suddenly see movement in the camp - it’s an ambush!"
+		"text": "Над укрепленным лагерем перед вами повисла призрачная тишина. Любопытство разгорелось, и вы начали обыскивать это место.\n\nВдруг вы замечаете движение в лагере - это засада!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_A_Intro",
-		"text": "The moment you turn the corner, the sentry behind the sandbags spots you and sounds the alarm! You have startled a unit of German soldiers who have built a fortified camp here!"
+		"text": "Как только вы поворачиваете за угол, часовой за мешками с песком замечает вас и поднимает тревогу! Вы напугали отряд немецких солдат, которые устроили здесь укрепленный лагерь!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_B_Intro",
-		"text": "Up ahead of you, a detachment of German soldiers are hunkered down in a military camp! They have spotted you and are taking cover behind their sandbags! Moments later, they open fire!"
+		"text": "Перед вами отряд немецких солдат, затаившихся в военном лагере! Они заметили вас и укрываются за мешками с песком! Мгновением позже они открывают огонь!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_C_Intro",
-		"text": "You see sandbags piled up to provide improvised cover. You hear a loud cry and the fortified camp springs to life immediately. You dive for cover – moments later the bullets begin to fly!"
+		"text": "Вы видите мешки с песком, сложенные в импровизированное укрытие. Вы слышите громкий крик, и укрепленный лагерь немедленно оживает. Вы ныряете в укрытие - мгновение спустя начинают свистеть пули!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_D_Intro",
-		"text": "As you sneak up on the fortified camp, you are spotted! The resting soldiers are as surprised as you are! They frantically grab their weapons and open fire! You rush for cover and return fire!"
+		"text": "Когда вы подкрадываетесь к укрепленному лагерю, вас замечают! Отдыхающие солдаты удивлены не меньше вас! Они судорожно хватаются за оружие и открывают огонь! Вы бросаетесь в укрытие и открываете ответный огонь!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_E_Intro",
-		"text": "The soldiers in the military camp up ahead have not noticed you yet, so you decide to withdraw. Suddenly, you hear a loud cry: The guards have spotted you! The Germans grab their weapons as you dive for cover!"
+		"text": "Солдаты в военном лагере впереди еще не заметили вас, поэтому вы решаете отступить. Вдруг вы слышите громкий крик: караульные заметили вас! Немцы хватаются за оружие, а вы ныряете в укрытие!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_F_Intro",
-		"text": "If you thought you could sneak into the military camp unseen, you were mistaken! The soldiers have seen you and are preparing for battle!"
+		"text": "Если вы думали, что сможете незаметно пробраться в военный лагерь, то вы ошибались! Солдаты увидели вас и готовятся к бою!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_Choice01",
@@ -863,27 +863,27 @@
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_A_Intro",
-		"text": "You see a fortified German Army camp. The bored-looking guards are lounging around – they are not expecting an attack!"
+		"text": "Вы видите укрепленный лагерь немецкой армии. Скучающего вида охранники расслабленно слоняются без дела - они не ожидают нападения!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_B_Intro",
-		"text": "A group of soldiers is dug in behind sandbags in a fortified camp. They have not noticed you yet!"
+		"text": "Группа солдат окопалась за мешками с песком в укрепленном лагере. Они еще не заметили вас!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_C_Intro",
-		"text": "A unit of German soldiers is dug in behind sandbags up ahead of you. The soldiers are standing around in small groups and seem to be deep in conversation – they have not noticed you!"
+		"text": "Впереди вас за мешками с песком окопался отряд немецких солдат. Солдаты стоят вокруг небольшими группами и, похоже, увлечены разговором - вас они не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_D_Intro",
-		"text": "From afar you can hear commands echoing in the desert air. You cautiously sneak forward and discover sandbags and machine gun nests – the soldiers are building a fortified camp here!"
+		"text": "Издалека слышны команды, эхом отдающиеся в воздухе пустыни. Вы осторожно пробираетесь вперед и обнаруживаете мешки с песком и пулеметные гнезда - солдаты строят здесь укрепленный лагерь!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_E_Intro",
-		"text": "The large group of soldiers in the fortified camp did not consider it necessary to set a guard – a serious mistake!"
+		"text": "Большая группа солдат в укрепленном лагере не посчитала нужным выставить караул - серьезная ошибка!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_F_Intro",
-		"text": "From some distance away, you spot a large fortified camp in the endless desert. You carefully creep closer – the soldiers have not seen you!"
+		"text": "С некоторого расстояния вы замечаете большой укрепленный лагерь в бескрайней пустыне. Вы осторожно подкрадываетесь ближе - солдаты вас не заметили!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice01",
@@ -1551,7 +1551,7 @@
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilW",
-		"text": "Вы слышите несколько приглушенных ударов и звук поднимаемого с опоры тяжелого пулемета. \n\nМгновением позже тишину разрывает залп выстрелов, за которым следует оглушительный взрыв! Вы слышите возбужденные крики и выстрелы, в небо поднимается гигантское облако дыма. \n\nТопливохранилище загорается ярким огнем! [CTP]\n\nВоспользовавшись всеобщим хаосом, вы пробираетесь к радиостанции. Там вы хватаете пачку документов и ускользаете, пока солдаты все еще бегают вокруг, как испуганные муравьи! Когда вы добираетесь до безопасного места, вы внимательно осматриваете свои трофеи."
+		"text": "Вы слышите несколько приглушенных ударов и звук поднимаемого с опоры тяжелого пулемета. \n\nМгновением позже тишину разрывает залп выстрелов, за которым следует оглушительный взрыв! Вы слышите взволнованные крики и выстрелы, в небо поднимается гигантское облако дыма. \n\nТопливохранилище загорается ярким огнем! [CTP]\n\nВоспользовавшись всеобщим хаосом, вы пробираетесь к радиостанции. Там вы хватаете пачку документов и ускользаете, пока солдаты все еще бегают вокруг, как испуганные муравьи! Когда вы добираетесь до безопасного места, вы внимательно осматриваете свои трофеи."
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF",
@@ -2007,15 +2007,15 @@
 	},
 	{
 		"id": "AE_CarFailure01_Intro",
-		"text": "After an endless drive along dusty tracks, you hear a disturbing, rhythmic clatter from the engine – moments later, it dies with a tortured howl and your jeep slowly rolls to a stop. \n\nYou stare at each other in alarm."
+		"text": "После длительной езды по пыльным дорогам вы слышите тревожный, ритмичный стук двигателя - мгновения спустя он глохнет с мучительным воем, и ваш джип медленно останавливается. \n\nВы с тревогой смотрите друг на друга."
 	},
 	{
 		"id": "AE_CarFailure01_Standard",
-		"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock he was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+		"text": "Вы осматриваете дымящийся двигатель, в то время как [char1] сидел на близлежащем камне.\n\nКак только вы заканчиваете ремонт, [char1] закричал и резко подскочил! [CTP]\n\nКамень, на котором он сидел, оказался термитником! [char1] судорожно пытается стряхнуть термитов, но они повсюду! \n\nК тому времени, как вы наконец-то уезжаете, все его тело было покрыто болезненными укусами термитов..."
 	},
 	{
 		"id": "AE_CarFailure01_Standard_female",
-		"text": "You peer at the smoking engine while [char1] sits comfortably on a nearby rock.\n\nAs you finish your emergency repairs, [char1] screams and jumps up! [CTP]\n\nThe rock she was sitting on was a termite mound! [char1] frantically tries to shake off the termites, but they are everywhere! \n\nBy the time you leave, [char1]’s entire body is covered with painful termite bites..."
+		"text": "Вы осматриваете дымящийся двигатель, в то время как [char1] сидела на близлежащем камне.\n\nКак только вы закончили ремонт, [char1] закричала и резко подскочила! [CTP]\n\nКамень, на котором она сидела, оказался термитником! [char1] судорожно пытается стряхнуть термитов, но они повсюду! \n\nК тому времени, как вы наконец-то уезжаете, все ее тело было покрыто болезненными укусами термитов..."
 	},
 	{
 		"id": "AE_CarFailure01_Technical",
@@ -2035,67 +2035,67 @@
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalF",
-		"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock he was sitting on was a termite mound! The insect bites are extremely painful..."
+		"text": "[char0]: \"Выглядит не очень...\"\n\nПока джип чинят и можно будет продолжить путь, вы вынуждены сидеть на камнях и ждать. [CTP]\n\n[char1] кричит и резко подпрыгивает! Камень, на котором он сидел, оказался термитником! Укусы насекомых чрезвычайно болезненны..."
 	},
 	{
 		"id": "AE_CarFailure01_TechnicalF_female",
-		"text": "[char0]: \"It doesn’t look good...\"\n\nYou sit down helplessly on the rocks until the jeep is patched up again and the journey can continue. [CTP]\n\n[char1] screams and leaps into the air! The rock she was sitting on was a termite mound! The insect bites are extremely painful..."
+		"text": "[char0]: \"Выглядит не очень...\"\n\nПока джип чинят и можно будет продолжить путь, вы вынуждены сидеть на камнях и ждать. [CTP]\n\n[char1] кричит и резко подпрыгивает! Камень, на котором она сидела, оказался термитником! Укусы насекомых чрезвычайно болезненны..."
 	},
 	{
 		"id": "AE_CarFailure02_Intro",
-		"text": "With no warning, your jeep’s engine starts to sputter and then dies completely. It slowly rolls to a stop in the desert sands."
+		"text": "Без всякого предупреждения двигатель вашего джипа начинает хрипеть, а затем полностью глохнет. Он плавно останавливается в песках пустыни."
 	},
 	{
 		"id": "AE_CarFailure02_Standard",
-		"text": "It takes you a while to work out what’s wrong with the jeep. The tank has sprung a leak and is losing gas! \n\nYou manage an improvised repair. After a short delay, you resume your journey."
+		"text": "Вам потребуется время, чтобы понять, что случилось с джипом. В баке образовалась течь, и он потерял часть топлива! \n\nВы сумели провести импровизированный ремонт. После небольшой задержки вы возобновляете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalW",
-		"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. He soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. Вскоре он находит и устраняет неисправность: двигатель снова работает без сбоев, и вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalW_female",
-		"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. She soon finds and repairs the problem: The engine runs smoothly again as you continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. Вскоре она находит и устраняет неисправность: двигатель снова работает без сбоев, и вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalF",
-		"text": "[char0] scratches his chin and examines the engine carefully, mumbling to himself. \n\nIt takes him some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. \n\nЕму требуется некоторое время, чтобы устранить проблему. Время тянется мучительно медленно, но в конце концов вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure02_TechnicalF_female",
-		"text": "[char0] scratches her chin and examines the engine carefully, mumbling to herself. \n\nIt takes her some time to fix the problem. Time passes painfully slowly, but you are soon able to continue your journey."
+		"text": "[char0] почесывает подбородок и внимательно осматривает двигатель, бормоча под нос. \n\nЕй требуется некоторое время, чтобы устранить проблему. Время тянется мучительно медленно, но в конце концов вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_Intro",
-		"text": "The gravel road you have been following for the past few hours finally peters out. Slowly and laboriously you slog your way through the sand dunes. \n\nSuddenly, your jeep gets stuck in the sand – you gun the engine in vain, kicking up a fountain of sand. You’re stuck!"
+		"text": "Грунтовая дорога, по которой вы ехали последние несколько часов, наконец-то заканчивается. Медленно и тяжело вы пробираетесь через песчаные дюны. \n\nВнезапно ваш джип застревает в песке - вы тщетно пытаетесь завести двигатель, поднимая фонтан песка. Вы застряли!"
 	},
 	{
 		"id": "AE_CarFailure03_Standard",
-		"text": "Drenched in sweat, you work tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, you manage to maneuver the jeep to more stable ground. The journey can finally continue.\n\nIt is not until much later that you notice that you lost one of your ammo crates in the sand!"
+		"text": "Обливаясь потом, вы неустанно работаете, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, вам удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие.\n\nИ только гораздо позже вы замечаете, что потеряли в песке один из ящиков с патронами!"
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthW",
-		"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+		"text": "[char0] выпрыгивает из машины и, пыхтя и отдуваясь, выталкивает ее из дюны. Вскоре вы оказываетесь на более устойчивой земле. Теперь вы можете беспрепятственно продолжить свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthW_female",
-		"text": "[char0] jumps out of the car and heaves it, huffing and puffing, out of the dune. You are soon on firmer ground. You can now continue your journey unimpeded."
+		"text": "[char0] выпрыгивает из машины и, пыхтя и отдуваясь, выталкивает ее из дюны. Вскоре вы оказываетесь на более устойчивой земле. Теперь вы можете беспрепятственно продолжить свой путь."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthF",
-		"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, he manages to maneuver the jeep to more stable ground. The journey can finally continue."
+		"text": "Обливаясь потом, [char0] неустанно работает, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, ему удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие."
 	},
 	{
 		"id": "AE_CarFailure03_RawStrengthF_female",
-		"text": "Drenched in sweat, [char0] works tirelessly to free the stranded car as time marches on relentlessly. \n\nEventually, she manages to maneuver the jeep to more stable ground. The journey can finally continue."
+		"text": "Обливаясь потом, [char0] неустанно работает, чтобы освободить застрявший автомобиль, а время неумолимо проходит. \n\nВ конце концов, ей удается вывести джип на более устойчивую почву. Наконец-то можно продолжить путешествие."
 	},
 	{
 		"id": "AE_CarFailure04_Intro",
-		"text": "You are racing along the endless desert track, when suddenly a massive jet of steam and hot water shoots out of the front of your jeep and splashes against your windshield. \n\nYour radiator has boiled over! [CTP] \n\nYou step on the brakes and get out to investigate the damage: Fortunately, the engine is in good working order. You take a forced break and look for the radiator cap in the desert sand as you wait for the engine to cool down. \n\nWith new water in the cooler, you continue your journey."
+		"text": "Вы мчитесь по бесконечной пустынной трассе, как вдруг из передней части вашего джипа вырывается мощная струя пара и горячей воды и брызгает на лобовое стекло. \n\nУ вас закипел радиатор! [CTP] \n\nВы нажимаете на тормоза и выходите из машины, чтобы осмотреть повреждения: к счастью, двигатель в рабочем состоянии. Вы делаете вынужденный перерыв и ищете крышку радиатора в песке пустыни, ожидая, пока остынет двигатель. \n\nЗалив новую воду в охладитель, вы продолжаете свой путь."
 	},
 	{
 		"id": "AE_CarFailure05_Intro",
-		"text": "You are racing along the gravel track at full speed and enjoying the cool wind on your face when a loud bang breaks the monotonous sound of the engine! \n\nAt first, you think it is a gunshot, but as your jeep starts to skid, you realize: you have a flat tire! [CTP]\n\nWith some difficulty, you bring the car to a halt so you can take a closer look at the damage. \n\nYou’re going to have to change the wheel. You take the opportunity to retighten all the screws on your wheels before restarting your journey."
+		"text": "Вы мчитесь по гравийной трассе на полной скорости и наслаждаетесь прохладным ветром на лице, как вдруг монотонный звук мотора нарушает громкий взрыв! \n\nСначала вы думаете, что это выстрел, но когда ваш джип начинает заносить, вы понимаете: у вас спустило колесо! [CTP]\n\nС некоторым трудом вы останавливаете машину, чтобы осмотреть повреждения. \n\nВам придется менять колесо. Вы пользуетесь случаем, чтобы затянуть винты всех на колесах, прежде чем продолжить путь."
 	},
 	{
 		"id": "AE_TimeLost01_Intro",
@@ -2119,7 +2119,7 @@
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Intro",
-		"text": "Недалеко от вас в небе кружат стервятники. В пустыне это может означать все что угодно, поэтому вы решаете разобраться. Вы взбираетесь на вершину дюны, чтобы хорошо видеть: Вы замечаете останки немецкого солдата. [CTP]\n\nВы обыскиваете то немногое, что оставили стервятники. Человек был мертв уже довольно давно. Вероятно, он умер от жажды. Вы находите курьерскую сумку на его поясе. \n\nКогда вы открываете ее, на горячий песок пустыни выпадает сложенная карта. Вы изучаете карту - кто-то отметил крест недалеко от вашего местоположения. [CTP]\n\nВы хороните останки человека, чтобы защитить их от стервятников, и продолжаете свой путь."
+		"text": "Недалеко от вас в небе кружат стервятники. В пустыне это может означать все что угодно, поэтому вы решаете разобраться. Вы взбираетесь на вершину дюны, чтобы хорошо осмотреться: вы замечаете останки немецкого солдата. [CTP]\n\nВы обыскиваете то немногое, что оставили стервятники. Человек был мертв уже довольно давно. Вероятно, он умер от жажды. Вы находите курьерскую сумку на его поясе. \n\nКогда вы открываете ее, на горячий песок пустыни выпадает сложенная карта. Вы изучаете карту - кто-то отметил крест недалеко от вашего местоположения. [CTP]\n\nВы хороните останки человека, чтобы защитить их от стервятников, и продолжаете свой путь."
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice01",
@@ -2131,7 +2131,7 @@
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Stash",
-		"text": "Вы находите спрятанный между пальмами ящик немецкой армии. Когда вы открываете его, то не знаете, что делать с содержимым: там сотни маленьких белых таблеток, аккуратно упакованных в удобные картонные коробки без этикеток. [CTP]\n\nСудя по всему, вам попались какие-то фармацевтические принадлежности вермахта, но нет никакой инструкции по эксплуатации или чего-либо, что могло бы дать подсказку об этой находке."
+		"text": "Вы находите спрятанный между пальмами немецкий армейский ящик. Когда вы открываете его, то не знаете, что делать с содержимым: там сотни маленьких белых таблеток, аккуратно упакованных в удобные картонные коробки без этикеток. [CTP]\n\nСудя по всему, вам попались какие-то фармацевтические принадлежности вермахта, но нет никакой инструкции по эксплуатации или чего-либо, что могло бы дать подсказку об этой находке."
 	},
 	{
 		"id": "GE_DeadNaziCourier01_Choice03",
@@ -2339,23 +2339,23 @@
 	},
 	{
 		"id": "LE_GenericNaziCamp01_A_Intro",
-		"text": "Behind some brushwood, you discover an abandoned Wehrmacht camp. You look around carefully, but there is no trace of the garrison. Shrugging, you search the supplies the Germans left behind."
+		"text": "За несколькими зарослями кустарника вы замечаете заброшенный лагерь вермахта. Вы внимательно осматриваетесь, но никаких следов гарнизона нет. Пожав плечами, вы обыскиваете оставленные немцами припасы."
 	},
 	{
 		"id": "LE_GenericNaziCamp01_B_Intro",
-		"text": "Soldiers were camped here some time ago, but now a layer of desert sand lies over the abandoned camp. Were the soldiers surprised by a sandstorm? You search the crates for anything valuable."
+		"text": "Некоторое время назад здесь располагался лагерь солдат, но теперь над заброшенным лагерем лежит слой пустынного песка. Может быть, солдат застала врасплох песчаная буря? Вы обыскиваете ящики в поисках чего-нибудь ценного."
 	},
 	{
 		"id": "LE_GenericNaziCamp01_C_Intro",
-		"text": "You come across an abandoned German camp. It’s garrison must have left in a hurry, because everyday utensils are still lying around. You search it carefully."
+		"text": "Вы наткнулись на заброшенный немецкий лагерь. Гарнизон, видимо, уходил в спешке, потому что здесь все еще валяется повседневная утварь. Вы тщательно обыскиваете его."
 	},
 	{
 		"id": "LE_GenericNaziCamp01_D_Intro",
-		"text": "You spot the abandoned camp from a distance. A few scouts rested here, but they must have moved on days ago. You search the place quickly to see if they left anything of value."
+		"text": "Издалека вы замечаете заброшенный лагерь. Здесь отдыхали несколько разведчиков, но они, должно быть, ушли несколько дней назад. Вы быстро обыскиваете это место, чтобы проверить, не оставили ли они что-нибудь ценное."
 	},
 	{
 		"id": "LE_GenericNaziCamp01_E_Intro",
-		"text": "The abandoned camp looks like a single German soldier rested here. What became of him? Shrugging, you search his crates."
+		"text": "Заброшенный лагерь выглядит так, будто здесь отдыхал один-единственный немецкий солдат. Что с ним стало? Пожав плечами, вы обыскиваете его ящики."
 	},
 	{
 		"id": "SE_Adventure01Clue02_Intro",
@@ -2831,23 +2831,23 @@
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_Intro",
-		"text": "Деревня выглядит запущенной и заброшенной. Вы видите небольшой шлейф дыма, поднимающийся из двора караван-сарая. \n\nВы решаете все разузнать - и натыкаетесь на отряд немецких солдат, которые разбили здесь лагерь!"
+		"text": "Деревня выглядит запущенной и заброшенной. Вы замечаете небольшой шлейф дыма, поднимающийся из двора караван-сарая. \n\nВы решаете все разузнать - и натыкаетесь на отряд немецких солдат, которые разбили здесь лагерь!"
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPC",
-		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рад, что нашел вас здесь! Лейтенант Мюллер из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на него: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
+		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рад, что нашел вас здесь! Лейтенант Мюллер, из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на него: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPC_female",
-		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рада, что нашла вас здесь! Лейтенант Мюллер из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на нее: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
+		"text": "На мгновение вы ошарашено смотрите друг на друга, когда [char0] внезапно делает шаг вперед: \n\n[char0]: \"Я рада, что нашла вас здесь! Лейтенант Мюллер, из офиса в Касабланке, докладываю о тайной перевозке пленных!\" [CTP]\n\nИзмученный погодой сержант встает из-за полевого стола и с подозрением смотрит на нее: \n\n[char1]: \"Лейтенант Мюллер, хм...?\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCW",
-		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже говорил: Я рад, что нашел вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
+		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже сказал: я рад, что нашел вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCW_female",
-		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже говорила: я рада, что нашла вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
+		"text": "[char0]: \"При обращении к немецкому офицеру необходимо стоять по стойке смирно!\"\n\nСолдаты в тревоге вскакивают на ноги. [char0] энергично прочищает горло: [CTP]\n\n[char0]: \"Как я уже сказала: я рада, что нашла вас. Скажите, насколько хорошо обеспечен топливом ваш автомобиль?\"\n\nСержант с трудом подбирает слова, и [char0] ободряюще хлопает его по плечу:\n\n[char0]: \"Великолепно! В моем отчете вы получите высокую оценку!\""
 	},
 	{
 		"id": "BE_SurprisedSoldiers01_TrickNPCF",
@@ -3047,11 +3047,11 @@
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF",
-		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Его лодыжка уже начинает опухать в том месте, где существо его укусило."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Взволнованные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Его лодыжка уже начинает опухать в том месте, где существо его укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_SearchF_female",
-		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Возбужденные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Ее лодыжка уже начинает опухать в том месте, где существо ее укусило."
+		"text": "Вы осторожно переворачиваете тело, чтобы добраться до свертка. Взволнованные пауки яростно снуют вокруг. Они быстрее, чем вы ожидали! \n\nВнезапно, [char0] кричит и вытряхивает паука из штанины. Ее лодыжка уже начинает опухать в том месте, где существо ее укусило."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_WildernessW",
@@ -3223,7 +3223,7 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Intro",
-		"text": "You cannot miss the Wehrmacht vehicles at the edge of the ruined village, so you approach with care. \n\nIn the village square, you see a goatherd surrounded by a large unit of German soldiers. You cannot make out what’s going on, but the mood is tense."
+		"text": "Вы не можете пройти мимо машин вермахта на окраине разрушенной деревни, поэтому осторожно подходите к ним. \n\nНа деревенской площади вы видите козопаса, окруженного большим отрядом немецких солдат. Вы не можете разобрать, что происходит, но атмосфера в деревне напряженная."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Choice01",
@@ -3239,43 +3239,43 @@
 	},
 	{
 		"id": "BE_HolyMountainSpring01_BeduinThank",
-		"text": "After the sound of battle subsides, the nomad reappears from behind the rocks where he was taking cover. He thanks you effusively in an unfamiliar language."
+		"text": "Когда шум битвы стихает, кочевник снова появляется из-за скал, где он укрывался. Он горячо благодарит вас на незнакомом языке."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesF",
-		"text": "Unfortunately, the man speaks a dialect that is unknown to you, so you do not understand a word he says. You politely bid farewell and continue your journey."
+		"text": "К сожалению, этот человек говорит на неизвестном вам диалекте, поэтому вы не понимаете ни слова из того, что он говорит. Вы вежливо прощаетесь и продолжаете свой путь."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesW",
-		"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+		"text": "Вы не понимаете ни слова из того диалекта кочевников, на котором говорит этот человек. \n\n[char0] произносит несколько гортанных слов, и лицо мужчины озаряется. Между ними завязывается оживленный разговор, сопровождаемый знаками и жестами. [CTP]\n\n[char0]: \"Я не уверен, что правильно его понял - но мне кажется, он рассказывает о священном месте недалеко отсюда...\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_LanguagesW_female",
-		"text": "You do not understand a word of the nomad dialect the man speaks. \n\n[char0] utters a few guttural words, and the man’s face lights up. They engage in an animated conversation, punctuated with signs and gestures. [CTP]\n\n[char0]: \"I'm not sure I understood him correctly – but I think he's telling us about a sacred site not far from here...\""
+		"text": "Вы не понимаете ни слова из того диалекта кочевников, на котором говорит этот человек. \n\n[char0] произносит несколько гортанных слов, и лицо мужчины озаряется. Между ними завязывается оживленный разговор, сопровождаемый знаками и жестами. [CTP]\n\n[char0]: \"Я не уверена, что правильно его поняла - но мне кажется, он рассказывает о священном месте недалеко отсюда...\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_HolySite",
-		"text": "You bid the grateful nomad farewell and follow his directions. Some time later you reach a rock formation. \n\nAt its summit, a small spring flows from a small nook in the rock. Simple offerings indicate that travelers stop here occasionally."
+		"text": "Вы прощаетесь с благодарным кочевником и следуете его указаниям. Через некоторое время вы доходите до скалы. \n\nНа его вершине из небольшого углубления в скале течет небольшой источник. Простые подношения указывают на то, что здесь иногда останавливаются путешественники."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultF",
-		"text": "You take a look around the summit but do not find anything of importance. The offerings are wilted flowers and crude, worthless clay statuettes. \n\nYou drink from the spring and then continue your journey refreshed and in unusually good spirits."
+		"text": "Вы осматриваете вершину, но не находите ничего важного. Подношения состоят из увядших цветов и грубых, никчемных глиняных статуэток. \n\nВы пьете из источника, и затем продолжаете свой путь освеженными и в необычайно хорошем расположении духа."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultW",
-		"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[char1] throws back his head, stretches out his arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+		"text": "Внезапно, [char1] начинает весь дрожать: \n\n[char1]: \"Я чувствую странное присутствие в этом месте... не угрожающее или враждебное... но мощное и древнее, как само время...!\"\n\n[char1] запрокидывает голову назад, вытягивает руки с растопыренными пальцами и бормочет, словно в трансе: [CTP]\n\n[char1]: \"Я - вечный хозяин этого мирного места, ныне и вовеки веков! Все, что вы сделали для моего простого слуги, воздастся вам - кто примет мой дар?\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_OccultW_female",
-		"text": "Suddenly, a shudder passes through [char1]’s body: \n\n[char1]: \"I feel a strange presence in this place... not directly threatening or hostile... but powerful and as old as time itself...!\"\n\n[Char1] throws back her head, stretches out her arms with fingers spread and murmurs as if in a trance: [CTP]\n\n[char1]: \"I am the eternal Master of this peaceful place, now and forever more! Whatsoever you have done for my simple servant, that shall be repaid unto you – who shall receive my gift?\""
+		"text": "Внезапно, [char1] начинает вся дрожать: \n\n[char1]: \"Я чувствую странное присутствие в этом месте... не угрожающее или враждебное... но мощное и древнее, как само время...!\"\n\n[char1] запрокидывает голову назад, вытягивает руки с растопыренными пальцами и бормочет, словно в трансе: [CTP]\n\n[char1]: \"Я - вечный хозяин этого мирного места, ныне и вовеки веков! Все, что вы сделали для моего простого слуги, воздастся вам - кто примет мой дар?\""
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Blessed",
-		"text": "[char2] takes a deep breath. He has a strange glint in his eyes."
+		"text": "[char2] делает глубокий вдох. У него странный блеск в глазах."
 	},
 	{
 		"id": "BE_HolyMountainSpring01_Blessed_female",
-		"text": "[char2] takes a deep breath. She has a strange glint in her eyes."
+		"text": "[char2] делает глубокий вдох. У нее странный блеск в глазах."
 	},
 	{
 		"id": "BE_SanctuaryExcavation1_Intro",
@@ -3875,43 +3875,43 @@
 	},
 	{
 		"id": "LE_MountainChase01_Intro",
-		"text": "As you turn the next bend on the bumpy mountain track, you see a lone German soldier standing at the side of the path. \n\nWhen he sees you, he leaps into his jeep and accelerates away!"
+		"text": "Повернув на следующем повороте на ухабистой горной дороге, вы видите одинокого немецкого солдата, стоящего на обочине. \n\nУвидев вас, он прыгает в свой джип и мчится прочь!"
 	},
 	{
 		"id": "LE_MountainChase01_Choice01",
-		"text": "Car chase!"
+		"text": "Преследовать!"
 	},
 	{
 		"id": "LE_MountainChase01_Choice02",
-		"text": "Follow carefully"
+		"text": "Осторожно последовать"
 	},
 	{
 		"id": "LE_MountainChase01_Choice03",
-		"text": "Ignore the fleeing German"
+		"text": "Игнорировать убегающего немца"
 	},
 	{
 		"id": "LE_MountainChase01_RecklessW",
-		"text": "For several minutes, you race after the man at breakneck speed along steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nSuddenly, a camel appears on the track around the next corner. The man swerves frantically - but it is too late! \n\nThe car starts to skid and then flips over, rolling several times before coming to a stop at the edge of the track! You jump out to investigate the jeep and its lifeless driver."
+		"text": "В течение нескольких минут вы на бешеной скорости гонитесь за человеком по отвесным скалам и крутым поворотам! \n\nВы предпринимаете несколько попыток поравняться с вражеским джипом, но каждый раз он резко сворачивает, почти сбивая вас с трассы! [CTP]\n\nВнезапно за следующим поворотом на трассе появляется верблюд. Мужчина резко сворачивает - но уже слишком поздно! \n\nАвтомобиль начинает заносить, а затем он переворачивается, перекатывается несколько раз, и затем останавливается на краю трассы! Вы выскакиваете наружу, чтобы осмотреть джип и его безжизненного водителя."
 	},
 	{
 		"id": "LE_MountainChase01_RecklessF",
-		"text": "For several minutes, you follow the man at breakneck speed along the steep cliffs and hairpin bends! \n\nYou make several attempts to draw level with the enemy jeep, but each time he swerves ruthlessly, almost forcing you off the track! [CTP]\n\nYou round the next turn to see a camel standing directly in your path! You hit the brakes and tear at the steering wheel! Your jeep skids from side to side and eventually comes to a screeching halt, inches away from the abyss! \n\nYou watch as the enemy jeep disappears around the next corner. As you examine your cargo, you notice that a jerrycan broke loose..."
+		"text": "В течение нескольких минут вы на бешеной скорости гонитесь за человеком по отвесным скалам и крутым поворотам! \n\nВы предпринимаете несколько попыток поравняться с вражеским джипом, но каждый раз он резко сворачивает, почти сбивая вас с трассы! [CTP]\n\nНа следующем повороте вы видите верблюда, стоящего прямо на вашем пути! Вы жмете на тормоза и поворачиваете руль! Ваш джип скользит из стороны в сторону и в конце концов с визгом останавливается в нескольких сантиметрах от пропасти! \n\nВы наблюдаете, как вражеский джип исчезает за следующим поворотом. Осматривая свой груз, вы замечаете, что отвалилась одна канистра..."
 	},
 	{
 		"id": "LE_MountainChase01_CautiousW",
-		"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on him inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: He has stopped his jeep at the side of the track and is attempting to climb down the steep cliff face. \n\nSuddenly, you hear a deep rumble - a layer of scree slides away from the side of the cliff and buries the unfortunate man!"
+		"text": "Благодаря железным нервам вы остаетесь на хвосте у убегающего автомобиля, неумолимо настигая его. \n\nВскоре вы догоните вражеский джип! [CTP]\n\nПовернув на следующем повороте, вы видите, что немец пришел к такому же выводу: он бросил свой джип на обочине и пытается спуститься вниз по отвесной скале. \n\nВдруг раздается глубокий грохот - пласт осыпи сползает со стороны обрыва и погребает под собой несчастного!"
 	},
 	{
 		"id": "LE_MountainChase01_CautiousF",
-		"text": "With nerves of steel, you stay on the tail of the fleeing vehicle, gaining on them inexorably. \n\nYou will soon catch up with the enemy jeep! [CTP]\n\nAs you turn the next bend, you see that the German has come to the same conclusion: Slamming his foot down on the accelerator in one last desperate attempt to escape, he loses control of the jeep and crashes into the depths! The vehicle disappears in a ball of flames!"
+		"text": "Благодаря железным нервам вы остаетесь на хвосте у убегающего автомобиля, неумолимо настигая его. \n\nВскоре вы догоните вражеский джип! [CTP]\n\nПовернув на следующем повороте, вы видите, что немец пришел к такому же выводу: нажимая на педаль газа в отчаянной попытке спастись, он теряет контроль над джипом и падает в пропасть! Автомобиль исчезает в клубах пламени!"
 	},
 	{
 		"id": "LE_MountainChase01_IgnoreF",
-		"text": "With a shrug, you ignore the man. He soon disappears from sight. \n\nAs you leave the mountains behind, you decide to take a side track, just in case the man sent reinforcements your way. But you encounter no one."
+		"text": "Пожав плечами, вы не обращаете внимания на этого человека. Вскоре он исчезает из виду. \n\nКогда вы оставляете горы позади, вы решаете свернуть на боковую тропу, на случай, если этот человек пришлет подкрепление в вашу сторону. Но вы так никого и не встретили."
 	},
 	{
 		"id": "LE_MountainChase01_IgnoreW",
-		"text": "Shrugging, you ignore the man, who soon disappears from sight. Several minutes later, you round a sharp bend to find the overturned wreck of the fleeing car.\n\nYou quickly get out to investigate the jeep and its lifeless driver."
+		"text": "Пожав плечами, вы не обращаете внимания на этого человека. Через несколько минут, обогнув крутой поворот, вы обнаруживаете перевернутые обломки убегавшей машины.\n\nВы быстро выходите из машины, чтобы осмотреть джип и его безжизненного водителя."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Intro",
@@ -3987,15 +3987,15 @@
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Intro",
-		"text": "You have lost sight of the unit of German soldiers you were trailing in the confusing labyrinth of water tunnels. \n\nAs you silently traverse the ancient cisterns, you hear the echo of their boots around you."
+		"text": "Вы потеряли из виду отряд немецких солдат, за которым следовали по запутанному лабиринту водных туннелей. \n\nБесшумно ступая по древним цистернам, вы слышите кругом эхо их ботинок."
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Intro2",
-		"text": "Suddenly, screams echo through the tunnels. You hear a few shots – then silence! \n\nWarily, you continue down tunnels bathed in the unreal light of the strange, iridescent flowers that grow on the damp walls. [CTP]\n\nAs the passage finally widens, you see the bodies of the German soldiers lying lifeless in a sea of ​​dimly glowing flowers. \n\nWhat happened here?"
+		"text": "Внезапно крики эхом разносятся по туннелям. Вы слышите несколько выстрелов - затем тишина! \n\nНасторожившись, вы продолжаете идти по туннелям, залитым нереальным светом странных, радужных цветов, растущих на влажных стенах. [CTP]\n\nКогда проход наконец расширяется, вы видите тела немецких солдат, безжизненно лежащие в океане тускло светящихся цветов. \n\nЧто здесь произошло?"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice01",
-		"text": "Leave the cisterns"
+		"text": "Покинуть цистерну"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice02",
@@ -4003,27 +4003,27 @@
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Choice03",
-		"text": "Search the side tunnels"
+		"text": "Обыскать боковые туннели"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_SideSewerF",
-		"text": "A search of the side tunnels provides no new information. These luminous flowers seem to be all around you! \n\nYou guess you’ll never know what the Germans were doing here. You return to the open air and continue your journey."
+		"text": "Поиск в боковых туннелях не дает никакой новой информации. Кажется, будто эти светящиеся цветы окружают вас повсюду! \n\nНаверное, вы никогда не узнаете, что здесь делали немцы. Вы возвращаетесь на открытое пространство и продолжаете свой путь."
 	},
 	{
 		"id": "LE_HungrySewerFlower01_SideSewerW",
-		"text": "In one of the side tunnels, you find another dead soldier. As you approach him, you see a sudden movement: a vine that had been wrapped around the man slithers free! [CTP]\n\nA murderous, carnivorous plant? You are not keen to get to the bottom of this! You seize the man's equipment and beat a hasty retreat!"
+		"text": "В одном из боковых туннелей вы находите еще одного мертвого солдата. Когда вы приближаетесь к нему, вы видите внезапное движение: лоза, обвивавшая человека, вырвалась на свободу! [CTP]\n\nСмертоносное, плотоядное растение? У вас нет желания разбираться с этим! Вы забираете снаряжение мужчины и поспешно отступаете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersF",
-		"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling him! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! Следов таинственных убийц не видно... [CTP]\n\nКогда вы начинаете подбирать вещи солдат, [char0] внезапно вскрикивает! Вы оборачиваетесь и видите извилистую лозу, которая обвилась его шеи и начинает душить! Вы яростно бьете лозу, разрывая ее как раз вовремя, когда [char0] начинает задыхаться! [CTP]\n\nСмертоносное, плотоядное растение? Вы убегаете от моря смертоносных цветов так быстро, как только можете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersF_female",
-		"text": "You inspect the dead soldiers to work out what killed them. \n\nIn the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! There is no trace of their mysterious assailants... [CTP]\n\nAs you start to pick up the soldiers' valuables, [char0] suddenly cries out! You turn around to see a sinuous vine winding its way around [char0]’s neck and throttling her! You slash at the vine furiously, severing it just in time as [char0] gasps for breath! [CTP]\n\nA murderous, carnivorous plant? You flee the the sea of ​​deadly flowers as fast as you can!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! Следов таинственных убийц не видно... [CTP]\n\nКогда вы начинаете подбирать вещи солдат, [char0] внезапно вскрикивает! Вы оборачиваетесь и видите извилистую лозу, которая обвилась его шеи и начинает душить! Вы яростно бьете лозу, разрывая ее как раз вовремя, когда [char0] начинает задыхаться! [CTP]\n\nСмертоносное, плотоядное растение? Вы убегаете от моря смертоносных цветов так быстро, как только можете!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_DeadSoldiersW",
-		"text": "You inspect the dead soldiers to work out what killed them. In the glow of the phosphorescent flowers, you notice rough bruising on their necks. The soldiers were strangled! [CTP]\n\nThere is no trace of their mysterious assailants... \n\nYou snatch up the valuables scattered on the ground and quickly leave this eerie place!"
+		"text": "Вы осматриваете мертвых солдат, чтобы выяснить, что их убило. \n\nВ сиянии фосфоресцирующих цветов вы замечаете грубые кровоподтеки на их шеях. Солдаты были задушены! [CTP]\n\nСледов таинственных убийц не видно... \n\nВы подбираете разбросанные на земле ценности и быстро покидаете это жуткое место!"
 	},
 	{
 		"id": "AE_CollapsingSewer01_Intro",
@@ -4075,11 +4075,11 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Intro",
-		"text": "The porous masonry disappears into the rock face. It looks like the entrance to an old, abandoned sewage system. \n\nA noxious, unhealthy smell rises to your nostrils - you're not sure what to do: Do you really want to explore this dank, dilapidated labyrinth?"
+		"text": "Пористая кладка уходит в толщу скалы. Это похоже на вход в старую, заброшенную канализационную систему. \n\nОтвратительный, нездоровый запах доносится до ваших ноздрей - вы не уверены, что делать: действительно ли вы хотите исследовать этот затхлый, полуразрушенный лабиринт?"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice01",
-		"text": "Explore the cisterns"
+		"text": "Исследовать цистерны"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice02",
@@ -4087,19 +4087,19 @@
 	},
 	{
 		"id": "LE_SewerAltar01_DeadEnd",
-		"text": "To your disappointment, the tunnels soon finish in a dead end. Like it or not, you have to turn back."
+		"text": "К вашему разочарованию, туннели вскоре заканчиваются тупиком. Хотите вы этого или нет, но вам приходится повернуть назад."
 	},
 	{
 		"id": "LE_SewerAltar01_GraveRobber",
-		"text": "To your disappointment, the tunnels soon finish in a dead end. \n\nJust as you are about to turn back, your gaze falls on the remains of the man who was crushed by the cave-in. [CTP]\n\nA grave robber? Or a goatherd seeking protection from the scorching sun? You find a bundle in the dead man’s hands, but the contents do not answer your questions."
+		"text": "К вашему разочарованию, туннели вскоре заканчиваются тупиком. \n\nКогда вы уже собираетесь повернуть назад, ваш взгляд падает на останки человека, которого придавило обвалом. [CTP]\n\nРасхититель могил? Или пастух, ищущий защиты от палящего солнца? Вы находите в руках мертвеца сверток, но его содержимое не отвечает на ваши вопросы."
 	},
 	{
 		"id": "LE_SewerAltar01_WadeWater",
-		"text": "As you move deeper into the tunnels, the ground becomes increasingly unstable. \n\nWhat began as foul-smelling puddles soon becomes a viscous body of sludge that fills the passages ahead of you. [CTP]\n\nA short time later, you are wading up to your hips in the oily, foul-smelling liquid. Strangely luminous flowers cling to the brick walls above you and bathe the corridors in their eerie light."
+		"text": "По мере продвижения вглубь туннеля грунт становится все более неустойчивым. \n\nНачавшееся как пахучие лужи, вскоре превращается в вязкий ил, заполняющий проходы перед вами. [CTP]\n\nСпустя некоторое время вы по пояс погружаетесь в маслянистую, дурно пахнущую жидкость. Странные светящиеся цветы цепляются за кирпичные стены над вами и освещают коридоры своим жутким светом."
 	},
 	{
 		"id": "LE_SewerAltar01_Choice03",
-		"text": "Continue wading"
+		"text": "Продолжить пробираться вброд"
 	},
 	{
 		"id": "LE_SewerAltar01_Choice04",
@@ -4107,15 +4107,15 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Spores",
-		"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+		"text": "Продолжая пробираться по туннелям, вы заметите странные цветочные стручки, свисающие с лиан на потолке.\n\nКогда [char0] неохотно отодвигает один из стручков в сторону, тот лопается! Облако спор окружает вас, заполняя ваши легкие! [CTP]\n\nКашляя и отхаркиваясь, вы бросаетесь обратно ко входу! Проходит некоторое время, прежде чем вам снова становится легче дышать. Странное царапанье в горле остается с вами еще долго..."
 	},
 	{
 		"id": "LE_SewerAltar01_Spores_female",
-		"text": "As you continue wading through the tunnels, you notice strange flower pods hanging from vines on the ceiling.\n\nAs [char0] reluctantly pushes one of the pouches aside, it bursts open! A cloud of spores surrounds you, filling your lungs! [CTP]\n\nCoughing and spluttering, you rush back to the entrance! It takes some time before you are able to breathe easier again. The strange scratching in your throats stays with you for much longer..."
+		"text": "Продолжая пробираться по туннелям, вы заметите странные цветочные стручки, свисающие с лиан на потолке.\n\nКогда [char0] неохотно отодвигает один из стручков в сторону, тот лопается! Облако спор окружает вас, заполняя ваши легкие! [CTP]\n\nКашляя и отхаркиваясь, вы бросаетесь обратно ко входу! Проходит некоторое время, прежде чем вам снова становится легче дышать. Странное царапанье в горле остается с вами еще долго..."
 	},
 	{
 		"id": "LE_SewerAltar01_Loot",
-		"text": "You continue to wade through the nauseating sludge. The ground soon starts to slope upwards again and you reach firm ground, ending in a circular room. \n\nOn the wall you find a series of rusty metal protrusions that lead upwards in a spiral! [CTP]\n\nAfter some strenuous climbing, you reach a small chamber. Next to the hole from which you emerged, you discover a rusty crate, its lock broken."
+		"text": "Вы продолжаете пробираться через тошнотворный ил. Вскоре земля снова начинает подниматься вверх, и вы выходите на твердую почву, заканчивающуюся круглой комнатой. \n\nНа стене вы находите ряд ржавых металлических выступов, которые ведут вверх по спирали! [CTP]\n\nПосле трудного подъема вы попадаете в небольшую камеру. Рядом с отверстием, из которого вы вышли, вы находите ржавый ящик, замок которого сломан."
 	},
 	{
 		"id": "BE_GenericUndeadDungeonNeutral01",
@@ -4455,7 +4455,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral02",
-		"text": "Культисты заняты строительством места поклонения в центре укрепленного лагеря. Интересно, какую роль будут играть многочисленные груды костей. \n\nВы вздрагиваете, несмотря на пустынную жару. Возбужденные голоса предупреждают вас, что ваше присутствие не осталось незамеченным!"
+		"text": "Культисты заняты строительством места поклонения в центре укрепленного лагеря. Интересно, какую роль будут играть многочисленные груды костей. \n\nВы вздрагиваете, несмотря на пустынную жару. Взволнованные голоса предупреждают вас, что ваше присутствие не осталось незамеченным!"
 	},
 	{
 		"id": "BE_GenericUndeadCampNeutral04",
@@ -4539,27 +4539,27 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral01",
-		"text": "You almost miss the bunker entrance half hidden among the desert dunes. \n\nYou explore the strange complex, but you don’t find a living soul. [CTP]\n\nInstead, you encounter a gruesome scene of sheer horror: viciously mutilated corpses, pools of blood, clear signs of a desperate struggle! What happened here? \n\nYour worst fears cannot prepare you for what you find in the next room..."
+		"text": "Вы едва не пропустили наполовину скрытый среди пустынных дюн вход в бункер. \n\nВы осматриваете странный комплекс, но не обнаруживаете ни единой живой души. [CTP]\n\nВместо этого вы натыкаетесь на ужасную сцену: зверски изуродованные трупы, лужи крови, явные следы отчаянной борьбы! Что же здесь произошло? \n\nВаши худшие опасения не могут подготовить вас к тому, что вы находите в соседней комнате..."
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral03",
-		"text": "Your exploration of the bunker takes you down endless steps until you reach a room that looks like the scene of an explosion: Body parts are scattered on the floor, guts on the walls, and blood... blood everywhere!\n\nVile creatures crouch over the corpses of the soldiers. They have seen you and attack immediately..."
+		"text": "Исследуя бункер, вы спускаетесь по бесконечным ступеням, пока не попадаете в комнату, похожую на место взрыва: части тел разбросаны по полу, кишки на стенах, и кровь... кровь повсюду! \n\nГнусные существа склонились над трупами солдат. Они замечают вас и сразу же нападают..."
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerNeutral05",
-		"text": "The silence inside the bunker is intolerable. Wherever you look, you see signs of a desperate struggle. \n\nWho or what could have done this? You question is answered as the door to the next room flies open and a horde of grotesque creatures descend on you!"
+		"text": "Тишина внутри бункера невыносима. Куда бы вы ни посмотрели, вы видите следы отчаянной борьбы. \n\nКто или что могло это сделать? Вы получаете ответ на свой вопрос, когда дверь в соседнюю комнату распахивается, и на вас обрушивается орда ужасных созданий!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01",
-		"text": "You smell the dead long before you see them. \n\nCorridor by corridor, you finally reach the center of the bunker and the source of the fetid odor. A group of inhuman creatures crouch among the mangled corpses. They have not noticed you yet!"
+		"text": "Вы почувствовали запах мертвых задолго до того, как увидели их. \n\nКоридор за коридором, наконец, вы достигаете центра бункера и источник зловонного запаха. Группа нечеловеческих существ склонилась над растерзанными трупами. Они еще не заметили вас!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage03",
-		"text": "Something isn’t quite right with the lone desert bunker ahead of you - the eerie silence, the steel door swinging loosely on its hinges, the body of the soldier missing his legs... [CTP]\n\nWith weapons drawn, you start to explore the bunker. You soon come across a group of strange creatures clawing at the remains of some dead soldiers!"
+		"text": "Что-то не так в пустынном заброшенном бункере перед вами - жуткая тишина, стальная дверь, свободно качающаяся на петлях, тело солдата без ног... [CTP]\n\nЗарядив оружие, вы начинаете исследовать бункер. Вскоре вы наткнетесь на группу странных существ, которые когтями впиваются в останки мертвых солдат!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage06",
-		"text": "The bunker is a scene of a desperate struggle: The narrow passageways are choked with the bodies of soldiers. They must have trampled each other in a stampede to escape their fate. \n\nNone of them made it. [CTP]\n\nInside the bunker, you cautiously sneak up on the creatures that wrought this carnage. A large group of them are sniffing excitedly at the soldiers’ remains - they do not seem to have noticed you!"
+		"text": "Бункер представляет собой сцену отчаянной борьбы: узкие проходы завалены телами солдат. Они, должно быть, затаптывали друг друга в суматохе, пытаясь избежать своей участи. \n\nНикто из них не смог спастись. [CTP]\n\nВнутри бункера вы осторожно подкрадываетесь к существам, устроившим эту резню. Большая группа из них взволнованно обнюхивает останки солдат - похоже, они вас не заметили!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice01",
@@ -4583,7 +4583,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage06_Choice01",
-		"text": "Wipe them out!"
+		"text": "Уничтожить их!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage01_Choice02",
@@ -4595,7 +4595,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage03_Choice02",
-		"text": "Back to the bunker exit"
+		"text": "Вернуться ко входу в бункер"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerAdvantage04_Choice02",
@@ -4611,15 +4611,15 @@
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage02",
-		"text": "A deathly silence hangs over the old bunker. \n\nA portrait of pure horror awaits within: The mangled remains of the bunker crew lie in puddles of their own blood. \n\nWhen you hear the soft chanting around you, the hair stands up on the back of your neck. You realize that you are surrounded!"
+		"text": "Над старым бункером повисла смертельная тишина. \n\nВнутри вас ожидает ужасающая картина: изуродованные останки команды бункера лежат в лужах собственной крови. \n\nКогда вы слышите вокруг себя негромкие песнопения, волосы встают дыбом. Вы понимаете, что вас окружили!"
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage04",
-		"text": "The stink of death hangs over the old bunker. \n\nAs you explore the bunker, your blood runs cold: Wherever you look, the ground is littered with entrails and mangled corpses!\n\nSuddenly, you hear a door slam behind you! You spin around and realize that you have walked into a trap..."
+		"text": "Над старым бункером висит зловоние смерти. \n\nКогда вы исследуете бункер, ваша кровь стынет в жилах: куда бы вы ни посмотрели, земля усеяна внутренностями и растерзанными трупами!\n\nВдруг вы слышите, как за вами захлопывается дверь! Вы оборачиваетесь и понимаете, что попали в ловушку..."
 	},
 	{
 		"id": "BE_GenericUndeadMassacredBunkerDisadvantage05",
-		"text": "The stink of rotting corpses is unbearable. Wherever you look, dead soldiers, or parts of them, cover the floor of the abandoned bunker. \n\nWhat happened here? [CTP] \n\nA wheezing sound somewhere in the darkness curdles your blood. Then you see a movement in the shadows: Your are surrounded!"
+		"text": "Вонь от гниющих трупов невыносима. Куда бы вы ни посмотрели, мертвые солдаты или их части покрывают пол заброшенного бункера. \n\nЧто здесь произошло? [CTP] \n\nХриплый звук где-то в темноте будоражит вашу кровь. Затем вы видите движение в тени: вас окружили!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Intro",
@@ -4991,67 +4991,67 @@
 	},
 	{
 		"id": "BE_LostIdol01_Intro",
-		"text": "The cavernous crevice in the rock wall in front of you is clad with crude bricks. A small, murky gully indicates that you have come across an outlet of an ancient system of water cisterns. \n\nYou hear a distant chanting, interspersed with screams and the noise of battle."
+		"text": "Пещерная расщелина в скале перед вами обложена сырым кирпичом. Небольшой мутный овраг указывает на то, что вы наткнулись на выход древней системы водяных цистерн. \n\nВы слышите отдаленное песнопение, перемежающееся с криками и шумом битвы."
 	},
 	{
 		"id": "BE_LostIdol01_Choice01",
-		"text": "Charge into battle"
+		"text": "Вступить в бой"
 	},
 	{
 		"id": "BE_LostIdol01_Choice02",
-		"text": "Sneak closer"
+		"text": "Подобраться ближе"
 	},
 	{
 		"id": "BE_LostIdol01_PostFightWounded",
-		"text": "After the fight, you check the cultists’ victims. You hear a low moan! \n\nYou stoop over an old tribesman, struggling for breath."
+		"text": "После окончания боя вы осматриваете жертв культистов. Вы слышите тихий стон! \n\nВы наклоняетесь над старым членом племени, с трудом переводящим дыхание."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightNoMedical",
-		"text": "You do everything you can, but unfortunately it is all too late: The old man breathes his last in your arms. \n\nIn low spirits, you make your way back."
+		"text": "Вы делаете все возможное, но, к сожалению, уже слишком поздно: старик умирает на ваших руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightMedicalF",
-		"text": "[char0] does everything he can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у него на руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_PostFightMedicalF_female",
-		"text": "[char0] does everything she can, but unfortunately it is too late: The old man breathes his last in [char0]’s arms. \n\nIn low spirits, you make your way back."
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у нее на руках. \n\nВ подавленном состоянии духа вы возвращаетесь обратно."
 	},
 	{
 		"id": "BE_LostIdol01_Wounded",
-		"text": "You stumble over the remains of a desperate battle. Mangled bodies in tattered caftans lie scattered around, but there is no trace of the victors. \n\nYou stoop over a groaning tribesman, struggling for breath."
+		"text": "Вы натыкаетесь на следы отчаянной битвы. Искалеченные тела в изорванных кафтанах валяются повсюду, но от следов победителей ничего не осталось. \n\nВы наклоняетесь над стонущим членом племени, который с трудом дышит."
 	},
 	{
 		"id": "BE_LostIdol01_Choice03",
-		"text": "Check the wounded"
+		"text": "Осмотреть раненых"
 	},
 	{
 		"id": "BE_LostIdol01_Choice04",
-		"text": "Tend to his wounds"
+		"text": "Позаботиться о его ранах"
 	},
 	{
 		"id": "BE_LostIdol01_NoMedic",
-		"text": "You do everything you can, but is too late: The old man breathes his last in your arms. \n\nIn low spirits, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "Вы делаете все возможное, но, к сожалению, уже слишком поздно: старик умирает на ваших руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalF",
-		"text": "[char0] does everything he can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у него на руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalF_female",
-		"text": "[char0] does everything she can, but it is too late: The old man breathes his last in [char0]’s arms. \n\nDespondently, you continue your journey when you encounter a strange group of people coming the other way. They are just as startled as you are!"
+		"text": "[char0] делает все возможное, но, к сожалению, уже слишком поздно: старик умирает у нее на руках. \n\nВ подавленном состоянии духа вы продолжаете свой путь, как вдруг встречаете странную группу людей, идущих в другую сторону. Они так же удивлены, как и вы!"
 	},
 	{
 		"id": "BE_LostIdol01_MedicalW",
-		"text": "[char0] rips the old man's cloak. He uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+		"text": "[char0] разрывает плащ старика. С помощью импровизированного бинта он останавливает у раненого кровотечение. \n\nЧерез некоторое время старый фермер приходит в сознание: [CTP]\n\n[char1]: \"Братство напало на нашу деревню и украло священный идол, который мы охраняли на протяжении многих поколений! Мы сделали все возможное, но их верховная жрица унесла идол.\" \n\n[char1]: \"Вы поможете мне, если я скажу вам, как ее найти?\""
 	},
 	{
 		"id": "BE_LostIdol01_MedicalW_female",
-		"text": "[char0] rips the old man's cloak. She uses the improvised bandage to staunch the injured man’s bleeding. \n\nA short time later, the old farmer regains consciousness: [CTP]\n\n[char1]: \"The Brotherhood attacked our village and stole the holy idol that we have guarded for many generations! We did our best but their high priestess made off with the idol.\" \n\n[char1]: \"Will you help me if I tell you how to find her?\""
+		"text": "[char0] разрывает плащ старика. С помощью импровизированного бинта он останавливает у раненого кровотечение. \n\nЧерез некоторое время старый фермер приходит в сознание: [CTP]\n\n[char1]: \"Братство напало на нашу деревню и украло священный идол, который мы охраняли на протяжении многих поколений! Мы сделали все возможное, но их верховная жрица унесла идол.\" \n\n[char1]: \"Вы поможете мне, если я скажу вам, как ее найти?\""
 	},
 	{
 		"id": "BE_LostIdol01_Choice05",
-		"text": "Search for the idol"
+		"text": "Искать идол"
 	},
 	{
 		"id": "BE_LostIdol01_Choice06",
@@ -5059,19 +5059,19 @@
 	},
 	{
 		"id": "BE_LostIdol01_HighPriestess",
-		"text": "The old man’s directions take you deeper into the cisterns until you come to a crooked wooden ladder that you climb to a vault above the tunnels. [CTP]\n\nYou hunker down behind a low wall and watch as the High Priestess rants and gesticulates wildly before a group of her followers. She holds the idol in her hands!"
+		"text": "По указаниям старика вы отправитесь вглубь цистерн, пока не приходите к кривой деревянной лестнице, по которой поднимаетесь в хранилище над туннелями. [CTP]\n\nВы притаились за низкой стеной и наблюдаете, как Верховная Жрица разглагольствует и бурно жестикулирует перед группой своих последователей. Она держит в руках идол!"
 	},
 	{
 		"id": "BE_LostIdol01_HappyEnd",
-		"text": "At the exit of the underground pipe system, you meet the old man again.\n\n[char1]: \"You have the idol! You have our eternal gratitude!\""
+		"text": "На выходе из подземной системы труб вы снова встречаете старика.\n\n[char1]: \"Идол у вас! Мы вам бесконечно благодарны!\""
 	},
 	{
 		"id": "BE_LostIdol01_LanguagesW",
-		"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. He becomes increasingly excited as he inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+		"text": "Как только вы покидаете старое хранилище, [char2] останавливается, чтобы осмотреть странные надписи на стенах. Он становится все более взволнованным, рассматривая странные символы, нажимая на камень в разных местах. [CTP]\n\nЧерез некоторое время стена отодвигается в сторону, открывая странную маленькую камеру, в которой находится древний саркофаг.\n\nПо разбросанным на земле остаткам можно определить, что не так давно здесь была группа культистов!"
 	},
 	{
 		"id": "BE_LostIdol01_LanguagesW_female",
-		"text": "Just as you are leaving the old vault, [char2] pauses to study the strange inscriptions on its walls. She becomes increasingly excited as she inspects the weird characters, prodding the stone here and there. [CTP]\n\nMoments later, the wall slides aside to reveal a strange little chamber containing an ancient sarcophagus.\n\nFrom the scattered detritus on the ground, you can tell that a group of cultists were here not so long ago!"
+		"text": "Как только вы покидаете старое хранилище, [char2] останавливается, чтобы осмотреть странные надписи на стенах. Она становится все более взволнованной, рассматривая странные символы, нажимая на камень в разных местах. [CTP]\n\nЧерез некоторое время стена отодвигается в сторону, открывая странную маленькую камеру, в которой находится древний саркофаг.\n\nПо разбросанным на земле остаткам можно определить, что не так давно здесь была группа культистов!"
 	},
 	{
 		"id": "BE_MonsterAssault01_Intro",
@@ -6259,7 +6259,7 @@
 	},
 	{
 		"id": "LE_MountainChase01_Title",
-		"text": "A mountain track"
+		"text": "Горная дорога"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Title",
@@ -6539,27 +6539,27 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Title",
-		"text": "An old bunker"
+		"text": "Старый бункер"
 	},
 	{
 		"id": "BE_CowardOfficer01_Intro",
-		"text": "The bunker is half hidden among the sand dunes. It has been overrun: the entire bunker crew lies dead. The silence is broken only by the buzzing of the flies. \n\nYou climb over the torn and mangled bodies and start to explore the strange structure. [CTP]\n\nOnce inside, a horde of vile creatures leap at you as you enter the room!"
+		"text": "В глубине песчаных дюн находится наполовину скрытый бункер. Его разгромили: вся команда бункера лежит мертвая. Тишину нарушает только жужжание мух. \n\nВы перебираетесь через разорванные и изуродованные тела и начинаете исследовать это жуткое место. [CTP]\n\nКак только вы входите в комнату, на вас набрасывается орда мерзких существ!"
 	},
 	{
 		"id": "BE_CowardOfficer01_Officer",
-		"text": "You stand over the remains of your enemies when a sudden clattering noise in the next room makes you jump! \n\nYou find a Nazi officer hiding among the files and overturned map tables. You notice a closed safe door with a combination lock in the wall behind him. [CTP]\n\n[char0]: \"Not another step or I’ll call for reinforcements!\"\n\nYou quickly overpower the man. Unfortunately, he cannot tell you anything because he hid as soon he heard the first sounds of a fight."
+		"text": "Вы стоите над останками своих врагов, как вдруг грохот в соседней комнате заставляет вас подпрыгнуть! \n\nВы обнаруживаете нацистского офицера, прячущегося среди документов и опрокинутых столов с картами. Вы замечаете в стене позади него закрытую дверь сейфа с кодовым замком. [CTP]\n\n[char0]: \"Ни шагу больше, или я вызову подкрепление!\"\n\nВы быстро захватываете мужчину. К сожалению, он ничего не может вам сказать, потому что спрятался, как только услышал первые звуки драки."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateF",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\nYou search the command room but find nothing of value. You leave the officer to his fate and exit the bunker."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\nВы обыскиваете командный пункт, но не находите ничего ценного. Вы оставляете офицера на произвол судьбы и выходите из бункера."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateW",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\n[char1]: \"Мне трудно в это поверить! Возможно, нам стоит проверить, не пропустили ли мы какого-нибудь монстра - пусть это будет небольшим предупреждением...\" [CTP]\n\nЛицо офицера выражает полнейший ужас!\n\nОн вскакивает и быстро вводит комбинацию на двери сейфа. Когда сейф открывается, вы вырубаете офицера резким ударом по затылку."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateW_female",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\n[char1]: \"Мне трудно в это поверить! Возможно, нам стоит проверить, не пропустили ли мы какого-нибудь монстра - пусть это будет небольшим предупреждением...\" [CTP]\n\nЛицо офицера выражает полнейший ужас!\n\nОн вскакивает и быстро вводит комбинацию на двери сейфа. Когда сейф открывается, вы вырубаете офицера резким ударом по затылку."
 	},
 	{
 		"id": "BE_VillageBloodbath01_Title",
@@ -6663,7 +6663,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Intro",
-		"text": "The entrance to the mine is heavily guarded by grim-faced cultists and other, more sinister figures lurking in the shadows. \n\nYou decide to avoid the main entrance and take a hidden, narrow mineshaft that leads you deep into the mine instead. [CTP]\n\nThe mineshaft ends in a large cave. You see a few cultists standing around a handful of exhausted nomads."
+		"text": "Вход в шахту усиленно охраняется мрачного вида культистами и другими, более зловещими фигурами, скрывающимися в тени. \n\nВы решаете обойти главный вход и воспользоваться скрытым, узким шахтным ходом, который приводит вас вглубь шахты. [CTP]\n\nШахта заканчивается в большой пещере. Вы видите несколько культистов, стоящих вокруг горстки измученных кочевников."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice01",
@@ -6679,39 +6679,39 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nHe takes a handful of cartridges out of his magazine and wraps them in some rags. He then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing him. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nОн достает из магазина горсть патронов и заворачивает их в тряпки. Затем он осторожно бросает сверток в пламя. [char0] возвращается на свою позицию так, чтобы культисты его не заметили. [CTP] \n\nСпустя несколько мгновений начинается фейерверк, когда в костре взрываются патроны! Культисты в тревоге вскакивают и начинают искать невидимого врага! И вскоре они исчезают из виду.\n\nВы быстро зовете кочевников к себе и уводите их в безопасное место через туннель шахты!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_female",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. \n\nShe takes a handful of cartridges out of her magazine and wraps them in some rags. She then tosses the bundle carefully into the flames. [char0] returns to your position without the cultists noticing her. [CTP] \n\nMoments later, a fireworks display begins as the cartridges detonate in the campfire! The cultists jump up in alarm and start to look for the invisible enemy! Soon they have disappeared from your sight. \n\nYou beckon the nomads over to you quickly and take them to safety in the mine tunnel!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nОна достает из магазина горсть патронов и заворачивает их в тряпки. Затем она осторожно бросает сверток в пламя. [char0] возвращается на свою позицию так, чтобы культисты ее не заметили. [CTP] \n\nСпустя несколько мгновений начинается фейерверк, когда в костре взрываются патроны! Культисты в тревоге вскакивают и начинают искать невидимого врага! И вскоре они исчезают из виду.\n\nВы быстро зовете кочевников к себе и уводите их в безопасное место через туннель шахты!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionF",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see him fumbling in his pockets when you hear a loud shout: the cultists have spotted him too! \n\nPrepare to fight!"
+		"text": "[char0] осторожно крадется к костру в другом конце пещеры. Вы видите, как он роется в карманах, как вдруг слышите громкий крик: культисты его заметили! \n\nГотовьтесь к битве!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionF_female",
-		"text": "[char0] cautiously creeps toward the campfire at the other end of the cave. You see her fumbling in her pockets when you hear a loud shout: the cultists have spotted her too! \n\nPrepare to fight!"
+		"text": "[char0] осторожно крадется к костру в другом конце пещеры. Вы видите, как она роется в карманах, как вдруг слышите громкий крик: культисты ее заметили! \n\nГотовьтесь к битве!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Thank",
-		"text": "The liberated nomads are beside themselves with gratitude!\n\n[char1]: \"These fanatics are searching this place for an ancient burial chamber. They abducted us and forced us to work for them!\"\n\nBefore they make their way to freedom, the man turns around again: [CTP]\n\n[char1]: \"The cultists are storing their belongings in one of the chambers on the right at the far end of the cave. May the spirits watch over you!\""
+		"text": "Освобожденные кочевники вне себя от радости!\n\n[char1]: \"Эти фанатики ищут здесь древнюю погребальную камеру. Они похитили нас и заставили работать на них!\"\n\nПеред тем, как они выходят на свободу, мужчина снова оборачивается: [CTP]\n\n[char1]: \"Культисты хранят свои вещи в одной из камер справа в дальнем конце пещеры. Да хранят вас духи!\""
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Unlucky",
-		"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – but you do not find the chamber the old man spoke of... \n\nDisappointed, you turn back."
+		"text": "Вы тщательно обыскиваете пещеру. К счастью, вы не встретили больше культистов - но и не нашли комнату, о которой говорил старик... \n\nРазочаровавшись, вы поворачиваете назад."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Lucky",
-		"text": "You search the cave carefully. Fortunately, you do not encounter any more cultists – you soon reach the chamber that the old man spoke of."
+		"text": "Вы тщательно обыскиваете пещеру. К счастью, вы больше не встретите культистов - вскоре вы добираетесь до камеры, о которой говорил старик."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice04",
-		"text": "Look for the chamber"
+		"text": "Отыскать камеру"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice05",
-		"text": "Return to the exit"
+		"text": "Вернуться к выходу"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Title",
@@ -7159,11 +7159,11 @@
 	},
 	{
 		"id": "SE_Adventure02FinalFight_WrathOfGod",
-		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы примете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
+		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы поднимете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_WrathOfGod_female",
-		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы примете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
+		"text": "Вы подходите к странному объекту. Он усыпан магическими приспособлениями. Среди них вы видите причудливый, но устрашающе выглядящий предмет!\n\nЭто мифический Божий Гнев? Что произойдет, если вы поднимете его?\n\n[char1] пожимает плечами и берет артефакт. Все происходит очень быстро..."
 	},
 	{
 		"id": "SE_Adventure02FinalFight_StartFight",
@@ -7175,7 +7175,7 @@
 	},
 	{
 		"id": "SE_Adventure02FinalFight_Aftermath",
-		"text": "Когда последний солдат падает на землю, вы смотрите друг на друга в недоумении: Вы действительно сделали это! \n\nНо у вас не так много времени! Громкий скрип предупреждает вас о другой надвигающейся опасности - чудовищная конструкция не пережила битву без повреждений! [CTP]\n\nВсе это место может рухнуть в любой момент! \n\nВы бежите так быстро, как только можете, спасаясь от разрушающихся стен! [CTP] \n\nТолько когда вы добираетесь до своего джипа, у вас появляется время перевести дух."
+		"text": "Когда последний солдат падает на землю, вы смотрите друг на друга в недоумении: Вы действительно сделали это! \n\nНо у вас не так много времени! Громкий скрип предупреждает вас о другой надвигающейся опасности - чудовищная конструкция не пережила битву без повреждений! [CTP]\n\nВсе это место может рухнуть в любой момент! \n\nВы бежите так быстро, как только можете, уворачиваясь от рушащихся стен! [CTP] \n\nТолько когда вы добираетесь до своего джипа, у вас появляется время перевести дух."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Title",
@@ -7227,7 +7227,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue03_Aftermath",
-		"text": "Солдат возбужденно размахивает руками в воздухе, подбегая к вам:\n\n[char0]: \"Вы спасли мне жизнь! Полковник фон Ортцен - безумный садист! Я не смог выдержать постоянной жестокости!\"\n\nВы спрашиваете этого человека, что он знает о Божьем Гневе: [CTP]\n\n[char0]: \"Я знаю только слухи - но, судя по всему, это оружие ужасающей силы. Мы должны были найти его и доставить в Берлин.\"\n\n[char0]: \"Супер-оружие для немецкой армии! Оно сделало бы нас непобедимыми! Только подумайте о перспективах!\""
+		"text": "Солдат взволнованно размахивает руками в воздухе, подбегая к вам:\n\n[char0]: \"Вы спасли мне жизнь! Полковник фон Ортцен - безумный садист! Я не смог выдержать постоянной жестокости!\"\n\nВы спрашиваете этого человека, что он знает о Божьем Гневе: [CTP]\n\n[char0]: \"Я знаю только слухи - но, судя по всему, это оружие ужасающей силы. Мы должны были найти его и доставить в Берлин.\"\n\n[char0]: \"Супер-оружие для немецкой армии! Оно сделало бы нас непобедимыми! Только подумайте о перспективах!\""
 	},
 	{
 		"id": "SE_Adventure02Clue03_Goodbye",
@@ -7239,11 +7239,11 @@
 	},
 	{
 		"id": "SE_Adventure02Clue01_Intro",
-		"text": "Когда вы достигаете внешних зданий заброшенной деревни, из ниоткуда раздается ружейный выстрел! \n\nМолниеносно вы сворачиваете с трассы и выпрыгиваете из машины, ныряя за низкие стены в укрытие! [CTP]\n\nГде-то в руинах раздается голос:\n\n[char0]: \"Полковник фон Ортцен был прав: За нами следили!\"\n\n[char0]: \"Думаю, мы справимся с этой проблемой! Открыть огонь!\""
+		"text": "Когда вы достигаете внешних зданий заброшенной деревни, из ниоткуда раздаются выстрелы! \n\nВы тут же сворачиваете с трассы и выпрыгиваете из машины, ныряя за низкие стены в укрытие! [CTP]\n\nГде-то в руинах раздается голос:\n\n[char0]: \"Полковник фон Ортцен был прав: За нами следили!\"\n\n[char0]: \"Думаю, мы справимся с этой проблемой! Открыть огонь!\""
 	},
 	{
 		"id": "SE_Adventure02Clue01_Aftermath",
-		"text": "В футляре для карт офицера вы находите несколько вырванных страниц из Библии. \n\nВы просматриваете страницы и натыкаетесь на отрывок, подчеркнутый карандашом: [CTP]\n\n\"И сказал Господь Бог: вот, Адам стал как один из Нас, чтобы познать Добро и Зло. И изгнал Он человека, и поставил на Востоке Эдемского Сада Херувимов и Пламенный Меч, обращающийся во все стороны света, чтобы охранять путь к Древу Жизни от Божьего Гнева.\"\n\nВстревоженные, вы качаете головами..."
+		"text": "В офицерском футляре для карт вы находите несколько вырванных страниц из Библии. \n\nВы просматриваете страницы и натыкаетесь на подчеркнутый карандашом отрывок: [CTP]\n\n\"И сказал Господь Бог: Адам стал как одним из Нас, чтобы познать Добро и Зло. И изгнал Он человека, и поставил на Востоке Эдемского Сада Херувимов и Пламенный Меч, обращенный во все стороны света, чтобы охранять путь к Древу Жизни от Божьего Гнева.\"\n\nВстревоженные, вы качаете головами..."
 	},
 	{
 		"id": "SE_Adventure02Clue02_Title",
@@ -7251,7 +7251,7 @@
 	},
 	{
 		"id": "SE_Adventure02Clue02_Intro",
-		"text": "На возвышении впереди вы заметили одинокого солдата, стоящего к вам спиной! Вы быстро пробираетесь вперед и легко справляетесь с ним! \n\nТеперь вы прячетесь за джипом вермахта и осматриваете местность под вами: импровизированный немецкий лагерь! [CTP]\n\nСудя по его размерам, это должна быть какая-то важная база!\n\nТихий стон говорит о том, что солдат пришел в сознание."
+		"text": "На возвышении впереди вы заметили одинокого солдата, стоящего к вам спиной! Вы быстро пробираетесь вперед и легко справляетесь с ним! \n\nТеперь вы прячетесь за джипом вермахта и осматриваете местность под вами: импровизированный немецкий лагерь! [CTP]\n\nСудя по ее размерам, это должна быть какая-то важная база!\n\nТихий стон говорит о том, что солдат пришел в сознание."
 	},
 	{
 		"id": "SE_Adventure02Clue02_Choice01",
@@ -7295,11 +7295,11 @@
 	},
 	{
 		"id": "SE_Adventure02Clue02_EnterCamp",
-		"text": "Через несколько минут ваша машина без происшествий въезжает в лагерь. За рулем сидит нервный немецкий радист с пистолетом, направленным ему из-под одеяла в шею!\n\nСолдат останавливается рядом с палаткой радистов. Вы вырубаете его резким ударом по затылку, а затем незаметно пробираетесь в пустую палатку."
+		"text": "Через несколько минут ваша машина без происшествий въезжает в лагерь. За рулем сидит нервничающий немецкий радист с пистолетом, направленным ему из-под одеяла в шею!\n\nСолдат останавливается рядом с палаткой радистов. Вы вырубаете его резким ударом по затылку, а затем незаметно пробираетесь в пустую палатку."
 	},
 	{
 		"id": "SE_Adventure02Clue02_SearchTent",
-		"text": "С судорожной спешкой вы обыскиваете палатку. Кроме небольшой полевой рации вы не находите ничего интересного. Затем ваш взгляд падает на корзину для бумаг рядом с полевым столом, до краев наполненную расшифровками радиопередач... [CTP]\n\n\"Промежуточный отчет об Араратской Экспедиции\"\n\n\"Исследовательскому Батальону Ближнего Востока: Мы рады сообщить, что мы также обнаружили форпосты искомой культуры на Армянском нагорье.\" [CTP]\n\n\"Таким образом, сеть Валькирия значительно больше, чем считалось ранее. Она должна простираться, по крайней мере, от африканского побережья Атлантики до Кавказа. На севере, как уже известно, до российского Белого моря. Мы будем информировать вас о любых дальнейших находках.\n\nХайль Гитлер! Полковник фон Ортцен, руководитель экспедиции\" [CTP]\n\nВы садитесь обратно в джип вермахта и незаметно покидаете лагерь через брешь в ограждении возле туалетов. Как только вы проезжаете следующую песчаную дюну, вы вдавливаете педаль газа в пол!"
+		"text": "В судорожной спешке вы обыскиваете палатку. Кроме небольшой полевой рации вы не находите ничего интересного. Затем ваш взгляд падает на корзину для бумаг рядом с полевым столом, до краев наполненную расшифровками радиопередач... [CTP]\n\n\"Промежуточный отчет об Араратской Экспедиции\"\n\n\"Исследовательскому Батальону Ближнего Востока: Мы рады сообщить, что мы также обнаружили форпосты искомой культуры на Армянском нагорье.\" [CTP]\n\n\"Таким образом, сеть Валькирия значительно больше, чем считалось ранее. Она должна простираться, по крайней мере, от африканского побережья Атлантики до Кавказа. На севере, как уже известно, до российского Белого моря. Мы будем информировать вас о любых дальнейших находках.\n\nХайль Гитлер! Полковник фон Ортцен, руководитель экспедиции\" [CTP]\n\nВы садитесь обратно в джип вермахта и незаметно покидаете лагерь через брешь в ограждении возле туалетов. Как только вы проезжаете следующую песчаную дюну, вы вдавливаете педаль газа в пол!"
 	},
 	{
 		"id": "SE_Adventure02Clue02_Aftermath",
@@ -8423,19 +8423,19 @@
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_FreeChar",
-		"text": "Вы освобождаете пленника от оков, и он бурно пожимает вам руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
+		"text": "Вы освобождаете пленника от оков, и он активно пожимает ваши руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_NaziDryWellPrisoner01_FreeChar_female",
-		"text": "Вы освобождаете пленницу от ее оков, и она бурно жмет вам руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
+		"text": "Вы освобождаете пленницу от ее оков, и она активно пожимает ваши руки. \n\n[char3]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char3]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_CU_FreeChar",
-		"text": "Вы освобождаете пленника от оков, и он бурно пожимает вам руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
+		"text": "Вы освобождаете пленника от оков, и он активно пожимает ваши руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одного пассажира?\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_CU_FreeChar_female",
-		"text": "Вы освобождаете пленницу от ее оков, и она бурно жмет вам руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
+		"text": "Вы освобождаете пленницу от ее оков, и она активно пожимает ваши руки. \n\n[char2]: \"Спасибо вам от всего сердца! Без вас все могло обернуться скверно!\" [CTP] \n\n[char2]: \"Эй, похоже, вам не помешала бы помощь... Возможно, у вас есть место для еще одной пассажирки?\""
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_FreeChar",
@@ -9171,15 +9171,15 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Choice01",
-		"text": "Interrogate officer"
+		"text": "Допросить офицера"
 	},
 	{
 		"id": "BE_CowardOfficer01_Choice02",
-		"text": "Threaten man"
+		"text": "Угрожать мужчине"
 	},
 	{
 		"id": "BE_LostIdol01_Choice07",
-		"text": "Go back to the old man"
+		"text": "Вернуться к старику"
 	},
 	{
 		"id": "BE_LostIdol01_Choice08",
@@ -9187,7 +9187,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_CultistsVanquished",
-		"text": "Your defeated opponents lie lifeless at your feet - breathing hard, you think about what to do next."
+		"text": "Ваши поверженные противники лежат неподвижно у ваших ног - тяжело дыша, вы думаете о том, что делать дальше."
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice06",
@@ -9259,7 +9259,7 @@
 	},
 	{
 		"id": "AE_CarFailure01_Choice01",
-		"text": "What’s the problem?"
+		"text": "В чем проблема?"
 	},
 	{
 		"id": "AE_CarFailure01_Choice02",
@@ -9267,7 +9267,7 @@
 	},
 	{
 		"id": "AE_CarFailure02_Choice01",
-		"text": "Oh no..."
+		"text": "О нет..."
 	},
 	{
 		"id": "AE_CarFailure02_Choice02",
@@ -9275,11 +9275,11 @@
 	},
 	{
 		"id": "AE_CarFailure03_Choice01",
-		"text": "This won’t be easy..."
+		"text": "Будет непросто..."
 	},
 	{
 		"id": "AE_CarFailure03_Choice02",
-		"text": "Let me have a go at it!"
+		"text": "Дайте мне попробовать.!"
 	},
 	{
 		"id": "BE_LostIdol01_Byebye",
@@ -9307,7 +9307,7 @@
 	},
 	{
 		"id": "SE_Adventure01Snippet01_End",
-		"text": "Когда бойцы узнают о ваших поисках, они возбужденно перешептываются. Их лидер поворачивается к вам: \n\n[char0]: \"Удача сопутствует вам! Наши разведчики заметили вашего друга и его охранников, пробирающихся через пустыню.\"\n\nМортен жив! Вы благодарите кочевников за информацию и отправляетесь в указанном ими направлении."
+		"text": "Когда бойцы узнают о ваших поисках, они взволновано перешептываются. Их лидер поворачивается к вам: \n\n[char0]: \"Удача сопутствует вам! Наши разведчики заметили вашего друга и его охранников, пробирающихся через пустыню.\"\n\nМортен жив! Вы благодарите кочевников за информацию и отправляетесь в указанном ими направлении."
 	},
 	{
 		"id": "SE_Adventure01Snippet02_Intro",
@@ -9895,11 +9895,11 @@
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Intro",
-		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя руки изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
+		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя рук изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
 	},
 	{
 		"id": "SE_Adventure02Snippet06_Intro_female",
-		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя руки изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
+		"text": "Среди камней вы видите останки разбитого грузовика, который, должно быть, съехал с крутой горной дороги. \n\nК сожалению, после недолгих поисков становится ясно, что немцы не оставили ничего ценного. \n\nВнезапно [Char0] вскрикивает от восторга! [CTP]\n\nВ бардачке обнаружилось забытое издание \"Журнала Национально-Расовой Археологии\" от Апреля 1932 года. \n\nВы листаете его и останавливаетесь на статье о находках в юго-восточной Анатолии. [CTP] \n\nОна содержит изображения фрагментов хеттского рельефа, в том числе изображение крылатого птицечеловека, стреляющего молниями из своих рук.\n\nВ качестве подписи использовано древнее восточное изречение: 'Пламя рук изгоняет голодных из садов.'\n\nВы обмениваетесь растерянными взглядами - что бы это могло значить?"
 	},
 	{
 		"id": "SE_Adventure02Flavor01_Title",
@@ -9963,7 +9963,7 @@
 	},
 	{
 		"id": "SE_Adventure02Flavor07_Intro",
-		"text": "На каменном кубе рядом с пустынной дорожкой видны выцветшие римские буквы. Вы останавливаетесь, чтобы осмотреть странный камень.\n\nВ этом нет сомнений: Это древнеримский пограничный камень. \n\nВероятно, он обозначал курс Limes Arabicus, древней границы с племенами диких лошадей Аравийской пустыни."
+		"text": "На каменном кубе рядом с пустынной дорожкой видны выцветшие римские буквы. Вы останавливаетесь, чтобы осмотреть странный камень.\n\nВ этом нет сомнений: Это древнеримский пограничный камень. \n\nВероятно, он обозначал лиеию Limes Arabicus - древней границы с племенами диких лошадей Аравийской пустыни."
 	},
 	{
 		"id": "SE_Adventure02Flavor08_Title",
@@ -10583,15 +10583,15 @@
 	},
 	{
 		"id": "LE_SewerAltar01_Choice_Survival",
-		"text": "Examine the plants"
+		"text": "Осмотреть растения"
 	},
 	{
 		"id": "LE_SewerAltar01_SurvivalWin",
-		"text": "[char1] carefully examines the strange plants that are hanging around you: \n\n[char1]: \"Make sure you don’t touch the pods! You really don’t want to breathe in those spores or get them in your eyes!\""
+		"text": "[char1] внимательно изучает странные растущие кругом растения: \n\n[char1]: \"Следите за тем, чтобы не прикасаться к стручкам! Вам не захочется вдыхать эти споры или получить ими по глазам!\""
 	},
 	{
 		"id": "LE_SewerAltar01_SurvivalWin_female",
-		"text": "[char1] carefully examines the strange plants that are hanging around you: \n\n[char1]: \"Make sure you don’t touch the pods! You really don’t want to breathe in those spores or get them in your eyes!\""
+		"text": "[char1] внимательно изучает странные растущие кругом растения: \n\n[char1]: \"Следите за тем, чтобы не прикасаться к стручкам! Вам не захочется вдыхать эти споры или получить ими по глазам!\""
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Tech",
@@ -11223,7 +11223,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerDisadvantage01_Intro",
-		"text": "Вы не уверены, занят ли бункер в пустыне, поэтому осторожно подкрадываетесь ближе. \n \nПри ближайшем рассмотрении строение выглядит заброшенным. Но затем вы слышите шепот позади и понимаете, что не один..."
+		"text": "Вы не уверены, занят ли бункер в пустыне, поэтому осторожно подкрадываетесь ближе. \n \nПри ближайшем рассмотрении строение выглядит заброшенным. Но затем вы слышите шепот позади и понимаете, что не одни..."
 	},
 	{
 		"id": "BE_GenericUndeadOutsideBunkerAdvantage_Choice01",
@@ -11327,7 +11327,7 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceTech_B",
-		"text": "Examine the safe"
+		"text": "Осмотреть сейф"
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceDet_B",
@@ -11335,23 +11335,23 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Tech_B",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char2]: \"I’ll handle this!\"\n\n[char2] puts his ear to the safe and carefully turns the dial..."
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char2]: \"Я этим займусь!\"\n\n[char2] прикладывает ухо к сейфу и осторожно поворачивает циферблат..."
 	},
 	{
 		"id": "BE_CowardOfficer01_Tech_B_female",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char2]: \"I’ll handle this!\"\n\n[char2] puts her ear to the safe and carefully turns the dial..."
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char2]: \"Я этим займусь!\"\n\n[char2] прикладывает ухо к сейфу и осторожно поворачивает циферблат..."
 	},
 	{
 		"id": "BE_CowardOfficer01_Det_B",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char3] searches the desk expertly. Triumphantly, he flourishes a note with some numbers written on it.\n\n[char3]: \"I thought as much!\""
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char3] тщательно обыскивает стол. Торжествуя, он достает записку с написанными на ней цифрами.\n\n[char3]: \"Я так и думал!\""
 	},
 	{
 		"id": "BE_CowardOfficer01_Det_B_female",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char3] searches the desk expertly. Triumphantly, she flourishes a note with some numbers written on it.\n\n[char3]: \"I thought as much!\""
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char3] тщательно обыскивает стол. Торжествуя, она достает записку с написанными на ней цифрами.\n\n[char3]: \"Я так и думала!\""
 	},
 	{
 		"id": "BE_CowardOfficer01_SafeOpen_B",
-		"text": "With a quiet click, the safe swings open!"
+		"text": "С тихим щелчком сейф открывается!"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand_B",
@@ -11403,7 +11403,7 @@
 	},
 	{
 		"id": "BE_LostIdol01_Choice_TrickNPC_B",
-		"text": "Diversionary tactics"
+		"text": "Отвлекающий маневр"
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPCWin_B",
@@ -11415,11 +11415,11 @@
 	},
 	{
 		"id": "BE_LostIdol01_TrickNPC_Attack_B",
-		"text": "The cultists hear the noises too and run off to investigate!\n\nThe tables have turned – you open fire!"
+		"text": "Культисты тоже слышат шум и бегут на разведку!\n\nСитуация изменилась - вы открываете огонь!"
 	},
 	{
 		"id": "BE_LostIdol01_Choice_Look_B",
-		"text": "Investigate the wall"
+		"text": "Осмотреть стену"
 	},
 	{
 		"id": "BE_LostIdol01_Choice_SixthSense_B",
@@ -11427,31 +11427,31 @@
 	},
 	{
 		"id": "BE_LostIdol01_LookFail_B",
-		"text": "You take a look around, but find nothing of interest. Eventually, you decide to turn back."
+		"text": "Вы осматриваетесь вокруг, но не находите ничего интересного. В конце концов, вы решаете повернуть назад."
 	},
 	{
 		"id": "BE_LostIdol01_Boost_B",
-		"text": "You suddenly feel a shiver run up your spines – what is that?!\n\nThen you are filled with a sensation of calm: you feel strangely relaxed!\n\nWhat a strange place..."
+		"text": "Вы вдруг чувствуете, как по спине пробегает дрожь - что это?!\n\nЗатем вас наполняет ощущение спокойствия: вы чувствуете себя необычайно спокойно!\n\nКакое странное место..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Panic_B",
-		"text": "Moments later, you hear voices approach: the cultists are coming back!\n\nThere – a small passage! You hide in the little chamber at the end of the passage!"
+		"text": "Мгновением спустя вы слышите приближающиеся голоса: культисты возвращаются!\n\nТуда - в небольшой проход! Вы прячетесь в маленькой камере в конце прохода!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Hide_B",
-		"text": "It’s a small altar room. You crouch behind the altar and hope for the best..."
+		"text": "Это небольшая алтарная комната. Вы прячетесь за алтарем и надеетесь на лучшее..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Loot_B",
-		"text": "Not a second too soon!\n\nAngry cries tell you that the furious cultists are looking for the escaped prisoners!\n\nYou wait until the shouting has receded. \n\nThen you notice an old chest in the corner of the chamber..."
+		"text": "И как раз вовремя!\n\nГневные крики говорят о том, что разъяренные культисты ищут сбежавших пленников!\n\nВы ждете, пока крики не стихнут. \n\nЗатем вы замечаете старый сундук в углу комнаты..."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_B",
-		"text": "[char0] creeps carefully up to the campfire at the other end of the cave. \n\nYou watch as he ejects several cartridges from his magazine and wraps them in a few cloths. He then throws the bundle carefully into the flames. [Char0] makes it back to you unnoticed by the cultists. [CTP] \n\nMoments later, you are treated to a real fireworks display as the cartridges explode in the campfire! The cultists jump up in alarm and search for the unseen enemy! They soon disappear from sight. \n\nFrantically, you beckon the nomads over!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nВы наблюдаете, как он извлекает несколько патронов из магазина и заворачивает их в тряпки. Затем он осторожно бросает сверток в пламя. [Char0] возвращается к вам незамеченный культистами. [CTP] \n\nСпустя несколько мгновений вы видите настоящий фейерверк, когда патроны взрываются в костре! Культисты вскакивают в тревоге и начинают искать невидимого врага! Вскоре они пропадают из виду. \n\nВы судорожно зовете кочевников к себе!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_DeceptionW_B_female",
-		"text": "[char0] creeps carefully up to the campfire at the other end of the cave. \n\nYou watch as she ejects several cartridges from her magazine and wraps them in a few cloths. She then throws the bundle carefully into the flames. [char0] makes it back to you unnoticed by the cultists. [CTP] \n\nMoments later, you are treated to a real fireworks display as the cartridges explode in the campfire! The cultists jump up in alarm and search for the unseen enemy! They soon disappear from sight. \n\nFrantically, you beckon the nomads over!"
+		"text": "[char0] осторожно подкрадывается к костру в другом конце пещеры. \n\nВы наблюдаете, как она извлекает несколько патронов из магазина и заворачивает их в тряпки. Затем она осторожно бросает сверток в пламя. [Char0] возвращается к вам незамеченная культистами. [CTP] \n\nСпустя несколько мгновений вы видите настоящий фейерверк, когда патроны взрываются в костре! Культисты вскакивают в тревоге и начинают искать невидимого врага! Вскоре они пропадают из виду. \n\nВы судорожно зовете кочевников к себе!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_SearchOfficer_B",
