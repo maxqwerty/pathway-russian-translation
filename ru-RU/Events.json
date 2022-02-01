@@ -6539,27 +6539,27 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Title",
-		"text": "An old bunker"
+		"text": "Старый бункер"
 	},
 	{
 		"id": "BE_CowardOfficer01_Intro",
-		"text": "The bunker is half hidden among the sand dunes. It has been overrun: the entire bunker crew lies dead. The silence is broken only by the buzzing of the flies. \n\nYou climb over the torn and mangled bodies and start to explore the strange structure. [CTP]\n\nOnce inside, a horde of vile creatures leap at you as you enter the room!"
+		"text": "В глубине песчаных дюн находится наполовину скрытый бункер. Его разгромили: вся команда бункера лежит мертвая. Тишину нарушает только жужжание мух. \n\nВы перебираетесь через разорванные и изуродованные тела и начинаете исследовать это жуткое место. [CTP]\n\nКак только вы входите в комнату, на вас набрасывается орда мерзких существ!"
 	},
 	{
 		"id": "BE_CowardOfficer01_Officer",
-		"text": "You stand over the remains of your enemies when a sudden clattering noise in the next room makes you jump! \n\nYou find a Nazi officer hiding among the files and overturned map tables. You notice a closed safe door with a combination lock in the wall behind him. [CTP]\n\n[char0]: \"Not another step or I’ll call for reinforcements!\"\n\nYou quickly overpower the man. Unfortunately, he cannot tell you anything because he hid as soon he heard the first sounds of a fight."
+		"text": "Вы стоите над останками своих врагов, как вдруг грохот в соседней комнате заставляет вас подпрыгнуть! \n\nВы обнаруживаете нацистского офицера, прячущегося среди документов и опрокинутых столов с картами. Вы замечаете в стене позади него закрытую дверь сейфа с кодовым замком. [CTP]\n\n[char0]: \"Ни шагу больше, или я вызову подкрепление!\"\n\nВы быстро захватываете мужчину. К сожалению, он ничего не может вам сказать, потому что спрятался, как только услышал первые звуки драки."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateF",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\nYou search the command room but find nothing of value. You leave the officer to his fate and exit the bunker."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\nВы обыскиваете командный пункт, но не находите ничего ценного. Вы оставляете офицера на произвол судьбы и выходите из бункера."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateW",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\n[char1]: \"Мне трудно в это поверить! Возможно, нам стоит проверить, не пропустили ли мы какого-нибудь монстра - пусть это будет небольшим предупреждением...\" [CTP]\n\nЛицо офицера выражает полнейший ужас!\n\nОн вскакивает и быстро вводит комбинацию на двери сейфа. Когда сейф открывается, вы вырубаете офицера резким ударом по затылку."
 	},
 	{
 		"id": "BE_CowardOfficer01_IntimidateW_female",
-		"text": "When you mention the safe, he waves dismissively: \n\n[char0]: \"I’m afraid I do not know the combination code. Nothing I can do!\"\n\n[char1]: \"I find that hard to believe! Perhaps we should see if we missed some of those monsters – call it a little reminder...\" [CTP]\n\nThe officer’s face is a portrait of sheer terror!\n\nHe jumps up and quickly enters the combination into the safe door. As the safe opens, you knock the officer out with a sharp blow to the back of the head."
+		"text": "Когда вы упоминаете о сейфе, он пренебрежительно отмахивается: \n\n[char0]: \"Боюсь, что я не знаю код комбинации. Я ничего не могу сделать!\"\n\n[char1]: \"Мне трудно в это поверить! Возможно, нам стоит проверить, не пропустили ли мы какого-нибудь монстра - пусть это будет небольшим предупреждением...\" [CTP]\n\nЛицо офицера выражает полнейший ужас!\n\nОн вскакивает и быстро вводит комбинацию на двери сейфа. Когда сейф открывается, вы вырубаете офицера резким ударом по затылку."
 	},
 	{
 		"id": "BE_VillageBloodbath01_Title",
@@ -9171,11 +9171,11 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Choice01",
-		"text": "Interrogate officer"
+		"text": "Допросить офицера"
 	},
 	{
 		"id": "BE_CowardOfficer01_Choice02",
-		"text": "Threaten man"
+		"text": "Угрожать мужчине"
 	},
 	{
 		"id": "BE_LostIdol01_Choice07",
@@ -11327,7 +11327,7 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceTech_B",
-		"text": "Examine the safe"
+		"text": "Осмотреть сейф"
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceDet_B",
@@ -11335,23 +11335,23 @@
 	},
 	{
 		"id": "BE_CowardOfficer01_Tech_B",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char2]: \"I’ll handle this!\"\n\n[char2] puts his ear to the safe and carefully turns the dial..."
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char2]: \"Я этим займусь!\"\n\n[char2] прикладывает ухо к сейфу и осторожно поворачивает циферблат..."
 	},
 	{
 		"id": "BE_CowardOfficer01_Tech_B_female",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char2]: \"I’ll handle this!\"\n\n[char2] puts her ear to the safe and carefully turns the dial..."
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char2]: \"Я этим займусь!\"\n\n[char2] прикладывает ухо к сейфу и осторожно поворачивает циферблат..."
 	},
 	{
 		"id": "BE_CowardOfficer01_Det_B",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char3] searches the desk expertly. Triumphantly, he flourishes a note with some numbers written on it.\n\n[char3]: \"I thought as much!\""
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char3] тщательно обыскивает стол. Торжествуя, он достает записку с написанными на ней цифрами.\n\n[char3]: \"Я так и думал!\""
 	},
 	{
 		"id": "BE_CowardOfficer01_Det_B_female",
-		"text": "The officer refuses to cooperate, so you tie him up.\n\n[char3] searches the desk expertly. Triumphantly, she flourishes a note with some numbers written on it.\n\n[char3]: \"I thought as much!\""
+		"text": "Офицер отказался сотрудничать, поэтому вы связали его.\n\n[char3] тщательно обыскивает стол. Торжествуя, она достает записку с написанными на ней цифрами.\n\n[char3]: \"Я так и думала!\""
 	},
 	{
 		"id": "BE_CowardOfficer01_SafeOpen_B",
-		"text": "With a quiet click, the safe swings open!"
+		"text": "С тихим щелчком сейф открывается!"
 	},
 	{
 		"id": "BE_ObsidianStelaNecropolis01_Hand_B",
