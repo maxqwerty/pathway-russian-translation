@@ -4843,7 +4843,7 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Intro",
-		"text": "You had hoped to take a break at the walls of the temple. But then you spot the cultists marching in your direction across the desert dunes and you quickly hide behind a large stone statue.\n\nWhen the cultists arrive a short time later, they begin preparations for a ritual and gather right in front of the statue that you are hiding behind! [CTP]\n\nAs the high priestess grovels before the stone statue, the rest of the cultists begin a grotesque dance: as if in a trance, they spin around and spread out around the statue. \n\nIn a few moments, they will be able to see you!"
+		"text": "Вы надеетесь передохнуть у стен храма. Но тут вы замечаете культистов, идущих в вашу сторону по пустынным дюнам, и быстро прячетесь за большой каменной статуей.\n\nКогда культисты спустя некоторое время прибывают, они начинают подготовку к ритуалу и собираются прямо перед статуей, за которой вы прячетесь! [CTP]\n\nПока верховная жрица склоняется перед каменной статуей, остальные культисты начинают исполнять гротескный танец: словно в трансе, они кружатся и расходятся вокруг статуи. \n\nЕщё несколько мгновений, и они вас заметят!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice01",
@@ -4855,51 +4855,51 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice03",
-		"text": "Topple the stone statue"
+		"text": "Уронить каменную статую"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice04",
-		"text": "Run away"
+		"text": "Убежать"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_DistractF",
-		"text": "[char0] grabs a stone and throws it past the cultists at some clay vases by the temple wall. Unfortunately, he misses his target and the stone lands in the desert sand...\n\nA few moments later, you are discovered!"
+		"text": "[char0] хватает камень и бросает его мимо культистов в глиняные вазы у стены храма. К сожалению, он не попадает в цель, и камень падает в песок пустыни...\n\nЧерез несколько мгновений вас обнаруживают!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_DistractF_female",
-		"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall. Unfortunately, she misses her target and the stone lands in the desert sand...\n\nA few moments later, you are discovered!"
+		"text": "[char0] хватает камень и бросает его мимо культистов в глиняные вазы у стены храма. К сожалению, она не попадает в цель, и камень падает в песок пустыни...\n\nЧерез несколько мгновений вас обнаруживают!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_DistractW",
-		"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall.\n\nThe pottery shatters with a loud crash – the cultists spin around and run over to the vases to investigate the source of the noise! [CTP]\n\nThis is your chance! \n\nAs fast as you can, you rush to your jeep, which you parked behind the temple. You hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+		"text": "[char0] хватает камень и бросает его мимо культистов в глиняные вазы у стены храма.\n\nКерамика разбивается с громким треском - культисты оборачиваются и бегут к вазам, чтобы выяснить источник шума! [CTP]\n\nЭто ваш шанс! \n\nКак можно быстрее вы мчитесь к своему джипу, который вы припарковали за храмом. Вы слышите позади себя громкие, гневные крики - вас обнаружили! Но прежде чем культисты успевают отреагировать, вы уже заводите двигатель и вскоре оставляете храм позади!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_DistractW_female",
-		"text": "[char0] grabs a stone and throws it past the cultists at some clay vases against the temple wall. \n\nThe pottery shatters with a loud crash – the cultists spin around and run over to the vases to investigate the source of the noise! [CTP]\n\nThis is your chance! \n\nAs fast as you can, you rush to your jeep, which you parked behind the temple. You hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+		"text": "[char0] хватает камень и бросает его мимо культистов в глиняные вазы у стены храма.\n\nКерамика разбивается с громким треском - культисты оборачиваются и бегут к вазам, чтобы выяснить источник шума! [CTP]\n\nЭто ваш шанс! \n\nКак можно быстрее вы мчитесь к своему джипу, который вы припарковали за храмом. Вы слышите позади себя громкие, гневные крики - вас обнаружили! Но прежде чем культисты успевают отреагировать, вы уже заводите двигатель и вскоре оставляете храм позади!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthW",
-		"text": "[char1] heaves against the stone statue, and moments later it comes crashing down into the desert sand! \n\nThe high priestess is crushed by the falling statue! [CTP]\n\nThe cultists run around screaming! You take advantage of the confusion to grab one of their chests. You then sprint as fast as you can to your jeep, which you parked behind the temple. \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind you!"
+		"text": "[char1] упирается в каменную статую, и через несколько мгновений она падает в песок пустыни! \n\nВерховная жрица раздавлена падающей статуей! [CTP]\n\nКультисты с криками разбегаются! Воспользовавшись неразберихой, вы хватаете один из их сундуков. Затем вы бежите как можно быстрее к своему джипу, который вы припарковали за храмом. \n\nВы слышите позади себя громкие, гневные крики - вас обнаружили! Но прежде чем культисты успевают отреагировать, вы уже заводите двигатель и вскоре оставляете храм позади!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthW_female",
-		"text": "[char1] heaves against the stone statue, and moments later it comes crashing down into the desert sand! \n\nThe high priestess is crushed by the falling statue! [CTP]\n\nThe cultists run around screaming! You take advantage of the confusion to grab one of their chests. You then sprint as fast as you can to your jeep, which you parked behind the temple. \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+		"text": "[char1] упирается в каменную статую, и через несколько мгновений она падает в песок пустыни! \n\nВерховная жрица раздавлена падающей статуей! [CTP]\n\nКультисты с криками разбегаются! Воспользовавшись неразберихой, вы хватаете один из их сундуков. Затем вы бежите как можно быстрее к своему джипу, который вы припарковали за храмом. \n\nВы слышите позади себя громкие, гневные крики - вас обнаружили! Но прежде чем культисты успевают отреагировать, вы уже заводите двигатель и вскоре оставляете храм позади!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthF",
-		"text": "[char1] heaves against the stone statue but he fails to knock it over. \n\nThe statue’s wobbling has not gone unnoticed! The cultists draw their daggers and seek out the cause!"
+		"text": "[char1] упирается в каменную статую, но не может её сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthF_female",
-		"text": "[char1] heaves against the stone statue but she fails to knock it over. \n\nThe statue’s wobbling has not gone unnoticed! The cultists draw their daggers and seek out the cause!"
+		"text": "[char1] упирается в каменную статую, но не может её сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RunW",
-		"text": "Panic grips you! As fast as you can, you rush to your jeep, which you parked behind the temple! \n\nYou hear loud, angry screams behind you – you have been discovered! But before the cultists can react, you have already started the engine and soon leave the temple behind!"
+		"text": "Вас охватывает паника! Как можно быстрее вы бросаетесь к своему джипу, который вы припарковали за храмом! \n\nВы слышите позади себя громкие, гневные крики - вас обнаружили! Но прежде чем культисты успевают отреагировать, вы уже заводите двигатель и вскоре оставляете храм позади!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RunF",
-		"text": "Panic grips you! You run as fast as the soft desert sand allows until you reach your jeep behind the temple! \n\nUnfortunately, your efforts are in vain: You cannot shake off the cultists..."
+		"text": "Вас охватывает паника! Как можно быстрее вы бросаетесь к своему джипу, который вы припарковали за храмом! \n\nК сожалению, ваши усилия тщетны: вы не можете отделаться от культистов..."
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Intro",
@@ -6507,7 +6507,7 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Title",
-		"text": "An ancient rock temple"
+		"text": "Древний каменный храм"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Title",
