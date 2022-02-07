@@ -4903,7 +4903,7 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Intro",
-		"text": "As you explore the ruins of the deserted village, you almost stumble over a large group of cultists sleeping on the ground. \n\nYou see an old wooden chest in their midst – what might it contain?"
+		"text": "Исследуя руины заброшенной деревни, вы едва не сталкиваетесь с большой группой культистов, спящих на земле. \n\nВы видите среди них старый деревянный сундук - что в нем может быть?"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice01",
@@ -4911,11 +4911,11 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice02",
-		"text": "Steal wooden chest"
+		"text": "Украсть деревянный сундук"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice03",
-		"text": "Sneak up on the sleeping cultists"
+		"text": "Подкрасться к спящим культистам"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice04",
@@ -4923,43 +4923,43 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_PilferW",
-		"text": "As quietly as possible [char0] picks his way through the bodies of the sleeping cultists until he reaches the chest. \n\nYou hold your breath as he opens it, but the cultists are sleeping soundly. A short time later, [char0] returns with a yellowed parchment in his hands!"
+		"text": "Как можно тише [char0] пробирается мимо тел спящих культистов, пока не добирается до сундука. \n\nВы задерживаете дыхание, когда он открывает его, но культисты крепко спят. Спустя некоторое время [char0] возвращается с пожелтевшим пергаментом в руках!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_PilferW_female",
-		"text": "As quietly as possible [char0] picks her way through the bodies of the sleeping cultists until she reaches the chest. \n\nYou hold your breath as she opens it, but the cultists are sleeping soundly. A short time later, [char0] returns with a yellowed parchment in her hands!"
+		"text": "Как можно тише [char0] пробирается мимо тел спящих культистов, пока не добирается до сундука. \n\nВы задерживаете дыхание, когда она открывает его, но культисты крепко спят. Спустя некоторое время [char0] возвращается с пожелтевшим пергаментом в руках!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_PilferF",
-		"text": "As quietly as possible [char0] picks his way through the sleeping cultists. Suddenly, he loses his balance and stumbles over one of the sleepers! \n\nThe cultists jump up immediately and draw their weapons!"
+		"text": "Как можно тише [char0] пробирается мимо тел спящих культистов. Вдруг он теряет равновесие и спотыкается об одного из спящих! \n\nКультисты немедленно вскакивают и достают оружие!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_PilferF_female",
-		"text": "As quietly as possible [char0] picks her way through the sleeping cultists. Suddenly, she loses her balance and stumbles over one of the sleepers! \n\nThe cultists jump up immediately and draw their weapons!"
+		"text": "Как можно тише [char0] пробирается мимо тел спящих культистов. Вдруг она теряет равновесие и спотыкается об одного из спящих! \n\nКультисты немедленно вскакивают и достают оружие!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_StealthW",
-		"text": "With catlike agility [char1] picks his way through the bodies of the sleeping cultists until he reaches the chest. \n\nYou hold your breath as he opens it, but the cultists are sleeping soundly. A short time later, [char1] returns with a yellowed parchment in his hands!"
+		"text": "С кошачьей ловкостью [char1] пробирается мимо тел спящих культистов, пока не добирается до сундука. \n\nВы задерживаете дыхание, когда он открывает его, но культисты крепко спят. Спустя некоторое время [char0] возвращается с пожелтевшим пергаментом в руках!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_StealthW_female",
-		"text": "With catlike agility [char1] picks her way through the bodies of the sleeping cultists until she reaches the chest. \n\nYou hold your breath as she opens it, but the cultists are sleeping soundly. A short time later, [char1] returns with a yellowed parchment in her hands!"
+		"text": "С кошачьей ловкостью [char1] пробирается мимо тел спящих культистов, пока не добирается до сундука. \n\nВы задерживаете дыхание, когда она открывает его, но культисты крепко спят. Спустя некоторое время [char0] возвращается с пожелтевшим пергаментом в руках!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_StealthF",
-		"text": "With catlike agility, [char1] picks his way past the sleeping cultists, but suddenly one of them stirs and and lets out a furious scream!\n\nThe rest of the cultists jump up immediately and draw their weapons!"
+		"text": "С кошачьей ловкостью [char1] пробирается мимо тел спящих культистов, но вдруг один из них зашевелился и издал яростный крик!\n\nОстальные культисты немедленно вскакивают и достают оружие!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_StealthF_female",
-		"text": "With catlike agility, [char1] picks her way past the sleeping cultists, but suddenly one of them stirs and and lets out a furious scream!\n\nThe rest of the cultists jump up immediately and draw their weapons!"
+		"text": "С кошачьей ловкостью [char1] пробирается мимо тел спящих культистов, но вдруг один из них зашевелился и издал яростный крик!\n\nОстальные культисты немедленно вскакивают и достают оружие!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_TreasureMap",
-		"text": "You study the parchment carefully. It is a map of the surrounding area. \n\nYou see a marking on the map, but the scrawled text next to it is illegible. Do you want to follow the map?"
+		"text": "Вы внимательно изучаете пергамент. Это карта окрестностей. \n\nВы видите отметку на карте, но нацарапанный рядом с ней текст неразборчив. Хотите ли вы следовать по карте?"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice05",
-		"text": "Follow the map"
+		"text": "Следовать по карте"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice06",
@@ -4967,11 +4967,11 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Cave",
-		"text": "You reach some impassable rocks. Without the map, you would never have thought of exploring these inaccessible hills, but you soon find a small cave entrance hidden between two rocky outcrops. [CTP]\n\nCurious, you enter the cave. The ornamentations on the walls are strange and unfamiliar. As the passage widens into a larger hall, you hear a low, menacing hum."
+		"text": "Вы достигаете непроходимых скал. Без карты вам бы и в голову не пришло исследовать эти неприступные вершины, но вскоре вы обнаруживаете небольшой вход в пещеру, спрятанный между двумя скальными выступами. [CTP]\n\nОхваченные любопытством, вы входите в пещеру. Орнаменты на стенах странные и незнакомые. Когда проход расширяется и превращается в большой зал, вы слышите низкий, угрожающий гул."
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice07",
-		"text": "Explore the hall"
+		"text": "Осмотреть зал"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Choice08",
@@ -4979,15 +4979,15 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Lucky",
-		"text": "The source of the humming remains a mystery, so you turn to more important questions.\n\nExcited, you search the ancient tomb. The floor is scattered with strange crates and boxes – the cultists have clearly been using the vault as a secret stash...!"
+		"text": "Источник гудения остается загадкой, поэтому вы переходите к более важным вопросам.\n\nВзволнованные, вы обыскиваете древнюю гробницу. На полу разбросаны странные ящики и коробки - культисты явно использовали склеп как тайник...!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Unlucky",
-		"text": "As you set foot in the ancient burial chamber, the air feels charged with electricity. \n\nMoments later, a blinding beam of light shoots through the room! You are thrown to the ground by an invisible force! [CTP]\n\nGasping in pain, you crawl back on all fours towards the daylight. Your clothes hang in tatters, heat blisters cover your skin! \n\nNo treasure on this Earth would persuade you to enter that cursed room again!"
+		"text": "Когда вы ступаете в древнюю погребальную камеру, воздух кажется заряженным электричеством. \n\nСпустя мгновение ослепительный луч света пронзает комнату! Невидимая сила бросает вас на пол! [CTP]\n\nЗадыхаясь от боли, вы ползете на четвереньках к дневному свету. Ваша одежда висит на вас клочьями, кожа покрыта волдырями! \n\nНикакие сокровища на этой земле не убедят вас снова войти в эту проклятую комнату!"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Aftermath",
-		"text": "As you search the chest, you find a yellowed parchment!"
+		"text": "Обыскав сундук, вы находите пожелтевший пергамент!"
 	},
 	{
 		"id": "BE_LostIdol01_Intro",
@@ -11383,19 +11383,19 @@
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Tech_B",
-		"text": "Take a look around"
+		"text": "Осмотреться вокруг"
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Trap_B",
-		"text": "[char2] surveys the room carefully, then points at the stone floor ahead of you: \n\n[char2]: \"Some of those flagstones look loose – this could be a trap!\""
+		"text": "[char2] внимательно осматривает комнату, затем указывает на каменный пол впереди себя: \n\n[char2]: \"Некоторые из этих камней похоже шатаются - это может быть ловушка!\""
 	},
 	{
 		"id": "BE_SleepingCultistVault01_Trap_B_female",
-		"text": "[char2] surveys the room carefully, then points at the stone floor ahead of you: \n\n[char2]: \"Some of those flagstones look loose – this could be a trap!\""
+		"text": "[char2] внимательно осматривает комнату, затем указывает на каменный пол впереди себя: \n\n[char2]: \"Некоторые из этих камней похоже шатаются - это может быть ловушка!\""
 	},
 	{
 		"id": "BE_SleepingCultistVault01_AvoidTrap_B",
-		"text": "You gingerly avoid the suspicious floor tiles. \n\nSoon you are standing among some strange crates and boxes – the cultists are clearly using the vault as a storeroom..."
+		"text": "Вы осторожно обходите подозрительные напольные плитки. \n\nВскоре вы стоите среди каких-то странных ящиков и коробок - культисты явно использовали склеп как тайник..."
 	},
 	{
 		"id": "BE_LostIdol01_Choice_Attack_B",
