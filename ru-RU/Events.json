@@ -4623,7 +4623,7 @@
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Intro",
-		"text": "The tombs of the ancient necropolis echo with the rhythmic chanting of a multitude of cultists. They are gathered around a crude altar that they have constructed in front of a mausoleum. [CTP] \n\nYou see a woman, apparently their prisoner, staggering and reeling as if possessed. The dense, cloying swathes of incense plunge the scene into an eerie light as the high priestess raises her voice. She gesticulates wildly, a jagged ritual dagger clenched in her right hand. [CTP] \n\nAre the cultists planning a human sacrifice? At the moment, all attention is on the priestess – nobody seems to be paying any attention to the prisoner..."
+		"text": "В гробницах древнего некрополя раздаются ритмичные песнопения множества культистов. Они собрались вокруг грубого алтаря, который соорудили перед мавзолеем. [CTP] \n\nВы видите женщину, очевидно, их пленницу, пошатывающуюся и шатающуюся, словно одержимая. Плотные, удушливые клубы благовоний погружают сцену в жуткий свет, когда верховная жрица повышает голос. Она бурно жестикулирует, в ее правой руке зажат зазубренный ритуальный кинжал. [CTP] \n\nПланируют ли культисты человеческое жертвоприношение? В данный момент все внимание приковано к жрице - похоже, никто не обращает внимания на пленницу..."
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice01",
@@ -4631,11 +4631,11 @@
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice02",
-		"text": "Освободить пленника"
+		"text": "Освободить пленницу"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice03",
-		"text": "Sneak up to the prisoner"
+		"text": "Подкрасться к пленнице"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Choice04",
@@ -4647,47 +4647,47 @@
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Busted",
-		"text": "You take advantage of the opportunity to approach the prisoner as inconspicuously as possible – unfortunately, you only make it half way before you are spotted! \n\nThe furious cultists descend on you!"
+		"text": "Вы пользуетесь возможностью подойти к пленнице как можно незаметнее - к сожалению, вы успеваете пройти только половину пути, прежде чем вас замечают! \n\nРазъяренные культисты нападают на вас!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_StealthW",
-		"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, he leaps from cover to cover until he finally reaches the woman. \n\nThey both manage to get away unseen! [CTP]\n\nIt is not until you reach the outer walls of the necropolis that you hear the distant screams of outrage indicating that your actions have been discovered. \n\nYou jump into your car and speed off!"
+		"text": "Осторожно, [char0] подкрадывается ближе к нечестивому алтарю. С ловкостью дикого кота он перепрыгивает из укрытия к укрытию, пока наконец не достигает женщины. \n\nИм обоим удается уйти незамеченными! [CTP]\n\nТолько когда вы достигнете внешних стен некрополя, вы слышите отдаленные крики негодования, свидетельствующие о том, что ваши действия были обнаружены. \n\nВы прыгаете в свою машину и уезжаете!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_StealthW_female",
-		"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, she leaps from cover to cover until she finally reaches the woman. \n\nThey both manage to get away unseen! [CTP]\n\nIt is not until you reach the outer walls of the necropolis that you hear the distant screams of outrage indicating that your actions have been discovered. \n\nYou jump into your car and speed off!"
+		"text": "Осторожно, [char0] подкрадывается ближе к нечестивому алтарю. С ловкостью дикой кошки она перепрыгивает из укрытия к укрытию, пока наконец не достигает женщины. \n\nИм обоим удается уйти незамеченными! [CTP]\n\nТолько когда вы достигнете внешних стен некрополя, вы слышите отдаленные крики негодования, свидетельствующие о том, что ваши действия были обнаружены. \n\nВы прыгаете в свою машину и уезжаете!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_StealthF",
-		"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, he leaps from cover to cover until he finally reaches the woman. \n\nJust as he is attempting to free her, you hear a loud shout - [char0] has been spotted!"
+		"text": "Осторожно, [char0] подкрадывается ближе к нечестивому алтарю. С ловкостью дикого кота он перепрыгивает из укрытия к укрытию, пока наконец не достигает женщины. \n\nВ тот момент, когда он пытается освободить ее, раздается громкий крик - [char0] был замечен!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_StealthF_female",
-		"text": "Carefully, [char0] sneaks closer to the unholy altar. With the agility of a wildcat, she leaps from cover to cover until she finally reaches the woman. \n\nJust as she is attempting to free her, you hear a loud shout - [char0] has been spotted!"
+		"text": "Осторожно, [char0] подкрадывается ближе к нечестивому алтарю. С ловкостью дикой кошки она перепрыгивает из укрытия к укрытию, пока наконец не достигает женщины. \n\nВ тот момент, когда она пытается освободить ее, раздается громкий крик - [char0] была замечена!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_DistractW",
-		"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! [CTP]\n\nThis is your chance! You run over to the woman and free her, then rush back to the car together. \n\n[char1] is already waiting there with the engine running. Just as the first cultists come rushing towards you, you speed away, leaving them in a cloud of dust!"
+		"text": "[char1] исчезает за гробницей. Через некоторое время слышится стрельба - культисты тут же вскакивают и начинают искать источник шума! [CTP]\n\nЭто ваш шанс! Вы подбегаете к женщине и освобождаете ее, а затем вместе спешите вернуться в машину. \n\n[char1] уже ждет там с заведенным двигателем. Как только первые культисты устремляются к вам, вы на полной скорости уноситесь прочь, оставляя их в облаке пыли!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_DistractW_female",
-		"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! [CTP]\n\nThis is your chance! You run over to the woman and free her, then rush back to the car together. \n\n[char1] is already waiting there with the engine running. Just as the first cultists come rushing towards you, you speed away, leaving them in a cloud of dust!"
+		"text": "[char1] исчезает за гробницей. Через некоторое время слышится стрельба - культисты тут же вскакивают и начинают искать источник шума! [CTP]\n\nЭто ваш шанс! Вы подбегаете к женщине и освобождаете ее, а затем вместе спешите вернуться в машину. \n\n[char1] уже ждет там с заведенным двигателем. Как только первые культисты устремляются к вам, вы на полной скорости уноситесь прочь, оставляя их в облаке пыли!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_DistractF",
-		"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! \n\nThis is your chance! You run over to the woman and free her, but then you hear loud, angry shouting – you have been discovered!"
+		"text": "[char1] исчезает за гробницей. Через некоторое время слышится стрельба - культисты тут же вскакивают и начинают искать источник шума! \n\nЭто ваш шанс! Вы подбегаете к женщине и освобождаете ее, но вдруг вы слышите громкий, сердитый крик - вас обнаружили!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_DistractF_female",
-		"text": "[char1] disappears behind a tomb. A short time later, you hear shooting – the cultists jump up immediately to search for the source of the noise! \n\nThis is your chance! You run over to the woman and free her, but then you hear loud, angry shouting – you have been discovered!"
+		"text": "[char1] исчезает за гробницей. Через некоторое время слышится стрельба - культисты тут же вскакивают и начинают искать источник шума! \n\nЭто ваш шанс! Вы подбегаете к женщине и освобождаете ее, но вдруг вы слышите громкий, сердитый крик - вас обнаружили!"
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Reward",
-		"text": "The young woman's parents are overjoyed when you bring her back to her home village. Her father enters his house and reappears a short time later with a bundle under his arm: \n\n[char2]: \"We do not have much to give, but please take this with our blessings!\""
+		"text": "Родители молодой женщины очень обрадовались, когда вы привезли ее в родную деревню. Ее отец входит в свой дом и через некоторое время снова появляется со свертком под мышкой: \n\n[char2]: \"У нас не так много, чтобы дать, но, пожалуйста, примите это как нашу благодарность!\""
 	},
 	{
 		"id": "BE_NecropolisSacrifice01_Aftermath",
-		"text": "When you have defeated your opponents, you crouch over the young woman. She is scared, but fortunately unharmed. You learn that she was kidnapped from her village by cultists."
+		"text": "Когда вы победили своих противников, вы приседаете над молодой женщиной. Она напугана, но, к счастью, невредима. Вы узнаете, что она была похищена из своей деревни культистами."
 	},
 	{
 		"id": "BE_BridgeInvocation01_Intro",
