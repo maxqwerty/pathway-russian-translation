@@ -2475,7 +2475,7 @@
 	},
 	{
 		"id": "BE_UnholyVault01_Intro",
-		"text": "You see a lot of tire tracks in the sand in front of the lonely desert temple, so you enter carefully and with weapons drawn. [CTP] Your prudence pays off: In a temple chamber, you take a lone sentry by surprise. You quickly disarm him."
+		"text": "Вы видите множество следов шин на песке перед одиноким храмом в пустыне, поэтому входите осторожно и с оружием наготове. [CTP] Ваше благоразумие оправдалось: в помещении храма вы застаете врасплох одинокого часового. Вы быстро обезвреживаете его."
 	},
 	{
 		"id": "BE_UnholyVault01_Choice01",
@@ -2483,71 +2483,71 @@
 	},
 	{
 		"id": "BE_UnholyVault01_Choice02",
-		"text": "Interrogate soldier"
+		"text": "Допросить солдата"
 	},
 	{
 		"id": "BE_UnholyVault01_Choice03",
-		"text": "Intimidate the man"
+		"text": "Запугать мужчину"
 	},
 	{
 		"id": "BE_UnholyVault01_Choice04",
-		"text": "Search temple chamber"
+		"text": "Обыскать помещение храма"
 	},
 	{
 		"id": "BE_UnholyVault01_Choice05",
-		"text": "Descend into grave vault"
+		"text": "Спуститься в погребальную камеру"
 	},
 	{
 		"id": "BE_UnholyVault01_Leave01",
-		"text": "The tire tracks in front of the temple indicate a large convoy. You knock the soldier out with a sharp blow to the back of the head, then retreat before reinforcements arrive."
+		"text": "Следы шин перед храмом указывают на большой конвой. Вы вырубаете солдата резким ударом по затылку, а затем отступаете до прибытия подкрепления."
 	},
 	{
 		"id": "BE_UnholyVault01_IntimidateF",
-		"text": "You question the soldier about his mission, but the man is not inclined to help you. \n\n[char0]: \"Just you wait – sooner or later my comrades will be back and then we can all talk together!\""
+		"text": "Вы расспрашиваете солдата о его задании, но тот не склонен вам помогать. \n\n[char0]: \"Подождите - рано или поздно мои товарищи вернутся, и тогда мы сможем поговорить все вместе!\""
 	},
 	{
 		"id": "BE_UnholyVault01_Leave02",
-		"text": "Is the man bluffing or not? You decide it's not worth the risk. You leave the man tied up and continue on your journey."
+		"text": "Блефует человек или нет? Вы решаете, что не стоит рисковать. Вы оставляете мужчину связанным и продолжаете свой путь."
 	},
 	{
 		"id": "BE_UnholyVault01_Search_Loot",
-		"text": "You bind and gag the soldier before searching the temple chamber. But the soldiers who were here before you were very thorough. You find nothing of value. You leave the temple, disappointed."
+		"text": "Вы связываете и затыкаете рот солдату, прежде чем обыскать храмовую комнату. Но солдаты, которые были здесь до вас, были очень тщательны. Вы не находите ничего ценного. Вы покидаете храм, разочарованные."
 	},
 	{
 		"id": "BE_UnholyVault01_Search_Soldiers",
-		"text": "You bind and gag the soldier before searching the temple chamber. But the soldiers were here before you were very thorough and you don’t find anything. As you are about to leave, you hear the noise of engines – the Germans are returning! You quickly seek cover and lie in wait for them!"
+		"text": "Вы связываете и затыкаете рот солдату, прежде чем обыскать храмовую комнату. Но солдаты, которые были здесь до вас, были очень тщательны. Вы не находите ничего ценного. Когда вы уже собираетесь уходить, вы слышите шум моторов - немцы возвращаются! Вы быстро ищете укрытие и поджидаете их!"
 	},
 	{
 		"id": "BE_UnholyVault01_IntimidateW",
-		"text": "[char1] leans down menacingly, face to face with the soldier: \n\n[char1]: \"All alone out here, surrounded by your enemies – I would be worried if I were you...\"\n\nThe man caves in: [CTP]\n\n[char0]: \"We sent a squad into the burial chamber but something must have gone wrong! Spare me and I'll show you the secret entrance! \"\n\nWithout waiting for your answer, the soldier starts pawing at the altar. Suddenly, a hidden stone door opens in the wall. A steep staircase leads into the depths."
+		"text": "[char1] угрожающе наклонился, лицом к лицу к солдату: \n\n[char1]: \"Совсем один здесь, в окружении врагов - я бы на твоем месте беспокоился...\"\n\nМужчина уступает: [CTP]\n\n[char0]: \"Мы послали отряд в погребальную камеру, но, видимо, что-то пошло не так! Пощадите меня, и я покажу вам тайный вход! \"\n\nНе дожидаясь вашего ответа, солдат начинает бить ногой по алтарю. Вдруг в стене открывается потайная каменная дверь. В глубину ведет крутая лестница."
 	},
 	{
 		"id": "BE_UnholyVault01_IntimidateW_female",
-		"text": "[char1] leans down menacingly, face to face with the soldier: \n\n[char1]: \"All alone out here, surrounded by your enemies – I would be worried if I were you...\"\n\nThe man caves in: [CTP]\n\n[char0]: \"We sent a squad into the burial chamber but something must have gone wrong! Spare me and I'll show you the secret entrance! \"\n\nWithout waiting for your answer, the soldier starts pawing at the altar. Suddenly, a hidden stone door opens in the wall. A steep staircase leads into the depths."
+		"text": "[char1] угрожающе наклонился, лицом к лицу к солдату: \n\n[char1]: \"Совсем один здесь, в окружении врагов - я бы на твоем месте беспокоилась...\"\n\nМужчина уступает: [CTP]\n\n[char0]: \"Мы послали отряд в погребальную камеру, но, видимо, что-то пошло не так! Пощадите меня, и я покажу вам тайный вход! \"\n\nНе дожидаясь вашего ответа, солдат начинает бить ногой по алтарю. Вдруг в стене открывается потайная каменная дверь. В глубину ведет крутая лестница."
 	},
 	{
 		"id": "BE_UnholyVault01_Leave03",
-		"text": "What happened down there? Not every question needs to be answered. You leave the man tied up and continue on your journey."
+		"text": "Что там произошло? Не на все вопросы нужно отвечать. Вы оставляете человека связанным и продолжаете свой путь."
 	},
 	{
 		"id": "BE_UnholyVault01_Vault",
-		"text": "You leave the man bound and gagged and start your descent. After a while, you reach the burial chamber where a gruesome scene awaits you: The corpses of a squad of German soldiers lie scattered around a sarcophagus. Their dislocated limbs are twisted into impossible positions."
+		"text": "Вы оставляете человека связанным и с кляпом во рту и начинаете спуск. Через некоторое время вы попадаете в погребальную камеру, где вас ждет жуткая сцена: трупы отряда немецких солдат лежат, разбросанные вокруг саркофага. Их вывихнутые конечности скручены в невозможные позы."
 	},
 	{
 		"id": "BE_UnholyVault01_OccultF",
-		"text": "While you're wondering what all this means, to your horror, the dead suddenly start to move. With dismal groans, they start to shuffle towards you like grisly puppets!"
+		"text": "Пока вы гадаете, что все это значит, к вашему ужасу, мертвецы вдруг начинают шевелиться. Со страшными стонами они начинают двигаться в вашу сторону, словно жуткие марионетки!"
 	},
 	{
 		"id": "BE_UnholyVault01_Leave04",
-		"text": "Gripped with panic, you flee the unholy vault!"
+		"text": "Охваченный паникой, вы бежите из нечестивого хранилища!"
 	},
 	{
 		"id": "BE_UnholyVault01_OccultW",
-		"text": "[char2] screams and jumps over to the sarcophagus. Like a man possessed, he smashes the clay figurines resting on it into a thousand pieces. In a frenzy, he turns to you: [CTP]\n\n[char2]: \"Get out! Flee, if you value your lives - and don’t look back!\"\n\nAs you storm out, you snatch up a small wooden chest from among the dead soldiers!"
+		"text": "[char2] вскрикивает и бросается к саркофагу. Словно одержимый, он разбивает глиняные фигурки, лежащие на нем, на тысячу кусочков. В исступлении он поворачивается к вам: [CTP]\n\n[char2]: \"Уходите! Бегите, если вам дороги ваши жизни - и не оглядывайтесь!\"\n\nУходя, вы хватаете небольшой деревянный сундучок, лежавший среди мертвых солдат!"
 	},
 	{
 		"id": "BE_UnholyVault01_OccultW_female",
-		"text": "[char2] screams and jumps over to the sarcophagus. Like a woman possessed, she smashes the clay figurines resting on it into a thousand pieces. In a frenzy, she turns to you: [CTP]\n\n[char2]: \"Get out! Flee, if you value your lives - and don’t look back!\"\n\nAs you storm out, you snatch up a small wooden chest from among the dead soldiers!"
+		"text": "[char2] вскрикивает и бросается к саркофагу. Словно одержимая, она разбивает глиняные фигурки, лежащие на нем, на тысячу кусочков. В исступлении она поворачивается к вам: [CTP]\n\n[char2]: \"Уходите! Бегите, если вам дороги ваши жизни - и не оглядывайтесь!\"\n\nУходя, вы хватаете небольшой деревянный сундучок, лежавший среди мертвых солдат!"
 	},
 	{
 		"id": "CR_AngryMob01_Revisit",
@@ -9155,11 +9155,11 @@
 	},
 	{
 		"id": "BE_UnholyVault01_Choice06",
-		"text": "Look around the room"
+		"text": "Осмотреть комнату"
 	},
 	{
 		"id": "BE_UnholyVault01_Choice07",
-		"text": "Think hard"
+		"text": "Хорошо подумать"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice06",
@@ -11371,7 +11371,7 @@
 	},
 	{
 		"id": "BE_UnholyVault01_OccultLoot_B",
-		"text": "When you are finally out of danger, you pause to examine the contents of the small box. \n\nIt is a diadem made of beaten bronze.\n\nWho wants to put it on?"
+		"text": "Когда вы наконец-то оказываетесь вне опасности, вы делаете паузу, чтобы изучить содержимое маленькой коробочки. \n\nЭто диадема, изготовленная из кованой бронзы.\n\nКто хочет надеть ее?"
 	},
 	{
 		"id": "BE_UnholyVault01_CharBoost_B",
