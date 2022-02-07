@@ -319,7 +319,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Intro",
-		"text": "Even from a distance, you can see that something is wrong in the village ahead of you, so you approach cautiously, using the low walls for cover. [CTP]\n\nYour instincts did not deceive you: A group of German soldiers have occupied the village and are rounding up its inhabitants!"
+		"text": "Уже издалека видно, что в деревне перед вами что-то не так, поэтому вы приближаетесь осторожно, используя низкие стены для укрытия. [CTP]\n\nИнтуиция вас не обманула: группа немецких солдат заняла деревню и проводит облаву на ее жителей!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice01",
@@ -327,7 +327,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Fight",
-		"text": "You check your ammunition and take your positions. Then you open fire! The farmers seek shelter in their huts when the Germans return fire."
+		"text": "Вы проверяете боеприпасы и занимаете свои позиции. Затем вы открываете огонь! Фермеры пытаются укрыться в своих хижинах, когда немцы открывают ответный огонь."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice02",
@@ -335,7 +335,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Aftermath",
-		"text": "As the last shot dies away, the villagers cautiously emerge from their huts. The village elder thanks you profusely. Then he points despondently at the village well: [CTP]\n\n[char1]: \"The soldiers destroyed our well! Help us, or our livestock will die of thirst! \"\n\nYou peer into the well shaft and realize that it has been blown up by a German hand grenade."
+		"text": "Когда стихает последний выстрел, жители деревни осторожно выходят из своих хижин. Старейшина деревни горячо благодарит вас. Затем он удрученно показывает на деревенский колодец: [CTP]\n\n[char1]: \"Солдаты разрушили наш колодец! Помогите нам, или наш скот умрет от жажды! \"\n\nВы заглядываете в шахту колодца и понимаете, что она была взорвана немецкой ручной гранатой."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice03",
@@ -343,27 +343,27 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_GoodBye",
-		"text": "You hope the farmers will be able to dig their own well again, because you don’t have time to do it for them. Regretfully, you bid farewell and move on."
+		"text": "Вы надеетесь, что фермеры снова смогут сами выкопать себе колодец, потому что у вас нет времени делать это за них. С сожалением вы прощаетесь и уезжаете."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice04",
-		"text": "Repair the well"
+		"text": "Починить колодец"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalW",
-		"text": "[char0] nods and starts giving orders: Support beams are hauled into place, winches installed and the well is dug out again. It is not long before the well is at least operational again. The village elder is overjoyed:[CTP]\n\n[char2]: \"We are deeply in your debt! Take this gift as a token of our gratitude. The foreign soldiers searched for it without success, but we give it to you gladly!\""
+		"text": "[char0] кивает и начинает отдавать приказы: опорные балки затаскиваются на место, устанавливаются лебедки, и колодец снова выкапывают. Вскоре колодец, по крайней мере, снова работает. Старейшина деревни вне себя от радости:[CTP]\n\n[char2]: \"Мы в большом долгу перед вами! Примите этот подарок в знак нашей благодарности. Иноземные солдаты безуспешно искали его, но мы с радостью отдаем его вам!\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalW_female",
-		"text": "[char0] nods and starts giving orders: Support beams are hauled into place, winches installed and the well is dug out again. It is not long before the well is at least operational again. The village elder is overjoyed:[CTP]\n\n[char2]: \"We are deeply in your debt! Take this gift as a token of our gratitude. The foreign soldiers searched for it without success, but we give it to you gladly!\""
+		"text": "[char0] кивает и начинает отдавать приказы: опорные балки затаскивают на место, устанавливают лебедки, и начинают выкапывать колодец. Вскоре колодец, по крайней мере, снова работает. Старейшина деревни вне себя от радости:[CTP]\n\n[char2]: \"Мы в большом долгу перед вами! Примите этот подарок в знак нашей благодарности. Иноземные солдаты безуспешно искали его, но мы с радостью отдаем его вам!\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalF",
-		"text": "[char0] shakes his head and says resignedly: \n\n[char0]: \"The Germans knew what they were doing – the well is gone!\" [CTP]\n\nThe villagers will have to find another waterhole somewhere else. Their mood is subdued as you bid farewell."
+		"text": "[char0] качает головой и говорит: \n\n[char0]: \"Немцы знали, что делали - колодца больше нет!\" [CTP]\n\nЖителям деревни придется искать другой водопой в другом месте. Настроение у них подавленное, и вы прощаетесь."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalF_female",
-		"text": "[char0] shakes her head and says resignedly: \n\n[char0]: \"The Germans knew what they were doing – the well is gone!\" [CTP]\n\nThe villagers will have to find another waterhole somewhere else. Their mood is subdued as you bid farewell."
+		"text": "[char0] качает головой и говорит: \n\n[char0]: \"Немцы знали, что делали - колодца больше нет!\" [CTP]\n\nЖителям деревни придется искать другой водопой в другом месте. Настроение у них подавленное, и вы прощаетесь."
 	},
 	{
 		"id": "BE_LostRockTemple01_Intro",
@@ -1875,11 +1875,11 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Intro",
-		"text": "The bumpy dirt track leads you through rocky terrain when a turnoff appears on your left. It is obviously a dead end that stops not far from a rock face. But wait... what’s that? An old mine entrance?"
+		"text": "Ухабистая грунтовая дорога ведет вас через скалистую местность, как вдруг слева от вас возникает разворот. Очевидно, что это тупик, расположенный недалеко от скалистого склона. Но подождите... что это? Старый вход в шахту?"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice01",
-		"text": "Inspect the mine entrance"
+		"text": "Осмотреть вход в шахту"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice02",
@@ -1887,7 +1887,7 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Enter",
-		"text": "After a dozen steps, the tunnel ends in a blank rock face. A shaft dug into the ground leads into the depths, surrounded by a pile of rubble from old wooden beams and bobbins. \n\nEverything around you seems derelict and dilapidated."
+		"text": "Спустя десяток шагов туннель закончился глухим камнем. Вырытая в земле шахта ведет в глубину, вокруг - груда обломков старых деревянных балок и бобин. \n\nВсе вокруг кажется заброшенным и обветшалым."
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice03",
@@ -1895,39 +1895,39 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice04",
-		"text": "Explore the mine"
+		"text": "Исследовать шахту"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice05",
-		"text": "Repair the winch"
+		"text": "Отремонтировать лебедку"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Accident",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding his left calf, which has been pierced by a finger-thick splinter of wood."
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! [CTP]\n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась. \n\n[char0] ругается и держится за левую икру, которую пронзила щепка дерева толщиной в палец."
 	},
 	{
 		"id": "AE_OldMiningShaft01_Accident_female",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding her left calf, which has been pierced by a finger-thick splinter of wood."
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! [CTP]\n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась. \n\n[char0] ругается и держится за левую икру, которую пронзила щепка дерева толщиной в палец."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionW",
-		"text": "Alarmed, [char1] places his index finger on his lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+		"text": "Внезапно [char1] прикладывает указательный палец к губам и указывает на стену тоннеля перед вами: мягко, почти незаметно, из-за несущей рамы вытекает тонкая линия песка! \n\nШаг за шагом вы медленно пробираетесь к выходу, стараясь ни во что не врезаться. [CTP]\n\nВы едва успеваете выйти на открытый воздух, как боковые балки начинают громко скрипеть под тяжестью лет: шахта обрушивается с оглушительным треском! Вы были на волосок от гибели..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionW_female",
-		"text": "Alarmed, [char1] places her index finger on her lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+		"text": "Внезапно [char1] прикладывает указательный палец к губам и указывает на стену тоннеля перед вами: мягко, почти незаметно, из-за несущей рамы вытекает тонкая линия песка! \n\nШаг за шагом вы медленно пробираетесь к выходу, стараясь ни во что не врезаться. [CTP]\n\nВы едва успеваете выйти на открытый воздух, как боковые балки начинают громко скрипеть под тяжестью лет: шахта обрушивается с оглушительным треском! Вы были на волосок от гибели..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionF",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! \n\nIn a panic, you dive back out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed!"
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! \n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась!"
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalW",
-		"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+		"text": "С помощью нескольких грамотных действий [char2] возвращает лебедку в рабочее состояние. С замирающим сердцем вы опускаетесь в неизвестность. [CTP]\n\nВнизу вас ждет горькое разочарование: Туннель обрушился. Единственный выход - обратно по шахте. \n\nИ тут ваш взгляд падает на пыльный деревянный ящик, незаметно лежащий среди обломков..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalW_female",
-		"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+		"text": "С помощью нескольких грамотных действий [char2] возвращает лебедку в рабочее состояние. С замирающим сердцем вы опускаетесь в неизвестность. [CTP]\n\nВнизу вас ждет горькое разочарование: Туннель обрушился. Единственный выход - обратно по шахте. \n\nИ тут ваш взгляд падает на пыльный деревянный ящик, незаметно лежащий среди обломков..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalF",
@@ -10771,23 +10771,23 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice_Trick",
-		"text": "Yes, that might work..."
+		"text": "Да, это может сработать..."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice_Daredevil",
-		"text": "Enough talk!"
+		"text": "Хватит разговоров!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TrickNPCWin",
-		"text": "Before you can stop him, [char3] calmly strolls up to the Germans! \n\nHe waves one of the officers over imperiously. You hear fragments of an angry German conversation but you have no idea what is being said.\n\nA few minutes later, the Germans jump into their vehicles and speed away.\n\n[CTP]\n\nWhen [char3] returns, he smiles smugly: \n\n[char3]: \"An urgent secret mission - I’m afraid I can’t tell you the details. ‘Need-to-know’, I hope you understand...\""
+		"text": "Прежде чем вы успеваете остановить его, [char3] спокойно подходит к немцам! \n\nОн властно машет одному из офицеров. Вы слышите обрывки сердитого разговора на немецком языке, но не понимаете, о чем идет речь.\n\nЧерез несколько минут немцы прыгают в свои машины и уезжают.\n\n[CTP]\n\nКогда [char3] возвращается, он самодовольно улыбается: \n\n[char3]: \"Срочное секретное задание - боюсь, я не могу рассказать вам подробности. 'Служебная необходимость', если вы понимаете...\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TRickNPCWin_female",
-		"text": "Before you can stop her, [char3] calmly strolls up to the Germans! \n\nShe waves one of the officers over imperiously. You hear fragments of an angry German conversation but you have no idea what is being said. \n\nA few minutes later, the Germans jump into their vehicles and speed away. \n\n[CTP]\n\nWhen [char3] returns, she smiles smugly: \n\n[char3]: \"An urgent secret mission - I’m afraid I can’t tell you the details. ‘Need-to-know’, I hope you understand...\""
+		"text": "Прежде чем вы успеваете остановить ее, [char3] спокойно подходит к немцам! \n\nОна властно машет одному из офицеров. Вы слышите обрывки сердитого разговора на немецком языке, но не понимаете, о чем идет речь.\n\nЧерез несколько минут немцы прыгают в свои машины и уезжают.\n\n[CTP]\n\nКогда [char3] возвращается, она самодовольно улыбается: \n\n[char3]: \"Срочное секретное задание - боюсь, я не могу рассказать вам подробности. 'Служебная необходимость', если вы понимаете...\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_SomeLoot",
-		"text": "The Germans forgot a supply crate in their hurry!"
+		"text": "Немцы в спешке забыли ящик с припасами!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Daredevil",
@@ -10799,15 +10799,15 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_DaredevilWin",
-		"text": "A few seconds later, a massive explosion tears through the silence. Several German soldiers are left writhing on the ground, screaming! \n\nThe rest of the Germans take cover and open fire while the peasants run for safety!"
+		"text": "Через несколько секунд тишину разрывает мощный взрыв. Несколько немецких солдат корчатся на земле и кричат! \n\nОстальные немцы прячутся в укрытие и открывают огонь, а местные жители бегут в безопасное место!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_OldPriest",
-		"text": "As you are about to leave, an old, dignified-looking man approaches, chanting a strange prayer. \n\nYou are not sure what to make of it, but you feel inspired and stronger than ever!"
+		"text": "Когда вы уже собрались уйти, к вам подходит пожилой человек с почтенным видом и нараспев читает странную молитву. \n\nВы не знаете, что с этим делать, но чувствуете себя вдохновленными и сильными, как никогда!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_AfterTrickery",
-		"text": "You explain to the suspicious peasants that it was just a trick - you are not in league with the Germans! \n\nThe village elder thanks you profusely. Then he points despondently at the village well: [CTP]\n\n[char1]: \"The soldiers destroyed our well! Help us, or our livestock will die of thirst! \"\n\nYou peer into the well shaft and realize that it has been blown up by a German hand grenade."
+		"text": "Вы объясняете недоверчивым крестьянам, что это был просто трюк - вы не в сговоре с немцами! \n\nСтарейшина деревни горячо благодарит вас. Затем он удрученно показывает на деревенский колодец: [CTP]\n\n[char1]: \"Солдаты разрушили наш колодец! Помогите нам, или наш скот умрет от жажды! \"\n\nВы заглядываете в шахту колодца и понимаете, что она была взорвана немецкой ручной гранатой."
 	},
 	{
 		"id": "LE_GhostTown01_Smell",
