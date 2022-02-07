@@ -3355,15 +3355,15 @@
 	},
 	{
 		"id": "GE_StargateFragment01_Intro",
-		"text": "Your attention is drawn to a strange, circular stone formation in the desert sand. You take a closer look at the area and uncover several strange objects hidden in the sand. They are arranged in a circle. \n\nYou do not have the slightest idea what you have discovered."
+		"text": "Ваше внимание привлекает странное круглое каменное образование в песке пустыни. Вы внимательно осматриваете это место и обнаруживаете несколько странных предметов, скрытых в песке. Они расположены по кругу. \n\nВы не имеете ни малейшего представления о том, что вы обнаружили."
 	},
 	{
 		"id": "GE_StargateFragment01_Choice01",
-		"text": "Inspect the area"
+		"text": "Осмотреть территорию"
 	},
 	{
 		"id": "GE_StargateFragment01_Choice02",
-		"text": "Examine object more closely"
+		"text": "Внимательно изучить объект"
 	},
 	{
 		"id": "GE_StargateFragment01_Choice03",
@@ -3371,51 +3371,51 @@
 	},
 	{
 		"id": "GE_StargateFragment01_InvestigateF",
-		"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nDespite all your efforts, you fail to gather any further insights so you continue your journey."
+		"text": "Странный объект сделан из материала, похожего на обсидиан. Его поверхность похожа одновременно на расплавленный и твердый камень. \n\nНесмотря на все ваши усилия, вам не удается собрать больше информации, и вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_StargateFragment01_InvestigateW",
-		"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nJust as you are about to leave this place, [char0] stumbles over a stone block. A strange humming passes through the objects. Suddenly, some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+		"text": "Странный объект сделан из материала, похожего на обсидиан. Его поверхность похожа одновременно на расплавленный и твердый камень. \n\nВ тот момент, когда вы собираетесь покинуть это место, [char0] спотыкается о каменную глыбу. Странное гудение проходит через все объекты. Вдруг какая-то невидимая сила захватывает их и соединяет вместе. Получившаяся конструкция начинает светиться!"
 	},
 	{
 		"id": "GE_StargateFragment01_InvestigateW_female",
-		"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. \n\nJust as you are about to leave this place, [char0] stumbles over a stone block. A strange humming passes through the objects. Suddenly, some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+		"text": "Странный объект сделан из материала, похожего на обсидиан. Его поверхность похожа одновременно на расплавленный и твердый камень. \n\nВ тот момент, когда вы собираетесь покинуть это место, [char0] спотыкается о каменную глыбу. Странное гудение проходит через все объекты. Вдруг какая-то невидимая сила захватывает их и соединяет вместе. Получившаяся конструкция начинает светиться!"
 	},
 	{
 		"id": "GE_StargateFragment01_TechnicalW",
-		"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. [char1] grabs excitedly at the objects scattered in the sand. \n\nSuddenly, a strange humming passes through the objects. Some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+		"text": "Странный объект сделан из материала, похожего на обсидиан. Его поверхность похожа одновременно на расплавленный и твердый камень. [char1] взволнованно хватается за объекты, разбросанные на песке. \n\nИ вдруг странное гудение проходит через все объекты. Вдруг какая-то невидимая сила захватывает их и соединяет вместе. Получившаяся конструкция начинает светиться!"
 	},
 	{
 		"id": "GE_StargateFragment01_TechnicalW_female",
-		"text": "The strange object is made of an obsidian-like material. Its surface looks like molten and solid stone simultaneously. [char1] grabs excitedly at the objects scattered in the sand. \n\nSuddenly, a strange humming passes through the objects. Some invisible force seizes them and throws them together. The resulting structure begins to glow!"
+		"text": "Странный объект сделан из материала, похожего на обсидиан. Его поверхность похожа одновременно на расплавленный и твердый камень. [char1] взволнованно хватается за объекты, разбросанные на песке. \n\nИ вдруг странное гудение проходит через все объекты. Вдруг какая-то невидимая сила захватывает их и соединяет вместе. Получившаяся конструкция начинает светиться!"
 	},
 	{
 		"id": "GE_StargateFragment01_Stonewheel",
-		"text": "The man-sized stone wheel hovers in front of you at chest level, connected to the pedestal below by a mysterious invisible force. \n\nA pulsating light fills the interior of the stone wheel!"
+		"text": "Каменное колесо размером с человека парит перед вами на уровне груди, соединенное с постаментом внизу таинственной невидимой силой. \n\nПульсирующий свет заполняет внутреннюю часть каменного колеса!"
 	},
 	{
 		"id": "GE_StargateFragment01_Choice04",
-		"text": "Inspect stone wheel"
+		"text": "Осмотреть каменное колесо"
 	},
 	{
 		"id": "GE_StargateFragment01_DetermineChar",
-		"text": "Pick a character to investigate the strange stone wheel."
+		"text": "Выберите персонажа, который будет исследовать странное каменное колесо."
 	},
 	{
 		"id": "GE_StargateFragment01_ExamineWheelF",
-		"text": "When [char2] places his index finger on the light source, there is a deafening crash! You are blinded by a flash of lightning. \n\nWhen your eyes have readjusted, you see that the wheel has shattered into a thousand parts. [char2] is rolling on the ground, groaning."
+		"text": "Когда [char2] прикладывает указательный палец к источнику света, раздается оглушительный треск! Вы ослеплены вспышкой молнии. \n\nКогда ваши глаза снова стали видеть, вы поняли, что колесо разлетелось на тысячу частей. [char2] катается по земле и стонет."
 	},
 	{
 		"id": "GE_StargateFragment01_ExamineWheelF_female",
-		"text": "When [char2] places her index finger on the light source, there is a deafening crash! You are blinded by a flash of lightning. \n\nWhen your eyes have readjusted, you see that the wheel has shattered into a thousand parts. [char2] is rolling on the ground, groaning."
+		"text": "Когда [char2] прикладывает указательный палец к источнику света, раздается оглушительный треск! Вы ослеплены вспышкой молнии. \n\nКогда ваши глаза снова стали видеть, вы поняли, что колесо разлетелось на тысячу частей. [char2] катается по земле и стонет."
 	},
 	{
 		"id": "GE_StargateFragment01_ExamineWheelW",
-		"text": "When [char2] places his index finger on the light source, you hear a humming sound. Then the light goes out and the stone wheel crashes to the ground! \n\nWhen [char2] turns to you, there is a strange glint in his eyes: \n\n[char2]: \"I feel... fantastic…!\""
+		"text": "Когда [char2] прикладывает указательный палец к источнику света, слышится жужжание. Затем свет гаснет, и каменное колесо разбивается о землю! \n\nКогда [char2] поворачивается к вам, в его глазах появляется странный блеск: \n\n[char2]: \"Я чувствую себя... фантастически...!\""
 	},
 	{
 		"id": "GE_StargateFragment01_ExamineWheelW_female",
-		"text": "When [char2] places her index finger on the light source, you hear a humming sound. Then the light goes out and the stone wheel crashes to the ground!\n\nWhen [char2] turns to you, there is a strange glint in her eyes: \n\n[char2]: \"I feel... fantastic…!\""
+		"text": "Когда [char2] прикладывает указательный палец к источнику света, слышится жужжание. Затем свет гаснет, и каменное колесо разбивается о землю! \n\nКогда [char2] поворачивается к вам, в ее глазах появляется странный блеск: \n\n[char2]: \"Я чувствую себя... фантастически...!\""
 	},
 	{
 		"id": "BE_CreepyHut01_Intro",
