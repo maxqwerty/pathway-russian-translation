@@ -319,7 +319,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Intro",
-		"text": "Even from a distance, you can see that something is wrong in the village ahead of you, so you approach cautiously, using the low walls for cover. [CTP]\n\nYour instincts did not deceive you: A group of German soldiers have occupied the village and are rounding up its inhabitants!"
+		"text": "Уже издалека видно, что в деревне перед вами что-то не так, поэтому вы приближаетесь осторожно, используя низкие стены для укрытия. [CTP]\n\nИнтуиция вас не обманула: группа немецких солдат заняла деревню и проводит облаву на ее жителей!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice01",
@@ -327,7 +327,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Fight",
-		"text": "You check your ammunition and take your positions. Then you open fire! The farmers seek shelter in their huts when the Germans return fire."
+		"text": "Вы проверяете боеприпасы и занимаете свои позиции. Затем вы открываете огонь! Фермеры пытаются укрыться в своих хижинах, когда немцы открывают ответный огонь."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice02",
@@ -335,7 +335,7 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Aftermath",
-		"text": "As the last shot dies away, the villagers cautiously emerge from their huts. The village elder thanks you profusely. Then he points despondently at the village well: [CTP]\n\n[char1]: \"The soldiers destroyed our well! Help us, or our livestock will die of thirst! \"\n\nYou peer into the well shaft and realize that it has been blown up by a German hand grenade."
+		"text": "Когда стихает последний выстрел, жители деревни осторожно выходят из своих хижин. Старейшина деревни горячо благодарит вас. Затем он удрученно показывает на деревенский колодец: [CTP]\n\n[char1]: \"Солдаты разрушили наш колодец! Помогите нам, или наш скот умрет от жажды! \"\n\nВы заглядываете в шахту колодца и понимаете, что она была взорвана немецкой ручной гранатой."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice03",
@@ -343,27 +343,27 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_GoodBye",
-		"text": "You hope the farmers will be able to dig their own well again, because you don’t have time to do it for them. Regretfully, you bid farewell and move on."
+		"text": "Вы надеетесь, что фермеры снова смогут сами выкопать себе колодец, потому что у вас нет времени делать это за них. С сожалением вы прощаетесь и уезжаете."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice04",
-		"text": "Repair the well"
+		"text": "Починить колодец"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalW",
-		"text": "[char0] nods and starts giving orders: Support beams are hauled into place, winches installed and the well is dug out again. It is not long before the well is at least operational again. The village elder is overjoyed:[CTP]\n\n[char2]: \"We are deeply in your debt! Take this gift as a token of our gratitude. The foreign soldiers searched for it without success, but we give it to you gladly!\""
+		"text": "[char0] кивает и начинает отдавать приказы: опорные балки затаскиваются на место, устанавливаются лебедки, и колодец снова выкапывают. Вскоре колодец, по крайней мере, снова работает. Старейшина деревни вне себя от радости:[CTP]\n\n[char2]: \"Мы в большом долгу перед вами! Примите этот подарок в знак нашей благодарности. Иноземные солдаты безуспешно искали его, но мы с радостью отдаем его вам!\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalW_female",
-		"text": "[char0] nods and starts giving orders: Support beams are hauled into place, winches installed and the well is dug out again. It is not long before the well is at least operational again. The village elder is overjoyed:[CTP]\n\n[char2]: \"We are deeply in your debt! Take this gift as a token of our gratitude. The foreign soldiers searched for it without success, but we give it to you gladly!\""
+		"text": "[char0] кивает и начинает отдавать приказы: опорные балки затаскивают на место, устанавливают лебедки, и начинают выкапывать колодец. Вскоре колодец, по крайней мере, снова работает. Старейшина деревни вне себя от радости:[CTP]\n\n[char2]: \"Мы в большом долгу перед вами! Примите этот подарок в знак нашей благодарности. Иноземные солдаты безуспешно искали его, но мы с радостью отдаем его вам!\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalF",
-		"text": "[char0] shakes his head and says resignedly: \n\n[char0]: \"The Germans knew what they were doing – the well is gone!\" [CTP]\n\nThe villagers will have to find another waterhole somewhere else. Their mood is subdued as you bid farewell."
+		"text": "[char0] качает головой и говорит: \n\n[char0]: \"Немцы знали, что делали - колодца больше нет!\" [CTP]\n\nЖителям деревни придется искать другой водопой в другом месте. Настроение у них подавленное, и вы прощаетесь."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TechnicalF_female",
-		"text": "[char0] shakes her head and says resignedly: \n\n[char0]: \"The Germans knew what they were doing – the well is gone!\" [CTP]\n\nThe villagers will have to find another waterhole somewhere else. Their mood is subdued as you bid farewell."
+		"text": "[char0] качает головой и говорит: \n\n[char0]: \"Немцы знали, что делали - колодца больше нет!\" [CTP]\n\nЖителям деревни придется искать другой водопой в другом месте. Настроение у них подавленное, и вы прощаетесь."
 	},
 	{
 		"id": "BE_LostRockTemple01_Intro",
@@ -1875,11 +1875,11 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Intro",
-		"text": "The bumpy dirt track leads you through rocky terrain when a turnoff appears on your left. It is obviously a dead end that stops not far from a rock face. But wait... what’s that? An old mine entrance?"
+		"text": "Ухабистая грунтовая дорога ведет вас через скалистую местность, как вдруг слева от вас возникает разворот. Очевидно, что это тупик, расположенный недалеко от скалистого склона. Но подождите... что это? Старый вход в шахту?"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice01",
-		"text": "Inspect the mine entrance"
+		"text": "Осмотреть вход в шахту"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice02",
@@ -1887,7 +1887,7 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Enter",
-		"text": "After a dozen steps, the tunnel ends in a blank rock face. A shaft dug into the ground leads into the depths, surrounded by a pile of rubble from old wooden beams and bobbins. \n\nEverything around you seems derelict and dilapidated."
+		"text": "Спустя десяток шагов туннель закончился глухим камнем. Вырытая в земле шахта ведет в глубину, вокруг - груда обломков старых деревянных балок и бобин. \n\nВсе вокруг кажется заброшенным и обветшалым."
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice03",
@@ -1895,39 +1895,39 @@
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice04",
-		"text": "Explore the mine"
+		"text": "Исследовать шахту"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Choice05",
-		"text": "Repair the winch"
+		"text": "Отремонтировать лебедку"
 	},
 	{
 		"id": "AE_OldMiningShaft01_Accident",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding his left calf, which has been pierced by a finger-thick splinter of wood."
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! [CTP]\n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась. \n\n[char0] ругается и держится за левую икру, которую пронзила щепка дерева толщиной в палец."
 	},
 	{
 		"id": "AE_OldMiningShaft01_Accident_female",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! [CTP]\n\nIn a panic, you dive out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed. \n\n[char0] is cursing and holding her left calf, which has been pierced by a finger-thick splinter of wood."
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! [CTP]\n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась. \n\n[char0] ругается и держится за левую икру, которую пронзила щепка дерева толщиной в палец."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionW",
-		"text": "Alarmed, [char1] places his index finger on his lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+		"text": "Внезапно [char1] прикладывает указательный палец к губам и указывает на стену тоннеля перед вами: мягко, почти незаметно, из-за несущей рамы вытекает тонкая линия песка! \n\nШаг за шагом вы медленно пробираетесь к выходу, стараясь ни во что не врезаться. [CTP]\n\nВы едва успеваете выйти на открытый воздух, как боковые балки начинают громко скрипеть под тяжестью лет: шахта обрушивается с оглушительным треском! Вы были на волосок от гибели..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionW_female",
-		"text": "Alarmed, [char1] places her index finger on her lips and points at the wall of the tunnel in front of you: softly, almost invisibly, a fine line of sand trickles out from behind the supporting frame! \n\nStep by step, you slowly work your way towards the exit, careful to avoid knocking into anything. [CTP]\n\nYou have barely reached the open air when the side beams creak loudly under the weight of the years: the mineshaft collapses with a deafening crash! You have escaped death by a hair's breadth..."
+		"text": "Внезапно [char1] прикладывает указательный палец к губам и указывает на стену тоннеля перед вами: мягко, почти незаметно, из-за несущей рамы вытекает тонкая линия песка! \n\nШаг за шагом вы медленно пробираетесь к выходу, стараясь ни во что не врезаться. [CTP]\n\nВы едва успеваете выйти на открытый воздух, как боковые балки начинают громко скрипеть под тяжестью лет: шахта обрушивается с оглушительным треском! Вы были на волосок от гибели..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_DetectionF",
-		"text": "You have an uneasy feeling about the old mine. You turn back – and not a moment too soon: Sand trickles from the ceiling as the side beams creak loudly under the weight of the years! \n\nIn a panic, you dive back out into the open air, followed by a huge cloud of dust! You look around and see that the mineshaft has collapsed!"
+		"text": "У вас тревожное предчувствие по поводу старой шахты. Вы поворачиваете назад - и ни минуты не медлите: с потолка сыплется песок, а боковые балки громко скрипят под тяжестью лет! \n\nВ панике вы выскакиваете на открытый воздух, за вами следует огромное облако пыли! Вы оглядываетесь и видите, что шахта обрушилась!"
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalW",
-		"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+		"text": "С помощью нескольких грамотных действий [char2] возвращает лебедку в рабочее состояние. С замирающим сердцем вы опускаетесь в неизвестность. [CTP]\n\nВнизу вас ждет горькое разочарование: Туннель обрушился. Единственный выход - обратно по шахте. \n\nИ тут ваш взгляд падает на пыльный деревянный ящик, незаметно лежащий среди обломков..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalW_female",
-		"text": "With a few competent actions, [char2] returns the winch to working order. With a sinking feeling you lower yourself into the unknown. [CTP]\n\nBitter disappointment awaits you below: The tunnel has collapsed. The only way out is back up the shaft. \n\nThen your eyes fall on a dusty wooden box, lying inconspicuously among the rubble..."
+		"text": "С помощью нескольких грамотных действий [char2] возвращает лебедку в рабочее состояние. С замирающим сердцем вы опускаетесь в неизвестность. [CTP]\n\nВнизу вас ждет горькое разочарование: Туннель обрушился. Единственный выход - обратно по шахте. \n\nИ тут ваш взгляд падает на пыльный деревянный ящик, незаметно лежащий среди обломков..."
 	},
 	{
 		"id": "AE_OldMiningShaft01_TechnicalF",
@@ -3103,39 +3103,39 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Intro",
-		"text": "As you drive along the track at the edge of the gorge, you encounter a lone nomad. \n\nThe worried looking man is bent over his camel, which is lying on the ground and breathing with heavy, uneven gasps."
+		"text": "Проезжая по дороге на краю ущелья, вы встречаете одинокого кочевника. \n\nОбеспокоенный мужчина склонился над своим верблюдом, который лежит на земле и дышит тяжелыми, неровными вздохами."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Talk",
-		"text": "You exchange a few words with the man and learn that his camel is sick. \n\nUnfortunately, you cannot help the man and bid him farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "Вы обмениваетесь с ним несколькими словами и узнаете, что его верблюд болен. \n\nК сожалению, вы не можете помочь этому человеку и прощаетесь с ним. Он бормочет несколько слов в бороду и смотрит на вас злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalW",
-		"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen he digs some tablets out of his first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. \n\nThe man is beside himself with joy - he invites you to follow him to his camp if you need supply or anything else!"
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот: \n\nЗатем он достает из своей аптечки таблетки и засовывает их в рот задыхающемуся животному. [CTP]\n\nВскоре после этого состояние верблюда заметно улучшается, и в конце концов ему удается, шатаясь, встать на ноги. \n\nМужчина вне себя от радости - он приглашает вас следовать за ним в его лагерь, если вам нужно снабжение или что-то еще!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalW_female",
-		"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen she digs some tablets out of her first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. \n\nThe man is beside himself with joy - he invites you to follow him to his camp if you need supply or anything else!"
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот: \n\nЗатем она достает из своей аптечки таблетки и засовывает их в рот задыхающемуся животному. [CTP]\n\nВскоре после этого состояние верблюда заметно улучшается, и в конце концов ему удается, шатаясь, встать на ноги. \n\nМужчина вне себя от радости - он приглашает вас следовать за ним в его лагерь, если вам нужно снабжение или что-то еще!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalF",
-		"text": "[char0] bends over the sick animal and looks in its mouth before shaking his head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот, после чего качает головой:\n\n[char0]: \"Думаю, с ним покончено. Все равно здесь, в дикой природе, я мало что могу сделать.\" [CTP] \n\nНе в силах помочь, вы прощаетесь с человеком. Он бормочет несколько слов в бороду и смотрит вам вслед злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalF_female",
-		"text": "[char0] bends over the sick animal and looks in its mouth before shaking her head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот, после чего качает головой:\n\n[char0]: \"Думаю, с ним покончено. Все равно здесь, в дикой природе, я мало что могу сделать.\" [CTP] \n\nНе в силах помочь, вы прощаетесь с человеком. Он бормочет несколько слов в бороду и смотрит вам вслед злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_AmbushUnprepared",
-		"text": "After a short drive, the cliffs around you open up and you arrive at the ruined foundations of an abandoned settlement. \n\nSuddenly, a shot tears through the silence! \n\nYou dive for safety: You have walked right into a German ambush!"
+		"text": "После непродолжительной поездки скалы вокруг вас расступаются, и вы приезжаете к разрушенным фундаментам заброшенного поселения. \n\nВнезапно тишину разрывает выстрел! \n\nВы бросаетесь в укрытие: вы угодили прямо в засаду к немцам!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_AmbushPrepared",
-		"text": "You thank the man and carefully continue on your journey. When you reach the end of the ravine, you climb the cliffs and survey the ruined village that lies some distance ahead of you. \n\nYou spot a large unit of German soldiers entrenched there!"
+		"text": "Вы благодарите человека и осторожно продолжаете свой путь. Дойдя до конца оврага, вы взбираетесь на скалы и осматриваете разрушенную деревню, которая находится на некоторой дистанции впереди. \n\nВы замечаете большое подразделение немецких солдат, обосновавшихся там!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice01",
-		"text": "Ambush the Germans"
+		"text": "Устроить немцам засаду"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice02",
@@ -6127,7 +6127,7 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Title",
-		"text": "A rocky gorge"
+		"text": "Скалистое ущелье"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_Title",
@@ -7135,11 +7135,11 @@
 	},
 	{
 		"id": "SE_Adventure03Intro_Intro",
-		"text": "A journey full of hardship awaits you - but you are determined to thwart the insane machinations of the Brotherhood at any cost! \n\nThe Black Pharaoh must never walk the earth again!"
+		"text": "Вас ждет тяжелое путешествие, но вы намерены любой ценой помешать безумным козням Братства! \n\nЧерный Фараон никогда больше не должен ходить по земле!"
 	},
 	{
 		"id": "SE_Adventure03Intro_Intro_HC",
-		"text": "The long travels have allowed your wounds to heal and you have forgotten some knowledge.\n\nA journey full of hardship awaits you - but you are determined to thwart the insane machinations of the Brotherhood at any cost! \n[CTP]\nThe Black Pharaoh must never walk the earth again!"
+		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи.\n\nВас ждет полное трудностей путешествие - но вы полны решимости любой ценой помешать безумным козням Братства! \n[CTP]\nЧерный Фараон никогда больше не должен ходить по земле!"
 	},
 	{
 		"id": "SE_Adventure02FinalFight_Title",
@@ -7179,31 +7179,31 @@
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Title",
-		"text": "The Temple of Turash-Ra"
+		"text": "Храм Тураш-Ра"
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Intro",
-		"text": "Repellent and awe-inspiring, the Obsidian Pyramid towers over the inhospitable Nubian Stone Desert. This must be it – the legendary temple of Turash-Ra, the Black Pharaoh! \n\nWill you get there in time to prevent the unholy ritual?"
+		"text": "Пугающая и внушающая благоговение Обсидиановая пирамида возвышается над негостеприимной Нубийской каменной пустыней. Это должно быть он - легендарный храм Тураш-Ра, Черного фараона! \n\nУспеете ли вы добраться туда вовремя, чтобы предотвратить нечестивый ритуал?"
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Observe",
-		"text": "A monotonous chanting lures you deeper and deeper into the temple. You scurry from cover to cover until the winding passages finally bring you to a spacious hall. \n\nHidden behind some stone blocks, you have an excellent vantage point – but your blood runs cold in your veins when you see the scene before you! [CTP]\n\nSeveral crevices run through the hall. Beyond the crevices, countless cultists crowd together, swaying as if in a trance! Their ecstatic singing fills the entire temple complex and echoes in your ears."
+		"text": "Монотонное пение заманивает вас все глубже и глубже в храм. Вы перебегаете из укрытия в укрытие, пока извилистые переходы не приводят вас в просторный зал. \n\nСпрятавшись за несколькими каменными блоками, у вас появилась отличная точка обзора - но кровь стынет в жилах, когда вы наблюдаете открывшуюся перед вами сцену! [CTP]\n\nЧерез зал проходит несколько расщелин. За расщелинами толпятся бесчисленные культисты, раскачиваясь, словно в трансе! Их восторженное пение заполняет весь храмовый комплекс и эхом отдается в ваших ушах."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Ritual",
-		"text": "Right in front of you, the high priestess of the Brotherhood stands in front of a gigantic stone sarcophagus. Her most loyal acolytes surround her. \n\nAt a gesture from her, a small procession begins: Seven cultists approach the sarcophagus, each of them bearing an ornate ceremonial jar! [CTP]\n\nYou gasp! Those jars must contain the embalmed organs of the Black Pharaoh! If they are reunited with the mummy of Turash-Ra, his resurrection will be inevitable! \n\nSome of the cultist leaders are already raising the stone lid of the sarcophagus..."
+		"text": "Прямо перед вами стоит верховная жрица Братства возле огромного каменного саркофага. Ее окружают самые преданные аколиты. \n\nПо ее жесту начинается небольшая процессия: семеро культистов подходят к саркофагу, каждый из них несет богато украшенный церемониальный кувшин! [CTP]\n\nВы вздрагиваете! В этих банках должны быть забальзамированные органы Черного фараона! Если они воссоединятся с мумией Тураш-Ра, его воскрешение будет неизбежным! \n\nНесколько служителей культа уже поднимают каменную крышку саркофага..."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Action",
-		"text": "While you're still deciding what to do, [char0] jumps forward with a loud battle cry! \n\nHe charges one of the jar bearers and strikes him down! Before the other cultists can react, [char0] has already taken two other jar bearers by surprise – their jars bake and hiss in the glowing embers of an overturned brazier! [CTP]\n\nA low moan passes through the cultist crowd on the other side of the gorge! \n\nThe high priestess screams and raises her arms in supplication. The ground trembles as she invokes her infernal servants! \n\nThere is no turning back now! You draw your weapons..."
+		"text": "Пока вы решаете, что делать, [char0] выскакивает вперед с громким боевым кличем! \n\nОн нападает на одного из носителей кувшина и сбивает его с ног! Прежде чем другие культисты успевают отреагировать, [char0] застает врасплох еще двух носильщиков кувшинов - их кувшины пылают и шипят в раскаленных углях перевернутого мангала! [CTP]\n\nНизкий стон проходит через ряды культистов по другую сторону ущелья! \n\nВерховная жрица кричит и поднимает руки в мольбе. Земля дрожит, когда она призывает своих инфернальных слуг! \n\nТеперь нет пути назад! Вы достаете свое оружие..."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Action_female",
-		"text": "While you're still deciding what to do, [char0] jumps forward with a loud battle cry! \n\nShe charges one of the jar bearers and strikes him down! Before the other cultists can react, [char0] has already taken two other jar bearers by surprise – their jars bake and hiss in the glowing embers of an overturned brazier! [CTP]\n\nA low moan passes through the cultist crowd on the other side of the gorge! \n\nThe high priestess screams and raises her arms in supplication. The ground trembles as she invokes her infernal servants! \n\nThere is no turning back now! You draw your weapons..."
+		"text": "Пока вы решаете, что делать, [char0] выскакивает вперед с громким боевым кличем! \n\nОна нападает на одного из носителей кувшина и сбивает его с ног! Прежде чем другие культисты успевают отреагировать, [char0] застает врасплох еще двух носильщиков кувшинов - их кувшины пылают и шипят в раскаленных углях перевернутого мангала! [CTP]\n\nНизкий стон проходит через ряды культистов по другую сторону ущелья! \n\nВерховная жрица кричит и поднимает руки в мольбе. Земля дрожит, когда она призывает своих инфернальных слуг! \n\nТеперь нет пути назад! Вы достаете свое оружие..."
 	},
 	{
 		"id": "SE_Adventure03FinalFight_Aftermath",
-		"text": "Breathing heavily, you stand over your defeated foes. \n\nAs if from afar, you hear the excited babble of voices and the echoes of countless feet on the stone floor. \n\nThe cultists! Now every second counts! [CTP]\n\nYou rush through the endless corridors of the temple!\n\nAs you throw yourselves into your jeep, the cultists pour out of the temple like a human flood!"
+		"text": "Тяжело дыша, вы стоите над поверженными врагами. \n\nСловно издалека, вы слышите возбужденный гул голосов и эхо бесчисленных шагов по каменному полу. \n\nКультисты! Теперь каждая секунда на счету! [CTP]\n\nВы мчитесь по бесконечным коридорам храма!\n\nКак только вы запрыгиваете в свой джип, культисты высыпают из храма целым людским потоком!"
 	},
 	{
 		"id": "SE_Adventure02Clue03_Title",
@@ -7311,11 +7311,11 @@
 	},
 	{
 		"id": "SE_Adventure03Clue02_Intro",
-		"text": "Several desert paths and tracks intersect here. Behind a raw-timbered picket fence you see a sprawling jumble of colorful tents. \n\nIt looks like you have came across a large group of cultists here. [CTP]\n\nThe billowing tents and wooden palisades obscure your vision, but you hear ghostly voices echoing across the camp. Why are the cultists flocking to this place? \n\nThere is only one way to find out..."
+		"text": "Здесь пересекаются несколько пустынных троп и дорожек. За забором из необработанной древесины вы увидите разбросанные разноцветные палатки. \n\nПохоже, вы наткнулись здесь на большую группу культистов. [CTP]\n\nРазвевающиеся шатры и деревянные палисады заслоняют обзор, но вы слышите призрачные голоса, которые эхом разносятся по лагерю. Почему культисты стекаются в это место? \n\nЕсть только один способ это выяснить..."
 	},
 	{
 		"id": "SE_Adventure03Clue02_Choice01",
-		"text": "Attack the cultist camp"
+		"text": "Атаковать лагерь культистов"
 	},
 	{
 		"id": "SE_Adventure03Clue02_Choice02",
@@ -7323,7 +7323,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue02_Wailing",
-		"text": "One tent at the center of the camp is bigger than the rest. Skull-topped stakes are rammed into the sand around the entrance. \n\nYou search the inside of the tent and find an old tome, stained with blood. [CTP]\n\n\"The Death Lament of Turash-Ra, the Black Pharaoh:\n\nFor 863 years, Turash-Ra ruled over the Children of the Nile, and the People wept under His Reign.\" [CTP]\n\n\"And when He felt his Powers leave Him, He called out: 'Father, forgive My Disobedience! Take Me up in Your Divine Chariot, that I may find Peace with You!' \n\nBut his Father slept in the Firmament, and remained Silent. And Turash-Ra lamented.\""
+		"text": "Одна палатка в центре лагеря больше остальных. Возле входа в песок вбиты колья, увенчанные черепами. \n\nВы обыскиваете палатку и находите старый фолиант, испачканный кровью. [CTP]\n\n\"Предсмертная Песнь Тураш-Ра, Черного Фараона:\n\nВ течение 863 лет Тураш-Ра правил детьми Нила, и народ плакал под Его правлением.\" [CTP]\n\n\"И когда Он почувствовал, что силы покидают Его, Он воззвал: 'Отче, прости Мое Непослушание! Вознеси Меня на Своей Божественной Колеснице, чтобы Я обрел мир с Тобой!' \n\nНо Отец его спал в тверди и молчал. И возрыдал Тураш-Ра.\""
 	},
 	{
 		"id": "SE_Adventure03Clue03_Title",
@@ -7331,7 +7331,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue03_Intro",
-		"text": "The palm-fringed waterhole seems perfect for a short rest! \n\nIn buoyant mood, you get out of your car and start unloading your supply crates. You spin round when you hear a soft noise behind you! [CTP]\n\nYou see a small group of cultists crouched behind a rock, staring at you with a mixture of fear and hostility. They clearly were not expecting you and seem undecided."
+		"text": "Водопой, окаймленный пальмами, кажется идеальным местом для короткого отдыха! \n\nВ приподнятом настроении вы выходите из машины и начинаете разгружать свои ящики с припасами. И вдруг слышите тихий звук позади! [CTP]\n\nВы видите небольшую группу культистов, присевших за скалой и смотрящих на вас со смесью страха и враждебности. Они явно не ожидали вас увидеть здесь и, похоже, ещё не определились, что делать."
 	},
 	{
 		"id": "SE_Adventure03Clue03_Choice01",
@@ -7347,39 +7347,39 @@
 	},
 	{
 		"id": "SE_Adventure03Clue03_Negotiate",
-		"text": "[char0]: \"This does not have to end in violence! If you want to drink some water, go ahead! We will be on our way...\""
+		"text": "[char0]: \"Это не должно заканчиваться насилием! Если вы хотите выпить воды, то вперед! Мы пойдем своей дорогой...\""
 	},
 	{
 		"id": "SE_Adventure03Clue03_NegotiateF",
-		"text": "The cultists mistake your willingness to negotiate as a sign of weakness and rush at you in rage! \n\nTwo of them stay back and start a strange chanting, accompanied by bizarre, contorted motions. \n\nThe earth opens up and spews forth nameless horrors!"
+		"text": "Культисты принимают вашу готовность к переговорам за признак слабости и в ярости бросаются на вас! \n\nДвое из них остаются в стороне и начинают странное песнопение, сопровождаемое причудливыми, искаженными движениями. \n\nЗемля разверзается и извергает неописуемых монстров!"
 	},
 	{
 		"id": "SE_Adventure03Clue03_NegotiateW",
-		"text": "The cultists continue to skulk behind their rock, peering out suspiciously as you hurry to your car and drive off."
+		"text": "Культисты продолжают прятаться за своей скалой, с подозрением поглядывая на вас, пока вы спешите к своей машине и уезжаете."
 	},
 	{
 		"id": "SE_Adventure03Clue03_Intimidate",
-		"text": "[char1]: \"Well this is awkward: There are more of you, but we are better armed. The question is, how much do you value your lives...\""
+		"text": "[char1]: \"Ну, это довольно непросто: вас больше, но мы лучше вооружены. Вопрос в том, насколько высоко вы цените свои жизни...\""
 	},
 	{
 		"id": "SE_Adventure03Clue03_IntimidateF",
-		"text": "The cultists do not respond to the threat! Instead, they rush at you, howling with rage. \n\nTwo of them stay back and start a strange chanting, accompanied by bizarre, contorted motions. \n\nThe earth opens up and spews forth nameless horrors!"
+		"text": "Культисты не реагируют на угрозу! Вместо этого они бросаются на вас, воя от ярости. \n\nДвое из них остаются в стороне и начинают странное песнопение, сопровождаемое причудливыми, искаженными движениями. \n\nЗемля разверзается и извергает неописуемых монстров!"
 	},
 	{
 		"id": "SE_Adventure03Clue03_IntimidateW",
-		"text": "Apparently, the cultists are not eager to take the risk. They skulk behind their rock and do not emerge. \n\nSpurred on by his success, [char1] rushes towards them, shouting loudly with weapons drawn! The cultists take flight!"
+		"text": "Очевидно, культисты не хотят рисковать. Они скрываются за скалой и не выходят. \n\nПодстегнутый своим успехом, [char1] громко крича бросается к ним с оружием наготове! Культисты убегают!"
 	},
 	{
 		"id": "SE_Adventure03Clue03_IntimidateW_female",
-		"text": "Apparently, the cultists are not eager to take the risk. They skulk behind their rock and do not emerge. \n\nSpurred on by her success, [char1] rushes towards them, shouting loudly with weapons drawn! The cultists take flight!"
+		"text": "Очевидно, культисты не хотят рисковать. Они скрываются за скалой и не выходят. \n\nПодстегнутая своим успехом, [char1] громко крича бросается к ним с оружием наготове! Культисты убегают!"
 	},
 	{
 		"id": "SE_Adventure03Clue03_Papyrus",
-		"text": "One of the dead cultists wears particularly ornate robes. In his pockets, you find a bundle of papers tied together with string. \n\nIt is a transcript of the lost papyrus fragments of Anophu-Khe. In it, the Faceless Priest mentions a disconcerting planetary configuration that occurs once every 2876 years.\n\nExcited, you read on: [CTP]\n\n\"And Turash-Ra, the Black Pharaoh shall rise, and He shall wade through a Sea of Blood. Cruel will be His Reign over the Realms of the Living.\n\nAnd His Dominion will be followed by the Return of Him whose Name may not be uttered. \n\nAnd Great shall be the Lamentations of the People.\""
+		"text": "Один из мертвых культистов одет в особенно богато украшенную одежду. В его карманах вы находите пачку бумаг, перевязанных бечевкой. \n\nЭто расшифровка утраченных фрагментов папируса Анопху-Кхе. В нем Безликий жрец упоминает о тревожной планетарной конфигурации, которая происходит раз в 2876 лет.\n\nВзволнованные находкой, вы читаете дальше: [CTP]\n\n\"И восстанет Тураш-Ра, Черный Фараон, и пройдет он через море крови. Жестоким будет его правление над царствами живых.\n\nИ за Его владычеством последует возвращение Того, Чье Имя не может быть произнесено. \n\nИ велики будут стенания рода человеческого.\""
 	},
 	{
 		"id": "SE_Adventure03Clue03_Papyrus_Intimidation",
-		"text": "In the sand, you see a bundle of papers tied up with string that the fleeing cultists must have dropped! \n\nIt is a transcript of the lost papyrus fragments of Anophu-Khe. In it, the Faceless Priest mentions a disconcerting planetary configuration that occurs once every 2876 years.\n\nExcited, you read on: [CTP]\n\n\"And Turash-Ra, the Black Pharaoh shall rise, and He shall wade through a Sea of Blood. Cruel will be His Reign over the Realms of the Living.\n\nAnd His Dominion will be followed by the return of Him whose Name may not be uttered. \n\nAnd Great shall be the Lamentations of the People.\""
+		"text": "На песке вы замечаете пачку бумаг, перевязанную бечевкой, которую, должно быть, обронили убегающие культисты! \n\nЭто расшифровка утраченных фрагментов папируса Анопху-Кхе. В нем Безликий жрец упоминает о тревожной планетарной конфигурации, которая происходит раз в 2876 лет.\n\nВзволнованные находкой, вы читаете дальше: [CTP]\n\n\"И восстанет Тураш-Ра, Черный Фараон, и пройдет он через море крови. Жестоким будет его правление над царствами живых.\n\nИ за Его владычеством последует возвращение Того, Чье Имя не может быть произнесено. \n\nИ велики будут стенания рода человеческого.\""
 	},
 	{
 		"id": "SE_Adventure03Clue01_Title",
@@ -7387,15 +7387,15 @@
 	},
 	{
 		"id": "SE_Adventure03Clue01_Intro",
-		"text": "Vultures circle the rocks – that's never a good sign in this inhospitable wilderness! \n\nWith weapons drawn, you carefully approach a dried-up waterhole that you spotted among the rocks from afar. [CTP]\n\nThe startled vultures take flight, croaking their displeasure and exposing the scene at the rudimentary camp. \n\nYou see various signs of an uneven fight: battered wooden crates, a slashed backpack – and the mortal remains of a man in a tropical suit! His body is perforated with multiple stab wounds."
+		"text": "Грифы кружат над скалами - это никогда не бывает хорошим знаком в этой негостеприимной дикой местности! \n\nС оружием наготове вы осторожно приближаетесь к высохшему водоему среди скал, который вы заметили издалека. [CTP]\n\nНапуганные стервятники взлетают, крича о своем недовольстве и обнажая вид захудалого лагеря. \n\nВы видите различные следы неравной схватки: побитые деревянные ящики, изрезанный рюкзак - и бренные останки человека в тропическом костюме! Его тело пронизано многочисленными ножевыми ранениями."
 	},
 	{
 		"id": "SE_Adventure03Clue01_Article",
-		"text": "In the dead man's chest pocket, you find a folded newspaper article entitled 'Shocking Blood Rites in the Egyptian Desert', written by a certain Percy Ashton:\n\n\"Murder by poison, kidnapping and blackmail – the Khonesh Brotherhood's atrocities have terrorized our beautiful metropolis over the last few weeks!\" [CTP]\n\n\"Who are the sinister powers behind this secret society? Rumors point to men of influence and prestige – but we do not wish to trouble our readers with speculation.\n\nThe only thing that is certain, is that the Khonesh Brotherhood are increasingly moving their activities to the Middle East now that our police authorities are on their heels.”"
+		"text": "В нагрудном кармане мертвеца вы находите сложенную газетную статью под названием \"Шокирующие кровавые обряды в египетской пустыне\", написанную неким Перси Эштоном:\n\n\"Убийства с помощью яда, похищения и шантаж - злодеяния Братства Хонеш терроризируют наш прекрасный мегаполис на протяжении последних нескольких недель!\" [CTP]\n\n\"Кто стоит за этим тайным обществом? Слухи указывают на влиятельных и престижных людей - но мы не хотим утруждать наших читателей домыслами.\n\nЕдинственное, что можно сказать наверняка, так это то, что \"Братья Хонеш\" все больше и больше переносят свою деятельность на Ближний Восток теперь, когда наши полицейские власти наступают им на пятки.\""
 	},
 	{
 		"id": "SE_Adventure03Clue01_Grave",
-		"text": "You search the dead man's belongings and find a British passport – the murdered man was Percy Ashton himself! \n\nThe reporter was probably following a hot lead when the Brotherhood got to him! \n\nYou bury the man and swear to make those fanatics pay for his murder..."
+		"text": "Вы обыскиваете вещи убитого и находите британский паспорт - убитым был сам Перси Эштон! \n\nРепортер, вероятно, шел по горячим следам, когда Братство добралось до него! \n\nВы похоронили человека и поклялись заставить фанатиков заплатить за его убийство..."
 	},
 	{
 		"id": "SE_Adventure01Clue04_Title",
@@ -7499,11 +7499,11 @@
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Intro",
-		"text": "An explosion tears through the silence – you hear loud, angry cries! A few moments later, gunshots echo between the rocks!\n\nYou follow the noise and see a handful of cultists clustered around a cave entrance. Off to one side is the burning wreck of a car. [CTP]\n\nAnother shot rings out – someone has barricaded themselves in the cave and is desperately trying to keep the attackers at bay!"
+		"text": "Взрыв разрывает тишину - слышны громкие, гневные крики! Несколько мгновений спустя между скалами раздаются выстрелы!\n\nВы идете на шум и видите горстку культистов, сгрудившихся вокруг входа в пещеру. В стороне от них - горящие обломки машины. [CTP]\n\nРаздается еще один выстрел - кто-то забаррикадировался в пещере и отчаянно пытается удержать нападающих на расстоянии!"
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Choice01",
-		"text": "Attack the cultists from behind"
+		"text": "Напасть на культистов со спины"
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Choice02",
@@ -7511,23 +7511,23 @@
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Aftermath",
-		"text": "As the last cultist falls to the ground, a figure springs over the improvised barricade: [char0]!\n\n[char0]: \"I heard you were on a mission and came as quickly as I could!\"\n\n[char0]: \"I did not expect to be ambushed on the way...\"\n\n[char0]: \"So what do you think? Could you do with some help?\""
+		"text": "Когда последний культист падает на землю, через импровизированную баррикаду перепрыгивает фигура: [char0]!\n\n[char0]: \"Я слышал, что вы на задании, и приехал так быстро, как только смог!\"\n\n[char0]: \"Я не ожидал, что по дороге попаду в засаду...\"\n\n[char0]: \"Так что думаете? Вам пригодится помощь?\""
 	},
 	{
 		"id": "SE_Adventure03MapArrival01_Aftermath_female",
-		"text": "As the last cultist falls to the ground, a figure springs over the improvised barricade: [char0]!\n\n[char0]: \"I heard you were on a mission and came as quickly as I could!\"\n\n[char0]: \"I did not expect to be ambushed on the way...\"\n\n[char0]: \"So what do you think? Could you do with some help?\""
+		"text": "Когда последний культист падает на землю, через импровизированную баррикаду перепрыгивает фигура: [char0]!\n\n[char0]: \"Я слышала, что вы на задании, и приехала так быстро, как только смогла!\"\n\n[char0]: \"Я не ожидала, что по дороге попаду в засаду...\"\n\n[char0]: \"Так что думаете? Вам пригодится помощь?\""
 	},
 	{
 		"id": "SE_Adventure03MapArrival02_Title",
-		"text": "The Nubian border"
+		"text": "Нубийская граница"
 	},
 	{
 		"id": "SE_Adventure03MapArrival02_Intro",
-		"text": "After your exhausting journey through the endless Egyptian desert, you finally cross the border into Sudan: ancient Nubia! This place in the deepest south, the highlands of Meroe, was once the ancestral seat of the lost kings of Kush. [CTP]\n\nAt the remote, dusty customs post, a scene of horror awaits you: Somebody, or... something attacked the officials, leaving nothing but death and devastation! \n\nYou search the squalid mud hut, but find no survivors..."
+		"text": "После утомительного путешествия по бесконечной египетской пустыне вы наконец пересекаете границу Судана: древнюю Нубию! Это место на самом дальнем юге в нагорье Мероэ когда-то было родовой резиденцией потерянных царей Куш. [CTP]\n\nНа глухом, пыльном таможенном посту вас ожидает ужасная картина: кто-то или... что-то напало на таможенников, не оставив ничего, кроме смерти и опустошения! \n\nВы обыскиваете убогую глиняную хижину, но не находите выживших..."
 	},
 	{
 		"id": "SE_Adventure03MapArrival02_oldCar",
-		"text": "In the courtyard, you see the rusted wreck of a car – the tank still appears to have a little gasoline! \n\nYou search the customs post and take what little you can find. [CTP]\n\nThen you continue your journey: You are all the more determined that the godless disciples of Turash-Ra pay for their crimes once and for all!"
+		"text": "Во дворе вы видите ржавую развалину автомобиля - в баке, похоже, еще есть немного бензина! \n\nВы обыскиваете таможенный пост и берете то немногое, что удается найти. [CTP]\n\nЗатем вы продолжаете свой путь: теперь вы еще больше хотите, чтобы безбожные последователи Тураш-Ра поплатились за свои преступления раз и навсегда!"
 	},
 	{
 		"id": "SE_Adventure05Intro_Title",
@@ -10015,63 +10015,63 @@
 	},
 	{
 		"id": "SE_Adventure03Snippet01_Title",
-		"text": "The abandoned village"
+		"text": "Заброшенная деревня"
 	},
 	{
 		"id": "SE_Adventure03Snippet01_Intro",
-		"text": "The mud huts on your right appear lifeless in the desert sand. No human voices welcome you; there is no bleating of sheep in the distance. Not even the barking of dogs to mark your approach.\n\nAn initial inspection confirms your suspicions: The inhabitants of the village have abandoned their homes – and it looks like they left in a terrible panic!\n\n[CTP]\n\nA search of the huts reveals nothing – but you do find a strange structure that sets your hair on end: Surrounded by unspeakable offerings, a malignant-looking statue of an enthroned pharaoh!\n\nThe evil emanating from the pitch-black basalt statue is palpable...\n\n[CTP]\n\nThe statue's eyes follow you with an imperious leer, giving you an intense feeling of unease: You do not breathe easy again until you have clear skies above you, leaving the baleful gaze of Turash-Ra far behind!\n\nThe Brotherhood has obviously been here before you! You just hope the villagers got to safety in time..."
+		"text": "Глиняные хижины справа от вас кажутся необитаемыми среди песков пустыни. Ни человеческих голосов, приветствующих вас, ни блеяния овец вдалеке. Нет даже лая собак, чтобы отметить ваше приближение.\n\nОсмотр подтверждает ваши подозрения: жители деревни покинули свои дома - и похоже, что они ушли в страшной панике!\n\n[CTP]\n\nОбыск хижин ничего не дает, но вы находите странное сооружение, от которого волосы встают дыбом: окруженная невыразимыми подношениями, злобно выглядящая статуя возведенного на престол фараона!\n\nЗло, исходящее от мрачной базальтовой статуи, можно почувствовать...\n\n[CTP]\n\nГлаза статуи следят за вами с властной усмешкой, вызывая у вас сильное чувство тревоги: вы вздохнете спокойно только тогда, когда над вами будет чистое небо, а злобный взгляд Тураш-Ра останется далеко позади!\n\nБратство явно было здесь до вас! Остается надеяться, что жители деревни успели вовремя добраться до безопасного места..."
 	},
 	{
 		"id": "SE_Adventure03Snippet02_Title",
-		"text": "A lone tent"
+		"text": "Одинокая палатка"
 	},
 	{
 		"id": "SE_Adventure03Snippet02_Intro",
-		"text": "The loose tent material flutters in the wind. The sweet smell of decay wafts out from the lonely tent. \n\nYou pull back the tent flap to find a bloated corpse - the man, apparently a Brotherhood messenger, must have died of thirst in this wasteland. \n\nYou search his pockets and find a folded piece of paper: \n\n[CTP]\n\nThe document bears the confusing title 'The Marriage of the Seven':\n\nThe text is extremely flowery and full of confusing metaphors - but there is no doubt about it: It is a coded set of instructions for the revival of the Turash-Ra! \n\nAfter his death, the Black Pharaoh’s entrails were removed and stored in seven canopic jars. \n\n[CTP]\n\nYou do not understand all the obscure references but the core meaning is clear: \n\nIf the cultists of the Khonesh Brotherhood really intend to reawaken the Black Pharaoh, they must reunite his mummy with the contents of those seven canopic jars!\n\nYou look at each other with renewed resolve: You will thwart this plan - no matter what!"
+		"text": "Рыхлая ткань палатки развевается на ветру. Из одинокой палатки доносится слабый запах гнили. \n\nОткинув клапан палатки, вы обнаруживаете раздувшийся труп - человек, очевидно, посланник Братства, должно быть, умер от жажды в этой пустоши. \n\nВы обыскиваете его карманы и находите сложенный лист бумаги: \n\n[CTP]\n\nДокумент носит запутанное название 'Брак семерых':\n\nТекст чрезвычайно цветист и полон запутанных метафор - но в нем нет никаких сомнений: это - закодированный набор инструкций по возрождению Тураш-Ра! \n\nПосле его смерти внутренности Черного Фараона были извлечены и хранились в семи погребальных урнах.\n\n[CTP]\n\nВы не понимаете всех непонятных отсылок, но основной смысл ясен: \n\nЕсли культисты Братства Хонеша действительно намерены пробудить Черного Фараона, они должны воссоединить его мумию с содержимым этих семи погребальных урн!\n\nВы смотрите друг на друга с новой решимостью: вы помешаете этому плану - несмотря ни на что!"
 	},
 	{
 		"id": "SE_Adventure03Snippet03_Title",
-		"text": "The crazy old man"
+		"text": "Сумасшедший старик"
 	},
 	{
 		"id": "SE_Adventure03Snippet03_Intro",
-		"text": "When you asked the men about the Brotherhood of Khonesh, they lead you excitedly to the hut of an old man, whom they consider a mystic. You doubt that he is in his right mind. But here you are...\n\nThe old man’s wrinkled face is almost completely obscured by thick smoke from his water pipe. \n\n[CTP]\n\nThe heavy, cloying scent of apples and sweet decay assaults your senses and almost overwhelms you. With a trembling voice, the old man begins to speak; tentatively, as if wrestling for every word: \n\n[char0]: \"I saw it in my dreams – oh yes! A pyramid – black as night! Black as the souls of those deep within it, who seek to bring about the end of the world!\"\n\n[CTP]\n\n[char0]: \"I see it: They are very close to achieving their evil plans! Soon, yes! Soon! The stars will align, and HIS reign will come!\"\n\nThe old man begins to stammer and flings himself twitching to the ground. The men hastily usher you out of the hut.\n\nThe strange old man’s words ring in your ears..."
+		"text": "Когда вы спрашиваете мужчин о Братстве Хонеш, они с волнением ведут вас в хижину старика, которого считают мистиком. Вы сомневаетесь, что он в здравом уме. Но вот вы здесь...\n\nМорщинистое лицо старика почти полностью скрыто густым дымом из его рубки. \n\n[CTP]\n\nТяжелый, удушливый аромат яблок и прелого гниения поражает ваши чувства и почти переполняет вас. Дрожащим голосом старик начинает говорить; неуверенно, словно борясь за каждое слово: \n\n[char0]: \"Я видел это во сне - о да! Пирамида - черная, как ночь! Черная, как души тех, кто глубоко внутри нее, кто стремится к концу света!\"\n\n[CTP]\n\n[char0]: \"Я вижу это: Они очень близки к осуществлению своих коварных планов! Скоро, да! Скоро! Звезды сойдутся, и наступит ЕГО царствование!\"\n\nСтарик начинает заикаться и корчится на земле. Мужчины поспешно выводят вас из хижины.\n\nВ ваших ушах звучат слова странного старика..."
 	},
 	{
 		"id": "SE_Adventure03Snippet04_Title",
-		"text": "The resting patrol"
+		"text": "Отдыхающий патруль"
 	},
 	{
 		"id": "SE_Adventure03Snippet04_Intro",
-		"text": "The men of the desert patrol eye you with initial suspicion. When you introduce yourselves, their leader explains: \n\n[char0]: \"You cannot be too careful these days. We were sent to investigate a rumor. Pure superstition, no more than that!\"\n\n[CTP] \n\nOne of the men interjects excitedly.\n\n[char1]: \"The wise men of my tribe all agree: The return of the Cursed Pharaoh is just the first step! I say we must go to the Black Pyramid to stop this! We can do nothing here in the desert!\"\n\n[CTP] \n\nThe officer looks uncomfortable: \n\n[char0]: \"As I said: a pure superstition, nothing more!\"\n\nYou exchange a few words, then continue on your way. There is no need to discuss your plans further..."
+		"text": "Люди из патруля пустыни смотрят на вас с некоторым подозрением. Когда вы представились, их лидер объяснил: \n\n[char0]: \"В наше время нельзя быть слишком осторожным. Нас послали расследовать слухи. Чистое суеверие, не более того!\"\n\n[CTP] \n\nОдин из мужчин взволнованно вмешивается.\n\n[char1]: \"Все мудрецы моего племени согласны: возвращение проклятого фараона - это только первый шаг! Я говорю, что мы должны пойти к Черной пирамиде, чтобы остановить это! Здесь, в пустыне, мы ничего не сможем сделать!\"\n\n[CTP] \n\nОфицер выглядит неуверенным: \n\n[char0]: \"Как я уже сказал: чистое суеверие, не более того!\"\n\nВы обмениваетесь несколькими словами, а затем продолжаете свой путь. Нет необходимости обсуждать ваши планы..."
 	},
 	{
 		"id": "SE_Adventure03Flavor01_Title",
-		"text": "Canals"
+		"text": "Каналы"
 	},
 	{
 		"id": "SE_Adventure03Flavor01_Intro",
-		"text": "Surrounded by canals and dense vegetation, you are reminded of how closely the lives of the ancient Egyptians were tied to the annual flooding of the Nile.\n\nIf the blessed flood failed, hunger and drought would surely follow, but when the mighty river raged, it claimed its merciless tribute from old and young alike!\n\nNo wonder the Egyptians were such deeply God-fearing people..."
+		"text": "Окруженные каналами и густой растительностью, вы вспоминаете, как тесно жизнь древних египтян была связана с ежегодным разливом Нила.\n\nЕсли бы благословенный паводок не состоялся, за ним непременно последовали бы голод и засуха, но когда могучая река бушевала, она взыскивала свою безжалостную дань и со старых, и с молодых!\n\nНеудивительно, что египтяне были такими глубоко богобоязненными людьми..."
 	},
 	{
 		"id": "SE_Adventure03Flavor05_Title",
-		"text": "The fox burrow"
+		"text": "Лисья нора"
 	},
 	{
 		"id": "SE_Adventure03Flavor05_Intro",
-		"text": "Somewhere among the tamarisk bushes and carob trees, you hear a a high, chirping yelping. You find a fennec fox colony. The little desert foxes scatter excitedly when they see you. \n\nYou try to lure some curious fox pups with dry crusts of bread, but the shy creatures whimper and hide away in their burrow. You leave the crusts behind when you leave."
+		"text": "Где-то среди кустов тамариска и рожковых деревьев вы слышите высокий щебечущий крик. Вы обнаружили колонию лисиц-феннеков. Маленькие пустынные лисицы возбужденно разбегаются при виде вас. \n\nВы пытаетесь приманить любопытных щенков лисы сухими корочками хлеба, но пугливые существа хнычут и прячутся в своей норе. Вы оставляете корочки, когда уходите."
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Title",
-		"text": "A Coptic monastery"
+		"text": "Коптский монастырь"
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Intro",
-		"text": "The squat building in the forbidding wilderness turns out to be a Coptic monastery. A group of old Copts – Middle Eastern Christians who follow their own early Christian faith – work the barren fields around the monastery. \n\nThe monks wave cautiously when they see you: \n\n[CTP]\n\n[char0]: \"You look weary and thirsty. If you seek safe sojourn during these dark times, we bid you welcome to our humble home.\"\n\nDo you want to accept their invitation or would you rather continue your journey?"
+		"text": "Приземистое здание в глухой пустыне оказывается коптским монастырем. Группа старых коптов - ближневосточных христиан, придерживающихся своей собственной раннехристианской веры, - обрабатывает бесплодные поля вокруг монастыря. \n\nМонахи машут руками, когда видят вас: \n\n[CTP]\n\n[char0]: \"Вы выглядите уставшими и измученными жаждой. Если вы ищете безопасного пристанища в эти темные времена, мы приглашаем вас в наш скромный дом.\"\n\nХотите ли вы принять их приглашение или предпочтете продолжить свой путь?"
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Choice01",
-		"text": "Stay the night"
+		"text": "Остаться на ночь"
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Choice02",
@@ -10079,39 +10079,39 @@
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Rest",
-		"text": "You share a simple meal with the monks. Before they withdraw to worship, the monks assign you a simple but clean room where you can rest and relax for a few hours. \n\n[CTP]\n\nThe monks shake their heads as you attempt to pay for their hospitality. You politely bid farewell and continue your journey."
+		"text": "Вы разделяете с монахами простую трапезу. Перед тем как удалиться на поклонение, монахи выделяют вам простую, но чистую комнату, где вы можете отдохнуть и расслабиться в течение нескольких часов. \n\n[CTP]\n\nМонахи качают головами, когда вы пытаетесь заплатить за их гостеприимство. Вы вежливо прощаетесь и продолжаете свой путь."
 	},
 	{
 		"id": "SE_Adventure03Flavor08_Revisit",
-		"text": "The Coptic monastery is just as you left it.\n\nThe old monks nod to you."
+		"text": "Коптский монастырь такой же, каким вы его оставили.\n\nСтарые монахи кивают вам."
 	},
 	{
 		"id": "SE_Adventure03Flavor10_Title",
-		"text": "The Nubian Desert"
+		"text": "Нубийская пустыня"
 	},
 	{
 		"id": "SE_Adventure03Flavor10_Intro",
-		"text": "A hot and merciless wind blows over the rocky Nubian desert. You feel like you're being literally dried alive...\n\nThis murderous drought is caused by the rugged ridges to the east that block the Nubian desert from the rains of the Red Sea. You curse silently but grit your teeth and move on."
+		"text": "Над каменистой Нубийской пустыней дует горячий и беспощадный ветер. Вы чувствуете, что вас буквально высушивают заживо...\n\nЭта убийственная засуха вызвана изрезанными хребтами на востоке, которые отгораживают Нубийскую пустыню от дождей Красного моря. Вы тихо ругаетесь, но скрежещете зубами и идете дальше."
 	},
 	{
 		"id": "SE_Adventure03Flavor14_Title",
-		"text": "Nubian steep pyramids"
+		"text": "Нубийские отвесные пирамиды"
 	},
 	{
 		"id": "SE_Adventure03Flavor14_Intro",
-		"text": "Ahead of you rise the remains of a half-ruined Nubian steep pyramid. The unusually inclined tombs are like miniature versions of the mighty structures built by the Egyptians in the Nile delta.\n\nYou cannot help but think of the fate suffered by the Kings of Kush when they rose up against the Faceless Priest. Perhaps one of them lies entombed here?"
+		"text": "Перед вами возвышаются остатки полуразрушенной нубийской отвесной пирамиды. Необычно наклоненные гробницы похожи на миниатюрные версии могучих сооружений, построенных египтянами в дельте Нила.\n\nВы не можете не думать о судьбе, постигшей царей Куш, когда они восстали против Безликого жреца. Возможно, один из них покоится здесь?"
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Title",
-		"text": "A millet field"
+		"text": "Поле проса"
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Intro",
-		"text": "The old farmer and his sons are hard at work in the field of rust-red sorghum millet, a native grain of the region. The man sees you and waves in greeting: \n\n[char0]: \"You look like you could do with some refreshment. My millet beer is the best far and wide!\"\n\n[CTP]\n\nThe old man points to some clay jugs against a courtyard wall. \n\nYou walk over and see that they are filled with a cloudy, thick liquid of indeterminate color. It gives off a strong odor of fermentation."
+		"text": "Старый фермер и его сыновья усердно трудятся на поле ржаво-красного проса сорго, исконно местного злака. Мужчина замечает вас и приветственно машет рукой: \n\n[char0]: \"Вы выглядите так, будто вам не помешало бы немного освежиться. Мое просовое пиво - лучшее в мире!\"\n\n[CTP]\n\nСтарик указывает на несколько глиняных кувшинов у стены двора. \n\nВы подходите и видите, что они заполнены мутной, густой жидкостью неопределенного цвета. От нее исходит сильный запах брожения."
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Choice01",
-		"text": "Just a sip!"
+		"text": "Всего глоток!"
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Choice02",
@@ -10119,7 +10119,7 @@
 	},
 	{
 		"id": "SE_Adventure03Flavor16_Drink",
-		"text": "The brew tastes better than it smells! You thank the man effusively. \n\nRefreshed and animated, you finally continue your journey."
+		"text": "Варево на вкус лучше, чем на запах! Вы горячо благодарите мужчину. \n\nОсвеженные и бодрые, вы наконец-то продолжаете свой путь."
 	},
 	{
 		"id": "SE_Adventure05Snippet01_Title",
@@ -10539,19 +10539,19 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_NoUnderstanding",
-		"text": "You greet the man politely. He seems to want to explain something to you, but unfortunately he speaks a dialect that you do not understand. \n\nFrustrated, you move on."
+		"text": "Вы вежливо приветствуете мужчину. Кажется, он хочет вам что-то объяснить, но, к сожалению, он говорит на диалекте, который вы не понимаете. \n\nРазочаровавшись, вы идете дальше."
 	},
 	{
 		"id": "BE_GorgeAmbush01_LanguagesSuccess",
-		"text": "[char0] greets the man respectfully in a strange language. They conduct an animated conversation. \n\n[char0] looks worried when he turns to you: \n\n[char0]: \"Apparently, German soldiers are waiting to ambush us at the village!\""
+		"text": "[char0] почтительно приветствует мужчину на незнакомом языке. Они ведут оживленную беседу. \n\n[char0] выглядит обеспокоенным, когда поворачивается к вам: \n\n[char0]: \"Очевидно, немецкие солдаты ждут нас в засаде у деревни!\""
 	},
 	{
 		"id": "BE_GorgeAmbush01_LanguagesSuccess_female",
-		"text": "[char0] greets the man respectfully in a strange language. They conduct an animated conversation. \n\n[char0] looks worried when she turns to you: \n\n[char0]: \"Apparently, German soldiers are waiting to ambush us at the village!\""
+		"text": "[char0] почтительно приветствует мужчину на незнакомом языке. Они ведут оживленную беседу. \n\n[char0] выглядит обеспокоенной, когда поворачивается к вам: \n\n[char0]: \"Очевидно, немецкие солдаты ждут нас в засаде у деревни!\""
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_VisitCamp",
-		"text": "Sounds great!"
+		"text": "Отличная идея!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_Leave",
@@ -10559,19 +10559,19 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Merchant",
-		"text": "A merchant has pitched his tent in the camp. He waves you over cheerfully."
+		"text": "Торговец разбил свою палатку в лагере. Он радостно машет вам рукой."
 	},
 	{
 		"id": "BE_GorgeAmbush01_RepairForCash",
-		"text": "In the camp, you meet a blacksmith. He is prepared to fix your armor - for a modest fee, of course..."
+		"text": "В лагере вы встречаете кузнеца. Он готов починить ваши доспехи - разумеется, за умеренную плату..."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_LetsRepair",
-		"text": "Pay $[!0] to repair all armor"
+		"text": "Заплатить $[!0] за починку всей брони"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_NoRepair",
-		"text": "That’s too expensive..."
+		"text": "Слишком дорого..."
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice_Medic",
@@ -10771,23 +10771,23 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice_Trick",
-		"text": "Yes, that might work..."
+		"text": "Да, это может сработать..."
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Choice_Daredevil",
-		"text": "Enough talk!"
+		"text": "Хватит разговоров!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TrickNPCWin",
-		"text": "Before you can stop him, [char3] calmly strolls up to the Germans! \n\nHe waves one of the officers over imperiously. You hear fragments of an angry German conversation but you have no idea what is being said.\n\nA few minutes later, the Germans jump into their vehicles and speed away.\n\n[CTP]\n\nWhen [char3] returns, he smiles smugly: \n\n[char3]: \"An urgent secret mission - I’m afraid I can’t tell you the details. ‘Need-to-know’, I hope you understand...\""
+		"text": "Прежде чем вы успеваете остановить его, [char3] спокойно подходит к немцам! \n\nОн властно машет одному из офицеров. Вы слышите обрывки сердитого разговора на немецком языке, но не понимаете, о чем идет речь.\n\nЧерез несколько минут немцы прыгают в свои машины и уезжают.\n\n[CTP]\n\nКогда [char3] возвращается, он самодовольно улыбается: \n\n[char3]: \"Срочное секретное задание - боюсь, я не могу рассказать вам подробности. 'Служебная необходимость', если вы понимаете...\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_TRickNPCWin_female",
-		"text": "Before you can stop her, [char3] calmly strolls up to the Germans! \n\nShe waves one of the officers over imperiously. You hear fragments of an angry German conversation but you have no idea what is being said. \n\nA few minutes later, the Germans jump into their vehicles and speed away. \n\n[CTP]\n\nWhen [char3] returns, she smiles smugly: \n\n[char3]: \"An urgent secret mission - I’m afraid I can’t tell you the details. ‘Need-to-know’, I hope you understand...\""
+		"text": "Прежде чем вы успеваете остановить ее, [char3] спокойно подходит к немцам! \n\nОна властно машет одному из офицеров. Вы слышите обрывки сердитого разговора на немецком языке, но не понимаете, о чем идет речь.\n\nЧерез несколько минут немцы прыгают в свои машины и уезжают.\n\n[CTP]\n\nКогда [char3] возвращается, она самодовольно улыбается: \n\n[char3]: \"Срочное секретное задание - боюсь, я не могу рассказать вам подробности. 'Служебная необходимость', если вы понимаете...\""
 	},
 	{
 		"id": "BE_FightAtTheOasis01_SomeLoot",
-		"text": "The Germans forgot a supply crate in their hurry!"
+		"text": "Немцы в спешке забыли ящик с припасами!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_Daredevil",
@@ -10799,15 +10799,15 @@
 	},
 	{
 		"id": "BE_FightAtTheOasis01_DaredevilWin",
-		"text": "A few seconds later, a massive explosion tears through the silence. Several German soldiers are left writhing on the ground, screaming! \n\nThe rest of the Germans take cover and open fire while the peasants run for safety!"
+		"text": "Через несколько секунд тишину разрывает мощный взрыв. Несколько немецких солдат корчатся на земле и кричат! \n\nОстальные немцы прячутся в укрытие и открывают огонь, а местные жители бегут в безопасное место!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_OldPriest",
-		"text": "As you are about to leave, an old, dignified-looking man approaches, chanting a strange prayer. \n\nYou are not sure what to make of it, but you feel inspired and stronger than ever!"
+		"text": "Когда вы уже собрались уйти, к вам подходит пожилой человек с почтенным видом и нараспев читает странную молитву. \n\nВы не знаете, что с этим делать, но чувствуете себя вдохновленными и сильными, как никогда!"
 	},
 	{
 		"id": "BE_FightAtTheOasis01_AfterTrickery",
-		"text": "You explain to the suspicious peasants that it was just a trick - you are not in league with the Germans! \n\nThe village elder thanks you profusely. Then he points despondently at the village well: [CTP]\n\n[char1]: \"The soldiers destroyed our well! Help us, or our livestock will die of thirst! \"\n\nYou peer into the well shaft and realize that it has been blown up by a German hand grenade."
+		"text": "Вы объясняете недоверчивым крестьянам, что это был просто трюк - вы не в сговоре с немцами! \n\nСтарейшина деревни горячо благодарит вас. Затем он удрученно показывает на деревенский колодец: [CTP]\n\n[char1]: \"Солдаты разрушили наш колодец! Помогите нам, или наш скот умрет от жажды! \"\n\nВы заглядываете в шахту колодца и понимаете, что она была взорвана немецкой ручной гранатой."
 	},
 	{
 		"id": "LE_GhostTown01_Smell",
