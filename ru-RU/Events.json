@@ -3103,39 +3103,39 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Intro",
-		"text": "As you drive along the track at the edge of the gorge, you encounter a lone nomad. \n\nThe worried looking man is bent over his camel, which is lying on the ground and breathing with heavy, uneven gasps."
+		"text": "Проезжая по дороге на краю ущелья, вы встречаете одинокого кочевника. \n\nОбеспокоенный мужчина склонился над своим верблюдом, который лежит на земле и дышит тяжелыми, неровными вздохами."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Talk",
-		"text": "You exchange a few words with the man and learn that his camel is sick. \n\nUnfortunately, you cannot help the man and bid him farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "Вы обмениваетесь с ним несколькими словами и узнаете, что его верблюд болен. \n\nК сожалению, вы не можете помочь этому человеку и прощаетесь с ним. Он бормочет несколько слов в бороду и смотрит на вас злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalW",
-		"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen he digs some tablets out of his first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. \n\nThe man is beside himself with joy - he invites you to follow him to his camp if you need supply or anything else!"
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот: \n\nЗатем он достает из своей аптечки таблетки и засовывает их в рот задыхающемуся животному. [CTP]\n\nВскоре после этого состояние верблюда заметно улучшается, и в конце концов ему удается, шатаясь, встать на ноги. \n\nМужчина вне себя от радости - он приглашает вас следовать за ним в его лагерь, если вам нужно снабжение или что-то еще!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalW_female",
-		"text": "[char0] bends over the sick animal and peers into its mouth: \n\nThen she digs some tablets out of her first-aid kit and stuffs them into the gasping animal’s mouth. [CTP]\n\nNot long after, the camel’s condition improves noticeably and eventually it manages to stagger to its feet. \n\nThe man is beside himself with joy - he invites you to follow him to his camp if you need supply or anything else!"
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот: \n\nЗатем она достает из своей аптечки таблетки и засовывает их в рот задыхающемуся животному. [CTP]\n\nВскоре после этого состояние верблюда заметно улучшается, и в конце концов ему удается, шатаясь, встать на ноги. \n\nМужчина вне себя от радости - он приглашает вас следовать за ним в его лагерь, если вам нужно снабжение или что-то еще!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalF",
-		"text": "[char0] bends over the sick animal and looks in its mouth before shaking his head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот, после чего качает головой:\n\n[char0]: \"Думаю, с ним покончено. Все равно здесь, в дикой природе, я мало что могу сделать.\" [CTP] \n\nНе в силах помочь, вы прощаетесь с человеком. Он бормочет несколько слов в бороду и смотрит вам вслед злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_MedicalF_female",
-		"text": "[char0] bends over the sick animal and looks in its mouth before shaking her head:\n\n[char0]: \"I think it’s done for. Out here in the wild, there’s not much I can do, anyway.\" [CTP] \n\nUnable to help, you bid the man farewell. He mutters a few words into his beard and watches you leave with a baleful stare."
+		"text": "[char0] наклоняется над больным животным и заглядывает ему в рот, после чего качает головой:\n\n[char0]: \"Думаю, с ним покончено. Все равно здесь, в дикой природе, я мало что могу сделать.\" [CTP] \n\nНе в силах помочь, вы прощаетесь с человеком. Он бормочет несколько слов в бороду и смотрит вам вслед злобным взглядом."
 	},
 	{
 		"id": "BE_GorgeAmbush01_AmbushUnprepared",
-		"text": "After a short drive, the cliffs around you open up and you arrive at the ruined foundations of an abandoned settlement. \n\nSuddenly, a shot tears through the silence! \n\nYou dive for safety: You have walked right into a German ambush!"
+		"text": "После непродолжительной поездки скалы вокруг вас расступаются, и вы приезжаете к разрушенным фундаментам заброшенного поселения. \n\nВнезапно тишину разрывает выстрел! \n\nВы бросаетесь в укрытие: вы угодили прямо в засаду к немцам!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_AmbushPrepared",
-		"text": "You thank the man and carefully continue on your journey. When you reach the end of the ravine, you climb the cliffs and survey the ruined village that lies some distance ahead of you. \n\nYou spot a large unit of German soldiers entrenched there!"
+		"text": "Вы благодарите человека и осторожно продолжаете свой путь. Дойдя до конца оврага, вы взбираетесь на скалы и осматриваете разрушенную деревню, которая находится на некоторой дистанции впереди. \n\nВы замечаете большое подразделение немецких солдат, обосновавшихся там!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice01",
-		"text": "Ambush the Germans"
+		"text": "Устроить немцам засаду"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice02",
@@ -6127,7 +6127,7 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Title",
-		"text": "A rocky gorge"
+		"text": "Скалистое ущелье"
 	},
 	{
 		"id": "LE_GenericSarcophagusUntouched01_Title",
@@ -10539,19 +10539,19 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_NoUnderstanding",
-		"text": "You greet the man politely. He seems to want to explain something to you, but unfortunately he speaks a dialect that you do not understand. \n\nFrustrated, you move on."
+		"text": "Вы вежливо приветствуете мужчину. Кажется, он хочет вам что-то объяснить, но, к сожалению, он говорит на диалекте, который вы не понимаете. \n\nРазочаровавшись, вы идете дальше."
 	},
 	{
 		"id": "BE_GorgeAmbush01_LanguagesSuccess",
-		"text": "[char0] greets the man respectfully in a strange language. They conduct an animated conversation. \n\n[char0] looks worried when he turns to you: \n\n[char0]: \"Apparently, German soldiers are waiting to ambush us at the village!\""
+		"text": "[char0] почтительно приветствует мужчину на незнакомом языке. Они ведут оживленную беседу. \n\n[char0] выглядит обеспокоенным, когда поворачивается к вам: \n\n[char0]: \"Очевидно, немецкие солдаты ждут нас в засаде у деревни!\""
 	},
 	{
 		"id": "BE_GorgeAmbush01_LanguagesSuccess_female",
-		"text": "[char0] greets the man respectfully in a strange language. They conduct an animated conversation. \n\n[char0] looks worried when she turns to you: \n\n[char0]: \"Apparently, German soldiers are waiting to ambush us at the village!\""
+		"text": "[char0] почтительно приветствует мужчину на незнакомом языке. Они ведут оживленную беседу. \n\n[char0] выглядит обеспокоенной, когда поворачивается к вам: \n\n[char0]: \"Очевидно, немецкие солдаты ждут нас в засаде у деревни!\""
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_VisitCamp",
-		"text": "Sounds great!"
+		"text": "Отличная идея!"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_Leave",
@@ -10559,19 +10559,19 @@
 	},
 	{
 		"id": "BE_GorgeAmbush01_Merchant",
-		"text": "A merchant has pitched his tent in the camp. He waves you over cheerfully."
+		"text": "Торговец разбил свою палатку в лагере. Он радостно машет вам рукой."
 	},
 	{
 		"id": "BE_GorgeAmbush01_RepairForCash",
-		"text": "In the camp, you meet a blacksmith. He is prepared to fix your armor - for a modest fee, of course..."
+		"text": "В лагере вы встречаете кузнеца. Он готов починить ваши доспехи - разумеется, за умеренную плату..."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_LetsRepair",
-		"text": "Pay $[!0] to repair all armor"
+		"text": "Заплатить $[!0] за починку всей брони"
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_NoRepair",
-		"text": "That’s too expensive..."
+		"text": "Слишком дорого..."
 	},
 	{
 		"id": "LE_FungusOfDeath01_Choice_Medic",
