@@ -2419,7 +2419,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Intro",
-		"text": "The desert camp ahead of you is stacked with crates and fuel containers. You also see some trucks and jeeps nearby. There’s no doubt about it: you have found an important German army supply dump! [CTP]\n\nThere is minimal activity in the camp - it's quite possible that you could reach the supplies unseen."
+		"text": "Пустынный лагерь впереди заставлен ящиками и контейнерами с топливом. Вы также видите несколько грузовиков и джипов неподалеку. Нет никаких сомнений: вы нашли важную станцию снабжения немецкой армии! [CTP]\n\nВ лагере минимальная активность - вполне возможно, что вы сможете добраться до припасов незамеченными."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice01",
@@ -2427,7 +2427,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice03",
-		"text": "Sneak up to the fuel dump"
+		"text": "Подкрасться к топливохранилищу"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice04",
@@ -2439,39 +2439,39 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_StealthW",
-		"text": "[char1] moves forward carefully, using whatever cover he can find. He soon reaches the supply dump – but as he is about to search it, he hears voices and footsteps approaching! \n\n[char1] grabs the nearest crate and dives for cover. He's lucky: the soldiers did not see him – he gets away with it!"
+		"text": "[char1] осторожно продвигается вперед, используя все укрытия, которые может найти. Вскоре он достигает склада припасов - но когда он собирается обыскать его, он слышит голоса и приближающиеся шаги! \n\n[char1] хватает ближайший ящик и ныряет в укрытие. Ему повезло: солдаты его не заметили - ему удается уйти незамеченным!"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_StealthW_female",
-		"text": "[char1] moves forward carefully, using whatever cover she can find. She soon reaches the supply dump – but as she is about to search it, she hears voices and footsteps approaching! \n\n[char1] grabs the nearest crate and dives for cover. She's lucky: the soldiers did not see her – she gets away with it!"
+		"text": "[char1] осторожно продвигается вперед, используя все укрытия, которые может найти. Вскоре она достигает склада припасов - но когда она собирается обыскать его, она слышит голоса и приближающиеся шаги! \n\n[char1] хватает ближайший ящик и ныряет в укрытие. Ей повезло: солдаты ее не заметили - ей удается уйти незамеченной!"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_StealthF",
-		"text": "You move forward carefully, using whatever cover you can find. You soon reach the supply dump – but as you are about to search it, you hear somebody clear their throat behind you. \n\nYou turn around in dismay: You have been discovered by the camp garrison!"
+		"text": "Вы осторожно продвигаетесь вперед, используя все укрытия, которые сможете найти. Вскоре вы добираетесь до свалки припасов - но когда вы уже собираетесь обыскать ее, вы слышите, как кто-то прочищает горло позади вас. \n\nВы в ужасе оборачиваетесь: вас обнаружил гарнизон лагеря!"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Daredevil",
-		"text": "Before anyone can react, [char0] plunges his hand into the supply crate next to him and pulls out a hand grenade. \n\n[char0]: \"I wonder what would happen to this fuel dump, if I got... careless...\" [CTP] \n\nThe soldiers flinch as [char0] casually tosses the grenade from one hand to the other."
+		"text": "Прежде чем кто-то успевает среагировать, [char0] сует руку в стоящий рядом ящик с припасами и достает ручную гранату. \n\n[char0]: \"Интересно, что случится с этим топливохранилищем, если я буду... неосторожен...\" [CTP] \n\nСолдаты вздрагивают, когда [char0] небрежно перебрасывает гранату из одной руки в другую."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Daredevil_female",
-		"text": "Before anyone can react, [char0] plunges her hand into the supply crate next to her and pulls out a hand grenade. \n\n[char0]: \"I wonder what would happen to this fuel dump, if I got... careless...\" [CTP] \n\nThe soldiers flinch as [char0] casually tosses the grenade from one hand to the other."
+		"text": "Прежде чем кто-то успевает среагировать, [char0] сует руку в стоящий рядом ящик с припасами и достает ручную гранату. \n\n[char0]: \"Интересно, что случится с этим топливохранилищем, если я буду... неосторожна...\" [CTP] \n\nСолдаты вздрагивают, когда [char0] небрежно перебрасывает гранату из одной руки в другую."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_DaredevilW",
-		"text": "[char0]: \"Maybe you should all just take a step back? And lay down your weapons?\"\n\nThe soldiers instantly throw down their weapons and take cover. You grab the nearest supply crate and slowly withdraw, keeping your eyes on the enemy all the way. [CTP]\n\nAfter a few dozen steps, [char0] pulls the pin from the grenade and throws it into the fuel dump. You hear screams as the soldiers rush for safety – moments later, the camp and its vehicles are consumed by a huge fireball! [CTP]\n\n[char0]: \"Sorry, it was just too tempting!\"\n\nYou leap into the jeep and speed off. The Germans are too busy to stop you and you get away without any problems."
+		"text": "[char0]: \"Может, вам всем стоит просто сделать шаг назад? И сложить оружие?\"\n\nСолдаты мгновенно бросают оружие и уходят в укрытие. Вы хватаете ближайший ящик с припасами и медленно отходите, не сводя глаз с врага. [CTP]\n\nПосле нескольких шагов, [char0] выдергивает чеку из гранаты и бросает ее в топливохранилище. Вы слышите крики, когда солдаты бросаются в безопасное место - мгновение спустя лагерь и транспорт поглощает огромный огненный шар! [CTP]\n\n[char0]: \"Извините, это было слишком заманчиво!\"\n\nВы запрыгиваете в джип и уезжаете. Немцы слишком заняты, чтобы остановить вас, и вы уезжаете без проблем."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_DaredevilW_female",
-		"text": "[char0]: \"Maybe you should all just take a step back? And lay down your weapons?\"\n\nThe soldiers instantly throw down their weapons and take cover. You grab the nearest supply crate and slowly withdraw, keeping your eyes on the enemy all the way. [CTP]\n\nAfter a few dozen steps, [char0] pulls the pin from the grenade and throws it into the fuel dump. You hear screams as the soldiers rush for safety – moments later, the camp and its vehicles are consumed by a huge fireball! [CTP]\n\n[char0]: \"Sorry, it was just too tempting!\"\n\nYou leap into the jeep and speed off. The Germans are too busy to stop you and you get away without any problems."
+		"text": "[char0]: \"Может, вам всем стоит просто сделать шаг назад? И сложить оружие?\"\n\nСолдаты мгновенно бросают оружие и уходят в укрытие. Вы хватаете ближайший ящик с припасами и медленно отходите, не сводя глаз с врага. [CTP]\n\nПосле нескольких шагов, [char0] выдергивает чеку из гранаты и бросает ее в топливохранилище. Вы слышите крики, когда солдаты бросаются в безопасное место - мгновение спустя лагерь и транспорт поглощает огромный огненный шар! [CTP]\n\n[char0]: \"Извините, это было слишком заманчиво!\"\n\nВы запрыгиваете в джип и уезжаете. Немцы слишком заняты, чтобы остановить вас, и вы уезжаете без проблем."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_DaredevilF",
-		"text": "[char0] suddenly stumbles and the grenade falls from his hand and lands harmlessly in the desert sand. \n\n[char0]: \"Oops, well that’s embarrassing...\"\n\nYou dive for cover as the angry soldiers open fire."
+		"text": "[char0] внезапно спотыкается, граната выпадает из его руки и безобидно падает в песок. \n\n[char0]: \"Ой, неловко вышло...\"\n\nВы ныряете в укрытие, когда разъяренные солдаты открывают огонь."
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_DaredevilF_female",
-		"text": "[char0] suddenly stumbles and the grenade falls from her hand and lands harmlessly in the desert sand. \n\n[char0]: \"Oops, well that’s embarrassing...\"\n\nYou dive for cover as the angry soldiers open fire."
+		"text": "[char0] внезапно спотыкается, граната выпадает из ее руки и безобидно падает в песок. \n\n[char0]: \"Ой, неловко вышло...\"\n\nВы ныряете в укрытие, когда разъяренные солдаты открывают огонь."
 	},
 	{
 		"id": "BE_UnholyVault01_Intro",
@@ -10695,7 +10695,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice_Daredevil",
-		"text": "Not so fast!"
+		"text": "Не так быстро!"
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_Choice_Attack",
@@ -10703,7 +10703,7 @@
 	},
 	{
 		"id": "BE_NaziSupplyCamp01_AfterBattle",
-		"text": "When the last enemy lies defeated on the ground, you search the camp. \n\nSurely you will find some fuel here?"
+		"text": "Когда последний враг лежит поверженным на земле, вы обыскиваете лагерь. \n\nВы наверняка найдете здесь топливо?"
 	},
 	{
 		"id": "BE_CreepyHut01_Choice_Occult",
