@@ -3695,19 +3695,19 @@
 	},
 	{
 		"id": "GE_ParadiseGarden01_Intro",
-		"text": "You find a strange altar between the rocks. You approach the glossy black slab that appears to have been cut from of a massive block of obsidian. \n\nBehind it, you discover another man-sized obsidian block embedded in the rock face. [CTP]\n\nCould it cover a passageway? What might be hidden behind the block?"
+		"text": "Вы находите странный алтарь между скалами. Вы подходите к блестящей черной плите, которая, похоже, была вырезана из массивной глыбы обсидиана. \n\nЗа ним вы обнаружите еще один обсидиановый блок размером с человека, вмурованный в скальную породу. [CTP]\n\nМожет быть, он закрывает проход? Что может быть скрыто за этим блоком?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice01",
-		"text": "Open the obsidian portal"
+		"text": "Открыть обсидиановый портал"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice02",
-		"text": "Inspect the obsidian altar"
+		"text": "Осмотреть обсидиановый алтарь"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice03",
-		"text": "Perform a ritual"
+		"text": "Провести ритуал"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice04",
@@ -3715,55 +3715,55 @@
 	},
 	{
 		"id": "GE_ParadiseGarden01_Choice05",
-		"text": "Scale the rock face"
+		"text": "Взобраться на скалу"
 	},
 	{
 		"id": "GE_ParadiseGarden01_OpenDoorF",
-		"text": "The huge, impenetrable obsidian portal is built into the rock.\n\nDiscouraged, you appraise the rock face in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... \n\nDo you want to risk climbing it?"
+		"text": "Огромный, непробиваемый обсидиановый портал встроен в скалу.\n\nОбескураженные, вы оцениваете скалу перед собой. Высотой 15 футов и почти отвесная, она представляет собой почти непреодолимое препятствие - почти... \n\nХотите рискнуть и взобраться на нее?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_AltarF",
-		"text": "The altar has no decorations whatsoever that might provide a clue to its purpose. \n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... \n\nDo you want to risk climbing it?"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. \n\nВы смотрите на скалистую стену перед собой. Высотой 15 футов и почти отвесная, она представляет собой почти непреодолимое препятствие - почти... \n\nХотите рискнуть и взобраться на нее?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_AltarW",
-		"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nDisappointed, [char0] rests against the mysterious stone block – the moment his hand touches the altar’s sacrificial hollow, to your surprise, the obsidian portal opens with a loud rumble. \n\nThe passageway inside is clear!"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. [CTP]\n\nРазочаровавшись, [char0] прислоняется к таинственному каменному блоку - в тот момент, когда его рука касается жертвенного углубления алтаря, к вашему удивлению, обсидиановый портал открывается с громким грохотом. \n\nПроход свободен!"
 	},
 	{
 		"id": "GE_ParadiseGarden01_AltarW_female",
-		"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nDisappointed, [char0] rests against the mysterious stone block – the moment her hand touches the altar’s sacrificial hollow, to your surprise, the obsidian portal opens with a loud rumble. \n\nThe passageway inside is clear!"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. [CTP]\n\nРазочаровавшись, [char0] прислоняется к таинственному каменному блоку - в тот момент, когда ее рука касается жертвенного углубления алтаря, к вашему удивлению, обсидиановый портал открывается с громким грохотом. \n\nПроход свободен!"
 	},
 	{
 		"id": "GE_ParadiseGarden01_OccultW",
-		"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nYou are dumbfounded when [char1] steps up to the mysterious slab brandishing a knife, which he slices across his palm! The moment the first drop of blood hits the altar, to your astonishment, the obsidian door opens with a loud rumble. \n\nThe passageway inside is clear!"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. [CTP]\n\nВы ошарашены, когда [char1] подходит к таинственной плите с ножом, которым режет себе ладонь! Как только первая капля крови попадает на алтарь, к вашему удивлению, обсидиановая дверь открывается с громким грохотом. \n\nПроход свободен!"
 	},
 	{
 		"id": "GE_ParadiseGarden01_OccultW_female",
-		"text": "The pitch black altar has no decorations or inscriptions whatsoever that might provide a clue to its purpose. [CTP]\n\nYou are dumbfounded when [char1] steps up to the mysterious slab brandishing a knife, which she slices across her palm! The moment the first drop of blood hits the altar, to your astonishment, the obsidian door opens with a loud rumble. \n\nThe passageway inside is clear!"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. [CTP]\n\nВы ошарашены, когда [char1] подходит к таинственной плите с ножом, которым режет себе ладонь! Как только первая капля крови попадает на алтарь, к вашему удивлению, обсидиановая дверь открывается с громким грохотом. \n\nПроход свободен!"
 	},
 	{
 		"id": "GE_ParadiseGarden01_OccultF",
-		"text": "The pitch-black altar has no inscriptions whatsoever that might provide a clue to its purpose. \n\nYou are astounded when [char1] starts a strange chant in front of the mysterious block. Unfortunately, it has no effect whatsoever and [char1] eventually falls silent with a nervous giggle. [CTP]\n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... Do you want to risk climbing it?"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. \n\nВы ошарашены, когда [char1] начинает странное песнопение перед таинственным блоком. К сожалению, это не имеет никакого эффекта и [char1] в конце концов умолкает, нервно хихикая. [CTP]\n\nВы смотрите на скалистую стену перед собой. Высотой 15 футов и почти отвесная, она представляет собой почти непреодолимое препятствие - почти... Хотите рискнуть и взобраться на нее?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_OccultF_female",
-		"text": "The pitch-black altar has no inscriptions whatsoever that might provide a clue to its purpose. \n\nYou are astounded when [char1] starts to sing a strange chant in front of the mysterious block. Unfortunately, it has no effect whatsoever and [char1] eventually falls silent with a nervous giggle. [CTP]\n\nYou look at the rock wall in front of you. Fifteen feet high and close to sheer, it is an almost insurmountable obstacle – almost... Do you want to risk climbing it?"
+		"text": "Алтарь не имеет никаких декораций, которые могли бы дать представление о его назначении. \n\nВы ошарашены, когда [char1] начинает странное песнопение перед таинственным блоком. К сожалению, это не имеет никакого эффекта и [char1] в конце концов умолкает, нервно хихикая. [CTP]\n\nВы смотрите на скалистую стену перед собой. Высотой 15 футов и почти отвесная, она представляет собой почти непреодолимое препятствие - почти... Хотите рискнуть и взобраться на нее?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_ClimbW",
-		"text": "It's a struggle, but using ropes, you finally manage to scale the rock face!"
+		"text": "С большим трудом, но с помощью веревок вам удается преодолеть скалу!"
 	},
 	{
 		"id": "GE_ParadiseGarden01_ClimbF",
-		"text": "The climb is more difficult than expected. \n\n[char2] loses his grip near the top and comes crashing down! Cursing, he holds his leg. Frustrated, you continue your journey."
+		"text": "Подъем оказался сложнее, чем ожидалось. \n\n[char2] теряет хватку возле вершины и падает вниз! Ругаясь, он держится за ногу. Разочаровавшись, вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_ParadiseGarden01_ClimbF_female",
-		"text": "The climb is more difficult than expected. \n\n[char2] loses her grip near the top and comes crashing down! Cursing, she holds her leg. Frustrated, you continue your journey."
+		"text": "Подъем оказался сложнее, чем ожидалось. \n\n[char2] теряет хватку возле вершины и падает вниз! Ругаясь, она держится за ногу. Разочаровавшись, вы продолжаете свой путь."
 	},
 	{
 		"id": "GE_ParadiseGarden01_Garden",
-		"text": "Beyond the rock face, you come across a true vision of paradise. A secret garden has grown up around a natural spring: A deep green sea of ​​lush foliage laden with dates sways gently in the wind. \n\nYou enjoy a spontaneous bath and pick enough succulent fruit to enjoy on your onward journey."
+		"text": "За скалой вы обнаружите настоящее райское зрелище. Вокруг природного источника разросся скрытый сад: глубокое зеленое море пышной листвы, усыпанной финиками, мягко колышется на ветру. \n\nВы наслаждаетесь спонтанным купанием и собираете достаточно сочных фруктов, чтобы насладиться ими во время дальнейшего путешествия."
 	},
 	{
 		"id": "LE_GhostTown01_Intro",
@@ -6247,7 +6247,7 @@
 	},
 	{
 		"id": "GE_ParadiseGarden01_Title",
-		"text": "A rock face"
+		"text": "Вершина скалы"
 	},
 	{
 		"id": "LE_GhostTown01_Title",
