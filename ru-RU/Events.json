@@ -4691,7 +4691,7 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Intro",
-		"text": "Clouds of incense fill the air, almost choking you. \n\nYou crouch down behind a monstrous idol and observe the sinister ritual taking place before you. [CTP]\n\nA horde of cultists has gathered at the lava temple and is listening to the hypnotic chanting of their high priestess.\n\nTwo cultists approach bearing a chest. They cross a narrow bridge that spans a lava-filled precipice. [CTP]\n\nThey place the chest in front of the statue. Your eyes widen in amazement when you see its content!"
+		"text": "Облака благовоний наполняют воздух, почти удушая вас. \n\nВы приседаете за чудовищным идолом и наблюдаете за происходящим перед вами зловещим ритуалом. [CTP]\n\nОрда культистов собралась в лавовом храме и слушает гипнотические песнопения своей верховной жрицы.\n\nДва культиста приближаются, неся сундук. Они пересекают узкий мост, перекинутый через пропасть, заполненную лавой. [CTP]\n\nОни ставят сундук перед статуей. Ваши глаза расширяются от удивления, когда вы видите его содержимое!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice01",
@@ -4703,11 +4703,11 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice03",
-		"text": "Trick cultists"
+		"text": "Обмануть культистов"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice04",
-		"text": "Attack the high priestess"
+		"text": "Напасть на верховную жрицу"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice05",
@@ -4715,71 +4715,71 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_RobW",
-		"text": "Believing yourself unobserved, you carefully reach out from your hiding place and dip your hand into the chest. \n\nYou manage to pilfer the contents without being noticed! You then leave the eerie cave as soon as you can before anyone uncovers your sacrilege."
+		"text": "Полагая, что за вами никто не наблюдает, вы осторожно выходите из своего укрытия и погружаете руку в сундук. \n\nВам удается незаметно похитить содержимое! Затем вы покидаете жуткую пещеру как можно скорее, пока никто не узнал о вашем святотатстве."
 	},
 	{
 		"id": "BE_BridgeInvocation01_RobF",
-		"text": "Believing yourself unobserved, you carefully reach out from your hiding place and dip your hand into the chest. Suddenly, you hear a loud cry of rage: your impudent theft has been noticed!\n\nYou quickly grab the chest and sprint across the bridge with your haul. The enraged cultists are hot on your heels!"
+		"text": "Полагая, что за вами никто не наблюдает, вы осторожно выходите из своего укрытия и погружаете руку в сундук. Вдруг вы слышите громкий крик ярости: вашу дерзкую попытку заметили!\n\nВы быстро хватаете сундук и бежите с добычей по мосту. Разъяренные культисты бегут за вами по пятам!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Deception",
-		"text": "[char0] cups his hand in front of his mouth and roars:\n\n[char0]: \"Unworthy! Who dares disturb my slumber! Begone, or my wrath will destroy you!\""
+		"text": "[char0] подносит руку ко рту и ревет:\n\n[char0]: \"Недостойные! Кто посмел нарушить мой сон! Прочь, или мой гнев уничтожит вас!\""
 	},
 	{
 		"id": "BE_BridgeInvocation01_Deception_female",
-		"text": "[char0] cups her hand in front of her mouth and roars:\n\n[char0]: \"Unworthy! Who dares disturb my slumber! Begone, or my wrath will destroy you!\""
+		"text": "[char0] подносит руку ко рту и ревет:\n\n[char0]: \"Недостойные! Кто посмел нарушить мой сон! Прочь, или мой гнев уничтожит вас!\""
 	},
 	{
 		"id": "BE_BridgeInvocation01_DeceptionW",
-		"text": "You hear pandemonium break out: Screams, curses, wailing. When calm returns, you peer carefully out from your hiding place: The place is abandoned! \n\nYou quickly pick up the chest and make your escape!"
+		"text": "Вы слышите, как начинается суматоха: вопли, проклятия, плач. Когда наступает спокойствие, вы осторожно выглядываете из своего укрытия: никого нет! \n\nВы быстро забираете сундук и убегаете!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DeceptionF",
-		"text": "You hear excited voices and footsteps. Moments later, the face of the high priestess appears over the edge of the idol statue that you are crouching behind. Her face is twisted with rage! \n\nReacting quickly, you jump up, push her aside and grab the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+		"text": "Вы слышите возбужденные голоса и шаги. Мгновением позже лицо верховной жрицы появляется над краем статуи идола, за которой вы притаились. Ее лицо искажено яростью! \n\nБыстро среагировав, вы вскакиваете, толкаете ее в сторону и хватаете сундук! Вы бежите по мосту с добычей, но разъяренные культисты бегут за вами по пятам!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Daredevil",
-		"text": "In a frenzy, [char1] rushes the high priestess. A blade flashes in his hand!"
+		"text": "В бешенстве, [char1] бросается на верховную жрицу. В его руке сверкает нож!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_Daredevil_female",
-		"text": "In a frenzy, [char1] rushes the high priestess. A blade flashes in her hand!"
+		"text": "В бешенстве, [char1] бросается на верховную жрицу. В ее руке сверкает нож!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilF",
-		"text": "[char1] misses the priestess by a hair’s breadth! \n\nFor a moment, the high priestess stares at him dumbfounded, then summons her followers! The angry cultists descend on you!"
+		"text": "[char1] промахивается по жрице на волосок! \n\nНа мгновение верховная жрица ошеломленно смотрит на него, а затем зовет своих последователей! Разъяренные культисты обрушиваются на вас!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilF_female",
-		"text": "[char1] misses the priestess by a hair’s breadth! \n\nFor a moment, the high priestess stares at her dumbfounded, then summons her followers! The angry cultists descend on you!"
+		"text": "[char1] промахивается по жрице на волосок! \n\nНа мгновение верховная жрица ошеломленно смотрит на нее, а затем зовет своих последователей! Разъяренные культисты обрушиваются на вас!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilW01",
-		"text": "Before anybody can react [char1] plunges his dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+		"text": "Прежде чем кто-то успевает отреагировать [char1] вонзает свой кинжал в сердце жрицы! \n\nНаступает хаос! \n\nС огромным самообладанием, [char1] хватает сундук! Вы бежите по мосту со своим грузом, но разъяренные культисты бегут за вами по пятам!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilW01_female",
-		"text": "Before anybody can react [char1] plunges her dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You sprint over the bridge with your haul, but the enraged cultists are hot on your heels!"
+		"text": "Прежде чем кто-то успевает отреагировать [char1] вонзает свой кинжал в сердце жрицы! \n\nНаступает хаос! \n\nС огромным самообладанием, [char1] хватает сундук! Вы бежите по мосту со своим грузом, но разъяренные культисты бегут за вами по пятам!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilW02",
-		"text": "Before anybody can react [char1] plunges his dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You use the turmoil to escape over the bridge with your loot! As the furious cultists reach the temple exit, you're already in the jeep with your foot on the accelerator!"
+		"text": "Прежде чем кто-то успевает отреагировать [char1] вонзает свой кинжал в сердце жрицы! \n\nНаступает хаос! \n\nС огромным самообладанием, [char1] хватает сундук! Вы используете суматоху, чтобы сбежать с добычей через мост! Когда разъяренные культисты достигают выхода из храма, вы уже сидите в джипе, поставив ногу на педаль газа!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_DaredevilW02_female",
-		"text": "Before anybody can react [char1] plunges her dagger into the priestess's heart! \n\nChaos breaks out! \n\nWith great presence of mind, [char1] grabs the chest! You use the turmoil to escape over the bridge with your loot! As the furious cultists reach the temple exit, you're already in the jeep with your foot on the accelerator!"
+		"text": "Прежде чем кто-то успевает отреагировать [char1] вонзает свой кинжал в сердце жрицы! \n\nНаступает хаос! \n\nС огромным самообладанием, [char1] хватает сундук! Вы используете суматоху, чтобы сбежать с добычей через мост! Когда разъяренные культисты достигают выхода из храма, вы уже сидите в джипе, поставив ногу на педаль газа!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_BridgeFight",
-		"text": "As you rush up the stairs at the end of the bridge, you look behind you: The cultists have almost reached you – a fight is unavoidable!"
+		"text": "Взбегая по лестнице в конце моста, вы оглядываетесь назад: культисты почти добрались до вас - схватка неизбежна!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_RareStrengthW",
-		"text": "[char2] suddenly springs forward and throws all his weight against a man-sized boulder that is resting against the temple wall! \n\nMoments later, the boulder rolls down and buries the screaming cultists below! You are saved!"
+		"text": "[char2] внезапно подается вперед и бросается всем своим весом на валун величиной с человека, который упирается в стену храма! \n\nМгновением позже валун скатывается вниз и погребает под собой кричащих культистов! Вы спасены!"
 	},
 	{
 		"id": "BE_BridgeInvocation01_RareStrengthW_female",
-		"text": "[char2] suddenly springs forward and throws all her weight against a man-sized boulder that is resting against the temple wall!\n\nMoments later, the boulder rolls down and buries the screaming cultists below! You are saved!"
+		"text": "[char2] внезапно подается вперед и бросается всем своим весом на валун величиной с человека, который упирается в стену храма! \n\nМгновением позже валун скатывается вниз и погребает под собой кричащих культистов! Вы спасены!"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Intro",
@@ -6499,7 +6499,7 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Title",
-		"text": "Deep underground"
+		"text": "Глубоко под землей"
 	},
 	{
 		"id": "BE_ClayIdolMine01_Title",
@@ -9167,7 +9167,7 @@
 	},
 	{
 		"id": "BE_BridgeInvocation01_Choice07",
-		"text": "Or maybe not?"
+		"text": "Может не надо?"
 	},
 	{
 		"id": "BE_CowardOfficer01_Choice01",
