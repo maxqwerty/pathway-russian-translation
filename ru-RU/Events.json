@@ -7051,15 +7051,15 @@
 	},
 	{
 		"id": "LE_UnstableSewer01_Intro",
-		"text": "Вам удается незаметно следовать за процессией Братства, продвигаясь все глубже и глубже по лабиринту древних цистерн. Сундук, который четверо культистов несут на своих плечах, вызывает у вас интерес - что в нем может быть спрятано? [CTP] \n\nКультисты в процессии исполняют непонятный ритуальный напев. Внезапно один из культистов вскрикивает - земля под его ногами рассыпается! \n\nIn the next few moments everything seems to happen at once: wildly gesticulating cultists, a thunderous crash as parts of the corridor give way, and finally a cloud of dust that sweeps down the tunnel, obscuring your view! [CTP]\n\nAs the cloud subsides, you see a scene of devastation: Parts of the cistern have come crashing down and buried the cultists below! [CTP]\n\nBeyond a heap of rubble, you see the chest – dare you attempt to salvage it or will the crumbling walls bury you too?"
+		"text": "Вам удается незаметно следовать за процессией Братства, продвигаясь все глубже и глубже по лабиринту древних цистерн. Сундук, который четверо культистов несут на своих плечах, вызывает у вас интерес - что в нем может быть спрятано? [CTP] \n\nКультисты в процессии исполняют непонятный ритуальный напев. Внезапно один из культистов вскрикивает - земля под его ногами проваливается! \n\nВ следующие несколько мгновений кажется, что все происходит одновременно: культисты вскидывают руки, раздается громовой треск, часть коридора проваливается, и, наконец, облако пыли проносится по туннелю и закрывая вам обзор! [CTP]\n\nКогда облако рассеивается, вы видите сцену разрушения: части цистерны обрушились вниз и погребли под собой культистов! [CTP]\n\nЗа грудой обломков вы заметили сундук - осмелитесь ли вы попытаться спасти его или рушащиеся стены погребут и вас?"
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice01",
-		"text": "Salvage the chest"
+		"text": "Спасти сундук"
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice02",
-		"text": "Examine the site"
+		"text": "Осмотреть территорию"
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice03",
@@ -7067,55 +7067,55 @@
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice04",
-		"text": "Use brute force to pull out the chest"
+		"text": "Использовать грубую силу, чтобы вытащить сундук"
 	},
 	{
 		"id": "LE_UnstableSewer01_Choice05",
-		"text": "Carefully dig out the chest"
+		"text": "Осторожно выкопать сундук"
 	},
 	{
 		"id": "LE_UnstableSewer01_TechnicalF",
-		"text": "[char0] takes a critical look at the corridor:\n\n[char0]: \"This looks bad... I would need heavy equipment to support the tunnel... I can’t guarantee anything!\"\n\nThat was honest, but not particularly helpful. What do you decide to do?"
+		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Всё выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
 	},
 	{
 		"id": "LE_UnstableSewer01_TechnicalF_female",
-		"text": "[char0] takes a critical look at the corridor:\n\n[char0]: \"This looks bad... I would need heavy equipment to support the tunnel... I can’t guarantee anything!\"\n\nThat was honest, but not particularly helpful. What do you decide to do?"
+		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Всё выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
 	},
 	{
 		"id": "LE_UnstableSewer01_ApproachChest",
-		"text": "You carefully inch your way forward, intent on avoiding any sudden shocks. When you reach the chest, you see that it has tipped over beneath the rubble. [char1] assesses the site of the collapse:\n\n[char1]: \"We should spend as little time as possible here!\""
+		"text": "Вы осторожно продвигаетесь вперед, стараясь не допускать резких толчков. Когда вы достигаете сундука, вы видите, что завален обломками. [char1] оценивает обломки:\n\n[char1]: \"Нам следует потратить здесь как можно меньше времени!\""
 	},
 	{
 		"id": "LE_UnstableSewer01_ApproachChest_female",
-		"text": "You carefully inch your way forward, intent on avoiding any sudden shocks. When you reach the chest, you see that it has tipped over beneath the rubble. [char1] assesses the site of the collapse:\n\n[char1]: \"We should spend as little time as possible here!\""
+		"text": "Вы осторожно продвигаетесь вперед, стараясь не допускать резких толчков. Когда вы достигаете сундука, вы видите, что завален обломками. [char1] оценивает обломки:\n\n[char1]: \"Нам следует потратить здесь как можно меньше времени!\""
 	},
 	{
 		"id": "LE_UnstableSewer01_PullW",
-		"text": "Sometimes, the simplest solution is the best! With a bold heave you tear the chest out of the rubble. You hear an ominous creaking overhead, and sand trickles down all around you – but the walls hold! \n\nYou quickly leave the scene of the disaster to examine your haul in safer surroundings!"
+		"text": "Иногда самое простое решение - самое лучшее! Смелым рывком вы вырываете сундук из-под обломков. Вы слышите зловещий скрип над головой, вокруг вас сыплется песок - но стены держатся! \n\nВы быстро покидаете место обвала, чтобы осмотреть свою добычу в более безопасной обстановке!"
 	},
 	{
 		"id": "LE_UnstableSewer01_PullF",
-		"text": "With a bold heave you try to pull the chest out of the rubble – but the only thing that moves is the soil over your heads! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on his forehead! \n\nYou look around and realize the chest is now completely buried..."
+		"text": "Смелым рывком вы пытаетесь вытащить сундук из-под обломков - но единственное, что движется, это грунт над вашими головами! [CTP]\n\nБыстро, как молния, вы ныряете в сторону! Вам удается избежать худшего - но когда пыль оседает, вы видите, что [char2] истекает кровью от пореза на лбу! \n\nВы оглядываетесь и понимаете, что сундук теперь полностью погребен..."
 	},
 	{
 		"id": "LE_UnstableSewer01_PullF_female",
-		"text": "With a bold heave you try to pull the chest out of the rubble – but the only thing that moves is the soil over your heads! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on her forehead! \n\nYou look around and realize the chest is now completely buried..."
+		"text": "Смелым рывком вы пытаетесь вытащить сундук из-под обломков - но единственное, что движется, это грунт над вашими головами! [CTP]\n\nБыстро, как молния, вы ныряете в сторону! Вам удается избежать худшего - но когда пыль оседает, вы видите, что [char2] истекает кровью от пореза на лбу! \n\nВы оглядываетесь и понимаете, что сундук теперь полностью погребен..."
 	},
 	{
 		"id": "LE_UnstableSewer01_Dig",
-		"text": "You pick out some bricks and broken beams and use them as improvised shovels to carefully remove the debris. It takes forever to uncover the chest. \n\nAs you work, sand trickles onto your backs, but fortunately you avoid a collapse."
+		"text": "Вы подбираете несколько кирпичей и сломанных балок и используете их в качестве самодельной лопаты, чтобы аккуратно разгрести завалы. Понадобилась целая вечность, чтобы извлечь сундук. \n\nВо время работы песок попадает вам на спины, но, к счастью, вы избегаете обвала."
 	},
 	{
 		"id": "LE_UnstableSewer01_DigW",
-		"text": "You grab the chest and leave the scene to examine your haul in safer surroundings!"
+		"text": "Вы забираете сундук и покидаете место происшествия, чтобы осмотреть свою добычу в более безопасном месте!"
 	},
 	{
 		"id": "LE_UnstableSewer01_DigF",
-		"text": "Just as you are about to grab the chest, [char2] lets out a huge sneeze! \n\nYou freeze as you hear a loud creaking overhead: the ceiling gives way! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on his forehead! \n\nYou look around and realize the chest is now completely buried..."
+		"text": "Как раз в тот момент, когда вы собираетесь взять сундук, [char2] оглушительно чихает! \n\nВы замираете, услышав громкий скрип над головой: потолок проваливается! [CTP]\n\nБыстро, как молния, вы ныряете в сторону! Вам удается избежать худшего - но когда пыль оседает, вы видите, что [char2] истекает кровью от пореза на лбу! \n\nВы оглядываетесь и понимаете, что сундук теперь полностью погребен..."
 	},
 	{
 		"id": "LE_UnstableSewer01_DigF_female",
-		"text": "Just as you are about to grab the chest, [char2] lets out a huge sneeze! \n\nYou freeze as you hear a loud creaking overhead: the ceiling gives way! [CTP]\n\nQuick as lightning, you dive to the side! You manage to avoid the worst - but when the dust settles, you see that [char2] is bleeding from a cut on her forehead! \n\nYou look around and realize the chest is now completely buried..."
+		"text": "Как раз в тот момент, когда вы собираетесь взять сундук, [char2] оглушительно чихает! \n\nВы замираете, услышав громкий скрип над головой: потолок проваливается! [CTP]\n\nБыстро, как молния, вы ныряете в сторону! Вам удается избежать худшего - но когда пыль оседает, вы видите, что [char2] истекает кровью от пореза на лбу! \n\nВы оглядываетесь и понимаете, что сундук теперь полностью погребен..."
 	},
 	{
 		"id": "SE_Adventure02Intro_Title",
