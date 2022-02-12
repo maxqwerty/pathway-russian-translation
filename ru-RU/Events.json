@@ -3435,11 +3435,11 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Intro",
-		"text": "As you take a short break at the edge of the track, a strange humming sound fills the air. \n\nYou decide to get to the bottom of the matter and follow the sound as it grows increasingly intense. As you climb a dune ridge, you feel as if every fiber of your being is vibrating in resonance with the humming.[CTP]\n\nFrom the crest of the dune you see a deep depression in the sand. At its center is a huge, pitch-black monolith among some strange rock formations. The humming seems to emanate from the strange object. [CTP]\n\nYou soon reach the foot of the monolith. Once there, you experience almost total silence, but the air feels like it is electrified."
+		"text": "Когда вы делаете небольшой привал на краю тропы, воздух наполняется странным гудящим звуком. \n\nВы решаете разобраться в происходящем и следуете за звуком, который становится все более интенсивным. Поднявшись на гребень дюны, вы чувствуете, что каждая частичка вашего существа вибрирует в резонансе с гудением.[CTP]\n\nС гребня дюны вы видите глубокую котловину в песке. В ее центре среди странных скальных образований стоит огромный монолит, черный как смоль. Кажется, что гудение исходит от этого странного объекта. [CTP]\n\nВскоре вы достигаете подножия монолита. Там вы ощущаете почти полную тишину, но воздух словно наэлектризован."
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice01",
-		"text": "Inspect monolith"
+		"text": "Осмотреть монолит"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice02",
@@ -3447,31 +3447,31 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Collaps",
-		"text": "As you circle the area, you notice the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char1] suddenly collapses and falls to the ground as if struck by lightning! [CTP]\n\n[char1] soon regains consciousness, but he complains of a sharp pain between his eyes. You decide to leave this strange place immediately."
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\n[char1] внезапно теряет сознание и падает на землю, словно пораженный молнией! [CTP]\n\n[char1] вскоре приходит в сознание, но жалуется на резкую боль в области между глаз. Вы решаете немедленно покинуть это странное место."
 	},
 	{
 		"id": "BE_AlienMonolith01_Collaps_female",
-		"text": "As you circle the area, you notice the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char1] suddenly collapses and falls to the ground as if struck by lightning! [CTP]\n\n[char1] soon regains consciousness, but she complains of a sharp pain between her eyes. You decide to leave this strange place immediately."
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\n[char1] внезапно теряет сознание и падает на землю, словно пораженная молнией! [CTP]\n\n[char1] вскоре приходит в сознание, но жалуется на резкую боль в области между глаз. Вы решаете немедленно покинуть это странное место."
 	},
 	{
 		"id": "BE_AlienMonolith01_NoLoot",
-		"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\nApart from this, however, you find nothing that indicates the function or significance of this strange monument. Confused, you set off on your journey again."
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nОднако, кроме этого, вы не находите ничего, что указывало бы на назначение или ценность этого странного памятника. В замешательстве вы снова отправляетесь в путь."
 	},
 	{
 		"id": "BE_AlienMonolith01_NoLoot_Enemies",
-		"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\nHowever, apart from this discovery, you find nothing that indicates the function or significance of this strange monument. [CTP]\n\nAs you are about to embark on your journey, another sound reaches your ears: Engines! \n\nYou quickly climb to the ridge of the dune: Two German Army jeeps are approaching your position! You look at each other in alarm – you still have a good chance of escaping unseen."
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nОднако, кроме этого, вы не находите ничего, что указывало бы на назначение или ценность этого странного памятника. [CTP]\n\nКогда вы уже собираетесь отправиться в путешествие, до ваших ушей доносится другой звук: двигатели! \n\nВы быстро взбираетесь на гребень дюны: два джипа немецкой армии приближаются к вам! Вы в тревоге смотрите друг на друга - у вас еще есть хороший шанс уйти незамеченными."
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice03",
-		"text": "Prepare ambush"
+		"text": "Приготовиться к засаде"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice04",
-		"text": "Secretly observe enemies"
+		"text": "Тайно наблюдать за врагами"
 	},
 	{
 		"id": "BE_AlienMonolith01_ObserveEnemy",
-		"text": "Hiding behind some rocks, you watch as the soldiers start digging in the desert sand around the monolith, closely supervised by their officer. \n\nSuddenly, you hear a shout – one of the soldiers has found something!"
+		"text": "Спрятавшись за камнями, вы наблюдаете, как солдаты под пристальным наблюдением своего офицера начинают копать песок вокруг монолита. \n\nВдруг раздается крик - один из солдат что-то нашел!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice05",
@@ -3479,23 +3479,23 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice06",
-		"text": "Wait for the soldiers to leave"
+		"text": "Подождать, пока солдаты не уйдут"
 	},
 	{
 		"id": "BE_AlienMonolith01_Loot",
-		"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char0] suddenly lets out an excited shout! You hurry over to find [char0] kneeling on the ground and shoveling the desert sand aside!"
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nВдруг [char0] взволнованно вскрикивает! Вы спешите к нему и видите, как [char0] стоя на коленях разгребает песок!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Loot_female",
-		"text": "As you circle the area, the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char0] suddenly lets out an excited shout! You hurry over to find [char0] kneeling on the ground and shoveling the desert sand aside!"
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nВдруг [char0] взволнованно вскрикивает! Вы спешите к ней и видите, как [char0] стоя на коленях разгребает песок!"
 	},
 	{
 		"id": "BE_AlienMonolith01_DetectionW",
-		"text": "You circle the area; the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char2] suddenly lets out an excited shout! You hurry over to find [char2] kneeling on the ground and shoveling the desert sand aside!"
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nВдруг [char0] взволнованно вскрикивает! Вы спешите к нему и видите, как [char0] стоя на коленях разгребает песок!"
 	},
 	{
 		"id": "BE_AlienMonolith01_DetectionW_female",
-		"text": "You circle the area; the humming returns to full volume as soon as you are a few steps from the monolith. \n\n[char2] suddenly lets out an excited shout! You hurry over to find [char2] kneeling on the ground and shoveling the desert sand aside!"
+		"text": "Обходя территорию, вы замечаете, что гудение снова становится очень громким, как только вы оказываетесь в нескольких шагах от монолита. \n\nВдруг [char0] взволнованно вскрикивает! Вы спешите к ней и видите, как [char0] стоя на коленях разгребает песок!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice07",
@@ -10327,39 +10327,39 @@
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice08",
-		"text": "Activate monolith"
+		"text": "Активировать монолит"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice09",
-		"text": "I am worthy!"
+		"text": "Я достоин!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice10",
-		"text": "Let’s go back..."
+		"text": "Давайте вернемся назад..."
 	},
 	{
 		"id": "BE_AlienMonolith01_Activated",
-		"text": "[char3] prods excitedly at the strange structure, muttering excitedly under his breath. \n\nSuddenly, you find yourself in an unknown place!\n\nA disembodied voice rings out: \n\n[char4]: \"Who dares disturb the peace of this place?\" [CTP]\n\n[char4]: \"Step closer, if you are worthy - but know that the unworthy shall receive no mercy!\""
+		"text": "[char3] возбужденно тычет пальцем в странное сооружение, возбужденно бормоча себе под нос. \n\nВдруг вы оказываетесь в неизвестном месте!\n\nРаздается бесплотный голос: \n\n[char4]: \"Кто посмел нарушить покой этого места?\" [CTP]\n\n[char4]: \"Подойдите ближе, если достойны - но знайте, что недостойные не получат пощады!\""
 	},
 	{
 		"id": "BE_AlienMonolith01_Activated_female",
-		"text": "[char3] prods excitedly at the strange structure, muttering excitedly under her breath. \n\nSuddenly, you find yourself in an unknown place!\n\nA disembodied voice rings out: \n\n[char4]: \"Who dares disturb the peace of this place?\" [CTP]\n\n[char4]: \"Step closer, if you are worthy - but know that the unworthy shall receive no mercy!\""
+		"text": "[char3] взволнованно тычет пальцем в странное сооружение, возбужденно бормоча себе под нос. \n\nВдруг вы оказываетесь в неизвестном месте!\n\nРаздается бесплотный голос: \n\n[char4]: \"Кто посмел нарушить покой этого места?\" [CTP]\n\n[char4]: \"Подойдите ближе, если достойны - но знайте, что недостойные не получат пощады!\""
 	},
 	{
 		"id": "BE_AlienMonolith01_Success",
-		"text": "[char4]: \"Worthy... indeed - you shall receive the boon of the Gods!\""
+		"text": "[char4]: \"Достойный... действительно - ты получишь благословение богов!\""
 	},
 	{
 		"id": "BE_AlienMonolith01_Failure",
-		"text": "Bolts of pure energy engulf [char3]!\n\nInhumanly loud screams fill the strange space!\n\nWhen your eyes have readjusted to the dark, you see [char3] lying lifeless on the ground!"
+		"text": "Заряды чистой энергии поглощают [char3]!\n\nНечеловечески громкие крики наполняют пространство!\n\nКогда ваши глаза привыкают к темноте, вы видите, как [char3] безжизненно лежит на земле!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Failure_female",
-		"text": "Bolts of pure energy engulf [char3]!\n\nInhumanly loud screams fill the strange space!\n\nWhen your eyes have readjusted to the dark, you see [char3] lying lifeless on the ground!"
+		"text": "Заряды чистой энергии поглощают [char3]!\n\nНечеловечески громкие крики наполняют пространство!\n\nКогда ваши глаза привыкают к темноте, вы видите, как [char3] безжизненно лежит на земле!"
 	},
 	{
 		"id": "BE_AlienMonolith01_Back",
-		"text": "A bright flash blinds you - when you can see again, you are standing beside the monolith once again. The humming has stopped. \n\nConfused, you leave the strange place."
+		"text": "Яркая вспышка ослепляет вас - когда вы снова можете видеть, то снова стоите рядом с монолитом. Гудение прекратилось. \n\nВ замешательстве вы покидаете это странное место."
 	},
 	{
 		"id": "LE_DerelictCar01_Choice03",
