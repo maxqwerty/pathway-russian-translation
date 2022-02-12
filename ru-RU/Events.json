@@ -3635,19 +3635,19 @@
 	},
 	{
 		"id": "LE_ElectricObelisk01_Intro",
-		"text": "At the center of a depression, you find a pitch-black obelisk with a surface like polished glass. \n\nWhat you initially thought was a shapeless bundle of rags, turns out to be the lifeless body of a German soldier lying in the desert sand with his arm outstretched at the foot of the obelisk. [CTP]\n\nA strange humming sound emanates from the obelisk."
+		"text": "В центре котловины вы обнаружите черный как смоль обелиск с поверхностью, похожей на полированное стекло. \n\nТо, что вы сначала приняли за бесформенную кучу тряпья у подножия обелиска, оказывается безжизненным телом немецкого солдата, лежащим в песке пустыни с вытянутой рукой. [CTP]\n\nОт обелиска исходит странный гудящий звук."
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice01",
-		"text": "Examine the soldier"
+		"text": "Осмотреть солдата"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice02",
-		"text": "Think carefully"
+		"text": "Хорошо все обдумать"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice03",
-		"text": "Touch the monolith"
+		"text": "Дотронуться до монолита"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice04",
@@ -3655,43 +3655,43 @@
 	},
 	{
 		"id": "LE_ElectricObelisk01_ExamineSoldier",
-		"text": "The soldier has been dead for just a few hours. When you examine the man, you notice blistering on the palm of his outstretched hand. \n\nWhatever killed the man, you have no desire to share his fate! You search his pockets and then leave this ominous place."
+		"text": "Солдат мертв всего несколько часов. Когда вы осматриваете мужчину, вы замечаете волдыри на ладони его вытянутой руки. \n\nЧто бы ни убило этого человека, у вас нет желания разделить его судьбу! Вы обыскиваете его карманы, а затем покидаете это зловещее место."
 	},
 	{
 		"id": "LE_ElectricObelisk01_TechnicalW",
-		"text": "The disconcerting drone emanating from the obelisk reminds you of the hum of a power line. The smell of burning flesh hangs in the air. \n\nCould the soldier have been electrocuted?[CTP]\n\n[char0] takes off his jacket, folds it carefully, and then lays it on the desert sand to isolate himself, before bravely reaching for the obelisk. The humming sound stops instantly. \n\nA few feet away, a hole opens up in the desert sand!"
+		"text": "Неприятный гул, исходящий от обелиска, напоминает гул линии электропередачи. В воздухе витает запах горелой плоти. \n\nМогло ли солдата ударить током?[CTP]\n\n[char0] снимает куртку, аккуратно складывает ее и кладет на песок, чтобы изолировать себя, а затем смело тянется к обелиску. Гудение мгновенно прекращается. \n\nВ нескольких футах от вас в песке открывается отверстие!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_TechnicalW_female",
-		"text": "The disconcerting drone sound emanating from the obelisk reminds you of the hum of a power line. The smell of burning flesh hangs in the air. \n\nCould the soldier have been electrocuted?[CTP]\n\n[char0] takes off her jacket, folds it carefully, and then lays it on the desert sands to isolate herself, before bravely reaching for the obelisk. The humming sound stops instantly. \n\nA few feet away, a hole opens up in the desert sand!"
+		"text": "Неприятный гул, исходящий от обелиска, напоминает гул линии электропередачи. В воздухе витает запах горелой плоти. \n\nМогло ли солдата ударить током?[CTP]\n\n[char0] снимает куртку, аккуратно складывает ее и кладет на песок, чтобы изолировать себя, а затем смело тянется к обелиску. Гудение мгновенно прекращается. \n\nВ нескольких футах от вас в песке открывается отверстие!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_TechnicalF",
-		"text": "[char0] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nTo your disappointment, nothing happens. You search the dead soldier’s pockets and then leave this ominous place."
+		"text": "[char0] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nК вашему разочарованию, ничего не происходит. Вы обыскиваете карманы мертвого солдата, а затем покидаете это зловещее место."
 	},
 	{
 		"id": "LE_ElectricObelisk01_TechnicalF_female",
-		"text": "[char0] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nTo your disappointment, nothing happens. You search the dead soldier’s pockets and then leave this ominous place."
+		"text": "[char0] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nК вашему разочарованию, ничего не происходит. Вы обыскиваете карманы мертвого солдата, а затем покидаете это зловещее место."
 	},
 	{
 		"id": "LE_ElectricObelisk01_TouchMonolithW",
-		"text": "[char1] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nFor a long moment, nothing happens. Then you hear a soft scraping: A few feet away, a hole opens up in the desert sand!"
+		"text": "[char1] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nДолгое время ничего не происходит. Затем вы слышите тихий скрежет: в нескольких футах от вас в песке открывается дыра!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_TouchMonolithW_female",
-		"text": "[char1] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nFor a long moment, nothing happens. Then you hear a soft scraping: A few feet away, a hole opens up in the desert sand!"
+		"text": "[char1] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nДолгое время ничего не происходит. Затем вы слышите тихий скрежет: в нескольких футах от вас в песке открывается дыра!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_TouchMonolithF",
-		"text": "[char1] walks curiously around the obelisk before finally placing his hand on the smooth stone. \n\nThe next moment, a blinding flash of light dazzles you, and [char1] is thrown back several feet into the desert sand! [CTP]\n\nGroaning softly, he rolls on the ground as blood pours from his nose and ears. You apply cold compresses as best you can and then leave this inhospitable place."
+		"text": "[char1] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nВ следующий момент вспышка света ослепляет вас, а [char1] отлетает на несколько футов назад! [CTP]\n\nОн тихо стонет и катается по земле, а из его носа и ушей льется кровь. Вы прикладываете холодные компрессы, и затем покидаете это негостеприимное место."
 	},
 	{
 		"id": "LE_ElectricObelisk01_TouchMonolithF_female",
-		"text": "[char1] walks curiously around the obelisk before finally placing her hand on the smooth stone. \n\nThe next moment, a blinding flash of light dazzles you, and [char1] is thrown back several feet into the desert sand! [CTP]\n\nGroaning softly, she rolls on the ground as blood pours from her nose and ears. You apply cold compresses as best you can and then leave this inhospitable place."
+		"text": "[char1] с любопытством ходит вокруг обелиска, а затем, наконец, кладет руку на гладкий камень. \n\nВ следующий момент вспышка света ослепляет вас, а [char1] отлетает на несколько футов назад! [CTP]\n\nОна тихо стонет и катается по земле, а из ее носа и ушей льется кровь. Вы прикладываете холодные компрессы, и затем покидаете это негостеприимное место."
 	},
 	{
 		"id": "LE_ElectricObelisk01_Vault",
-		"text": "You look down into the shaft and see a small burial chamber containing a strange structure, not unlike a sarcophagus. \n\nYou soon find its opening mechanism - what might be hidden inside?"
+		"text": "Вы заглядываете в шахту и видите небольшую погребальную камеру, в которой находится странная конструкция, не похожая на саркофаг. \n\nВскоре вы обнаружите механизм ее открытия - что может быть спрятано внутри?"
 	},
 	{
 		"id": "GE_ParadiseGarden01_Intro",
@@ -10599,47 +10599,47 @@
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Risk",
-		"text": "Touch the ominous monolith"
+		"text": "Коснуться зловещего монолита"
 	},
 	{
 		"id": "LE_ElectricObelisk01_MaybeMore",
-		"text": "Is that all? Disappointed, you use your torches to search the rest of the chamber - perhaps you overlooked something?"
+		"text": "И это все? Разочаровавшись, вы используете свои факелы, чтобы обыскать остальную часть камеры - возможно, вы что-то упустили из виду?"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_Detect",
-		"text": "Search the sarcophagus again"
+		"text": "Обыскать саркофаг еще раз"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Choice_LookForMore",
-		"text": "Shine light into the corners"
+		"text": "Посветите светом во все углы"
 	},
 	{
 		"id": "LE_ElectricObelisk01_DetectWin",
-		"text": "[char3] peers into the sarcophagus a second time, rummages through the scattered debris and shouts in triumph: In his fingers he holds a small ring!"
+		"text": "[char3] заглядывает в саркофаг во второй раз, роется в разбросанных обломках и торжествующе кричит: в его руках маленькое кольцо!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_DetectWin_female",
-		"text": "[char3] peers into the sarcophagus a second time, rummages through the scattered debris and shouts in triumph: In her fingers she holds a small ring!"
+		"text": "[char3] заглядывает в саркофаг во второй раз, роется в разбросанных обломках и торжествующе кричит: в ее руках маленькое кольцо!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_NoMoreLoot",
-		"text": "However much you search, you find nothing of value. \n\nYou set off again, leaving the strange obelisk far behind you."
+		"text": "Сколько бы вы ни искали, вы не находите ничего ценного. \n\nВы снова отправляетесь в путь, оставляя странный обелиск далеко позади."
 	},
 	{
 		"id": "LE_ElectricObelisk01_MoreLoot",
-		"text": "Just as you are about to leave, you find a small ring in a corner of the room, half-hidden in the dust of the centuries."
+		"text": "Когда вы уже собираетесь уходить, вы находите в углу комнаты маленькое кольцо, наполовину скрытое в пыли веков."
 	},
 	{
 		"id": "LE_ElectricObelisk01_RingFound",
-		"text": "The ring is plain but truly beautiful in its own way! Much too beautiful to sell... \n\nYou decide that one of you should wear it!"
+		"text": "Кольцо простое, но по-настоящему красивое в своем роде! Слишком красивое, чтобы продавать... \n\nВы решаете, что один из вас должен его носить!"
 	},
 	{
 		"id": "LE_ElectricObelisk01_Take Ring",
-		"text": "[char2] feels a strange tingling as he puts on the ring. \n\n[char2]: \"My precious! I will never give you away!\""
+		"text": "[char2] чувствует странное покалывание, когда надевает кольцо. \n\n[char2]: \"Моя прелесть! Я никому тебя не отдам!\""
 	},
 	{
 		"id": "LE_ElectricObelisk01_Take Ring_female",
-		"text": "[char2] feels a strange tingling as she puts on the ring. \n\n[char2]: \"My precious! I will never give you away!\""
+		"text": "[char2] чувствует странное покалывание, когда надевает кольцо. \n\n[char2]: \"Моя прелесть! Я никому тебя не отдам!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_DeadMan",
