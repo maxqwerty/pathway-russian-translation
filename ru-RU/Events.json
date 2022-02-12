@@ -6899,15 +6899,15 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Intro",
-		"text": "The old mine reverberates with the sound of pickaxes striking rock – the Brotherhood cultists appear to be looking for something here. As you cautiously sneak closer, the noise stops; you see the cultists step back and commence some kind of prayer service. [CTP]\n\nYou take advantage of this opportunity to sneak deeper into the deserted corridors. \n\nYou soon reach a large cavern with a swirling lake of glowing lava at its center! In the middle of the lava lake is a small island where you see a deformed statue, presumably an object of worship for the Brotherhood. [CTP]\n\nThe cultists have piled their offerings at the foot of the ghastly idol. A crumbling stone bridge leads over the boiling lava..."
+		"text": "В старой шахте раздаются удары кирки по камню - похоже, культисты Братства что-то здесь ищут. Когда вы осторожно подбираетесь ближе, шум прекращается; вы видите, как культисты отступают назад и начинают что-то вроде молитвы. [CTP]\n\nВоспользовавшись этой возможностью, вы пробираетесь вглубь пустынных коридоров. \n\nВскоре вы попадете в большую пещеру, в центре которой находится бурлящее озеро раскаленной лавы! В центре озера лавы находится небольшой остров, на котором вы видите деформированную статую, предположительно объект поклонения Братства. [CTP]\n\nКультисты сложили свои подношения у подножия страшного идола. Разрушающийся каменный мост ведет через кипящую лаву..."
 	},
 	{
 		"id": "LE_LavaBridge01_Choice01",
-		"text": "Go to the statue"
+		"text": "Подойти к статуе"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice02",
-		"text": "Examine the bridge"
+		"text": "Осмотреть мост"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice03",
@@ -6915,67 +6915,67 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Technical",
-		"text": "[char0] scratches his chin nervously: \n\n[char0]: \"It's a miracle the bridge is still standing...\"\n\nYou are none the wiser – what do you want to do?"
+		"text": "[char0] нервно почесывает подбородок: \n\n[char0]: \"Это чудо, что мост еще стоит...\"\n\nВы не знаете, что делать."
 	},
 	{
 		"id": "LE_LavaBridge01_Technical_female",
-		"text": "[char0] scratches her chin nervously: \n\n[char0]: \"It's a miracle the bridge is still standing...\"\n\nYou are none the wiser – what do you want to do?"
+		"text": "[char0] нервно почесывает подбородок: \n\n[char0]: \"Это чудо, что мост еще стоит...\"\n\nВы не знаете, что делать."
 	},
 	{
 		"id": "LE_LavaBridge01_WalkLucky",
-		"text": "You reach the island without further incident. You look around carefully: You are all alone in the huge cavern. \n\nThen your greedy eyes fall on the offerings..."
+		"text": "Вы достигаете острова без дальнейших происшествий. Вы внимательно осматриваетесь: вы совершенно одни в огромной пещере. \n\nЗатем ваш жадный взгляд падает на подношения..."
 	},
 	{
 		"id": "LE_LavaBridge01_Incident",
-		"text": "After a few steps, you hear a worrying creaking sound; the stone bridge sways alarmingly from side to side! \n\nParts of the bridge edge crumble away under your weight and disappear, hissing into the lava!"
+		"text": "Через несколько шагов вы слышите тревожный скрип; каменный мост тревожно раскачивается из стороны в сторону! \n\nЧасти края моста рушатся под вашим весом и с шипением исчезают в лаве!"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice04",
-		"text": "Turn back immediately"
+		"text": "Немедленно вернуться"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice05",
-		"text": "Continue cautiously"
+		"text": "Продолжать осторожно"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice06",
-		"text": "Rush forward"
+		"text": "Броситься вперед"
 	},
 	{
 		"id": "LE_LavaBridge01_AfterIncident",
-		"text": "Sweating and breathing heavily, you reach the statue. You look around carefully: You are all alone in the huge cavern. \n\nThen your greedy eyes fall on the cultists‘ belongings..."
+		"text": "Потея и тяжело дыша, вы добираетесь до статуи. Вы внимательно осматриваетесь: вы совершенно одни в огромной пещере. \n\nЗатем ваш жадный взгляд падает на подношения..."
 	},
 	{
 		"id": "LE_LavaBridge01_TurnBack",
-		"text": "You leave the dilapidated bridge as fast as you can. You’ve lost your appetite for further exploration for the time being! \n\nYou carefully make your way to the exit..."
+		"text": "Вы покидаете полуразрушенный мост так быстро, как только можете. На данный момент у вас пропало желание продолжать дальнейшие поиски! \n\nВы осторожно пробираетесь к выходу..."
 	},
 	{
 		"id": "LE_LavaBridge01_Slowly",
-		"text": "Your hearts pound in your ears as you move gingerly forward step by step across the groaning bridge."
+		"text": "Ваши сердца стучат в ушах, когда вы осторожно продвигаетесь шаг за шагом по скрипучему мосту."
 	},
 	{
 		"id": "LE_LavaBridge01_SlowlyLucky",
-		"text": "After a few steps, you reach a more stable section of the bridge. You continue towards the island."
+		"text": "Пройдя несколько шагов, вы попадаете на более устойчивый участок моста. Вы продолжаете движение к острову."
 	},
 	{
 		"id": "LE_LavaBridge01_SlowlyUnlucky",
-		"text": "Suddenly, the side of the bridge falls away! \n\n[char1] screams as he tumbles into the deep! [CTP]\n\nAt the last moment, he manages to grab the edge of the bridge! You spring forward and pull him up. Groaning, [char1] limps on one foot. The boot leather on his bad foot is severely scorched..."
+		"text": "Внезапно сторона моста отваливается! \n\n[char1] кричит, падая в бездну! [CTP]\n\nВ последний момент ему удается ухватиться за край моста! Вы бросаетесь вперед и подтягиваете его. [char1] стонет и хромает на одну ногу. Кожа ботинка на его больной ноге сильно обгорела..."
 	},
 	{
 		"id": "LE_LavaBridge01_SlowlyUnlucky_female",
-		"text": "Suddenly, the side of the bridge falls away! \n\n[char1] screams as she tumbles into the deep! [CTP]\n\nAt the last moment, she manages to grab the edge of the bridge! You spring forward and pull her up. Groaning, [char1] limps on one foot. The boot leather on her bad foot is severely scorched..."
+		"text": "Внезапно сторона моста отваливается! \n\n[char1] кричит, падая в бездну! [CTP]\n\nВ последний момент ей удается ухватиться за край моста! Вы бросаетесь вперед и подтягиваете ее. [char1] стонет и хромает на одну ногу. Кожа ботинка на ее больной ноге сильно обгорела..."
 	},
 	{
 		"id": "LE_LavaBridge01_FastLucky",
-		"text": "With the strength of desperation, you leap forward! You land clumsily, but safely on the hard stone of the bridge. \n\nFortunately, this section appears to be more stable. You continue towards the island."
+		"text": "С отчаянной силой вы прыгаете вперед! Вы неуклюже, но благополучно приземляетесь на твердый камень моста. \n\nК счастью, этот участок кажется более стабильным. Вы продолжаете движение к острову."
 	},
 	{
 		"id": "LE_LavaBridge01_FastUnlucky",
-		"text": "Instinctively you dive forward, but that was a bad mistake! As [char1] crashes onto the hard stone, the side of the bridge collapses! \n\n[char1] screams as he tumbles into the deep! [CTP]\n\nAt the last moment, he manages to grab the edge of the bridge! You spring forward and pull him up. Groaning, [char1] limps on one foot. The boot leather on his bad foot is severely scorched..."
+		"text": "Инстинктивно вы ныряете вперед, но это была ошибка! Когда [char1] врезается в твердый камень, эта сторона моста рушится! \n\n[char1] кричит, падая в бездну! [CTP]\n\nВ последний момент ему удается ухватиться за край моста! Вы бросаетесь вперед и подтягиваете его. [char1] стонет и хромает на одну ногу. Кожа ботинка на его больной ноге сильно обгорела..."
 	},
 	{
 		"id": "LE_LavaBridge01_FastUnlucky_female",
-		"text": "Instinctively you dive forward, but that was a bad mistake! As [char1] crashes onto the hard stone, the side of the bridge collapses! \n\n[char1] screams as she tumbles into the deep! [CTP]\n\nAt the last moment, she manages to grab the edge of the bridge! You spring forward and pull her up. Groaning, [char1] limps on one foot. The boot leather on her bad foot is severely scorched..."
+		"text": "Инстинктивно вы ныряете вперед, но это была ошибка! Когда [char1] врезается в твердый камень, эта сторона моста рушится! \n\n[char1] кричит, падая в бездну! [CTP]\n\nВ последний момент ей удается ухватиться за край моста! Вы бросаетесь вперед и подтягиваете ее. [char1] стонет и хромает на одну ногу. Кожа ботинка на ее больной ноге сильно обгорела..."
 	},
 	{
 		"id": "LE_FailedInvocation01_Title",
@@ -10487,31 +10487,31 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Choice_RiskBridge",
-		"text": "Cross the old bridge"
+		"text": "Пересечь старый мост"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice_RepairBridge",
-		"text": "Repair the bridge"
+		"text": "Починить мост"
 	},
 	{
 		"id": "LE_LavaBridge01_Choice_SearchCultists",
-		"text": "Too risky! Look for the cultists!"
+		"text": "Слишком рискованно! Поищем культистов!"
 	},
 	{
 		"id": "LE_LavaBridge01_RepairSuccess",
-		"text": "[char0] scratches his chin, then grabs a few wooden planks that were lying on the ground nearby. A short time later, the bridge has been reinforced somewhat. \n\n[char0]: \"That should do the job - hopefully...\""
+		"text": "[char0] чешет подбородок, затем хватает несколько деревянных досок, лежавших на земле неподалеку. Через некоторое время мостик стал немного крепче. \n\n[char0]: \"Это должно помочь, я думаю...\""
 	},
 	{
 		"id": "LE_LavaBridge01_RepairSuccess_female",
-		"text": "[char0] scratches her chin, then grabs a few wooden planks that were lying on the ground nearby. A short time later, the bridge has been reinforced somewhat. \n\n[char0]: \"That should do the job - hopefully...\""
+		"text": "[char0] чешет подбородок, затем хватает несколько деревянных досок, лежавших на земле неподалеку. Через некоторое время мостик стал немного крепче. \n\n[char0]: \"Это должно помочь, я думаю...\""
 	},
 	{
 		"id": "LE_LavaBridge01_MeetCultists",
-		"text": "You carefully follow the sound of chanting echoing in the distance. You venture ever deeper into the mine, always following the chanting.\n\nJust as you are about to turn back, you arrive at a hall. The cultists assembled in the hall are deep in prayer. [CTP]\n\nThe altar at the center of the room is temptingly strewn with precious treasures...\n\nWhat do you want to do?"
+		"text": "Вы внимательно следите за звуками песнопений, раздающихся вдалеке. Вы пробираетесь все глубже в шахту, всегда следуя за песнопениями.\n\nКогда вы уже собираетесь повернуть назад, вы попадаете в зал. Культисты, собравшиеся в зале, погружены в молитву. [CTP]\n\nАлтарь в центре комнаты заманчиво усыпан драгоценными сокровищами...\n\nЧто вы хотите сделать?"
 	},
 	{
 		"id": "LE_LavaBridge01_Steal",
-		"text": "Sneak in and steal the treasure"
+		"text": "Прокрасться и украсть сокровища"
 	},
 	{
 		"id": "LE_LavaBridge01_Attack",
@@ -10519,19 +10519,19 @@
 	},
 	{
 		"id": "LE_LavaBridge01_Leave",
-		"text": "Much too risky - turn back!"
+		"text": "Слишком рискованно - вернуться назад!"
 	},
 	{
 		"id": "LE_LavaBridge01_SneakSuccess",
-		"text": "[char2] sinks into the shadows. Moments later, he reappears behind the altar. \n\nThe cultists continue their ritual obliviously - [char2] signals to you that he has the situation under control! \n\nA short time later, [char2] returns, his arms full of treasure..."
+		"text": "[char2] скрывается в тени. Мгновением позже он снова появляется за алтарем. \n\nКультисты продолжают свой ритуал, не обращая внимания - [char2] подает знак, что держит ситуацию под контролем! \n\n Через некоторое время [char2] возвращается, его руки полны сокровищ..."
 	},
 	{
 		"id": "LE_LavaBridge01_SneakSuccess_female",
-		"text": "[char2] sinks into the shadows. Moments later, she reappears behind the altar. \n\nThe cultists continue their ritual obliviously - [char2] signals to you that she has the situation under control! \n\nA short time later, [char2] returns, her arms full of treasure..."
+		"text": "[char2] скрывается в тени. Мгновением позже она снова появляется за алтарем. \n\nКультисты продолжают свой ритуал, не обращая внимания - [char2] подает знак, что держит ситуацию под контролем! \n\n Через некоторое время [char2] возвращается, ее руки полны сокровищ..."
 	},
 	{
 		"id": "LE_LavaBridge01_Aftermath",
-		"text": "When the fight is over, you turn your attention to the altar..."
+		"text": "Когда бой окончен, вы обращаете взгляд на алтарь..."
 	},
 	{
 		"id": "BE_GorgeAmbush01_Choice_Talk",
