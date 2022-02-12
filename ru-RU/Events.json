@@ -1571,19 +1571,19 @@
 	},
 	{
 		"id": "LE_CursedAltar01_Intro",
-		"text": "An ancient stairway surrounded by crumbling pillars leads you to a mound topped with a strange altar. An eerie silence blankets the area, which seems to swallow all sound."
+		"text": "Древняя лестница, окруженная осыпающимися колоннами, приводит вас к кургану, увенчанному странным алтарем. Здесь царит жуткая тишина, которая, кажется, поглощает все звуки."
 	},
 	{
 		"id": "LE_CursedAltar01_Choice01",
-		"text": "Decipher hieroglyphs"
+		"text": "Расшифровать иероглифы"
 	},
 	{
 		"id": "LE_CursedAltar01_Choice02",
-		"text": "Exorcise the altar"
+		"text": "Очистить алтарь"
 	},
 	{
 		"id": "LE_CursedAltar01_Choice03",
-		"text": "Search for treasure"
+		"text": "Искать сокровища"
 	},
 	{
 		"id": "LE_CursedAltar01_Choice04",
@@ -1591,55 +1591,55 @@
 	},
 	{
 		"id": "LE_CursedAltar01_LanguagesW",
-		"text": "[char0] bends over to read the ancient petroglyphs: \n\n[char0]: \"Let’s see... something about Mu-Khat-Amri, the Devourer of Souls, who hunts the blasphemers in their dreams. Sounds like a great guy...\""
+		"text": "[char0] наклоняется, чтобы прочитать древние петроглифы: \n\n[char0]: \"Давайте посмотрим... что-то о Му-Хат-Амри, Пожирателе Душ, который охотится на богохульников в их снах. Похоже, он хороший мужик...\""
 	},
 	{
 		"id": "LE_CursedAltar01_LanguagesW_female",
-		"text": "[char0] bends over to read the ancient petroglyphs: \n\n[char0]: \"Let’s see... something about Mu-Khat-Amri, the Devourer of Souls, who hunts the blasphemers in their dreams. Sounds like a great guy...\""
+		"text": "[char0] наклоняется, чтобы прочитать древние петроглифы: \n\n[char0]: \"Давайте посмотрим... что-то о Му-Хат-Амри, Пожирателе Душ, который охотится на богохульников в их снах. Похоже, он хороший мужик...\""
 	},
 	{
 		"id": "LE_CursedAltar01_LanguagesF",
-		"text": "[char0] traces the strange characters with his fingers, then shakes his head in disappointment: \n\n[char0]: \"I’ve never seen hieroglyphs like this!\""
+		"text": "[char0] обводит пальцами странные символы, затем разочарованно качает головой: \n\n[char0]: \"Я никогда не видел таких иероглифов!\""
 	},
 	{
 		"id": "LE_CursedAltar01_LanguagesF_female",
-		"text": "[char0] traces the strange characters with her fingers, then shakes her head in disappointment: \n\n[char0]: \"I’ve never seen hieroglyphs like this!\""
+		"text": "[char0] обводит пальцами странные символы, затем разочарованно качает головой: \n\n[char0]: \"Я никогда не видела таких иероглифов!\""
 	},
 	{
 		"id": "LE_CursedAltar01_OccultW",
-		"text": "[char1] kneels in front of the altar and uses a withered branch to draw a circle around himself in the sand. Humming softly, he gestures in the air, his hands contorted grotesquely. Then his face lights up:  [CTP]\n\n[char1]: \"The spirit that resides here is ancient and hateful – but I believe I can placate it.\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, он жестикулирует, его руки странно искривлены. Затем его лицо озаряется: [CTP]\n\n[char1]: \"Дух, обитающий здесь, древний и полный ненависти - но я верю, что смогу умиротворить его.\""
 	},
 	{
 		"id": "LE_CursedAltar01_OccultW_female",
-		"text": "[char1] kneels in front of the altar and uses a withered branch to draw a circle around herself in the sand. Humming softly, she gestures in the air, her hands contorted grotesquely. Then her face lights up:  [CTP]\n\n[char1]: \"The spirit that resides here is ancient and hateful – but I believe I can placate it.\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, она жестикулирует, ее руки странно искривлены. Затем ее лицо озаряется: [CTP]\n\n[char1]: \"Дух, обитающий здесь, древний и полный ненависти - но я верю, что смогу умиротворить его.\""
 	},
 	{
 		"id": "LE_CursedAltar01_OccultF",
-		"text": "[char1] kneels in front of the altar and uses a withered branch to draw a circle around himself in the sand. Humming softly, he gestures in the air, his hands contorted grotesquely. When he opens his eyes again, his face is a portrait of sheer terror:  [CTP]\n\n[char1]: \"We must not remain here. This is a place of great evil – and we are not welcome!\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, он жестикулирует, его руки странно искривлены. Когда он снова открывает глаза, на его лице изображен ужас: [CTP]\n\n[char1]: \"Мы больше не должны оставаться здесь. Это место великого зла - и нам здесь не рады!\""
 	},
 	{
 		"id": "LE_CursedAltar01_OccultF_female",
-		"text": "[char1] kneels in front of the altar and uses a withered branch to draw a circle around herself in the sand. Humming softly, she gestures in the air, her hands contorted grotesquely. When she opens his eyes again, her face is a portrait of sheer terror:  [CTP]\n\n[char1]: \"We must not remain here. This is a place of great evil – and we are not welcome!\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, она жестикулирует, ее руки странно искривлены. Когда она снова открывает глаза, на ее лице изображен ужас: [CTP]\n\n[char1]: \"Мы больше не должны оставаться здесь. Это место великого зла - и нам здесь не рады!\""
 	},
 	{
 		"id": "LE_CursedAltar01_LootW",
-		"text": "There are several clay bowls and vases on the altar. One of them rattles strangely when you pick it up. You smash the vase and find something among the shards!"
+		"text": "На алтаре стоит несколько глиняных чаш и ваз. Одна из них странно дребезжит, когда вы берете ее в руки. Вы разбиваете вазу и что-то находите среди осколков!"
 	},
 	{
 		"id": "LE_CursedAltar01_LootF1",
-		"text": "You search the altar but find nothing of value. Disappointed, you move on."
+		"text": "Вы обыскиваете алтарь, но не находите ничего ценного. В разочаровании, вы идете дальше."
 	},
 	{
 		"id": "LE_CursedAltar01_LootF2",
-		"text": "You search the altar but find nothing of value. Petulantly, [char2] kicks over the piles of stones placed around the altar in strange patterns. \n\nYou continue your journey. [CTP]\n\nA short time later, [char2] seems strangely nervous and distracted, as if listening to silent voices. You try to ask him about it but he just waves you away."
+		"text": "Вы обыскиваете алтарь, но не находите ничего ценного. С досады [char2] пинает кучу камня, разложенную вокруг алтаря в странных узорах. \n\nВы продолжаете свой путь. [CTP]\n\nЧерез некоторое время [char2] выглядит странно нервным и рассеянным, как будто прислушивается к тихим голосам. Вы пытаетесь спросить его об этом, но он просто отмахивается."
 	},
 	{
 		"id": "LE_CursedAltar01_LootF2_female",
-		"text": "You search the altar but find nothing of value. Petulantly, [char2] kicks over the piles of stones placed around the altar in strange patterns. \n\nYou continue your journey. [CTP]\n\nA short time later, [char2] appears strangely nervous and distracted, as if listening to silent voices. You try to ask her about it but she just waves you away."
+		"text": "Вы обыскиваете алтарь, но не находите ничего ценного. С досады [char2] пинает кучу камня, разложенную вокруг алтаря в странных узорах. \n\nВы продолжаете свой путь. [CTP]\n\nЧерез некоторое время [char2] выглядит странно нервной и рассеянной, как будто прислушивается к тихим голосам. Вы пытаетесь спросить ее об этом, но она просто отмахивается."
 	},
 	{
 		"id": "LE_CursedAltar01_Leave",
-		"text": "The whole place exudes menace. You listen to your instincts and leave the mound to continue your journey."
+		"text": "Все это место излучает угрозу. Вы прислушиваетесь к своим инстинктам и покидаете курган, чтобы продолжить свой путь."
 	},
 	{
 		"id": "LE_CursedAltar01_Undecided",
@@ -10435,31 +10435,31 @@
 	},
 	{
 		"id": "LE_CursedAltar01_Ghost",
-		"text": "[char1] kneels before the altar and uses a withered branch to draw a circle around himself in the sand. Humming softly, he gestures in the air, his hands contorted grotesquely.\n\nOut of nowhere, a ghostly apparition appears!\n\n[char3]: \"Who disturbs the peace of this holy place?\" [CTP]\n\n[char1] moves his hand to his forehead in a gesture of respect:\n\n[char1]: \"We have no evil intent!\"\n\n[char3]: \"So you have come to relieve me? Grant me eternal peace and my burden shall be yours!\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, он жестикулирует, его руки странно искривлены.\n\nИз ниоткуда появляется призрачное явление!\n\n[char3]: \"Кто нарушает покой этого святого места?\" [CTP]\n\n[char1] подносит руку ко лбу в знак уважения:\n\n[char1]: \"Мы не имеем злого умысла!\"\n\n[char3]: \"Так вы пришли облегчить мою участь? Даруйте мне вечный покой, и моя ноша станет вашей!\""
 	},
 	{
 		"id": "LE_CursedAltar01_Ghost_female",
-		"text": "[char1] kneels before the altar and uses a withered branch to draw a circle around herself in the sand. Humming softly, she gestures in the air, her hands contorted grotesquely.\n\nOut of nowhere, a ghostly apparition appears!\n\n[char3]: \"Who disturbs the peace of this holy place?\" [CTP]\n\n[char1] moves her hand to her forehead in a gesture of respect: \n\n[char1]: \"We have no evil intent!\"\n\n[char3]: \"So you have come to relieve me? Grant me eternal peace and my burden shall be yours!\""
+		"text": "[char1] встает на колени перед алтарем и с помощью сухой ветки чертит вокруг себя на песке круг. Тихо напевая, она жестикулирует, ее руки странно искривлены.\n\nИз ниоткуда появляется призрачное явление!\n\n[char3]: \"Кто нарушает покой этого святого места?\" [CTP]\n\n[char1] подносит руку ко лбу в знак уважения:\n\n[char1]: \"Мы не имеем злого умысла!\"\n\n[char3]: \"Так вы пришли облегчить мою участь? Даруйте мне вечный покой, и моя ноша станет вашей!\""
 	},
 	{
 		"id": "LE_CursedAltar01_GhostPeace",
-		"text": "[char1] intones a strangely soothing chant. With a deep sigh, the spectral figure dissolves into the ether! \n\n[char1]: \"I think... I have done what I could. Now what?\""
+		"text": "[char1] напевает странный успокаивающий напев. С глубоким вздохом призрачная фигура растворяется в воздухе! \n\n[char1]: \"Я думаю... Я сделал все, что мог. И что теперь?\""
 	},
 	{
 		"id": "LE_CursedAltar01_GhostPeace_female",
-		"text": "[char1] intones a strangely soothing chant. With a deep sigh, the spectral figure dissolves into the ether! \n\n[char1]: \"I think... I have done what I could. Now what?\""
+		"text": "[char1] напевает странный успокаивающий напев. С глубоким вздохом призрачная фигура растворяется в воздухе! \n\n[char1]: \"Я думаю... Я сделала все, что могла. И что теперь?\""
 	},
 	{
 		"id": "LE_CursedAltar01_Choice05",
-		"text": "Search for the burden"
+		"text": "Принять бремя"
 	},
 	{
 		"id": "LE_CursedAltar01_Choice06",
-		"text": "That doesn’t sound good..."
+		"text": "Это звучит не очень приятно..."
 	},
 	{
 		"id": "LE_CursedAltar01_Reward",
-		"text": "After a quick search, you come across some loose stone slabs concealing a cracked clay jar! \n\nYou are about to discover what the spirit was guarding..."
+		"text": "После непродолжительных поисков вы натыкаетесь на несколько рыхлых каменных плит, скрывающих треснувший глиняный кувшин! \n\nСейчас вы узнаете, что охранял дух..."
 	},
 	{
 		"id": "LE_LostNaziCanisters01_Search",
