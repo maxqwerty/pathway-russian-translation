@@ -3915,15 +3915,15 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Intro",
-		"text": "You stop at the sight of a Wehrmacht jeep parked on the ridge of a dune. Warily, you sneak closer. [CTP] \n\nAs you peer over the ridge, you spot a unit of German soldiers. Overseen by their officer, they are working on a pyramid, the tip of which protrudes a few feet from the desert sand. The pyramid is glistening black. It looks like it is made of solid obsidian. \n\nThe soldiers have not noticed you yet..."
+		"text": "Вы останавливаетесь при виде джипа вермахта, припаркованного на гребне дюны. С опаской вы подкрадываетесь ближе. [CTP] \n\nКогда вы выглядываете из-за хребта, то замечаете подразделение немецких солдат. Под наблюдением своего офицера они работают над пирамидой, вершина которой выступает на несколько футов из песка пустыни. Пирамида сверкает черным. Кажется, что она сделана из цельного обсидиана. \n\nСолдаты еще не заметили вас..."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice01",
-		"text": "Ambush immediately"
+		"text": "Немедленно напасть"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice02",
-		"text": "Wait and watch"
+		"text": "Ждать и наблюдать"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice03",
@@ -3931,19 +3931,19 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Fight",
-		"text": "When your enemies are defeated, you decide to investigate the mysterious pyramid for yourself. Try as you might, you cannot find an opening anywhere. \n\nDisappointed, you search the soldiers for anything useful and set off again."
+		"text": "Когда ваши враги повержены, вы решаете сами исследовать таинственную пирамиду. Но как бы вы ни старались, нигде не можете найти вход. \n\nРазочаровавшись, вы обыскиваете солдат в поисках чего-нибудь полезного и снова отправляетесь в путь."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_WaitF",
-		"text": "After some time, you hear loud shouts; the officer pushes his soldiers excitedly aside and makes strange gestures in the air. \n\nMoments later, a passage opens in the side of the black pyramid. The soldiers proceed into the structure in single file. The passageway closes behind them. [CTP]\n\nWhen you finally get closer, you cannot see the slightest hint of a passageway or opening mechanism in the pyramid wall."
+		"text": "Через некоторое время слышны громкие крики; офицер возбужденно расталкивает своих солдат в сторону и делает странные жесты в воздухе. \n\nМгновением позже в боковой части черной пирамиды открывается проход. Солдаты по одному входят внутрь конструкции. Проход за ними закрывается. [CTP]\n\nКогда вы наконец подходите ближе, то не можете обнаружить ни малейшего намека на проход или механизм открытия в стене пирамиды."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_WaitW",
-		"text": "After some time, you hear loud shouts; the officer pushes his soldiers excitedly aside and makes strange gestures in the air. \n\nMoments later, a passage opens in the side of the black pyramid. The soldiers proceed into the structure in single file."
+		"text": "Через некоторое время слышны громкие крики; офицер возбужденно расталкивает своих солдат в сторону и делает странные жесты в воздухе. \n\nМгновением позже в боковой части черной пирамиды открывается проход. Солдаты по одному входят внутрь конструкции."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice04",
-		"text": "Sneak after them"
+		"text": "Прокрасться за ними"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice05",
@@ -3951,39 +3951,39 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Crypt",
-		"text": "You trail the soldiers at a careful distance until they get to a small chamber that looks like an ancient place of worship. \n\nAt the behest of their officer, the soldiers gather around a mighty sarcophagus in the middle of the room. Working together, they pry off the slab that seals it. [CTP] \n\nA ghostly light shines from the sarcophagus; The German soldiers stagger back in pain and attempt to cover their faces, screaming in agony!\n\nMoments later, there is silence. The corpses of the Germans are scattered around the open sarcophagus."
+		"text": "Вы следуете за солдатами на безопасном расстоянии, пока они не попадают в небольшую комнату, похожую на древнее место поклонения. \n\nПо приказу своего офицера солдаты собираются вокруг огромного саркофага в центре комнаты. Совместными усилиями они снимают закрывающую его плиту. [CTP] \n\nПризрачный свет исходит из саркофага; немецкие солдаты шатаются от боли и пытаются закрыть свои лица, крича в агонии!\n\nЧерез несколько мгновений наступает тишина. Трупы немцев разбросаны вокруг открытого саркофага."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice06",
-		"text": "Examine the contents of the sarcophagus"
+		"text": "Осмотреть содержимое саркофага"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice07",
-		"text": "Leave the sinister pyramid"
+		"text": "Покинуть зловещую пирамиду"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Leave",
-		"text": "You bolt out of the chamber. In your haste, you knock over some old clay vases, smashing them to pieces. \n\nAmong the clay shards, you spot something precious looking, causing you to pause for a moment. Then you rush off again, desperate to get away from this place!"
+		"text": "Вы выбегаете из комнаты. В спешке вы опрокинули несколько старых глиняных ваз, разбив их вдребезги. \n\nСреди глиняных черепков вы замечаете что-то драгоценное, что заставляет вас на мгновение остановиться. Затем вы снова бросаетесь бежать, отчаянно желая оказаться подальше от этого места!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_NoLoot",
-		"text": "You carefully approach the sinister sarcophagus. When you finally dare to look inside you are bitterly disappointed: the sarcophagus is empty! \n\nYou quickly search the soldiers before leaving this eerie place."
+		"text": "Вы осторожно приближаетесь к зловещему саркофагу. Когда вы наконец решаетесь заглянуть внутрь, вас ждет горькое разочарование: саркофаг пуст! \n\nВы быстро обыскиваете солдат, прежде чем покинуть это жуткое место."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_LootF",
-		"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can stop him, [char0] is already peering greedily over the edge of the sarcophagus. A blinding light fills the room, and you hear [char0]’s desperate screams! [CTP]\n\nIn a flash, you yank him away from the sarcophagus! [char0] clasps at his eyes in agony, they have been badly burned by the mysterious light! \n\nThat's warning enough for you: You just want to get away from this awful place!"
+		"text": "Вы осторожно приближаетесь к зловещему саркофагу. \n\nПрежде чем вы успеваете его остановить, [char0] уже жадно заглядывает через край саркофага. Ослепительный свет заполняет комнату, и вы слышите как [char0] отчаянно кричит! [CTP]\n\nВ мгновение ока вы оттаскиваете его от саркофага! [char0] зажмуривает глаза в агонии, они сильно обгорели от таинственного света! \n\nДля вас это достаточное предупреждение: вы просто хотите уйти из этого ужасного места!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_LootF_female",
-		"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can stop her, [char0] is already peering greedily over the edge of the sarcophagus. A blinding light fills the room, and you hear [char0]’s desperate screams! [CTP]\n\nIn a flash, you yank her away from the sarcophagus! [char0] clasps at her eyes in agony, they have been badly burned by the mysterious light! \n\nThat's warning enough for you: You just want to get away from this awful place!"
+		"text": "Вы осторожно приближаетесь к зловещему саркофагу. \n\nПрежде чем вы успеваете ее остановить, [char0] уже жадно заглядывает через край саркофага. Ослепительный свет заполняет комнату, и вы слышите как [char0] отчаянно кричит! [CTP]\n\nВ мгновение ока вы оттаскиваете ее от саркофага! [char0] зажмуривает глаза в агонии, они сильно обгорели от таинственного света! \n\nДля вас это достаточное предупреждение: вы просто хотите уйти из этого ужасного места!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_LootW",
-		"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can do anything, [char0] is already peering greedily over the edge of the sarcophagus. He whistles in appreciation before pointing proudly to his loot!"
+		"text": "Вы осторожно приближаетесь к зловещему саркофагу. \n\nПрежде чем вы успеваете ее остановить, [char0] уже жадно заглядывает через край саркофага. Он присвистывает в знак одобрения и с гордостью показывает свою добычу!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_LootW_female",
-		"text": "You carefully approach the sinister sarcophagus. \n\nBefore you can do anything, [char0] is already peering greedily over the edge of the sarcophagus. She whistles in appreciation before pointing proudly to her loot!"
+		"text": "Вы осторожно приближаетесь к зловещему саркофагу. \n\nПрежде чем вы успеваете ее остановить, [char0] уже жадно заглядывает через край саркофага. Она присвистывает в знак одобрения и с гордостью показывает свою добычу!"
 	},
 	{
 		"id": "LE_HungrySewerFlower01_Intro",
@@ -11511,15 +11511,15 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_ChoiceDetect_B",
-		"text": "What’s that?!"
+		"text": "Что это?!"
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_DetectW_B",
-		"text": "[char1] finds a slight irregularity in the pyramid wall. \n\nHe pushes on it carefully and a secret passage opens as if by magic."
+		"text": "[char1] находит небольшую неровность в стене пирамиды. \n\nОн осторожно нажимает на нее, и тайный проход открывается как по волшебству."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_DetectW_B_female",
-		"text": "[char1] finds a slight irregularity in the pyramid wall. \n\nShe pushes on it carefully and a secret passage opens as if by magic."
+		"text": "[char1] находит небольшую неровность в стене пирамиды. \n\nОна осторожно нажимает на нее, и тайный проход открывается как по волшебству."
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_Choice_GoDown_D",
@@ -11527,7 +11527,7 @@
 	},
 	{
 		"id": "BE_ObsidianBlindingLight01_MagicRepair_B",
-		"text": "Curiously, you peer into the sarcophagus – the mysterious light bursts forth again!\n\nYou don’t understand what happened, but when you look around again, you see that your armor has been repaired as if by magic!\n\nWeird... [CTP]\n\nYou quickly search the soldiers before leaving this strange place."
+		"text": "С любопытством вы заглядываете в саркофаг - таинственный свет вспыхивает снова!\n\nВы не понимаете, что произошло, но когда вы снова оглядываетесь вокруг, то видите, что ваша броня была восстановлена, как по волшебству!\n\nСтранно... [CTP]\n\nВы быстро обыскиваете солдат, прежде чем покинуть это странное место."
 	},
 	{
 		"id": "BE_VillageBloodbath01_ChoiceMedic_B",
