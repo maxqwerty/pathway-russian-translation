@@ -5075,23 +5075,23 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_Intro",
-		"text": "The remains of dead soldiers are scattered around the deserted military camp. Someone... or something... overran these soldiers and slaughtered them with incredible brutality! It looks like the soldiers did not even have time to take up their weapons...\n\nYou hear a groan: one of the soldiers moves awkwardly – a survivor?"
+		"text": "Останки мертвых солдат разбросаны по заброшенному военному лагерю. Кто-то... или что-то... захватило этих солдат и расправилось с ними с невероятной жестокостью! Похоже, солдаты даже не успели взять в руки оружие...\n\nСлышится стон: один из солдат неуклюже шевелится - выживший?"
 	},
 	{
 		"id": "BE_MonsterAssault01_MedicalF",
-		"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is doomed! \n\nA short time later, the soldier succumbs to his wounds without regaining consciousness. You search the camp quickly before continuing your journey."
+		"text": "Вы подходите к раненому, но зияющая рана в его боку не оставляет сомнений: этот человек обречен! \n\nЧерез некоторое время солдат умирает от ран, не приходя в сознание. Вы быстро осматриваете лагерь, прежде чем продолжить свой путь."
 	},
 	{
 		"id": "BE_MonsterAssault01_MedicalW",
-		"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is doomed! [char0] bends over the dying man and dabs his forehead with a wet cloth. \n\nThe man returns to consciousness briefly, but finally succumbs to his injuries: [CTP]\n\n[char1]: \"They fell on us like demons! Go to the secret bunker half a mile southeast of here and see if there are any survivors...\""
+		"text": "Вы подходите к раненому, но зияющая рана в его боку не оставляет сомнений: этот человек обречен! [char0] наклоняется над умирающим и промокает его лоб влажной тряпкой. \n\nМужчина ненадолго возвращается в сознание, но корчится от полученных травм: [CTP]\n\n[char1]: \"Они обрушились на нас, как демоны! Идите в секретный бункер в полумиле к юго-востоку отсюда и посмотрите, есть ли там выжившие...\""
 	},
 	{
 		"id": "BE_MonsterAssault01_MedicalW_female",
-		"text": "You approach the wounded man, but the gaping wound in his side leaves no doubt: the man is done for! [char0] bends over the dying man and dabs his forehead with a wet cloth. \n\nThe man returns to consciousness briefly, but finally succumbs to his injuries: [CTP]\n\n[char1]: \"They fell on us like demons! Go to the secret bunker half a mile southeast of here and see if there are any survivors...\""
+		"text": "Вы подходите к раненому, но зияющая рана в его боку не оставляет сомнений: этот человек обречен! [char0] наклоняется над умирающим и промокает его лоб влажной тряпкой. \n\nМужчина ненадолго возвращается в сознание, но корчится от полученных травм: [CTP]\n\n[char1]: \"Они обрушились на нас, как демоны! Идите в секретный бункер в полумиле к юго-востоку отсюда и посмотрите, есть ли там выжившие...\""
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice01",
-		"text": "Seek the secret bunker"
+		"text": "Искать секретный бункер"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice02",
@@ -5099,7 +5099,7 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_EnterBunker",
-		"text": "A short time later you reach the bunker. Its heavy iron door hangs from its hinges. Once inside, your worst fears are confirmed: The mysterious attackers have struck again - the mangled corpses of the bunker crew are scattered at random on the blood-soaked concrete floor. [CTP] \n\nYou freeze at the sound of heavy breathing! It is coming from the next room!\n\nAs you peer through the slightly open door, you see several nightmarish forms clawing at a soldier’s corpse."
+		"text": "Через некоторое время вы попадаете в бункер. Его тяжелая железная дверь висит на петлях. Как только вы оказываетесь внутри, ваши худшие опасения подтверждаются: таинственные захватчики нанесли новый удар - на пропитанном кровью бетонном полу беспорядочно разбросаны изуродованные трупы команды бункера. [CTP] \n\nВнезапно вы слышите тяжелое дыхание! Оно доносится из соседней комнаты!\n\nЗаглянув в чуть приоткрытую дверь, вы видите несколько кошмарных фигур, впивающихся когтями в труп солдата."
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice03",
@@ -5107,35 +5107,35 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice04",
-		"text": "Blow them up"
+		"text": "Взорвать их"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice05",
-		"text": "Sneak out quietly"
+		"text": "Незаметно уйти"
 	},
 	{
 		"id": "BE_MonsterAssault01_LeaveF",
-		"text": "As you back off carefully, [char2] stumbles against a filing cabinet that crashes noisily to the ground. \n\nBefore you can react, the creatures jump up and rush at you with an enraged bellow!"
+		"text": "Осторожно отступая назад, [char2] спотыкается о шкаф для документов, который с шумом падает на пол. \n\nПрежде чем вы успеваете среагировать, существа вскакивают и бросаются на вас с яростным ревом!"
 	},
 	{
 		"id": "BE_MonsterAssault01_LeaveF_female",
-		"text": "As you back off carefully, [char2] stumbles against a filing cabinet that crashes noisily to the ground. \n\nBefore you can react, the creatures jump up and rush at you with an enraged bellow!"
+		"text": "Осторожно отступая назад, [char2] спотыкается о шкаф для документов, который с шумом падает на пол. \n\nПрежде чем вы успеваете среагировать, существа вскакивают и бросаются на вас с яростным ревом!"
 	},
 	{
 		"id": "BE_MonsterAssault01_Daredevil",
-		"text": "[char3] pushes his way past you. He is holding a burning stick of dynamite that he must have found somewhere in the bunker! \n\nHe casually lobs the dynamite into the throng of monsters.\n\n[char3]: \"Eat that, infernal abominations!\""
+		"text": "[char3] протискивается мимо вас. В руках у него горящая динамитная шашка, которую он, должно быть, нашел где-то в бункере! \n\nОн небрежно бросает динамит в толпу монстров.\n\n[char3]: \"Съешьте это, адские твари!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_Daredevil_female",
-		"text": "[char3] pushes her way past you. She is holding a burning stick of dynamite that she must have found somewhere in the bunker!\n\nShe casually lobs the dynamite into the throng of monsters.\n\n[char3]: \"Eat that, infernal abominations!\""
+		"text": "[char3] протискивается мимо вас. В руках у нее горящая динамитная шашка, которую она, должно быть, нашла где-то в бункере! \n\nОна небрежно бросает динамит в толпу монстров.\n\n[char3]: \"Съешьте это, адские твари!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_DaredevilW",
-		"text": "You quickly slam shut the metal door and take cover! A deafening explosion sweeps through the bunker! \n\nWhen the smoke in the neighboring room has cleared, you see that the dynamite has done its job..."
+		"text": "Вы быстро захлопываете металлическую дверь и прячетесь в укрытие! Оглушительный взрыв проносится по бункеру! \n\nКогда дым в соседней комнате рассеется, вы видите, что динамит сделал свое дело..."
 	},
 	{
 		"id": "BE_MonsterAssault01_DaredevilF",
-		"text": "The dynamite flies into the middle of the monsters - but unfortunately it lands directly on the fuse, extinguishing it! The angry creatures turn towards you...\n\n[char3]: \"Well that’s... awkward!\""
+		"text": "Динамит летит в самую гущу монстров - но, к сожалению, он падает прямо на фитиль и гасит его! Разъяренные существа поворачиваются к вам...\n\n[char3]: \"Что же... неловко получилось!\""
 	},
 	{
 		"id": "GE_HealingWell01_Title",
@@ -9191,11 +9191,11 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice06",
-		"text": "Inspect wounded man"
+		"text": "Осмотреть раненного мужчину"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice07",
-		"text": "Treat survivor"
+		"text": "Подлечить выжившего"
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Choice01",
@@ -10643,43 +10643,43 @@
 	},
 	{
 		"id": "BE_MonsterAssault01_DeadMan",
-		"text": "The man dies without regaining consciousness. \n\nYou wonder what to do next."
+		"text": "Мужчина умирает не приходя в сознание. \n\nВы не знаете, что делать дальше."
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice_Detection",
-		"text": "What happened here?"
+		"text": "Что здесь произошло?"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice_Booty",
-		"text": "Search this location and leave"
+		"text": "Обыскать это место и уйти"
 	},
 	{
 		"id": "BE_MonsterAssault01_DetectionWin",
-		"text": "As you search the place for clues as to what happened here, [char4] mutters: \n\n[char4]: \"Hmm... Interesting...: It looks like a group of Nazis fled in this direction!\""
+		"text": "Пока вы обыскиваете место в поисках подсказок, что здесь произошло, [char4] бормочет: \n\n[char4]: \"Хмм... Интересно...: похоже, что группа нацистов бежала в том направлении!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_DetectionWin_female",
-		"text": "As you search the place for clues as to what happened here, [char4] mutters: \n\n[char4]: \"Hmm... Interesting...: It looks like a group of Nazis fled in this direction!\""
+		"text": "Пока вы обыскиваете место в поисках подсказок, что здесь произошло, [char4] бормочет: \n\n[char4]: \"Хмм... Интересно...: похоже, что группа нацистов бежала в том направлении!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice_Tracks",
-		"text": "Follow their tracks"
+		"text": "Идти по следам"
 	},
 	{
 		"id": "BE_MonsterAssault01_Choice_Leave",
-		"text": "Too risky! Search this location and leave!"
+		"text": "Слишком рискованно! Обыскать это место и уйти!"
 	},
 	{
 		"id": "BE_MonsterAssault01_HiddenRoom",
-		"text": "As you search the bunker for more clues, you come across a small, inconspicuous steel door that leads you into a small lab room. \n\nOn one of the tables, you see a small amulet emitting a strange glow. \n\nWho wants to take it?"
+		"text": "Когда вы обыскиваете бункер в поисках новых улик, вы натыкаетесь на маленькую, неприметную стальную дверь, которая ведет в небольшую лабораторную комнату. \n\nНа одном из столов вы видите небольшой амулет, излучающий странное свечение. \n\nКто хочет его взять?"
 	},
 	{
 		"id": "BE_MonsterAssault01_Amulet",
-		"text": "A shock passes through [char5] as he puts on the amulet and it comes into contact with his skin: \n\n[char5]: \"I feel... incredibly strong!\""
+		"text": "Волны энергии проходит через [char5] когда он надевает амулет и тот соприкасается с его кожей: \n\n[char5]: \"Я чувствую себя... невероятно сильным!\""
 	},
 	{
 		"id": "BE_MonsterAssault01_Amulet_female",
-		"text": "A shock passes through [char5] as she puts on the amulet and it comes into contact with her skin: \n\n[char5]: \"I feel... incredibly strong!\""
+		"text": "Волны энергии проходит через [char5] когда она надевает амулет и тот соприкасается с ее кожей: \n\n[char5]: \"Я чувствую себя... невероятно сильной!\""
 	},
 	{
 		"id": "LE_CobraCache01_IntimidateWin",
