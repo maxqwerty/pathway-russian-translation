@@ -2931,23 +2931,23 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Intro",
-		"text": "The footprints that led you to the interior of the deserted temple end suddenly. In front of you, the lifeless bodies of several soldiers lie in pools of their own blood on the paving stones in front of a massive altar! The corpses are strangely contorted, as if saying a final prayer to a nameless deity.\n\nSuspiciously, you look around. You soon discover small holes in the stone slabs – the soldiers triggered an ancient trap! [CTP]\n\n[char0] climbs up onto a stone sarcophagus and cranes his neck:\n\n[char0]: \"That indentation on the altar – I can’t tell exactly what, but there’s something in there!\""
+		"text": "Следы, которые привели вас во внутреннюю часть заброшенного храма, внезапно заканчиваются. Перед вами безжизненные тела нескольких солдат лежат в лужах собственной крови на брусчатке перед массивным алтарем! Трупы странно скорчились, словно произносят последнюю молитву безымянному божеству.\n\nВы с подозрением осматриваетесь вокруг. Вскоре вы обнаруживаете небольшие отверстия в каменных плитах - солдаты привели в действие древнюю ловушку! [CTP]\n\n[char0] забирается на каменный саркофаг и вытягивает шею:\n\n[char0]: \"Это углубление на алтаре - я не могу сказать точно, что именно, но там что-то есть!\""
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Intro_female",
-		"text": "The footprints that led you to the interior of the deserted temple end suddenly. In front of you, the lifeless bodies of several soldiers lie in pools of their own blood on the paving stones in front of a massive altar! The corpses are strangely contorted, as if transfixed in a final prayer to a nameless deity.\n\nSuspiciously, you look around. You soon discover small holes in the stone slabs – the soldiers triggered an ancient trap! [CTP]\n\n[char0] climbs up onto a stone sarcophagus and cranes her neck:\n\n[char0]: \"That indentation on the altar – I can’t tell exactly what, but there’s something in there!\""
+		"text": "Следы, которые привели вас во внутреннюю часть заброшенного храма, внезапно заканчиваются. Перед вами безжизненные тела нескольких солдат лежат в лужах собственной крови на брусчатке перед массивным алтарем! Трупы странно скорчились, словно произносят последнюю молитву безымянному божеству.\n\nВы с подозрением осматриваетесь вокруг. Вскоре вы обнаруживаете небольшие отверстия в каменных плитах - солдаты привели в действие древнюю ловушку! [CTP]\n\n[char0] забирается на каменный саркофаг и вытягивает шею:\n\n[char0]: \"Это углубление на алтаре - я не могу сказать точно, что именно, но там что-то есть!\""
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Choice01",
-		"text": "Try to avoid triggering the trap"
+		"text": "Постараться избежать запуска ловушки"
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Choice02",
-		"text": "Tiptoe past the trap"
+		"text": "Пройти на цыпочках мимо ловушки"
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Choice03",
-		"text": "Improvise!"
+		"text": "Импровизировать!"
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Choice04",
@@ -2955,27 +2955,27 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrap",
-		"text": "[char1] carefully feels his way forward. Step by step, he moves over the bodies, always careful not to step on a loose flagstone."
+		"text": "[char1] осторожно прощупывает путь вперед. Шаг за шагом он осторожно перешагивает через тела, чтобы не наступать на каменные плиты."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrap_female",
-		"text": "[char1] carefully feels her way forward. Step by step, she moves over the bodies, always careful not to step on a loose flagstone."
+		"text": "[char1] осторожно прощупывает путь вперед. Шаг за шагом она осторожно перешагивает через тела, чтобы не наступать на каменные плиты."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrapW",
-		"text": "After what seems like an eternity, [char1] reaches the altar. He cheers triumphantly as he gathers up his spoils. \n\n[char1] takes the same route back to you."
+		"text": "Спустя, казалось бы, вечность, [char1] достигает алтаря. Он торжествующе ликует, собирая добычу. \n\n[char1] возвращается к вам тем же путем."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrapW_female",
-		"text": "After what seems like an eternity, [char1] reaches the altar. She cheers triumphantly as she gathers up her spoils. \n\n[char1] takes the same route back to you."
+		"text": "Спустя, казалось бы, вечность, [char1] достигает алтаря. Она торжествующе ликует, собирая добычу. \n\n[char1] возвращается к вам тем же путем."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrapF",
-		"text": "After a few steps, you hear a faint click – [char1] triggered the trap! Immediately, a spear shoots out of the hole directly under him! \n\n[char1] is badly injured but manages to roll away from the trapped flagstones! You treat [char1]’s wound as best you can, but you are no longer eager to discover the secrets of the mysterious altar."
+		"text": "После нескольких шагов вы слышите слабый щелчок - [char1] запустил ловушку! И тут же из отверстия прямо под ним вылетает копье! \n\n[char1] сильно ранен, но ему удается отойти от ловушки! [char1] получает первую помощь, но вы больше не хотите раскрывать секреты таинственного алтаря."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_TryTrapF_female",
-		"text": "After a few steps, you hear a faint click – [char1] triggered the trap! Immediately, a spear shoots out of the hole directly under her! \n\n[char1] is badly injured but manages to roll away from the trapped flagstones! You treat [char1]’s wound as best you can, but you are no longer eager to discover the secrets of the mysterious altar."
+		"text": "После нескольких шагов вы слышите слабый щелчок - [char1] запустила ловушку! И тут же из отверстия прямо под ней вылетает копье! \n\n[char1] сильно ранена, но ей удается отойти от ловушки! [char1] получает первую помощь, но вы больше не хотите раскрывать секреты таинственного алтаря."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Stealth",
@@ -2987,43 +2987,43 @@
 	},
 	{
 		"id": "LE_SpearTrapAltar01_StealthW",
-		"text": "[char2] soon reaches the altar!\n\nHe grabs the treasures that lie in the depression and returns to you in the same manner."
+		"text": "[char2] вскоре достигает алтаря!\n\nОн хватает сокровища, лежащие в углублении, и возвращает их вам тем же путем."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_StealthW_female",
-		"text": "[char2] soon reaches the altar!\n\nShe grabs the treasures that lie in the depression and returns to you in the same manner."
+		"text": "[char2] вскоре достигает алтаря!\n\nОна хватает сокровища, лежащие в углублении, и возвращает их вам тем же путем."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_StealthF",
-		"text": "After a few steps, you hear a faint click – [char2] triggered the trap! Immediately, a spear shoots out of the hole directly under him! \n\nWith lightning-fast reflexes, [char2] throws himself backwards and rolls to safety. The spear misses him by a hand's breadth! You have lost your appetite for treasure hunting and decide to move on."
+		"text": "После нескольких шагов вы слышите слабый щелчок - [char2] запустил ловушку! И тут же из отверстия прямо под ним вылетает копье! \n\nПроявив молниеносность своих рефлексов, [char2] бросается назад и перекатывается в безопасное место. Копье промахивается мимо него на расстояние вытянутой руки! У вас пропало желание искать сокровища, и вы решаете идти дальше."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_StealthF_female",
-		"text": "After a few steps, you hear a faint click – [char2] triggered the trap! Immediately, a spear shoots out of the hole directly under her! \n\nWith lightning-fast reflexes, [char2] throws herself backwards and rolls to safety. The spear misses her by a hand's breadth! You have lost your appetite for treasure hunting and decide to move on."
+		"text": "После нескольких шагов вы слышите слабый щелчок - [char2] запустила ловушку! И тут же из отверстия прямо под ней вылетает копье! \n\nПроявив молниеносность своих рефлексов, [char2] бросается назад и перекатывается в безопасное место. Копье промахивается мимо нее на расстояние вытянутой руки! У вас пропало желание искать сокровища, и вы решаете идти дальше."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Daredevil",
-		"text": "[char3] ties a rope into a lasso and throws it around a crossbeam that juts out from the ceiling above the altar. Then he climbs onto the stone sarcophagus and swings off."
+		"text": "[char3] связывает веревку в лассо и забрасывает ее на поперечную балку, которая торчит из потолка над алтарем. Затем он забирается на каменный саркофаг и спрыгивает с него."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_Daredevil_female",
-		"text": "[char3] ties a rope into a lasso and throws it around a crossbeam that juts out from the ceiling above the altar. Then she climbs onto the stone sarcophagus and swings off."
+		"text": "[char3] связывает веревку в лассо и забрасывает ее на поперечную балку, которая торчит из потолка над алтарем. Затем она забирается на каменный саркофаг и спрыгивает с него."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_DaredevilW",
-		"text": "[char3] lands on the stone edge of the altar. For a moment, he struggles to keep his balance, but then he recovers and starts to examine the altar. \n\nHe cheers triumphantly as he gathers up his spoils. Then [char3] swings back over to you."
+		"text": "[char3] приземляется на каменный край алтаря. На мгновение он с трудом удерживает равновесие, но затем приходит в равновесие и начинает осматривать алтарь. \n\nОн торжествующе ликует, собирая свою добычу. Затем [char3] возвращается к вам."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_DaredevilW_female",
-		"text": "[char3] lands on the stone edge of the altar. For a moment, she struggles to keep her balance, but then she recovers and starts to examine the altar. \n\nShe cheers triumphantly as she gathers up her spoils. Then [char3] swings back over to you."
+		"text": "[char3] приземляется на каменный край алтаря. На мгновение она с трудом удерживает равновесие, но затем приходит в равновесие и начинает осматривать алтарь. \n\nОна торжествующе ликует, собирая свою добычу. Затем [char3] возвращается к вам."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_DaredevilF",
-		"text": "[char3] underestimates the length of the rope and the soles of his shoes brush the flagstones as he swings over to the altar! A spear shoots out from between the stone slabs and grazes his shoulder blades! \n\n[char3] yelps in pain, and for a second you fear that he will let go of the rope! [CTP] \n\nBut the next moment he lands on the stone edge of the altar! He cheers triumphantly as he gathers up his spoils. Then [char3] swings back over to you."
+		"text": "[char3] недооценил длину веревки, и подошвы его ботинок задевают камни, когда он перемахивает через них к алтарю! Копье вылетает между каменными плитами и задевает его лопатки! \n\n[char3] вскрикивает от боли, и на секунду вы пугаетесь, что он отпустит веревку! [CTP] \n\nНо в следующее мгновение он приземляется на каменный край алтаря! Он торжествующе ликует, собирая свою добычу. Затем [char3] возвращается к вам."
 	},
 	{
 		"id": "LE_SpearTrapAltar01_DaredevilF_female",
-		"text": "[char3] underestimates the length of the rope and the soles of her shoes brush the flagstones as she swings over to the altar! A spear shoots out from between the stone slabs and grazes her shoulder blades! \n\n[char3] yelps in pain, and for a second you fear that she will let go of the rope! [CTP] \n\nBut the next moment she lands on the stone edge of the altar! She cheers triumphantly as she gathers up her spoils. Then [char3] swings back over to you."
+		"text": "[char3] недооценила длину веревки, и подошвы ее ботинок задевают камни, когда она перемахивает через них к алтарю! Копье вылетает между каменными плитами и задевает ее лопатки! \n\n[char3] вскрикивает от боли, и на секунду вы пугаетесь, что она отпустит веревку! [CTP] \n\nНо в следующее мгновение она приземляется на каменный край алтаря! Она торжествующе ликует, собирая свою добычу. Затем [char3] возвращается к вам."
 	},
 	{
 		"id": "LE_TarantulaCorpse01_Intro",
