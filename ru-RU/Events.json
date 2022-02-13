@@ -367,31 +367,31 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_Intro",
-		"text": "You find the ancient walls of an abandoned temple. Lonely and majestic, the building rises from the endless desert sands. What secrets might it conceal?"
+		"text": "Вы оказались у древних стен заброшенного храма. Одинокое и величественное здание возвышается над бесконечными песками пустыни. Какие тайны оно может скрывать?"
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice01",
-		"text": "Enter"
+		"text": "Войти"
 	},
 	{
 		"id": "BE_LostRockTemple01_Enter",
-		"text": "The stairwell into this holy place is almost entirely clogged with sand. You squeeze down a half-buried passageway. A wave of cool, musty air hits you."
+		"text": "Лестница в это святое место почти полностью забита песком. Вы пробираетесь по полузасыпанному проходу. На вас обрушивается волна прохладного затхлого воздуха."
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice02",
-		"text": "Inspect temple facade"
+		"text": "Осмотреть фасад храма"
 	},
 	{
 		"id": "BE_LostRockTemple01_DetectW",
-		"text": "The stairwell into this holy place is almost entirely clogged with sand. [CTP] \n\nYou're about to squeeze down through the half-buried passageway, when [char0] notices an inconspicuous lever in the stone wall. You tug on the lever and a secret door slides open with a loud rumble!"
+		"text": "Лестница в это святое место почти полностью забита песком. [CTP] \n\nВы уже собираетесь пробираться вниз через полузасыпанный проход, как вдруг [char0] замечает неприметный рычаг в каменной стене. Вы дергаете за рычаг, и с громким грохотом открывается потайная дверь!"
 	},
 	{
 		"id": "BE_LostRockTemple01_DetectW_female",
-		"text": "The stairwell into this holy place is almost entirely clogged with sand. [CTP] \n\nYou're about to squeeze down through the half-buried passageway, when [char0] notices an inconspicuous lever in the stone wall. You tug on the lever and a secret door slides open with a loud rumble!"
+		"text": "Лестница в это святое место почти полностью забита песком. [CTP] \n\nВы уже собираетесь пробираться вниз через полузасыпанный проход, как вдруг [char0] замечает неприметный рычаг в каменной стене. Вы дергаете за рычаг, и с громким грохотом открывается потайная дверь!"
 	},
 	{
 		"id": "BE_LostRockTemple01_DetectF",
-		"text": "You find nothing of importance. You shrug and enter the temple."
+		"text": "Вы не находите ничего важного. Вы пожимаете плечами и входите в храм."
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice03",
@@ -399,19 +399,19 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_ArcheologyW",
-		"text": "The stairwell into this holy place is almost entirely clogged with sand. You squeeze down through the half-buried passageway and finally arrive at an intersection. [char1] studies the hieroglyphics on the wall: \n\n[char1]: \"The throne room is on the right!\""
+		"text": "Лестница в это святое место почти полностью забита песком. Вы пробираетесь по полузасыпанному проходу и, наконец, попадаете на перекресток. [char1] изучает иероглифы на стене: \n\n[char1]: \"Тронный зал находится справа!\""
 	},
 	{
 		"id": "BE_LostRockTemple01_ArcheologyW_female",
-		"text": "The stairwell inside this holy place is almost entirely clogged with sand. You squeeze down through the half-buried passageway and finally arrive at an intersection. [char1] studies the hieroglyphics on the wall: \n\n[char1]: \"The throne room is on the right!\""
+		"text": "Лестница в это святое место почти полностью забита песком. Вы пробираетесь по полузасыпанному проходу и, наконец, попадаете на перекресток. [char1] изучает иероглифы на стене: \n\n[char1]: \"Тронный зал находится справа!\""
 	},
 	{
 		"id": "BE_LostRockTemple01_ArcheologyF",
-		"text": "[char1] studies the hieroglyphs on the wall, before shaking his head: \n\n[char1]: \"They are completely illegible!\"\n\nYou shrug and enter the temple."
+		"text": "[char1] изучает иероглифы на стене, а затем качает головой: \n\n[char1]: \"Они совершенно неразборчивы!\"\n\nВы пожимаете плечами и входите в храм."
 	},
 	{
 		"id": "BE_LostRockTemple01_ArcheologyF_female",
-		"text": "[char1] studies the hieroglyphics on the wall, before shaking her head: \n\n[char1]: \"They are completely illegible!\"\n\nYou shrug and enter the temple."
+		"text": "[char1] изучает иероглифы на стене, а затем качает головой: \n\n[char1]: \"Они совершенно неразборчивы!\"\n\nВы пожимаете плечами и входите в храм."
 	},
 	{
 		"id": "BE_LostRockTemple01_Choice04",
@@ -419,63 +419,63 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_RE01_Intro",
-		"text": "When you finally reach the central vault, you gasp in amazement: The flickering glow of your torches reveals an ancient altar. It has been millennia since priests offered their sacrifices here to an unknown god.\n\nYou approach the altar carefully to take a closer look! [CTP]\n\nSuddenly, mocking laughter echoes off the chamber walls: \n\n[char4]: \"I hope we are not disturbing you?\"\n\nYou spin around to see a unit of German soldiers pointing their weapons at you!"
+		"text": "Когда вы наконец достигаете центрального хранилища, вы изумленно замираете: в мерцающем свете ваших факелов виден древний алтарь. Прошли тысячелетия с тех пор, как жрецы приносили сюда свои жертвы неизвестному богу.\n\nВы осторожно подходите к алтарю, чтобы рассмотреть его поближе! [CTP]\n\nВнезапно издевательский смех эхом отражается от стен зала: \n\n[char4]: \"Надеюсь, мы вас не побеспокоили?\"\n\nВы поворачиваетесь и видите отряд немецких солдат, направивших на вас оружие!"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE01_Loot",
-		"text": "You examine the altar and temple vault excitedly. You are in luck: you find a strange box in one of the surrounding niches. You can tell from the weight that it isn’t empty..."
+		"text": "Вы с волнением осматриваете алтарь и свод храма. Вам повезло: в одной из близлежащих ниш вы находите странный ящик. По весу вы можете определить, что он не пустой..."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_Intro",
-		"text": "The narrow stone passageway leads ever deeper. After a while, you finally notice a change in the gradient: The passageway is leading upward again! [CTP]\n\nStep by step you feel your way forward, when one of the flagstones suddenly shifts under your weight with an unpleasant grating sound. You hear a faint click and see a round, man-sized boulder come loose from the wall and start rolling slowly towards you!"
+		"text": "Узкий каменный проход ведет все глубже. Через некоторое время вы, наконец, замечаете изменение уклона: проход снова ведет вверх! [CTP]\n\nШаг за шагом вы пробираетесь вперед, как вдруг один из камней сдвигается под вашим весом с неприятным скрежещущим звуком. Вы слышите слабый щелчок и видите, как круглый валун размером с человека отрывается от стены и начинает медленно катиться к вам!"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_Choice05",
-		"text": "Run forward to the next turnoff"
+		"text": "Бежать вперед до следующего поворота"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_JumpW",
-		"text": "With the courage of desperation, you rush towards the huge rock! You dive into the side corridor just as the huge rock thunders past you with a deafening crash! Drenched in sweat but unharmed, you continue."
+		"text": "Со всей отчаянной смелостью вы бросаетесь навстречу огромной скале! Вы ныряете в боковой коридор как раз в тот момент, когда огромный камень с оглушительным грохотом проносится мимо! Обливаясь потом, но оставаясь невредимым, вы продолжаете путь."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_JumpF",
-		"text": "With the courage of desperation, you rush towards the huge, ball-shaped rock – but the rock is moving faster than you thought! You race headlong back to the last turning – you only just make it around the corner when the massive rock thunders into the wall with a deafening crash! [CTP]\n\nYou spend some time trying to shove the rock aside, but the passage ahead is now blocked. You have no choice but to return to the entrance. [char2] curses and rubs his sprained ankle before hobbling after you."
+		"text": "С отчаянной смелостью вы бросаетесь к огромному шарообразному камню - но камень движется быстрее, чем вы думали! Вы мчитесь назад к последнему повороту - вам только удается завернуть за угол, когда массивный камень с оглушительным треском врезается в стену! [CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. У вас нет другого выбора, кроме как вернуться ко входу. [char2] ругается и потирает вывихнутую лодыжку, а затем ковыляет за вами."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_JumpF_female",
-		"text": "With the courage of desperation, you rush towards the huge, ball-shaped rock – but the rock is moving faster than you thought! You race headlong back to the last turning – you only just make it around the corner when the massive rock thunders into the wall with a deafening crash! [CTP]\n\nYou spend some time trying to shove the rock aside, but the passage ahead is now blocked. You have no choice but to return to the entrance. [char2] curses and rubs her sprained ankle before hobbling after you."
+		"text": "С отчаянной смелостью вы бросаетесь к огромному шарообразному камню - но камень движется быстрее, чем вы думали! Вы мчитесь назад к последнему повороту - вам только удается завернуть за угол, когда массивный камень с оглушительным треском врезается в стену! [CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. У вас нет другого выбора, кроме как вернуться ко входу. [char2] ругается и потирает вывихнутую лодыжку, а затем ковыляет за вами."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_Choice06",
-		"text": "Run back to the last turnoff"
+		"text": "Бежать обратно до предыдущего поворота"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_BackW",
-		"text": "You race headlong back to the last turning – you only just make it around the corner when the massive rock thunders into the wall with a deafening crash! [CTP]\n\nYou spend some time trying to shove the rock aside, but the passage ahead is now blocked. You have no choice but to return to the entrance."
+		"text": "Вы мчитесь назад к последнему повороту - вам только удается завернуть за угол, когда массивный камень с оглушительным треском врезается в стену! [CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. У вас нет другого выбора, кроме как вернуться ко входу."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_BackF",
-		"text": "You race headlong back to the last turning – you only just make it around the corner when the massive rock thunders into the wall with a deafening crash! [CTP]\n\nYou spend some time trying to shove the rock aside, but the passage ahead is now blocked. Swearing, you rub your sore joints and bruised heads. You have no choice but to return to the entrance."
+		"text": "Вы мчитесь назад к последнему повороту - вам только удается завернуть за угол, когда массивный камень с оглушительным треском врезается в стену! [CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. Ругаясь, вы потираете больные суставы и ушибленную голову. У вас нет другого выбора, кроме как вернуться ко входу."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_Choice07",
-		"text": "Stop the rock"
+		"text": "Остановить камень"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_StrengthW",
-		"text": "With sudden resolve, [char3] throws himself against the rock! With an incredible effort, he manages to hold it back until you have all reached safety behind the next turnoff. Eventually, his strength fails him and he leaps after you. The huge rock thunders past you!"
+		"text": "С внезапной решимостью [char3] бросается на камень! Невероятным усилием ему удается сдерживать камень, пока вы все не достигнете безопасного места за следующим поворотом. В конце концов, его покидают силы, и он бросается вслед за вами. Огромный камень проносится мимо!"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_StrengthW_female",
-		"text": "With sudden resolve, [char3] throws herself against the rock! With an incredible effort, she manages to hold it back until you have all reached safety behind the next turnoff. Eventually, her strength fails her and she leaps after you. The huge rock thunders past you!"
+		"text": "С внезапной решимостью [char3] бросается на камень! Невероятным усилием ей удается сдерживать камень, пока вы все не достигнете безопасного места за следующим поворотом. В конце концов, ее покидают силы, и она бросается вслед за вами. Огромный камень проносится мимо!"
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_StrengthF",
-		"text": "With sudden resolve, [char3] throws himself against the rock! With an incredible effort, he manages to hold it back until you have all reached safety behind the last turning. Eventually, his strength fails him and he leaps after you. The huge rock smashes into the wall with a deafening crash just as he dives around the corner![CTP]\n\nYou spend some time attempting to push the rock aside, but the passage ahead is now blocked. You have no choice but to return to the entrance."
+		"text": "С внезапной решимостью [char3] бросается на камень! Невероятным усилием ему удается сдерживать камень, пока вы все не достигнете безопасного места за следующим поворотом. В конце концов, его покидают силы, и он бросается вслед за вами. Огромный камень с оглушительным треском врезается в стену как раз в тот момент, когда он ныряет за угол![CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. У вас нет другого выбора, кроме как вернуться ко входу."
 	},
 	{
 		"id": "BE_LostRockTemple01_RE02_StrengthF_female",
-		"text": "With sudden resolve, [char3] throws herself against the rock! With an incredible effort, she manages to hold it back until you have all reached safety behind the last turning. Eventually, her strength fails her and she leaps after you. The huge rock smashes into the wall with a deafening crash just as she dives around the corner![CTP]\n\nYou spend some time attempting to push the rock aside, but the passage ahead is now blocked. You have no choice but to return to the entrance."
+		"text": "С внезапной решимостью [char3] бросается на камень! Невероятным усилием ей удается сдерживать камень, пока вы все не достигнете безопасного места за следующим поворотом. В конце концов, ее покидают силы, и она бросается вслед за вами. Огромный камень с оглушительным треском врезается в стену как раз в тот момент, когда она ныряет за угол![CTP]\n\nВы тратите некоторое время на то, чтобы сдвинуть камень в сторону, но проход вперед теперь завален. У вас нет другого выбора, кроме как вернуться ко входу."
 	},
 	{
 		"id": "CR_AngryMob01_Intro",
@@ -10379,19 +10379,19 @@
 	},
 	{
 		"id": "BE_LostRockTemple01_SecretRoom",
-		"text": "At the center of the mysterious chamber, you see a misshapen sarcophagus.  \n\nYou work together to heave the massive stone lid aside - inside you find the remains of a strangely deformed skeleton. \n\nAround its throat, you see a small, pulsating amulet... [CTP]\n\nWho will take this treasure?"
+		"text": "В центре таинственной камеры вы видите саркофаг неправильной формы.  \n\nСовместными усилиями вы отодвигаете массивную каменную крышку - внутри вы обнаруживаете останки странно деформированного скелета. \n\nВокруг его горла вы видите маленький, мерцающий амулет... [CTP]\n\nКто возьмет это сокровище?"
 	},
 	{
 		"id": "BE_LostRockTemple01_Goodie",
-		"text": "[char5] gasps for air like a drowning man, then his face relaxes: \n\n[char5]: \"I feel... peculiar!\""
+		"text": "[char5] задыхается, как утопающий, затем его лицо расслабляется: \n\n[char5]: \"Я чувствую себя... как-то по особенному!\""
 	},
 	{
 		"id": "BE_LostRockTemple01_Goodie_female",
-		"text": "[char5] gasps for air like a drowning woman, then her face relaxes: \n\n[char5]: \"I feel... peculiar!\""
+		"text": "[char5] задыхается, как утопающий, затем его лицо расслабляется: \n\n[char5]: \"Я чувствую себя... как-то по особенному!\""
 	},
 	{
 		"id": "BE_LostRockTemple01_ThroneRoom",
-		"text": "After endless steps, you finally enter a magnificent throne room.\n\nBehind the strange throne, you find a massive marble chest!\n\nSweat pours from your brows as you lift the heavy lid..."
+		"text": "После бесконечного количества ступеней вы, наконец, попадаете в великолепный тронный зал.\n\nЗа странным троном вы находите массивный мраморный сундук!\n\nПот льется с ваших бровей, пока вы поднимаете тяжелую крышку..."
 	},
 	{
 		"id": "LE_AlienCorpseAltar01_Choice03",
