@@ -1683,31 +1683,31 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Intro",
-		"text": "A few foundation walls are all that remains of the temple complex, half-buried in the sand and rocks. \n\nYou search the area, but apart from a small rock altar, you find nothing of importance."
+		"text": "От храмового комплекса осталось лишь несколько стен фундамента, наполовину погребенных в песке и камнях. \n\nВы обыскиваете местность, но кроме небольшого каменного алтаря, вы не находите ничего важного."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Leave01",
-		"text": "Examining the altar reveals no new information. It must be many years since a living creature set foot in this desolate place. [CTP]\n\nYou are seized by a strange restlessness and decide to leave this oppressive place as fast as you can."
+		"text": "Осмотр алтаря не выявил никакой новой информации. Должно быть, прошло много лет с тех пор, как живое существо ступало на это заброшенное место. [CTP]\n\nВас охватило странное беспокойство, и вы решили как можно скорее покинуть это гнетущее место."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_OccultW",
-		"text": "As if in a trance, [char0] kneels before the altar. His eyes are strangely glazed as he chants a strange melody. A strange tension fills the air and the hair stands up on the back of your neck. [CTP]\n\nMoving like a puppet on invisible strings, [char0] grabs a sharp-edged flint and slashes the palm of his hand. His blood drips onto the altar as if in slow motion, and suddenly the sand in the inner courtyard parts to reveal an old stone shaft that leads vertically down into the depths."
+		"text": "Будто в трансе, [char0] становится на колени перед алтарем. Его глаза странно остекленели, и он напевает странную мелодию. Странное напряжение наполняет воздух, и волосы встают дыбом. [CTP]\n\nДвигаясь как марионетка на невидимых ниточках, [char0] хватает острый кремень и режет себе ладонь. Его кровь капает на алтарь, как в замедленной съемке, и вдруг песок во внутреннем дворе расступается, открывая старую каменную шахту, ведущую вертикально вниз, в глубину."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_OccultW2",
-		"text": "[char0] opens his eyes, as if awakening from a deep slumber. You take a deep breath and think about what you want to do:"
+		"text": "[char0] открывает глаза, как бы пробуждаясь от глубокого сна. Вы делаете глубокий вдох и думаете о том, что вы собираетесь предпринять:"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_OccultW_female",
-		"text": "As if in a trance, [char0] kneels before the altar. Her eyes are strangely glazed as she chants a strange melody. A strange tension fills the air and the hair stands up on the back of your neck. [CTP]\n\nMoving like a puppet on invisible strings, [char0] grabs a sharp-edged flint and slashes the palm of her hand. Her blood drips onto the altar as if in slow motion, and suddenly the sand in the inner courtyard parts to reveal an old stone shaft that leads vertically down into the depths."
+		"text": "Будто в трансе, [char0] становится на колени перед алтарем. Ее глаза странно остекленели, и она напевает странную мелодию. Странное напряжение наполняет воздух, и волосы встают дыбом. [CTP]\n\nДвигаясь как марионетка на невидимых ниточках, [char0] хватает острый кремень и режет себе ладонь. Ее кровь капает на алтарь, как в замедленной съемке, и вдруг песок во внутреннем дворе расступается, открывая старую каменную шахту, ведущую вертикально вниз, в глубину."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_OccultW2_female",
-		"text": "[char0] opens her eyes, as if awakening from a deep slumber. You take a deep breath and think about what you want to do:"
+		"text": "[char0] открывает глаза, как бы пробуждаясь от глубокого сна. Вы делаете глубокий вдох и думаете о том, что вы собираетесь предпринять:"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice01",
-		"text": "Enter the temple"
+		"text": "Войти в храм"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice02",
@@ -1715,23 +1715,23 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Enter",
-		"text": "You secure the shaft with a crossbeam and then rappel down. What awaits you in the depths?"
+		"text": "Вы укрепляете шахту поперечной балкой, а затем спускаетесь по канату. Что ждет вас в глубине?"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Leave02",
-		"text": "You are gripped with an inexplicable panic and decide to leave this godless place as quickly as possible!"
+		"text": "Вас охватывает необъяснимая паника, и вы решаете как можно скорее покинуть это безбожное место!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Corridor",
-		"text": "You slowly make your way through an ancient passage that leads you ever deeper into the unknown. The condition of the passage worsens with every step. Finally, you come to a completely dilapidated passage that seems like it might collapse at any moment."
+		"text": "Вы медленно пробираетесь по древнему проходу, который ведет вас все глубже в неизвестность. Состояние прохода ухудшается с каждым шагом. Наконец, вы доходите до совершенно ветхого прохода, который, кажется, может обрушиться в любой момент."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Choice01",
-		"text": "Proceed"
+		"text": "Пройти дальше"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Choice02",
-		"text": "Secure passage"
+		"text": "Обезопасить проход"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Choice03",
@@ -1739,51 +1739,51 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedW",
-		"text": "Dust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+		"text": "С каждым вашим шагом пыль падает на землю, с потолка летят несколько мелких камней - но больше ничего не происходит! С облегчением вы осматриваетесь кругом."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedF",
-		"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nSeveral beams break away from the passageway, burying [char1]! You manage to dig him free, but his shoulder looks badly injured."
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребён под ними! Вам удается освободить его, но его плечо выглядит сильно поврежденным."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedF_female",
-		"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nSeveral beams break away from the passageway, burying [char1]! You manage to dig her free, but her shoulder looks badly injured."
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребённой под ними! Вам удается освободить ее, но ее плечо выглядит сильно поврежденным."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalW",
-		"text": "[char2] takes command. Under his direction, you search for beams and wooden boards. You use them to shore up the passageway before continuing down it gingerly.\n\nDust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+		"text": "[char2] принимает командование. Под его руководством вы ищете балки и деревянные доски. С их помощью вы укрепляете проход, а затем осторожно продолжаете путь.\n\nС каждым вашим шагом пыль падает на землю, с потолка летят несколько мелких камней - но больше ничего не происходит! С облегчением вы осматриваетесь кругом."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalW_female",
-		"text": "[char2] takes command. Under her direction, you search for beams and wooden boards. You use them to shore up the passageway before continuing down it gingerly.\n\nDust trickles down with every step you take, a few small stones fall from the ceiling – but nothing else happens! Relieved, you look around."
+		"text": "[char2] принимает командование. Под ее руководством вы ищете балки и деревянные доски. С их помощью вы укрепляете проход, а затем осторожно продолжаете путь.\n\nС каждым вашим шагом пыль падает на землю, с потолка летят несколько мелких камней - но больше ничего не происходит! С облегчением вы осматриваетесь кругом."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalF01",
-		"text": "[char2] takes command. Under his direction, you search for beams and wooden boards. \n\nYou use them to shore up the passageway before continuing down it gingerly."
+		"text": "[char2] принимает командование. Под его руководством вы ищете балки и деревянные доски. \n\nС их помощью вы укрепляете проход, а затем осторожно продолжаете путь."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalF01_female",
-		"text": "[char2] takes command. Under her direction, you search for beams and wooden boards. \n\nYou use them to shore up the passageway before continuing down it gingerly."
+		"text": "[char2] принимает командование. Под ее руководством вы ищете балки и деревянные доски. \n\nС их помощью вы укрепляете проход, а затем осторожно продолжаете путь."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalF02",
-		"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nA wooden beam breaks away from the passageway, smashing into [char3]’s shoulder!"
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nДеревянная балка вырываются из прохода, и [char3] получает удар по плечу!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalF02_female",
-		"text": "Dust trickles down with each step you take, when you suddenly hear an ominous creaking! \n\nA wooden beam breaks away from the passageway, smashing into [char3]’s shoulder!"
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nДеревянная балка вырываются из прохода, и [char3] получает удар по плечу!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_Leave",
-		"text": "After a short discussion, you decide to turn back."
+		"text": "После короткого обсуждения вы решаете повернуть назад."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Sarcophagus",
-		"text": "You enter a sprawling burial chamber. Massive columns, covered from top to bottom with hieroglyphs, line an aisle that leads up to a dusty sarcophagus. [CTP]\n\nYou carefully check the sarcophagus for traps, but you do not discover anything. \n\nWorking together, you push the granite slab aside to take a look inside the sarcophagus. \n\nYou catch your breath: this is the final resting place of a embalmed priestess - and she was buried with some very valuable-looking burial objects!"
+		"text": "Вы входите в обширную погребальную камеру. Массивные колонны, сверху донизу покрытые иероглифами, выстроились вдоль прохода, который ведет к пыльному саркофагу. [CTP]\n\nВы тщательно проверяете саркофаг на наличие ловушек, но ничего не обнаруживаете. \n\nВместе вы отодвигаете гранитную плиту, чтобы заглянуть внутрь саркофага. \n\nУ вас перехватывает дыхание: это последнее пристанище забальзамированной жрицы - и она была похоронена с очень ценными на вид погребальными предметами!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_GraveRobber",
-		"text": "Stooped over, you work your way step by step along the narrow passage until you finally reach the end: \n\nThe corridor has collapsed here. There is nothing you can do but turn back. You curse your bad luck! \n\nJust as you are about to turn back you see something in the rubble of the cave in:[CTP]\n\nThe mortal remains of a grave robber! \n\nYou look around carefully and spot a tripwire that disappears into holes in the walls on either side of the passage: A trap triggered by the hapless grave robber! \n\nThe man holds a small bundle in his mummified hands. What might it contain?"
+		"text": "Наклонившись, вы шаг за шагом пробираетесь по узкому проходу, пока, наконец, не добираетесь до конца: \n\nКоридор здесь обвалился. Вам ничего не остается, как повернуть назад. Вы проклинаете свое невезение! \n\nКак раз в тот момент, когда вы собираетесь повернуть назад, вы видите что-то в обломках пещеры:[CTP]\n\nОстанки расхитителя могил! \n\nВы внимательно осматриваетесь и замечаете проволоку, которая уходит в отверстия в стенах по обе стороны прохода: ловушка, сработавшая от неудачливого грабителя могил! \n\nМужчина держит в своих мумифицированных руках небольшой сверток. Что в нем может быть?"
 	},
 	{
 		"id": "LE_GraveRobberCache01_Intro",
@@ -3767,11 +3767,11 @@
 	},
 	{
 		"id": "LE_GhostTown01_Intro",
-		"text": "Even from a distance, you can tell that something is wrong in the village ahead of you: a ghostly silence lies over the place. The huts seem deserted and there is no trace of its inhabitants. [CTP]\n\nThe desert wind carries the bleating of a stray goat somewhere in the distance. You swap nervous glances: What happened here?"
+		"text": "Даже издалека видно, что в деревне впереди вас что-то не так: там царит призрачная тишина. Хижины кажутся заброшенными, а от их обитателей не осталось и следа. [CTP]\n\nВетер пустыни доносит блеяние бродячей козы где-то вдалеке. Вы обмениваетесь нервными взглядами: что здесь произошло?"
 	},
 	{
 		"id": "LE_GhostTown01_Choice01",
-		"text": "Explore the village"
+		"text": "Осмотреть деревню"
 	},
 	{
 		"id": "LE_GhostTown01_Choice02",
@@ -3783,35 +3783,35 @@
 	},
 	{
 		"id": "LE_GhostTown01_Observe",
-		"text": "Carefully, and keeping to a safe distance, you skirt around the outer buildings of the village. There is no doubt that this place was still inhabited just a few hours ago! [CTP]\n\nAs you cast your eyes over the huts, you suddenly realize that what you initially believed to be shapeless, randomly scattered piles of rags, are actually the mortal remains of the villagers!"
+		"text": "Осторожно, держась на безопасном расстоянии, вы обходите внешние здания деревни. Нет сомнений, что всего несколько часов назад это место было еще обитаемым! [CTP]\n\nОкидывая взглядом хижины, вы вдруг понимаете, что то, что вы сначала приняли за бесформенные, беспорядочно разбросанные кучи тряпья, на самом деле - останки жителей деревни!"
 	},
 	{
 		"id": "LE_GhostTown01_ObserveF",
-		"text": "Whatever fate befell the villagers, you are not keen to share it! \n\nYou head the other way. You just want to get away from this blighted place!"
+		"text": "Какая бы судьба ни постигла жителей деревни, вы не желаете ее разделить! \n\nВы идете в другую сторону. Вам просто хочется убраться подальше от этого ужасного места!"
 	},
 	{
 		"id": "LE_GhostTown01_ObserveW",
-		"text": "You decide to investigate the mysterious village. You bind cloths over your faces to provide at least some kind of makeshift protection. \n\nYou do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village, you see a Wehrmacht jeep surrounded by the bodies of several German soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a pitch black obelisk protrudes from the sand. [CTP]\n\nYou listen to your instincts and leave the wretched place behind you. You will not be able to solve this puzzle! Before you leave, you search the soldiers' vehicle for anything useful."
+		"text": "Вы решаете исследовать таинственную деревню. Вы повязываете на лица полотнища, чтобы обеспечить хоть какую-то временную защиту. \n\nВы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. [CTP]\n\nПослушавшись своих инстинктов, вы покидаете это ужасное место. Вы не сможете решить эту загадку! Прежде чем уйти, вы обыскиваете машину солдат в поисках чего-нибудь полезного."
 	},
 	{
 		"id": "LE_GhostTown01_EnterF",
-		"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily."
+		"text": "Вы решаете исследовать таинственную деревню. Вы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. В воздухе витает странный запах - вы начинаете непроизвольно кашлять."
 	},
 	{
 		"id": "LE_GhostTown01_EnterF02",
-		"text": "You search the soldiers' vehicle for anything useful.\n\nSuddenly, [char0] collapses. His breathing rattles as bloodied mucus runs from his mouth and nose! \n\nAlarmed, you help him to his feet and quickly leave this perilous place!"
+		"text": "Вы обыскиваете машину солдат в поисках чего-нибудь полезного.\n\nВнезапно [char0] падает на землю. Его дыхание сбивается, а изо рта и носа течет кровавая слизь! \n\nИспугавшись, вы помогаете ему встать на ноги и быстро покидаете это опасное место!"
 	},
 	{
 		"id": "LE_GhostTown01_EnterF_female",
-		"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily."
+		"text": "Вы решаете исследовать таинственную деревню. Вы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. В воздухе витает странный запах - вы начинаете непроизвольно кашлять."
 	},
 	{
 		"id": "LE_GhostTown01_EnterF02_female",
-		"text": "You search the soldiers' vehicle for anything useful.\n\nSuddenly, [char0] collapses. Her breathing rattles as bloodied mucus runs from her mouth and nose! \n\nAlarmed, you help her to her feet and quickly leave this perilous place!"
+		"text": "Вы обыскиваете машину солдат в поисках чего-нибудь полезного.\n\nВнезапно [char0] падает на землю. Ее дыхание сбивается, а изо рта и носа течет кровавая слизь! \n\nИспугавшись, вы помогаете ей встать на ноги и быстро покидаете это опасное место!"
 	},
 	{
 		"id": "LE_GhostTown01_EnterW",
-		"text": "You decide to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. There is a strange smell in the air - you start to cough involuntarily. [CTP]\n\nYou follow your gut feeling and leave the wretched place behind you. You will not be able to solve this puzzle! Before you leave, you search the soldiers' vehicle for anything useful. \n\nYou are grateful when the choking sensation finally subsides."
+		"text": "Вы решаете исследовать таинственную деревню. Вы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. В воздухе витает странный запах - вы начинаете непроизвольно кашлять. [CTP]\n\nВы следуете своей интуиции и оставляете это странное место. Вы не сможете решить эту загадку! Перед уходом вы обыскиваете машину солдат в поисках чего-нибудь полезного. \n\nВы испытываете облегчение, когда ощущение удушья наконец проходит."
 	},
 	{
 		"id": "LE_TempleGusher01_Intro",
@@ -4275,7 +4275,7 @@
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage01",
-		"text": "Лагерь среди руин перед вами кажется пустынным, пока полдюжины взбешенных культистов не выскочили за вашей спиной: вы попали в засаду!"
+		"text": "Лагерь среди руин перед вами казался заброшенным, как вдруг полдюжины взбешенных культистов выскакивают за вашей спиной: вы попали в засаду!"
 	},
 	{
 		"id": "BE_GenericUndeadRuinsDisadvantage02",
@@ -6663,7 +6663,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Intro",
-		"text": "Вход в шахту усиленно охраняется мрачного вида культистами и другими, более зловещими фигурами, скрывающимися в тени. \n\nВы решаете обойти главный вход и воспользоваться скрытым, узким шахтным ходом, который приводит вас вглубь шахты. [CTP]\n\nШахта заканчивается в большой пещере. Вы видите несколько культистов, стоящих вокруг горстки измученных кочевников."
+		"text": "Вход в шахту усиленно охраняется мрачного вида культистами и другими, более зловещими фигурами, скрывающимися в тени. \n\nВы решаете обойти главный вход и воспользоваться скрытым, узким проходом, который приводит вас вглубь шахты. [CTP]\n\nШахта заканчивается в большой пещере. Вы видите нескольких культистов, стоящих вокруг горстки измученных кочевников."
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Choice01",
@@ -8531,7 +8531,7 @@
 	},
 	{
 		"id": "FE_SandyCrate01_Intro",
-		"text": "Несколько ящиков в песке пробуждают ваш интерес, но ничего ценного здесь найти не удается."
+		"text": "Несколько ящиков в песке вызывают у вас интерес, но ничего ценного в них найти не удается."
 	},
 	{
 		"id": "FE_SandyCanister01_Intro",
@@ -8583,7 +8583,7 @@
 	},
 	{
 		"id": "FE_SpearedSkull01_Intro",
-		"text": "Линия из черепов на копьях заставляет вас остановиться. После нескольких минут вы удовлетворяете свое любопытство и продолжаете путешествие."
+		"text": "Выставленные в ряд черепа на копьях заставляют вас остановиться. После нескольких минут вы удовлетворяете свое любопытство и продолжаете путешествие."
 	},
 	{
 		"id": "FE_OldMap01_Intro",
@@ -9243,11 +9243,11 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice03",
-		"text": "Search area"
+		"text": "Осмотреть местность"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Choice04",
-		"text": "What was that?!"
+		"text": "Что это было?!"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice03",
@@ -10811,35 +10811,35 @@
 	},
 	{
 		"id": "LE_GhostTown01_Smell",
-		"text": "[char1]: \"What is that terrible smell? That CAN’T be healthy! Either we wait until it passes - or we at least cover our faces with something!\""
+		"text": "[char1]: \"Что это за ужасный запах? Он не может быть безопасным для здоровья! Либо мы будем ждать, пока это пройдет - или хотя бы прикроем чем-нибудь лицо!\""
 	},
 	{
 		"id": "LE_GhostTown01_Choice_CoverFaces",
-		"text": "Cover faces"
+		"text": "Прикрыть лица"
 	},
 	{
 		"id": "LE_GhostTown01_Choice_Wait",
-		"text": "Wait"
+		"text": "Ждать"
 	},
 	{
 		"id": "LE_GhostTown01_MedicF",
-		"text": "Curious, you decide to investigate the mysterious village. You bind cloths over your faces to provide at least some kind of makeshift protection. \n\nYou do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village, you see a Wehrmacht jeep surrounded by the bodies of several German soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a pitch black obelisk protrudes from the sand. [CTP]\n\nYou search the soldiers' vehicle for anything useful.\n\n[char0] collapses, groaning!\n\nAlarmed, you help him to his feet and quickly leave this perilous place!"
+		"text": "Сгорая от любопытства вы решаете исследовать таинственную деревню. Вы повязываете на лица тряпки, чтобы обеспечить себе хоть какую-то импровизированную защиту. \n\nВы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. [CTP]\n\nВы обыскиваете машину солдат в поисках чего-нибудь полезного.\n\n[char0] со стоном падает на землю!\n\nИспугавшись, вы помогаете ему встать на ноги и быстро покидаете это опасное место!"
 	},
 	{
 		"id": "LE_GhostTown01_MedicF_female",
-		"text": "Curious, you decide to investigate the mysterious village. You bind cloths over your faces to provide at least some kind of makeshift protection. \n\nYou do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village, you see a Wehrmacht jeep surrounded by the bodies of several German soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a pitch black obelisk protrudes from the sand. [CTP]\n\nYou search the soldiers' vehicle for anything useful.\n\n[char0] collapses, groaning!\n\nAlarmed, you help her to her feet and quickly leave this perilous place!"
+		"text": "Сгорая от любопытства вы решаете исследовать таинственную деревню. Вы повязываете на лица тряпки, чтобы обеспечить себе хоть какую-то импровизированную защиту. \n\nВы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. [CTP]\n\nВы обыскиваете машину солдат в поисках чего-нибудь полезного.\n\n[char0] со стоном падает на землю!\n\nИспугавшись, вы помогаете ей встать на ноги и быстро покидаете это опасное место!"
 	},
 	{
 		"id": "LE_GhostTown01_Wait",
-		"text": "It takes hours for the strange smell to clear."
+		"text": "Проходит несколько часов, прежде чем странный запах исчезает."
 	},
 	{
 		"id": "LE_GhostTown01_WaitLucky",
-		"text": "You start to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. [CTP]\n\nYou listen to your instincts and leave the wretched place behind you. You will not be able to solve this puzzle! Before you leave, you search the soldiers' vehicle for anything useful."
+		"text": "Вы начинаете исследовать таинственную деревню. Вы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. [CTP]\n\nВы следуете своей интуиции и оставляете это странное место. Вы не сможете решить эту загадку! Перед уходом вы обыскиваете машину солдат в поисках чего-нибудь полезного."
 	},
 	{
 		"id": "LE_GhostTown01_WaitFight",
-		"text": "You start to investigate the mysterious village. You do not find any survivors. The bodies lie in the sand, lifeless but with no sign of what might have killed them. [CTP]\n\nIn the center of the village you see a Wehrmacht jeep surrounded by the bodies of several soldiers. Next to the car, you see a pit that the Germans must have excavated. The tip of a black obelisk protrudes from the sand. [CTP]\n\nYou are about to take a closer look when the bodies around you suddenly return to life! The dead rise up to devour you!"
+		"text": "Вы начинаете исследовать таинственную деревню. Вы не находите выживших. Тела лежат на песке, безжизненные, но без признаков того, что могло их убить. [CTP]\n\nВ центре деревни вы обнаруживаете джип вермахта, окруженный телами нескольких немецких солдат. Рядом с машиной вы видите яму, которую, должно быть, раскопали немцы. Из песка торчит верхушка черного обелиска. [CTP]\n\nВы уже собираетесь взглянуть поближе, как вдруг трупы вокруг вас оживают! Мертвецы восстают, чтобы съесть вас!"
 	},
 	{
 		"id": "SE_Adventure01Clue02_Intro_B",
@@ -11299,31 +11299,31 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Lever_B",
-		"text": "[char4] points to a small, inconspicuous lever at the base of the altar.\n\nWithout further ado, he pulls on it and the sand in the courtyard flows away, revealing an old stone shaft leading directly into the depths beneath the ruined temple!"
+		"text": "[char4] указывает на маленький, незаметный рычаг у основания алтаря.\n\nБез лишних слов, он тянет за него, и песок во дворе уходит, открывая старую каменную шахту, ведущую прямо в глубины под разрушенным храмом!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Lever_B_female",
-		"text": "[char4] points to a small, inconspicuous lever at the base of the altar.\n\nWithout further ado, she pulls on it and the sand in the courtyard flows away, revealing an old stone shaft leading directly into the depths beneath the ruined temple!"
+		"text": "[char4] указывает на маленький, незаметный рычаг у основания алтаря.\n\nБез лишних слов, она тянет за него, и песок во дворе уходит, открывая старую каменную шахту, ведущую прямо в глубины под разрушенным храмом!"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Enter_B",
-		"text": "Not bad! You wonder whether to climb down..."
+		"text": "Неплохо! Вы думаете, стоит ли лезть вниз..."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_PriestessLoot_B",
-		"text": "On the dessicated wrist of the priestess, you see a copper bracelet inlaid with a breathtaking glowing emerald...\n\nWho wants to wear the strange jewelry?"
+		"text": "На иссушенном запястье жрицы вы видите медный браслет, инкрустированный захватывающим дух сияющим изумрудом...\n\nКто хочет надеть странное украшение?"
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Buff_B",
-		"text": "When [char5] puts on the bracelet, his face lights up: \n\n[char5]: \"Incredible ...\""
+		"text": "Когда [char5] надевает браслет, его лицо озаряется: \n\n[char5]: \"Невероятно ...\""
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_Buff_B_female",
-		"text": "When [char5] puts on the bracelet, her face lights up: \n\n[char5]: \"Incredible ...\""
+		"text": "Когда [char5] надевает браслет, ее лицо озаряется: \n\n[char5]: \"Невероятно ...\""
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_SecondChance_B",
-		"text": "You return to the last intersection and follow another passage – but it comes to a dead end!\n\nBut what’s that? You see a strange bundle on the stone floor..."
+		"text": "Вы возвращаетесь к последнему перекрестку и следуете по другому проходу - но он заканчивается тупиком!\n\nНо что это? Вы замечаете странный сверток на каменном полу..."
 	},
 	{
 		"id": "BE_CowardOfficer01_ChoiceTech_B",
@@ -11435,7 +11435,7 @@
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Panic_B",
-		"text": "Мгновением спустя вы слышите приближающиеся голоса: культисты возвращаются!\n\nТуда - в небольшой проход! Вы прячетесь в маленькой камере в конце прохода!"
+		"text": "Мгновением спустя вы слышите приближающиеся голоса: культисты возвращаются!\n\nТуда - в небольшой проход! Вы прячетесь в маленькой нише в конце прохода!"
 	},
 	{
 		"id": "BE_EnslavedBeduinsMine01_Hide_B",

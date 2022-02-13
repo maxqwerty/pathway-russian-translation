@@ -3507,7 +3507,7 @@
 	},
 	{
 		"id": "CombatStats_Hospitalized",
-		"text": "Госпитализировано"
+		"text": "Госпитализированы"
 	},
 	{
 		"id": "CombatStats_DamageDealtLabel",
