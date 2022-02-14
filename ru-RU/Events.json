@@ -7127,7 +7127,7 @@
 	},
 	{
 		"id": "SE_Adventure02Intro_Intro_HC",
-		"text": "Долгие странствия позволили вашим ранам затянуться, но вы успели забыть некоторые знания. \n\nВы запускаете двигатель: вы не намерены проигрывать гонку за Божьим Гневом!"
+		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи. \n\nВы запускаете двигатель: вы не намерены проигрывать гонку за Божьим Гневом!"
 	},
 	{
 		"id": "SE_Adventure03Intro_Title",
@@ -7535,11 +7535,11 @@
 	},
 	{
 		"id": "SE_Adventure05Intro_Intro",
-		"text": "The cries of the gulls ring in your ears like a final farewell, as you continue your trek into the Arabian interior. \n\nThe search for Kharga Serabit has begun!"
+		"text": "Крики чаек звучат в ваших ушах как последнее прощание, а вы продолжаете свой поход в глубь Аравии. \n\nПоиски Харга Серабит начинаются!"
 	},
 	{
 		"id": "SE_Adventure05Intro_Intro_HC",
-		"text": "The long travels have allowed your wounds to heal and you have forgotten some knowledge.\n\nThe cries of the gulls ring in your ears like a final farewell, as you continue your trek into the Arabian interior. \n[CTP]\nThe search for Kharga Serabit has begun!"
+		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи.\n\nКрики чаек звучат в ваших ушах как последнее прощание, а вы продолжаете свой поход в глубь Аравии. \n\nПоиски Харга Серабит начинаются!"
 	},
 	{
 		"id": "SE_Adventure05Clue01b_Title",
@@ -7551,27 +7551,27 @@
 	},
 	{
 		"id": "SE_Adventure05Clue01_Intro01",
-		"text": "Beneath the glaring desert sun, you spy a handful of palm trees swaying in the wind – you have found an oasis! \n\nFull of anticipation, you approach the grove."
+		"text": "Вы замечаете несколько пальм, колышущихся на ветру под палящим солнцем пустыни - вы нашли оазис! \n\nВ предвкушении вы подходите к роще."
 	},
 	{
 		"id": "SE_Adventure05Clue01_Intro02",
-		"text": "Desperate to quench your thirst after your arduous journey, you head directly to the well, only to discover that it holds not water but sand! Someone has filled in the well!\n\n[char0]: \"Sorry, the well is closed right now.\""
+		"text": "Отчаянно желая утолить жажду после тяжелого путешествия, вы направляетесь прямо к колодцу, но обнаруживаете, что в нем не вода, а песок! Кто-то засыпал колодец!\n\n[char0]: \"Извините, колодец сейчас закрыт.\""
 	},
 	{
 		"id": "SE_Adventure05Clue01_Intro03",
-		"text": "You spin around to see a squad of German soldiers! Their leader sneers at you: \n\n[char0]: \"It appears we share a common interest: Kharga Serabit and its thousand towers of blue and red porphyry buried beneath the desert sands.\""
+		"text": "Вы оборачиваетесь и видите отряд немецких солдат! Их командир с усмешкой смотрит на вас: \n\n[char0]: \"Похоже, у нас есть общие интересы: Харга Серабит и его тысячи башен из синего и красного порфира, погребенные под песками пустыни.\""
 	},
 	{
 		"id": "SE_Adventure05Clue01_Intro04",
-		"text": "[char0]: \"Don’t try to deny it. Your activities in Jeddah were hardly discrete.\"\n\n[char0]: \"Captain Rueckert left us here with orders to spare you any further trouble: Your journey ends here!\"\n\nWithout warning, the Germans open fire!"
+		"text": "[char0]: \"Не пытайтесь отрицать это. Ваша деятельность в Джидде едва ли могла остаться незамеченной.\"\n\n[char0]: \"Капитан Рюкерт оставил нас здесь с приказом уберечь вас от дальнейших неприятностей: ваше путешествие закончится здесь!\"\n\nНемцы без предупреждения открывают огонь!"
 	},
 	{
 		"id": "SE_Adventure05Clue01_Aftermath",
-		"text": "Your enemies lie defeated in the desert sand. As you search them, you notice that one of the soldiers is still fighting for his life. It is their young leader: \n\n[char0]: \"You will never reach Kharga Serabit! The Water of Life will belong to the German people alone!\"\n\nThe young soldier takes one last, shallow breath, then dies."
+		"text": "Ваши враги лежат поверженными в песках пустыни. Обыскивая их, вы замечаете, что один из солдат все еще борется за свою жизнь. Это их молодой лидер: \n\n[char0]: \"Вам никогда не достичь Харга Серабит! Вода жизни будет принадлежать только немецкому народу!\"\n\nМолодой солдат делает последний, неглубокий вдох и умирает."
 	},
 	{
 		"id": "SE_Adventure05Clue01_End",
-		"text": "You stare at each other in confusion: The Germans again! And what did he mean by the Water of Life? \n\nAccording to legend, Kharga Serabit was surrounded by magnificent irrigated gardens – could there be some kind of connection that has previously eluded you?"
+		"text": "Вы в замешательстве смотрите друг на друга: Опять немцы! А что он имел в виду, говоря о воде жизни? \n\nСогласно легенде, Харга Серабит был окружен великолепными орошаемыми садами - может быть, здесь есть какая-то связь, которая раньше ускользала от вас?"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_Title",
@@ -7579,15 +7579,15 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_Intro",
-		"text": "Behind you rise the majestic peaks of the Sarawat Mountains that shield the populated coastal regions of the Hejaz from the empty Arabian desert. [CTP]\n\nYou come across a group of pilgrims on their way to Mecca, resting in the shade of a palm grove at a waterhole."
+		"text": "Позади вас возвышаются величественные вершины Сараватских Гор, которые отгораживают густонаселенные прибрежные районы Хеджаза от бескрайней Аравийской пустыни. [CTP]\n\nВы встречаете группу паломников, направляющихся в Мекку, отдыхающих в тени пальмовой рощи у водоема."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_LanguagesF",
-		"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun his overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+		"text": "[char0] подходит к паломникам, надеясь завязать разговор, но они отказываются от его попыток поговорить.\n\nКогда [char0] возвращается к вам, мужчины начинают шептаться между собой и бросать неодобрительные взгляды в вашу сторону. [CTP]\n\n[char0]: \"Нам не стоит здесь задерживаться.\"\n\nВы стараетесь избегать неприятностей и поспешно собираете свое снаряжение, а затем кивком прощаетесь с мужчинами."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01b_LanguagesF_female",
-		"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun her overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+		"text": "[char0] подходит к паломникам, надеясь завязать разговор, но они отказываются от ее попыток поговорить.\n\nКогда [char0] возвращается к вам, мужчины начинают шептаться между собой и бросать неодобрительные взгляды в вашу сторону. [CTP]\n\n[char0]: \"Нам не стоит здесь задерживаться.\"\n\nВы стараетесь избегать неприятностей и поспешно собираете свое снаряжение, а затем кивком прощаетесь с мужчинами."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Title",
@@ -7595,7 +7595,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Intro",
-		"text": "In the distance, you see the silhouette of the sacred city of Mecca. Infidels are forbidden from entering the city on pain of death and you maintain a respectful distance. [CTP]\n\nYou come across a group of pilgrims resting in the shade of a palm grove at a waterhole."
+		"text": "Вдали вы видите силуэт священного города Мекки. Неверным запрещено входить в город под страхом смерти, поэтому вы держитесь на почтительном расстоянии. [CTP]\n\nВы встречаете группу паломников, отдыхающих в тени пальмовой рощи у водоема."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice01",
@@ -7603,7 +7603,7 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice02",
-		"text": "Speak with the pilgrims"
+		"text": "Поговорить с паломниками"
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Choice03",
@@ -7611,35 +7611,35 @@
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Leave",
-		"text": "You unpack your blankets but the men begin to whisper among themselves and cast disapproving looks in your direction. \n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+		"text": "Вы расстилаете одеяла, но мужчины начинают шептаться между собой и бросать неодобрительные взгляды в вашу сторону. \n\nВы стараетесь избегать неприятностей и поспешно собираете свое снаряжение, а затем кивком прощаетесь с мужчинами."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesW",
-		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины манят вас присоединиться к ним."
+		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины предлагают вам присоединиться к ним."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesW_female",
-		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины манят вас присоединиться к ним."
+		"text": "[char0] подходит к паломникам и быстро заводит с ними разговор. Приветливо улыбаясь, мужчины предлагают вам присоединиться к ним."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesF",
-		"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun his overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+		"text": "[char0] подходит к паломникам, надеясь завязать разговор, но они отказываются от его попыток поговорить.\n\nКогда [char0] возвращается к вам, мужчины начинают шептаться между собой и бросать неодобрительные взгляды в вашу сторону. [CTP]\n\n[char0]: \"Нам не стоит здесь задерживаться.\"\n\nВы стараетесь избегать неприятностей и поспешно собираете свое снаряжение, а затем кивком прощаетесь с мужчинами."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_LanguagesF_female",
-		"text": "[char0] approaches the pilgrims, hoping to strike up a conversation, but they shun her overtures.\n\nAs [char0] returns to you, the men begin to whisper among themselves and cast disapproving looks in your direction. [CTP]\n\n[char0]: \"We shouldn’t stay here for long.\"\n\nYou are keen to avoid any trouble and hastily pack your equipment before bidding the men farewell with a nod."
+		"text": "[char0] подходит к паломникам, надеясь завязать разговор, но они отказываются от ее попыток поговорить.\n\nКогда [char0] возвращается к вам, мужчины начинают шептаться между собой и бросать неодобрительные взгляды в вашу сторону. [CTP]\n\n[char0]: \"Нам не стоит здесь задерживаться.\"\n\nВы стараетесь избегать неприятностей и поспешно собираете свое снаряжение, а затем кивком прощаетесь с мужчинами."
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Eat",
-		"text": "They offer you some dried dates and freshly brewed Turkish coffee. In turn, you share several tins of canned food from your store of provisions. \n\nAs you eat, [char0] explains:\n\n[char0]: \"People come from all over the world to take part in the pilgrimage to Mecca. Malayans, Bengalis, and many others are all gathered here. That group seated over there hails from Abyssinia.\""
+		"text": "Они предлагают вам сушеные финики и свежесваренный турецкий кофе. В свою очередь, вы делитесь несколькими банками консервов из своего запаса провизии. \n\nПока вы едите, [char0] объясняет:\n\n[char0]: \"Люди приезжают со всего мира, чтобы принять участие в паломничестве в Мекку. Здесь собрались малайцы, бенгальцы и многие другие. Вон та группа, сидящая на сиденье, родом из Абиссинии.\""
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Eat_female",
-		"text": "They offer you some dried dates and freshly brewed Turkish coffee. In turn, you share several tins of canned food from your provisions. \n\nAs you eat, [char0] explains:\n\n[char0]: \"People come from all over the world to take part in the pilgrimage to Mecca. Malayans, Bengalis, and many others are all gathered here. That group seated over there hails from Abyssinia.\""
+		"text": "Они предлагают вам сушеные финики и свежесваренный турецкий кофе. В свою очередь, вы делитесь несколькими банками консервов из своего запаса провизии. \n\nПока вы едите, [char0] объясняет:\n\n[char0]: \"Люди приезжают со всего мира, чтобы принять участие в паломничестве в Мекку. Здесь собрались малайцы, бенгальцы и многие другие. Вон та группа, сидящая на сиденье, родом из Абиссинии.\""
 	},
 	{
 		"id": "SE_Adventure05MapArrival01_Rest",
-		"text": "[char0]: \"Fortunately for us, all travelers enjoy the right to hospitality during the pilgrimage season.\"\n\nAfter your meal, you clean your weapons before bidding your hosts farewell and continuing your journey."
+		"text": "[char0]: \"К счастью для нас, все путешественники пользуются правом на гостеприимство в сезон паломничества.\"\n\nЗакончив трапезу, вы чистите оружие, а затем прощаетесь с хозяевами и продолжаете свой путь."
 	},
 	{
 		"id": "SE_Adventure05Clue02_Title",
@@ -7647,11 +7647,11 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_Intro",
-		"text": "The isolated massif looms over the endless wasteland of the surrounding desert like a fist poised to strike. [CTP]\n\nYou consult your maps, but it appears that this part of the Arabian Desert is as yet almost entirely unexplored and they prove to be of little use.\n\nThe mountains loom ever larger before you as your vehicle grinds its way slowly across the sandy wasteland. [CTP]\n\nAs you approach, you spy a military transport truck parked close by the cliff. The Germans are here too! \n\nWill you pay them a visit or try to avoid them?"
+		"text": "Обособленный массив возвышается над бесконечной пустошью окружающей его пустыни, словно кулак, готовый нанести удар. [CTP]\n\nВы обращаетесь к своим картам, но оказывается, что эта часть Аравийской пустыни пока еще не исследована, и от них мало толку.\n\nГоры становятся все больше и больше, пока ваш автомобиль медленно движется по песчаной пустоши. [CTP]\n\nПриблизившись, вы замечаете военный транспортный грузовик, припаркованный недалеко от обрыва. Немцы тоже здесь! \n\nНанести им визит или постараться их избежать?"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice01",
-		"text": "Journey to the rocks"
+		"text": "Идти к скалам"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice02",
@@ -7659,23 +7659,23 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_Enter",
-		"text": "After concealing your jeep in a small depression, you approach the rocks on foot. The truck stands abandoned at the entrance to an ancient mine. You decide to follow the trail of bootprints leading into its depths. [CTP]\n\nThe vivid colors of the rocks around you range from purple to violet. [char0] crouches down to examine the stone: \n\n[char0]: \"Porphyry... this must be an ancient quarry.\""
+		"text": "Спрятав свой джип в небольшой впадине, вы пешком подходите к скалам. Грузовик стоит брошенным у входа в древнюю шахту. Вы решаете пойти по следам ботинок, ведущим в ее глубины. [CTP]\n\nЯркие цвета окружающих вас скал варьируются от пурпурного до фиолетового. [char0] приседает, чтобы осмотреть камень: \n\n[char0]: \"Порфир... должно быть, это - древняя каменоломня.\""
 	},
 	{
 		"id": "SE_Adventure05Clue02_Enter_female",
-		"text": "After concealing your jeep in a small depression, you approach the rocks on foot. The truck stands abandoned at the entrance to an ancient mine. You decide to follow the trail of bootprints leading into its depths. [CTP]\n\nThe vivid colors of the rocks around you range from purple to violet. [char0] crouches down to examine the stone: \n\n[char0]: \"Porphyry... this must be an ancient quarry.\""
+		"text": "Спрятав свой джип в небольшой впадине, вы пешком подходите к скалам. Грузовик стоит брошенным у входа в древнюю шахту. Вы решаете пойти по следам ботинок, ведущим в ее глубины. [CTP]\n\nЯркие цвета окружающих вас скал варьируются от пурпурного до фиолетового. [char0] приседает, чтобы осмотреть камень: \n\n[char0]: \"Порфир... должно быть, это - древняя каменоломня.\""
 	},
 	{
 		"id": "SE_Adventure05Clue02_Porphyr",
-		"text": "You exchange glances – according to legend, the towers and palaces of Kharga Serabit were built from massive blocks of blue and red porphyry. \n\nArchaeologists have long debated their origins and it seems that you have finally solved the mystery! The discovery buoys your spirits: you must be on the right track! Kharga Serabit can’t be far away now!"
+		"text": "Вы обмениваетесь взглядами - согласно легенде, башни и дворцы Харга Серабит были построены из массивных блоков синего и красного порфира. \n\nАрхеологи долго спорили об их происхождении, и, похоже, вы наконец-то разгадали эту тайну! Это открытие поднимает ваш дух: вы на верном пути! Харга Серабит уже не за горами!"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Soldiers",
-		"text": "Suddenly, you hear the dread sound of jackboots approaching from the depths below – the Germans are returning! You rush to hide behind some blocks of porphyry. Moments later, a squad of soldiers files past your position."
+		"text": "Вдруг вы слышите грозный звук шагов, приближающихся из недр земли - немцы возвращаются! Вы спешите спрятаться за несколькими глыбами порфира. Мгновением позже мимо вас проходит отряд солдат."
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice03",
-		"text": "Hide"
+		"text": "Спрятаться"
 	},
 	{
 		"id": "SE_Adventure05Clue02_Choice04",
@@ -7683,31 +7683,31 @@
 	},
 	{
 		"id": "SE_Adventure05Clue02_AvoidFight",
-		"text": "The soldiers march past, seemingly unaware of your presence. You pause briefly before descending further into the mine. Unfortunately, you find nothing of value. Whatever the Germans were doing here will remain a mystery forever..."
+		"text": "Солдаты проходят мимо, казалось, не замечая вашего присутствия. Вы делаете короткую паузу, прежде чем спуститься дальше в шахту. К сожалению, вы не находите ничего ценного. Чем занимались здесь немцы, навсегда останется загадкой..."
 	},
 	{
 		"id": "SE_Adventure05Clue02_Aftermath",
-		"text": "You search the bodies of your slain opponents. A young lieutenant has a small document pouch on his belt: \n\nA well-thumbed book inside bears the title \"Lost Myths of the Arabian Peninsula\". \n\nOne passage has been highlighted: [CTP]\n\n\"... and thus spoke the Divine King of Kharga Serabit: Verily, this tower built by our father is a shameful sin. I stand with my brothers: we must rise up against him! Truly, the splendor of Kharga Serabit shall shine for all eternity.\"\n\n\"But the Builder was full of wrath at this and visited his plagues upon Kharga Serabit.\""
+		"text": "Вы обыскиваете тела убитых противников. У молодого лейтенанта на поясе висит небольшая сумка для документов: \n\nНа сильно потрепанной книге красуется название \"Утраченные мифы Аравийского полуострова\". \n\nОдин отрывок был выделен: [CTP]\n\n\"... И так говорил божественный царь Харги Серабит: Воистину, эта башня, построенная нашим отцом, - постыдный грех. Я со своими братьями: мы должны восстать против него! Воистину, великолепие Харга Серабит будет сиять во веки веков.\"\n\n\"Но Строитель был полон гнева за это и наслал чуму на Харга Серабит.\""
 	},
 	{
 		"id": "SE_Adventure05MapArrival02_Title",
-		"text": "The endless desert"
+		"text": "Бескрайняя пустыня"
 	},
 	{
 		"id": "SE_Adventure05MapArrival02_Intro",
-		"text": "You fear that you will lose your minds in the searing heat of the desert. Fine sand drifts on the air and fills your lungs and eyes – everywhere you look, there is nothing but sand around you... \n\nIt is little wonder that explorers christened this region The Empty Quarter; it seems inconceivable that anything might survive, let alone flourish, in this hostile wasteland."
+		"text": "Вы боитесь, что сойдете с ума под палящим зноем пустыни. Мелкий песок витает в воздухе и заполняет ваши легкие и глаза - куда бы вы ни посмотрели, вокруг вас нет ничего, кроме песка... \n\nНеудивительно, что исследователи окрестили этот регион Пустым Кварталом; кажется немыслимым, что в этой враждебной пустоши может что-то выжить, не говоря уже о процветании."
 	},
 	{
 		"id": "SE_Adventure05MapArrival02_CarWreck",
-		"text": "Suddenly, out of the corner of one eye, you spy a flock of birds circling in the skies above. Perhaps an oasis lies ahead?\n\nWhen you reach the site beneath the circling birds, you make a grisly discovery: The mangled remains of a German army jeep."
+		"text": "Внезапно краем глаза вы замечаете стаю птиц, кружащую в небе над головой. Возможно, впереди вас ждет оазис?\n\nКогда вы достигаете места под кружащими птицами, то видите ужасную картину: искореженные останки немецкого армейского джипа."
 	},
 	{
 		"id": "SE_Adventure05MapArrival02_DeadSoldiers",
-		"text": "You examine the vehicle and soon discover that its front axle is broken. Even the simplest of mechanical faults can have fatal consequences in the desert.\n\nYou are not surprised to discover the bloated, discolored remains of the vehicle’s two drivers in a nearby tent."
+		"text": "Вы осматриваете автомобиль и вскоре обнаруживаете, что у него сломана передняя ось. Даже самая простая механическая неисправность может привести к фатальным последствиям в пустыне.\n\nВы не удивляетесь, обнаружив в соседней палатке разложившиеся, обескровленные останки двух водителей автомобиля."
 	},
 	{
 		"id": "SE_Adventure05MapArrival02_Leave",
-		"text": "The men must have died of dehydration in the last couple of days!\n\nYou leave the hapless Germans to their fate and search their vehicle for anything useful."
+		"text": "Мужчины, должно быть, умерли от обезвоживания пару дней назад!\n\nВы оставляете несчастных немцев на произвол судьбы и обыскиваете их машину в поисках чего-нибудь полезного."
 	},
 	{
 		"id": "SE_Adventure05Clue03_Title",
@@ -7715,7 +7715,7 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Intro",
-		"text": "You sigh with relief when you spot a small oasis settlement nestled among a grove of palm trees. Exhausted from your journey through the relentless heat, you long to bathe in the cool oasis waters.\n\nBut an eerie sensation causes you to pause – something doesn’t feel right! A deathly silence hangs over the settlement, where not a soul is to be seen. [CTP]\n\nSensing danger, you skirt around the settlement and approach it cautiously from the rear.\n\nYour intuition has served you well: You see a large group of German soldiers lurking behind the huts and an army transport truck concealed among the palm trees nearby! [CTP]\n\nHidden behind a mud hut on the outskirts of the oasis, you quietly debate your next move."
+		"text": "Вы вздыхаете с облегчением, когда замечаете небольшой поселок-оазис, расположенный среди рощи пальм. Измученные путешествием по нестерпимой жаре, вы жаждете искупаться в прохладных водах оазиса.\n\nНо жуткое ощущение заставляет вас остановиться - что-то не так! Смертельная тишина повисла над поселением, в котором не видно ни души. [CTP]\n\nЧувствуя опасность, вы обходите поселение кругом и осторожно подходите к нему с тыла.\n\nВаша интуиция сослужила вам хорошую службу: вы замечаете большую группу немецких солдат, притаившихся за хижинами, и армейский транспортный грузовик, спрятанный среди пальм неподалеку! [CTP]\n\nСпрятавшись за глиняной хижиной на окраине оазиса, вы спокойно обсуждаете свой следующий шаг."
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice01",
@@ -7723,19 +7723,19 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice02",
-		"text": "Attack the soldiers from behind"
+		"text": "Атаковать солдат с тыла"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice03",
-		"text": "Smash a hole in the wall of the hut"
+		"text": "Пробить дыру в стене хижины"
 	},
 	{
 		"id": "SE_Adventure05Clue03_RawStrengthW",
-		"text": "Before you can protest, [char0] hurls himself against the mud wall, smashing a hole as if it were made of straw!\n\nYou hold your breath as the debris rains down on the hard earthen floor. But you’re lucky: The rustling of the palm trees must have drowned out the sound and the German soldiers remain oblivious to your presence!"
+		"text": "Прежде чем вы успеваете возразить, [char0] бьет глиняную стену, пробивая в ней дыру, как будто она сделана из соломы!\n\nВы задерживаете дыхание, пока обломки дождем сыплются на твердый земляной пол. Но вам повезло: шелест пальм, должно быть, заглушил звук, и немецкие солдаты не замечают вашего присутствия!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_RawStrengthW_female",
-		"text": "Before you can protest, [char0] hurls herself against the mud wall, smashing a hole as if it were made of straw!\n\nYou hold your breath as the debris rains down on the hard earthen floor. But you’re lucky: The rustling of the palm trees must have drowned out the sound and the German soldiers remain oblivious to your presence!"
+		"text": "Прежде чем вы успеваете возразить, [char0] бьет глиняную стену, пробивая в ней дыру, как будто она сделана из соломы!\n\nВы задерживаете дыхание, пока обломки дождем сыплются на твердый земляной пол. Но вам повезло: шелест пальм, должно быть, заглушил звук, и немецкие солдаты не замечают вашего присутствия!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_RawStrengthF",
@@ -7747,11 +7747,11 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_InsideHut",
-		"text": "You clamber through the hole into the hut and scan the room: it is packed with wooden crates branded with Nazi insignia – you’ve stumbled upon a German supply depot!"
+		"text": "Вы пролезаете через дыру в хижину и осматриваете помещение: оно забито деревянными ящиками с нацистской символикой - вы наткнулись на склад снабжения немцев!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_CaptureSoldier",
-		"text": "As you examine the crates, you suddenly hear footsteps approaching the room. You scurry for cover. [CTP]\n\nA soldier enters the room alone – within seconds you overwhelm and pin him to the ground!\n\nYou question the man and learn that the soldiers were left behind to ambush you. \n\n[char2]: \"That’s all I know... You’ll find our orders in the truck if you want to know more.\" [CTP]\n\nYou bind and gag the soldier before weighing your options."
+		"text": "Когда вы осматриваете ящики, вы вдруг слышите шаги, приближающиеся к комнате. Вы бросаетесь в укрытие. [CTP]\n\nСолдат входит в комнату один - за считанные секунды вы бросаетесь на него и прижимаете к земле!\n\nВы расспрашиваете мужчину и узнаете, что солдаты остались позади, чтобы устроить засаду. \n\n[char2]: \"Это все, что я знаю... Вы можете найти наши приказы в грузовике, если захотите узнать больше.\" [CTP]\n\nВы связываете солдата и затыкаете ему рот, прежде чем оценить свои возможности."
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice04",
@@ -7763,71 +7763,71 @@
 	},
 	{
 		"id": "SE_Adventure05Clue03_Choice06",
-		"text": "Sneak to the truck"
+		"text": "Прокрасться к грузовику"
 	},
 	{
 		"id": "SE_Adventure05Clue03_StealthW",
-		"text": "Moving stealthily, [char1] darts from bush to bush until he eventually reaches the truck. A short while later, he returns with a stack of documents tucked under his arm!"
+		"text": "Двигаясь незаметно, [char1] перебегает от куста к кусту, пока в конце концов не добирается до грузовика. Через некоторое время он возвращается с пачкой документов под мышкой!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_StealthW_female",
-		"text": "Moving stealthily, [char1] darts from bush to bush until she eventually reaches the truck. A short while later, she returns with a stack of documents tucked under her arm!"
+		"text": "Двигаясь незаметно, [char1] перебегает от куста к кусту, пока в конце концов не добирается до грузовика. Через некоторое время она возвращается с пачкой документов под мышкой!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_StealthF",
-		"text": "Moving stealthily, [char1] darts from bush to bush – but as he approaches the truck, he runs straight into a squad of German soldiers, who quickly raise the alarm!"
+		"text": "Двигаясь незаметно, [char1] перебегает от куста к кусту – но как только он приближается к грузовику, то сталкивается с отрядом немецких солдат, которые тут же поднимают тревогу!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_StealthF_female",
-		"text": "Moving stealthily, [char1] darts from bush to bush – but as she approaches the truck, she runs straight into a squad of German soldiers who quickly raise the alarm!"
+		"text": "Двигаясь незаметно, [char1] перебегает от куста к кусту – но как только она приближается к грузовику, то сталкивается с отрядом немецких солдат, которые тут же поднимают тревогу!"
 	},
 	{
 		"id": "SE_Adventure05Clue03_Aftermath",
-		"text": "As the dust begins to settle, you swiftly search the huts. \n\nThere is no trace of their occupants, but you find several documents in the German military trucks, which you take a moment to examine."
+		"text": "Когда пыль оседает, вы начинаете быстро обыскивать хижины. \n\nНет никаких следов их обитателей, но вы находите несколько документов в немецких военных грузовиках, и не спеша их изучаете."
 	},
 	{
 		"id": "SE_Adventure05Clue03_TopSecret",
-		"text": "In addition to standing orders for desert operations, you come across a sealed envelope with a special Nazi command group stamp \"Top Secret Special Orders\". You rip it open at once: [CTP] \n\n\"Project Valhalla has already surpassed our wildest expectations: It is evident that the objects retrieved during our expedition to Iceland share the same origin as those discovered in the course of operations in Ceylon.” [CTP]\n\n\"These are clearly the remnants of a highly advanced prehistoric civilization with settlements across Northern Europe and much of the Asian continent! \n\nThere is absolutely no doubt that this civilization was established by the Aryan master race.\""
+		"text": "Помимо обычных приказов о проведении операций в пустыне, вы находите запечатанный конверт со специальным штампом нацистской командной группы \"Совершенно Секретные Специальные Приказы\". Вы сразу же раскрываете его: [CTP] \n\n\"Проект \"Вальхалла\" уже превзошел наши самые смелые ожидания: очевидно, что предметы, найденные во время нашей экспедиции в Исландию, имеют то же происхождение, что и предметы, обнаруженные в ходе работ на Цейлоне.\" [CTP]\n\n\"Это явно остатки высокоразвитой доисторической цивилизации, поселения которой располагались в Северной Европе и на большей части азиатского континента! \n\nНет абсолютно никаких сомнений в том, что эта цивилизация была создана Арийской расой.\""
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Title",
-		"text": "Kharga Serabit"
+		"text": "Харга Серабит"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Intro",
-		"text": "You look about in disappointment – are these collapsed foundations really all that remains of Kharga Serabit? \n\nWhere are the fountains, the pleasure gardens and the sumptuous palaces that the Bedouin people speak of on long nights when the moon hangs low in the heavens above the vast desert? [CTP]\n\nIs Kharga Serabit nothing more than a near-forgotten dream?\n\nYou are about to turn your backs on the city’s somber ruins when a strange rock formation attracts your attention... [CTP]\n\nAs you approach it, you spy three German military trucks parked close to a half-buried tunnel entrance. \n\nIt seems that Captain Rueckert and his men made it to Kharga Serabit!"
+		"text": "Вы оглядываетесь вокруг в разочаровании - неужели эти рухнувшие фундаменты действительно все, что осталось от Харга Серабит? \n\nГде же фонтаны, сады удовольствий и роскошные дворцы, о которых бедуины рассказывают долгими ночами, когда луна низко висит в небесах над бескрайней пустыней? [CTP]\n\nНеужели Харга Серабит - всего лишь забытая мечта?\n\nВы уже собираетесь повернуться спиной к мрачным руинам города, как вдруг ваше внимание привлекает странное скальное образование... [CTP]\n\nКогда вы приближаетесь к нему, вы обнаруживаете три немецких военных грузовика, припаркованных рядом с полузасыпанным входом в туннель. \n\nПохоже, что капитан Рукерт и его люди добрались до Харга Серабит!"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Cisterns",
-		"text": "With your weapons at the ready, you sneak past the abandoned truck and enter an ancient network of subterranean water tunnels.\n\nThe cisterns of Kharga Serabit form a sprawling tunnel system. You explore the passages until the sound of gruff voices alerts you to the nearby presence of German soldiers."
+		"text": "Держа оружие наготове, вы пробираетесь мимо брошенного грузовика и попадаете в древнюю сеть подземных водных туннелей.\n\nЦистерны Харга Серабит образуют разветвленную систему туннелей. Вы исследуете проходы, пока не начинаете слышать хриплые голоса, предупреждающие вас о том, что поблизости находятся немецкие солдаты."
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Pool",
-		"text": "Concealed behind a low wall, you quickly take stock of the situation: A strange basin filled to the brim with a shimmering black liquid dominates the center of the gigantic chamber. [CTP]\n\nSeveral lead pipes lead from the basin to a throne-like object located at its head. \n\nFrom your position, you can see what appears to be a strangely misshapen statue seated on this basalt throne, but you are unable to make out any details from this distance. [CTP]\n\nSeveral of the soldiers set to work on the lead pipes, while others begin to clean the ancient throne of the thick layer of dust that has settled upon it over thousands of years."
+		"text": "Спрятавшись за низкой стеной, вы быстро оцениваете ситуацию: в центре гигантской комнаты возвышается странный бассейн, до краев наполненный мерцающей черной жидкостью. [CTP]\n\nНесколько свинцовых труб ведут от бассейна к троноподобному объекту, расположенному у его основания. \n\nСо своей позиции вы видите, что на базальтовом троне восседает странная статуя неправильной формы, но с такого расстояния вы не можете разглядеть никаких деталей. [CTP]\n\nНесколько солдат приступают к работе над свинцовыми трубами, а другие начинают очищать древний трон от толстого слоя пыли, осевшей на нем за тысячи лет."
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Officer",
-		"text": "An officer crouches down to read the strange cuneiform inscription that adorns the dais:\n\n[char0]: \"Let’s see what we have here: ... source of life... resurrected to new life... ascended into the heavens... Hmm... the rest is illegible.\" [CTP]\n\nWith a triumphant flourish, the officer wheels about to face his companions:\n\n[char0]: \"This is it, men: We have located the Fountain of Life! Achtung! Take up your positions! I am about to make history!\""
+		"text": "Офицер наклоняется, чтобы прочитать странную клинописную надпись, украшающую помост:\n\n[char0]: \"Посмотрим, что у нас здесь: ...источник жизни... воскрес для новой жизни... вознесся на небеса... Хм... остальное неразборчиво.\" [CTP]\n\nС триумфальным взмахом руки офицер поворачивается лицом к своим спутникам:\n\n[char0]: \"Вот оно, люди: мы нашли Фонтан Жизни! Ахтунг! Займите свои позиции! Я собираюсь творить историю!\""
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Bath",
-		"text": "With these words, Captain Rueckert slowly descends the stone steps, taking each step carefully until the water reaches his chin. \n\nSomething moves in the water – Rueckert suddenly vanishes beneath its surface with a rapidly interrupted scream!"
+		"text": "С этими словами капитан Рюккерт медленно спускается по каменным ступеням, осторожно делая каждый шаг, пока вода не достигнет его подбородка. \n\nЧто-то движется в воде - Руккерт внезапно исчезает под ее поверхностью с быстро прерванным криком!"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Energy",
-		"text": "Seconds later, the lead pipes gurgle noisily as the liquid is sucked out of the basin. \n\nThe turmoil that engulfs the soldiers comes to an abrupt halt when suddenly, the stone statue moves and starts to lurch up from its throne with abrupt, jerking motions!"
+		"text": "Секунды спустя свинцовые трубы шумно булькают, когда жидкость высасывается из бассейна. \n\nСуматоха, охватившая солдат, резко прекращается, когда вдруг каменная статуя шевелится и начинает подниматься со своего трона резкими, рывкообразными движениями!"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Alien",
-		"text": "[char1]: \"I... live!\"\n\nThe creature glances around in confusion: \n\n[char1]: \"Father, your voice... so quiet – all alone?\"\n\n[char1]: \"Aargh... not enough... essence!\"\n\nThe creature rears up before suddenly freezing as if paralyzed. Seconds later, it crumbles to dust!"
+		"text": "[char1]: \"Я... жив!\"\n\nСущество оглядывается вокруг в замешательстве: \n\n[char1]: \"Отец, твой голос... так тих и совсем одинок?\"\n\n[char1]: \"Ааргх... недостаточно... эссенции!\"\n\nСущество вздымается вверх и внезапно замирает, словно парализованное. Секунды спустя оно рассыпается в пыль!"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Fight",
-		"text": "As if in a bad dream you stare at the empty throne, trying to comprehend what just happened. \n\nSuddenly you hear a loud shout – you have been discovered!"
+		"text": "Словно в страшном сне, вы смотрите на пустой трон, пытаясь осознать, что только что произошло. \n\nВнезапно вы слышите громкий крик - вас обнаружили!"
 	},
 	{
 		"id": "SE_Adventure05FinalFight_Aftermath",
-		"text": "The floor of the mysterious throne room is littered with the bodies of slain soldiers. \n\nIn a daze, you glance about the room, when suddenly a noise issues from the lead pipe: seconds later, the mysterious liquid fills the basin once again. [CTP]\n\nA shudder passes down your spine as you study the basin. Seldom have you felt such a strong urge to take a cool, clean bath."
+		"text": "Пол таинственного тронного зала усеян телами убитых солдат. \n\nВ оцепенении вы оглядываете комнату, как вдруг из трубы раздается шум: несколько секунд спустя таинственная жидкость снова наполняет бассейн. [CTP]\n\nДрожь проходит по вашему позвоночнику, когда вы изучаете бассейн. Редко когда вы испытывали такое сильное желание принять прохладную, чистую ванну."
 	},
 	{
 		"id": "SE_Adventure06Intro_Title",
@@ -7839,7 +7839,7 @@
 	},
 	{
 		"id": "SE_Adventure06Intro_Intro_HC",
-		"text": "The long travels have allowed your wounds to heal and you have forgotten some knowledge.\n\nThe captain of the windblown dhow, an old Yemeni with a face like badly tanned leather, points to the mountain peaks on the horizon: Abyssinia...\n[CTP]\nWhat fate awaits you there? Will you find the mythical Divine Chariot in time?"
+		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи.\n\nThe captain of the windblown dhow, an old Yemeni with a face like badly tanned leather, points to the mountain peaks on the horizon: Abyssinia...\n[CTP]\nWhat fate awaits you there? Will you find the mythical Divine Chariot in time?"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_Title",
@@ -10127,15 +10127,15 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet01_Intro",
-		"text": "A handful of shepherds have gathered at this waterhole to water their herds. You decide to take this opportunity to ask about the lost city of Kharga Serabit.\n\nBut your enthusiasm is soon dampened, as you get little response from the men beyond a sullen shake of the head or a defensive shrug – but then an old shepherd waves you over:\n\n[CTP]\n\n[char0]: \"Is it true? You seek Kharga Serabit, whose golden spires survey the glowing desert sea?\"\n\nYou eagerly agree. For a moment, the man seems to stare into the distance, then he throws his head back and lets out a long, bitter laugh:\n\n[CTP]\n\n[char0]: \"Turn back, you fools! Return to the coast! Kharga Serabit will devour you! Continue, if you must – but you will find nothing but death!\"\n\nYou mumble a farewell and continue your journey with mixed feelings."
+		"text": "Горстка пастухов собралась у этого водопоя, чтобы напоить свои стада. Вы решаете воспользоваться этой возможностью, чтобы расспросить их о затерянном городе Харга Серабит.\n\nНо ваш энтузиазм вскоре угасает, поскольку вы не получаете от мужчин ничего, кроме угрюмого покачивания головой или демонстративного пожимания плечами - но затем старый пастух машет вам рукой:\n\n[CTP]\n\n[char0]: \"Это правда? Вы ищете Харга Серабит, чьи золотые шпили возвышаются над сияющим морем пустыни?\"\n\nВы охотно соглашаетесь. На мгновение мужчина, кажется, смотрит вдаль, затем откидывает голову назад и испускает долгий, горький смех:\n\n[CTP]\n\n[char0]: \"Поворачивайте назад, глупцы! Возвращайтесь на берег! Харга Серабит пожрет вас! Продолжайте, если должны - но вы не найдете ничего, кроме смерти!\"\n\nВы прощаетесь и продолжаете свой путь со смешанными чувствами."
 	},
 	{
 		"id": "SE_Adventure05Snippet02_Title",
-		"text": "The storyteller"
+		"text": "Рассказчик"
 	},
 	{
 		"id": "SE_Adventure05Snippet02_Intro",
-		"text": "In the cool shade of the picturesque courtyard, a small crowd has gathered to listen to a storyteller. You lean against some palm trees and listen:\n\n[char0]: \"... but not one of them escaped the burning desert! Arrogantly, they sought her secrets, but each of them met his end in the desert sands.\"\n\n[CTP]\n\n[char0]: \"Their homes were filled with lamentations: Once again, the blue-red seductress exacted her blood toll.\"\n\nSuddenly the storyteller’s dark, impenetrable eyes seem to be staring right at you:\n\n[char0]: \"Know this: If you seek Kharga Serabit, your journey is one of no return!\""
+		"text": "В прохладной тени живописного внутреннего дворика собралась небольшая толпа, чтобы послушать рассказчика. Вы прислоняетесь к пальмам и слушаете:\n\n[char0]: \"... но ни один из них не спасся в огненной пустыне! Они самонадеянно искали ее секреты, но каждый из них встретил свой конец в пустынных песках.\"\n\n[CTP]\n\n[char0]: \"Их дома наполнились плачем: снова сине-красная соблазнительница взыскала свою кровавую дань.\"\n\nВдруг темные, непроницаемые глаза рассказчика, будто бы смотрят прямо на вас:\n\n[char0]: \"Знайте же: если вы ищете Харга Серабита, ваш путь тот, откуда нет возврата!\""
 	},
 	{
 		"id": "SE_Adventure05Snippet03_Title",
@@ -10143,7 +10143,7 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet03_Intro",
-		"text": "You rest in the shelter of some rocks.\n\nYou cannot forget the words of the young German officer who ambushed you at the buried well: \n\n[CTP] \n\nWho is this mysterious Captain Rueckert? What exactly does he hope to find in Kharga Serabit?\n\nYou curse your carelessness! Would the Germans have tracked you down if you had been more careful in Jeddah?\n\n[CTP] \n\nWell, the past cannot be changed – but the future remains unwritten! \n\nWhatever Captain Rueckert is up to, you'll stop him!"
+		"text": "Вы отдыхаете в тени нескольких камней.\n\nВы не можете забыть слова молодого немецкого офицера, который устроил засаду у зарытого колодца: \n\n[CTP] \n\nКто этот таинственный капитан Рюккерт? Что именно он надеется найти в Харга Серабит?\n\nВы проклинаете свою беспечность! Смогли бы немцы выследить вас, если бы вы были более осторожны в Джидде?\n\n[CTP] \n\nЧто ж, прошлое нельзя изменить - но будущее остается ненаписанным! \n\nЧто бы ни задумал капитан Рюккерт, вы его остановите!"
 	},
 	{
 		"id": "SE_Adventure05Snippet04_Title",
@@ -10151,79 +10151,79 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet04_Intro",
-		"text": "You hear loud shouts and the bellowing of galloping camels. Moments later, they appear from all sides: Heavily armed camel riders surround you and force you to stop!\n\nJudging by their dress and confident yet disciplined demeanor, this is a squad of Ikhwan cavalry. These devout warriors perform police duties for the Saudi royal family.\n\n[CTP]\n\nThe leader gets off his camel and surveys you grimly: \n\n[char0]: \"You do not look like the foreign soldiers we heard about!\"\n\nYou hurriedly confirm this observation. You learn that the squad was sent to protect the inhabitants of the plateau from German attacks. \n\n[CTP]\n\nIt is comforting to know that you are not alone in opposing Captain Rueckert's expedition, but unfortunately you can’t tell the warriors anything about the whereabouts of the Germans.\n\nYou wish the men success in their search. A short time later, the entire squad disappears again into the endless sea of dunes."
+		"text": "Вы слышите громкие крики и рёв скачущих верблюдов. Мгновением позже они появляются со всех сторон: тяжеловооруженные погонщики верблюдов окружают вас и заставляют остановиться!\n\nСудя по их одежде и уверенному и в то же время дисциплинированному поведению, это отряд кавалерии Ихвана. Эти набожные воины выполняют полицейские функции для королевской семьи Саудовской Аравии.\n\n[CTP]\n\nИх лидер слезает со своего верблюда и мрачно смотрит на вас: \n\n[char0]: \"Вы не похожи на иностранных солдат, о которых мы слышали!\"\n\nВы спешите подтвердить это наблюдение. Вы узнаете, что отряд был послан для защиты жителей плоскогорья от нападений немцев. \n\n[CTP]\n\nПриятно осознавать, что вы не одни противостоите экспедиции капитана Рюккерта, но, к сожалению, вы ничего не можете сообщить воинам о местонахождении немцев.\n\nВы желаете бойцам успеха в их поисках. Через некоторое время весь отряд снова исчезает в бесконечном море дюн."
 	},
 	{
 		"id": "SE_Adventure05Snippet05_Title",
-		"text": "The abandoned camp"
+		"text": "Брошенный лагерь"
 	},
 	{
 		"id": "SE_Adventure05Snippet05_Intro",
-		"text": "Tire tracks in the desert sand tell you that you are not alone even here, in the endless expanse of the Empty Quarter. You follow the trail for some time as it passes through reasonably good terrain. \n\nYou stop when it leads you to the remnants of an abandoned camp. You examine the few items your mysterious predecessors left behind: \n\n[CTP]\n\nSome empty tin cans from German Wehrmacht stocks speak for themselves: Captain Rueckert must have rested here with his men on the way to Kharga Serabit!\n\nAt the edge of the camp, you discover a tablet of blue-red porphyry. Perhaps an old signpost or a marker stone for the caravan route to Kharga Serabit?\n\n[CTP]\n\nUnfortunately, you can only guess whether the stone bore important information – the Germans have taken the trouble to smash the inscription!\n\nAnd yet – it looks like you’re obviously headed in the right direction. \n\nYou set off in high spirits: you might yet thwart Rueckert’s expedition!"
+		"text": "Следы шин на песке пустыни указывают на то, что вы не одиноки даже здесь, на бескрайних просторах Пустого Квартала. Некоторое время вы идете по тропе, проходящей по достаточно хорошей местности. \n\nВы останавливаетесь, когда она приводит вас к остаткам заброшенного лагеря. Вы осматриваете немногочисленные предметы, оставленные вашими таинственными предшественниками: \n\n[CTP]\n\nНесколько пустых консервных банок из запасов немецкого вермахта говорят сами за себя: капитан Руккерт, должно быть, отдыхал здесь со своими людьми по пути в Харга Серабит!\n\nНа краю лагеря вы обнаруживаете табличку из сине-красного порфира. Возможно, это старый указатель или камень для обозначения караванного пути в Харга Серабит?\n\n[CTP]\n\nК сожалению, о том, нес ли камень важную информацию, можно только догадываться - немцы потрудились разбить надпись!\n\nИ все же - похоже, что вы явно движетесь в правильном направлении. \n\nВы отправляетесь в путь в приподнятом настроении: вы еще можете помешать экспедиции Рюккерта!"
 	},
 	{
 		"id": "SE_Adventure05Snippet06_Title",
-		"text": "The dried up well"
+		"text": "Высохший колодец"
 	},
 	{
 		"id": "SE_Adventure05Snippet06_Intro",
-		"text": "You find the bodies of two Bedouins between the abandoned huts. They are both leaning against a dried up well. \n\nObviously, the men had planned to refresh their water supplies here. They had probably reached the end of their strength when they arrived here...\n\n[CTP]\n\nAs you examine the bundles that the two Bedouins were carrying, you find a few tiles of blue-red stone. The tablets look like decorative elements that have been removed from a wall.\n\nKharga Serabit, whose splendor looms blue-red over the eternal desert - the two Bedouins must have found the lost city!\n\n[CTP]\n\nLittle good it did them – a dried up well was enough to put an end to their journey... \n\nAnd yet – now you know now that you have almost reached your goal: Kharga Serabit will soon reveal its secrets!"
+		"text": "Между заброшенными хижинами вы находите тела двух бедуинов. Они оба прислонились к высохшему колодцу. \n\nОчевидно, мужчины планировали пополнить здесь свои запасы воды. Вероятно, их силы были на исходе, когда они прибыли сюда...\n\n[CTP]\n\nОсматривая свертки, которые несли два бедуина, вы находите несколько плиток из сине-красного камня. Плитки выглядят как декоративные элементы, снятые со стены.\n\nХарга Серабит, чье великолепие вырисовывается сине-красным над вечной пустыней - должно быть, два бедуина нашли затерянный город!\n\n[CTP]\n\nЭто принесло им мало пользы - высохшего колодца оказалось достаточно, чтобы положить конец их путешествию... \n\nИ все же - теперь вы знаете, что почти достигли своей цели: Харга Серабит скоро раскроет свои секреты!"
 	},
 	{
 		"id": "SE_Adventure05Flavor01_Title",
-		"text": "Abandoned guard house"
+		"text": "Заброшенный караульный пост"
 	},
 	{
 		"id": "SE_Adventure05Flavor01_Intro",
-		"text": "You approach a half-ruined Ottoman guard house. The old bullet holes in the walls tell a tale: This outpost was probably the site of a fierce battle in the Great War when Arab fighters rose up against their Turkish masters!\n\nShattered filing cabinets and debris are all you find here."
+		"text": "Вы подходите к разрушенному караульному посту османской армии. Старые пулевые отверстия в стенах говорят о многом: вероятно, эта застава была местом ожесточенной битвы во время Великой войны, когда арабские бойцы восстали против своих турецких хозяев!\n\nРазбитые шкафы с документами и обломки - всё, что вы здесь находите."
 	},
 	{
 		"id": "SE_Adventure05Flavor02_Title",
-		"text": "Some camel traders"
+		"text": "Торговцы верблюдами"
 	},
 	{
 		"id": "SE_Adventure05Flavor02_Intro",
-		"text": "You stop as a herd of camels crosses your path. Some men nod to you as they pass. \n\nOne of them stops for a moment. They are camel traders, driving their mares south along the coast to Sana'a.\n\nWhen you ask him about Kharga Serabit, he just shrugs and gestures vaguely eastwards, into the heart of the Arabian desert..."
+		"text": "Вы останавливаетесь, когда стадо верблюдов пересекает ваш путь. Несколько мужчин кивают вам, проходя мимо. \n\nОдин из них на мгновение останавливается. Это торговцы верблюдами, они ведут своих кобыл на юг вдоль побережья в Сану.\n\nКогда вы спрашиваете его о Харга Серабит, он просто пожимает плечами и делает неопределенный жест на восток, в сердце Аравийской пустыни..."
 	},
 	{
 		"id": "SE_Adventure05Flavor03_Title",
-		"text": "The salt columns"
+		"text": "Соляные столбы"
 	},
 	{
 		"id": "SE_Adventure05Flavor03_Intro",
-		"text": "The color of the ground changes almost imperceptibly from the usual ocher tones of the desert sand to a dirty white. \n\nWhen you meet some men working on a man-high dome with hammers and chisels, you realize they are mining rock salt. \n\nThe exhausted men nod to you, then resume their strenuous work."
+		"text": "Цвет земли почти незаметно меняется от обычного охрового оттенка песка пустыни до грязно-белого. \n\nКогда вы встречаете мужчин, работающих на высоте человеческого роста с молотками и зубилами, вы понимаете, что они добывают каменную соль. \n\nИзмученные мужчины кивают вам, а затем продолжают свою напряженную работу."
 	},
 	{
 		"id": "SE_Adventure05Flavor05_Title",
-		"text": "Some oryx antelopes"
+		"text": "Несколько антилоп орикс"
 	},
 	{
 		"id": "SE_Adventure05Flavor05_Intro",
-		"text": "You startle a small herd of Arabian oryx antelopes nibbling at sparse, dried-up bushes. \n\nThe shy animals flee as soon as they see you. \n\nThoughtfully, you watch the animals as they run: No matter how inhospitable the environment, life always seems to find a way..."
+		"text": "Вы пугаете небольшое стадо арабских антилоп орикс, обгладывающих редкие, засохшие кусты. \n\nПугливые животные убегают, едва завидев вас. \n\nВы задумчиво наблюдаете за бегущими животными: какой бы негостеприимной ни была окружающая среда, жизнь всегда находит способ..."
 	},
 	{
 		"id": "SE_Adventure05Flavor06_Title",
-		"text": "Two travelers"
+		"text": "Два путешественника"
 	},
 	{
 		"id": "SE_Adventure05Flavor06_Intro",
-		"text": "At a camel dung campfire you meet two unlikely companions. The smaller of the two is richly dressed. His companion appears to be an Agheyl fighter, a Bedouin warrior from the Iraqi borderland. \n\nYou wonder what he is doing so far west, but the two men are not eager to talk about themselves. All they will say is that they are on their way to Medina."
+		"text": "У костра из верблюжьего навоза вы встречаете двух маловероятных спутников. Меньший из них богато одет. Его спутник, похоже, боец Агейла, бедуинский воин из приграничных районов Ирака. \n\nВы задаетесь вопросом, что он делает так далеко на западе, но эти двое мужчин не хотят говорить о себе. Все, что они говорят, это то, что они направляются в Медину."
 	},
 	{
 		"id": "SE_Adventure05Flavor10_Title",
-		"text": "The incense road"
+		"text": "Дорога благовоний"
 	},
 	{
 		"id": "SE_Adventure05Flavor10_Intro",
-		"text": "A cloying, aromatic fragrance wafts over from some frankincense trees along the track.\n\nNo wonder: this was once the main trade route for transporting the much sought-after incense in caravans from southern Arabia to the Mediterranean coast. \n\nBut that was many years ago, before the desert dried up and became this empty space. Today the sun beats mercilessly down on you..."
+		"text": "От некоторых ладанных деревьев, растущих вдоль дороги, исходит приятный аромат.\n\nНеудивительно: когда-то здесь проходил главный торговый путь, по которому караваны из южной Аравии к побережью Средиземного моря доставляли столь желанные благовония. \n\nНо это было много лет назад, до того, как пустыня высохла и превратилась в это бесплодное место. Сегодня солнце палит нещадно..."
 	},
 	{
 		"id": "SE_Adventure05Flavor11_Title",
-		"text": "Deserted camp"
+		"text": "Пустынный лагерь"
 	},
 	{
 		"id": "SE_Adventure05Flavor11_Intro",
-		"text": "Fragments of the camp still protrude from the desert sands - this place was obviously abandoned a few years ago. \n\nYou wonder - could these be the remnants of one of the failed expeditions to the Empty Quarter? Bertram Thomas returned safely in 1931 and Jack Philby in the following year, but how many never made it back?"
+		"text": "Фрагменты лагеря все еще выступают из песков пустыни - очевидно, это место было заброшено несколько лет назад. \n\nВы задаетесь вопросом - могут ли это быть остатки одной из неудачных экспедиций в Пустой Квартал? Бертрам Томас благополучно вернулся в 1931 году, а Джек Филби в следующем году, но сколько их так и не вернулось?"
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Title",
