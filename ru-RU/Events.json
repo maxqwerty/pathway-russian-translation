@@ -1743,11 +1743,11 @@
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedF",
-		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребён под ними! Вам удается освободить его, но его плечо выглядит сильно поврежденным."
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребен под ними! Вам удается освободить его, но его плечо выглядит сильно поврежденным."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_ProceedF_female",
-		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребённой под ними! Вам удается освободить ее, но ее плечо выглядит сильно поврежденным."
+		"text": "С каждым вашим шагом пыль падает на землю, и вдруг вы слышите зловещий скрип! \n\nНесколько балок вырываются из прохода, и [char1] оказывается погребенной под ними! Вам удается освободить ее, но ее плечо выглядит сильно поврежденным."
 	},
 	{
 		"id": "LE_ForlornGhostTemple01_RE01_TechnicalW",
@@ -4843,7 +4843,7 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Intro",
-		"text": "Вы надеетесь передохнуть у стен храма. Но тут вы замечаете культистов, идущих в вашу сторону по пустынным дюнам, и быстро прячетесь за большой каменной статуей.\n\nКогда культисты спустя некоторое время прибывают, они начинают подготовку к ритуалу и собираются прямо перед статуей, за которой вы прячетесь! [CTP]\n\nПока верховная жрица склоняется перед каменной статуей, остальные культисты начинают исполнять гротескный танец: словно в трансе, они кружатся и расходятся вокруг статуи. \n\nЕщё несколько мгновений, и они вас заметят!"
+		"text": "Вы надеетесь передохнуть у стен храма. Но тут вы замечаете культистов, идущих в вашу сторону по пустынным дюнам, и быстро прячетесь за большой каменной статуей.\n\nКогда культисты спустя некоторое время прибывают, они начинают подготовку к ритуалу и собираются прямо перед статуей, за которой вы прячетесь! [CTP]\n\nПока верховная жрица склоняется перед каменной статуей, остальные культисты начинают исполнять гротескный танец: словно в трансе, они кружатся и расходятся вокруг статуи. \n\nЕще несколько мгновений, и они вас заметят!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_Choice01",
@@ -4887,11 +4887,11 @@
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthF",
-		"text": "[char1] упирается в каменную статую, но не может её сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
+		"text": "[char1] упирается в каменную статую, но не может ее сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RawStrengthF_female",
-		"text": "[char1] упирается в каменную статую, но не может её сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
+		"text": "[char1] упирается в каменную статую, но не может ее сдвинуть. \n\nКолебания статуи не остались незамеченными! Культисты достают свои кинжалы и начинают искать причину!"
 	},
 	{
 		"id": "BE_DesertTempleStatue01_RunW",
@@ -7075,11 +7075,11 @@
 	},
 	{
 		"id": "LE_UnstableSewer01_TechnicalF",
-		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Всё выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
+		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Все выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
 	},
 	{
 		"id": "LE_UnstableSewer01_TechnicalF_female",
-		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Всё выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
+		"text": "[char0] скептически осматривает коридор:\n\n[char0]: \"Все выглядит плохо... Мне понадобится тяжелое оборудование, чтобы поддержать туннель... Я не могу ничего гарантировать!\"\n\nЭто честно, но не особо полезно. Что вы решаете сделать?"
 	},
 	{
 		"id": "LE_UnstableSewer01_ApproachChest",
@@ -7331,7 +7331,7 @@
 	},
 	{
 		"id": "SE_Adventure03Clue03_Intro",
-		"text": "Водопой, окаймленный пальмами, кажется идеальным местом для короткого отдыха! \n\nВ приподнятом настроении вы выходите из машины и начинаете разгружать свои ящики с припасами. И вдруг слышите тихий звук позади! [CTP]\n\nВы видите небольшую группу культистов, присевших за скалой и смотрящих на вас со смесью страха и враждебности. Они явно не ожидали вас увидеть здесь и, похоже, ещё не определились, что делать."
+		"text": "Водопой, окаймленный пальмами, кажется идеальным местом для короткого отдыха! \n\nВ приподнятом настроении вы выходите из машины и начинаете разгружать свои ящики с припасами. И вдруг слышите тихий звук позади! [CTP]\n\nВы видите небольшую группу культистов, присевших за скалой и смотрящих на вас со смесью страха и враждебности. Они явно не ожидали вас увидеть здесь и, похоже, еще не определились, что делать."
 	},
 	{
 		"id": "SE_Adventure03Clue03_Choice01",
@@ -7831,63 +7831,63 @@
 	},
 	{
 		"id": "SE_Adventure06Intro_Title",
-		"text": "Возле Джибути"
+		"text": "Недалеко от Джибути"
 	},
 	{
 		"id": "SE_Adventure06Intro_Intro",
-		"text": "The captain of the windblown dhow, an old Yemeni with a face like badly tanned leather, points to the mountain peaks on the horizon: Abyssinia...\n\nWhat fate awaits you there? Will you find the mythical Divine Chariot in time?"
+		"text": "Капитан гонимого ветром судна, старый йеменец с лицом, напоминающим дубленую кожу, указывает на горные вершины на горизонте: Абиссиния...\n\nКакая судьба ожидает вас там? Сможете ли вы вовремя найти мифическую Божественную Колесницу?"
 	},
 	{
 		"id": "SE_Adventure06Intro_Intro_HC",
-		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи.\n\nThe captain of the windblown dhow, an old Yemeni with a face like badly tanned leather, points to the mountain peaks on the horizon: Abyssinia...\n[CTP]\nWhat fate awaits you there? Will you find the mythical Divine Chariot in time?"
+		"text": "Долгие странствия позволили твоим ранам затянуться, и вы забыли некоторые вещи.\n\nКапитан гонимого ветром судна, старый йеменец с лицом, напоминающим дубленую кожу, указывает на горные вершины на горизонте: Абиссиния...\n\nКакая судьба ожидает вас там? Сможете ли вы вовремя найти мифическую Божественную Колесницу?"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_Title",
-		"text": "An ancient tomb"
+		"text": "Древняя гробница"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_Intro",
-		"text": "You have finally reached your destination – the temple tomb of the Queen of Sheba rises menacingly before you! \n\nConfused, you survey the strange structure, then you realize: The tomb was carved into the solid lava basalt in the distant past."
+		"text": "Наконец-то вы добрались до места назначения - перед вами грозно возвышается храм-гробница царицы Савской! \n\nВ полном недоумении вы осматриваете странное сооружение, а затем понимаете: в далеком прошлом эта гробница была высечена в твердом лавовом базальте."
 	},
 	{
 		"id": "SE_Adventure06FinalFight_TempleObservation",
-		"text": "The tomb is teeming with cultists! \n\nSome of them are clearing rocks and gravel out of the temple forecourt, while others patrol in groups. There is no way you can get past unseen! [CTP]\n\nThere's nothing you can do but observe the cultists from a safe distance.\n\nYou crouch behind some rocks and try not to contemplate what will happen if you are discovered..."
+		"text": "Гробница полна культистов! \n\nНекоторые из них убирают камни и гравий с территории храма, другие группами патрулируют. Вам ни за что не удастся пройти незаметно! [CTP]\n\nВам ничего не остается, кроме как наблюдать за культистами с безопасного расстояния.\n\nВы прячетесь за камнями и стараетесь не думать о том, что случится, если вас обнаружат..."
 	},
 	{
 		"id": "SE_Adventure06FinalFight_MerkabaAppears",
-		"text": "A call goes through the crowd! \n\nA bulky structure appears at the tomb entrance: Several dozen cultists have attached ropes to the massive object and are slowly pulling it into the forecourt."
+		"text": "В толпе раздается зов! \n\nУ входа в гробницу появляется громоздкая конструкция: несколько десятков культистов прикрепили веревки к массивному объекту и медленно затаскивают его в передний двор."
 	},
 	{
 		"id": "SE_Adventure06FinalFight_EnterPriestesses",
-		"text": "You are in no doubt: This must be Merkabah, the legendary Divine Chariot of King Solomon! \n\nThe crowd parts and you can now see a procession of priestesses approaching the strange structure. [CTP]\n\nFrantically, you rack your brains to think of something you can do, but the enemy numbers are overwhelming! Any attempt to interfere would be suicide!"
+		"text": "У вас нет сомнений: это, должно быть, Меркаба, легендарная божественная колесница царя Соломона! \n\nТолпа расступается, и теперь вы видите процессию жриц, приближающихся к странному сооружению. [CTP]\n\nВы лихорадочно пытаетесь придумать, что можно сделать, но врагов слишком много! Любая попытка вмешаться будет самоубийством!"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_FirstPreparations",
-		"text": "Four priestesses stand at each of the four corners of the structure, while another, ornately-garbed priestess mounts the Merkabah to sit on its throne-like seat. \n\nThe priestess calls out to her followers in words that you do not understand, and they kneel and begin to chant in supplication."
+		"text": "У каждого из четырех углов конструкции стоят четыре жрицы, а еще одна жрица, богато одетая, поднимается на Меркабу, чтобы сесть на сиденье, напоминающее трон. \n\nЖрица взывает к своим последователям словами, которые вы не понимаете, и они преклоняют колени и начинают петь молитву."
 	},
 	{
 		"id": "SE_Adventure06FinalFight_FinalPreparations",
-		"text": "At a signal from the priestess, her acolytes move to the corners of the Chariot. Something flashes in their hands – those must be Valkyrium crystals! \n\nA loud hum emanates from the structure, then suddenly the ground trembles under your feet!"
+		"text": "По сигналу жрицы ее аколиты перемещаются в углы колесницы. Что-то вспыхивает в их руках - должно быть, это кристаллы Валькирия! \n\nИз сооружения доносится громкий гул, и вдруг земля начинает дрожать под ногами!"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_ByeByeMerkaba",
-		"text": "Bright white, all-consuming flames shoot from the Divine Chariot! A moment later, the Merkabah disappears into the clouds! \n\nThen a clap of thunder shatters the silence – a gigantic explosion fills the sky as the ancient object shatters into a thousand pieces!"
+		"text": "Из Божественной колесницы вырывается ярко-белое, всепоглощающее пламя! Мгновение спустя Меркаба исчезает в облаках! \n\nЗатем тишину нарушает раскат грома - гигантский взрыв заполняет небо, и древняя конструкция разлетается на тысячи осколков!"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_Fight",
-		"text": "You wait until the wall of smoke has cleared, and then approach the scorched spot where the mysterious Divine Chariot stood. \n\nSuddenly, you hear an angry snarl! You spin around: The flames did not consume all the cultists of the Khonesh Brotherhood!"
+		"text": "Вы ждете, пока стена дыма не рассеется, а затем подходите к выжженному месту, где стояла загадочная Божественная колесница. \n\nВдруг вы слышите злобное рычание! Вы оборачиваетесь: пламя поглотило не всех культистов Братства Хонеш!"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_Aftermath",
-		"text": "That was the last of your opponents! Finally, you have time to look around. \n\nThere is no trace of the Divine Chariot, but it seems as if its remains must be spread over half the globe. \n\nWhat kind of culture could have held the key to such incomprehensible powers in the earliest days of humanity?"
+		"text": "Это был последний противник! Наконец, у вас есть время осмотреться. \n\nОт Божественной Колесницы не осталось и следа, и создается впечатление, что ее обломки разбросаны по половине земного шара. \n\nЧто за культура могла обладать ключом к таким непостижимым знаниям на заре человечества?"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_DestroyedTomb",
-		"text": "Your gaze falls on the basalt grave of the Queen of Sheba – for thousands of years, it withstood the ravages of time, but it was no match for the power of the Divine Chariot: \n\nWhere there was an entrance just a few minutes ago, you now see nothing but a smoking heap of rubble!"
+		"text": "Ваш взгляд падает на базальтовую могилу царицы Савской - тысячи лет она противостояла разрушениям времени, но не устояла перед мощью Божественной Колесницы: \n\nТам, где еще несколько минут назад был вход, теперь лишь дымящаяся груда обломков!"
 	},
 	{
 		"id": "SE_Adventure06FinalFight_End",
-		"text": "If the legendary jewels of King Solomon really did exist, they are now buried under tons of rock."
+		"text": "Если легендарные сокровища царя Соломона действительно существовали, то сейчас они погребены под тоннами горной породы."
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_anabelle_Title",
@@ -7931,15 +7931,15 @@
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_Intro",
-		"text": "The parched and rocky landscape of the volcanic highlands of Abyssinia extend far into the horizon. The air here is noticeably thinner than in the country’s coastal lowlands. [CTP]\n\nYou are grateful when you spot the tents of some goatherds at the edge of the bumpy track. \n\nA short break would do you all good..."
+		"text": "Засушливый и скалистый ландшафт вулканических нагорий Абиссинии простирается далеко за горизонт. Воздух здесь заметно тоньше, чем в прибрежных низинах страны. [CTP]\n\nВы испытываете радость, когда замечаете на краю ухабистой дороги палатки пастухов. \n\nНебольшой перерыв пойдет вам всем на пользу..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_Surprise",
-		"text": "You reach the herd of goats and some children run excitedly into the tents. A few moments later, an all too familiar figure emerges – it is [char0]!\n\n[char0]: \"I bet you weren’t expecting to see me!\""
+		"text": "Вы подходите к стаду коз, и несколько детей с волнением забегают в палатки. Через несколько мгновений появляется хорошо знакомая фигура - это [char0]!\n\n[char0]: \"Уверен, вы не ожидали меня увидеть!\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_Surprise_female",
-		"text": "You reach the herd of goats and some children run excitedly into the tents. A few moments later, an all too familiar figure emerges – it is [char0]!\n\n[char0]: \"I bet you weren’t expecting to see me!\""
+		"text": "Вы подходите к стаду коз, и несколько детей с волнением забегают в палатки. Через несколько мгновений появляется хорошо знакомая фигура - это [char0]!\n\n[char0]: \"Уверена, вы не ожидали меня увидеть!\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival01_RecruitFriend",
@@ -7951,63 +7951,63 @@
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Title",
-		"text": "The Amhara Highlands"
+		"text": "Амхарское Нагорье"
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Intro",
-		"text": "The Amhara Mountains form an impressive massif, surrounded by dry, desert-like landscapes. This wasteland is clearly volcanic in origin: bizarre rock formations pierce the sky like needles. [CTP]\n\nBlood-curdling, guttural shouts tear you from your thoughts. You see a small group of nomads chasing one of their number who is raving and struggling like a man possessed. \n\nWhen you reach the men, they have already seized the fugitive and are trying to placate him. One of the nomads turns to you: [CTP]\n\n[char0]: \"Last night, evil men attacked our camp! We managed to fight them off, but this unfortunate was cursed by them!\""
+		"text": "Горы Амхара образуют впечатляющий массив, окруженный сухими, похожими на пустыню ландшафтами. Эта пустошь явно вулканического происхождения: причудливые скальные образования пронзают небо, подобно иглам. [CTP]\n\nВас отрывают от размышлений леденящие кровь гортанные крики. Вы видите небольшую группу кочевников, которые гонятся за одним из них, который мечется и дерется, как одержимый. \n\nКогда вы подходите к мужчинам, они уже схватили беглеца и пытаются его успокоить. Один из кочевников обращается к вам: [CTP]\n\n[char0]: \"Прошлой ночью злые люди напали на наш лагерь! Нам удалось отбиться от них, но этот несчастный был ими проклят!\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Choice01",
-		"text": "Perform a bloodletting"
+		"text": "Выполнить кровопускание"
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Choice02",
-		"text": "Break the curse"
+		"text": "Снять проклятие"
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Choice03",
-		"text": "Those fiends..."
+		"text": "Эти изверги..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_MedicalF",
-		"text": "[char1] takes out his scalpel, but the frightened man starts to struggle wildly when he sees the blade. \n\n[char1] shakes his head. It’s pointless..."
+		"text": "[char1] достает скальпель, но испуганный мужчина начинает дико сопротивляться, увидев лезвие. \n\n[char1] качает головой. Это бессмысленно..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_MedicalF_female",
-		"text": "[char1] takes out her scalpel, but the frightened man starts to struggle wildly when he sees the blade. \n\n[char1] shakes her head. It’s pointless..."
+		"text": "[char1] достает скальпель, но испуганный мужчина начинает дико сопротивляться, увидев лезвие. \n\n[char1] качает головой. Это бессмысленно..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_MedicalW",
-		"text": "[char1] takes out his scalpel and uses it to bleed the agitated man while his comrades hold him down. Soon the man's movements weaken, and a short time later he falls asleep. [CTP]\n\n[char1] carefully bandages the cut on the man’s arm and shrugs helplessly:\n\n[char1]: \"We can only hope that sleep will restore him to his senses...\""
+		"text": "[char1] достает скальпель и с его помощью пускает кровь взволнованному мужчине, пока его товарищи удерживают его. Вскоре движения мужчины ослабевают, и через некоторое время он засыпает. [CTP]\n\n[char1] осторожно перевязывает порез на руке мужчины и беспомощно пожимает плечами:\n\n[char1]: \"Остается надеяться, что сон приведет его в чувство...\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_MedicalW_female",
-		"text": "[char1] takes out her scalpel and uses it to bleed the agitated man while his comrades hold him down. Soon the man's movements weaken, and a short time later he falls asleep. [CTP]\n\n[char1] carefully bandages the cut on the man’s arm and shrugs helplessly:\n\n[char1]: \"We can only hope that sleep will restore him to his senses...\""
+		"text": "[char1] достает скальпель и с его помощью пускает кровь взволнованному мужчине, пока его товарищи удерживают его. Вскоре движения мужчины ослабевают, и через некоторое время он засыпает. [CTP]\n\n[char1] осторожно перевязывает порез на руке мужчины и беспомощно пожимает плечами:\n\n[char1]: \"Остается надеяться, что сон приведет его в чувство...\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_OccultF",
-		"text": "[char2] approaches the man and starts a strange and soothing chant, but the cursed man puts his hands to his ears and starts to struggle. \n\n[char2] takes a step back and shakes his head: It’s no good..."
+		"text": "[char2] подходит к человеку и начинает странное и успокаивающее пение, но проклятый человек прижимает руки к ушам и начинает вырываться. \n\n[char2] делает шаг назад и качает головой: все напрасно..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_OccultF_female",
-		"text": "[char2] approaches the man and starts a strange and soothing chant, but the cursed man puts his hands to his ears and starts to struggle. \n\n[char2] takes a step back and shakes her head: It’s no good..."
+		"text": "[char2] подходит к человеку и начинает странное и успокаивающее пение, но проклятый человек прижимает руки к ушам и начинает вырываться. \n\n[char2] делает шаг назад и качает головой: все напрасно..."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_OccultW",
-		"text": "[char2] approaches the man and starts a strange and soothing chant, whereupon he relaxes immediately. A short time later, the man falls asleep peacefully. \n\n[char2]: \"I did what I could. Sleep must do the rest...\""
+		"text": "[char2] подходит к мужчине и начинает странное и успокаивающее пение, после чего тот сразу же расслабляется. Через некоторое время мужчина спокойно засыпает. \n\n[char2]: \"Я сделал все, что мог. Сон должен сделать остальное...\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_OccultW_female",
-		"text": "[char2] approaches the man and starts a strange and soothing chant, whereupon he relaxes immediately. A short time later, the man falls asleep peacefully. \n\n[char2]: \"I did what I could. Sleep must do the rest...\""
+		"text": "[char2] подходит к мужчине и начинает странное и успокаивающее пение, после чего тот сразу же расслабляется. Через некоторое время мужчина спокойно засыпает. \n\n[char2]: \"Я сделала все, что могла. Сон должен сделать остальное...\""
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Rest",
-		"text": "The nomads are beside themselves with gratitude and invite you into their tents! \n\nYou share a hearty feast of spicy goat and lentil stew, which you scoop directly into your mouths with rolled up strips of flatbread. [CTP]\n\nSated after your meal, you oil your weapons before taking leave of your hosts."
+		"text": "Кочевники безмерно благодарны и приглашают вас в свои палатки! \n\nВы разделяете сытную трапезу с пряным рагу из козлятины и чечевицы, которое кладете прямо в рот с помощью свернутых полосок лепешки. [CTP]\n\nНасытившись после еды, вы смазываете свое оружие, прежде чем покинуть хозяев."
 	},
 	{
 		"id": "SE_Adventure06MapArrival02_Leave",
-		"text": "Unfortunately, there is nothing you can do for these unfortunates. You bid farewell and move on."
+		"text": "К сожалению, вы ничего не можете сделать для этих несчастных. Вы прощаетесь и идете дальше."
 	},
 	{
 		"id": "SE_Adventure06Clue01_Title",
@@ -8015,11 +8015,11 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Intro",
-		"text": "The ruins of ancient Aksum rise up before you, the fallen capital of a long-forgotten kingdom. \n\nAccording to the rumors you chased down in the murky underworld of Djibouti harbor, these ruins are important to the Brotherhood’s plans – so you decided to take a look for yourselves... [CTP]\n\nWhen you notice a small group of cultists making their way towards the ruins, you quickly take cover behind some nearby boulders. \n\nEventually the cultists reach the ruins, only to vanish a short time later! [CTP]\n\nYou wait a few minutes before approaching cautiously and searching the area where you last saw the group. You soon discover a shaft leading down into the depths."
+		"text": "Перед вами возвышаются руины древнего Аксума - павшей столицы давно забытого королевства. \n\nЕсли верить слухам, за которыми вы охотились в мрачном подполье гавани Джибути, эти руины важны для планов Братства - и вы решили самостоятельно на них взглянуть... [CTP]\n\nЗаметив небольшую группу культистов, пробирающихся к руинам, вы быстро укрываетесь за ближайшими валунами. \n\nВ итоге культисты добираются до руин, но через некоторое время исчезают! [CTP]\n\nВы ждете несколько минут, а затем осторожно приближаетесь и обыскиваете место, где вы в последний раз их видели. Вскоре вы обнаруживаете шахту, ведущую в недра земли."
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice01",
-		"text": "Descend"
+		"text": "Спуститься"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice02",
@@ -8027,7 +8027,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Enter",
-		"text": "An eerie chant echoes through the tunnels – a sprawling network of subterranean chambers lies beneath the ancient city of Aksum! \n\nThe glowing light of the torches leads you to a chamber, where a large group of cultists has gathered around an altar in the shadow of a stone idol carved from red basalt. [CTP] \n\nOff to one side, you spot a small group of terrified tribesmen huddled together in a small pen. You gasp in horror: the Brotherhood of Khonesh is preparing to make a blood sacrifice! [CTP]\n\nAs a priestess rises from her chair, the cultists begin to chant. You must act fast!"
+		"text": "По туннелям разносится жуткое эхо - под древним городом Аксум находится разветвленная сеть подземных помещений! \n\nСияющий свет факелов приводит вас в комнату, где большая группа культистов собралась вокруг алтаря в тени каменного идола, вырезанного из красного базальта. [CTP] \n\nС одной стороны вы замечаете небольшую группу испуганных членов племени, сгрудившихся в небольшом загоне. Вы замерли от ужаса: Братство Кхонеш собирается принести кровавую жертву! [CTP]\n\nКогда жрица поднимается со своего кресла, культисты начинают песнопения. Вы должны действовать быстро!"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice03",
@@ -8035,7 +8035,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice04",
-		"text": "Search the chamber"
+		"text": "Обыскать комнату"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice05",
@@ -8043,23 +8043,23 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_AfterBattle",
-		"text": "The cultists are defeated! You release the tribesmen before setting out together for the entrance. \n\nAs you make your way through the tunnels, you consider your options. Overhearing your conversation, one of the tribesmen approaches:"
+		"text": "Культисты побеждены! Вы отпускаете людей и вместе направляетесь ко входу. \n\nПробираясь по туннелям, вы обсуждаете дальнейшие планы. Подслушав ваш разговор, один из соплеменников подходит к вам:"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Clue",
-		"text": "[char1]: \"Is it the tomb of the Queen of Sheba that you seek? Our tormentors mentioned her name often. They plan to travel to the Amhara Highlands to find Markawa.\"\n\nMarkawa? That can only be the Merkabah: the Divine Chariot! You thank the man and continue your journey with a new destination – the Amhara Highlands!"
+		"text": "[char1]: \"Вы ищете гробницу царицы Савской? Наши мучители часто упоминали ее имя. Они планируют отправиться в нагорье Амхара, чтобы найти Маркаву.\"\n\nМаркава? Это может быть только Меркаба - Божественная Колесница! Вы благодарите человека и продолжаете свой путь к новому пункту назначения - нагорью Амхара!"
 	},
 	{
 		"id": "SE_Adventure06Clue01_DetectionF",
-		"text": "[char0] casts an inquisitive eye around the chamber but he fails to discover anything that might be of use. What do you want to do?"
+		"text": "[char0] осматривает камеру внимательным взглядом, но не обнаруживает ничего, что могло бы пригодиться. Что вы хотите сделать?"
 	},
 	{
 		"id": "SE_Adventure06Clue01_DetectionF_female",
-		"text": "[char0] casts an inquisitive eye around the chamber but she fails to discover anything that might be of use. What do you want to do?"
+		"text": "[char0] осматривает камеру внимательным взглядом, но не обнаруживает ничего, что могло бы пригодиться. Что вы хотите сделать?"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice06",
-		"text": "Ambush the cultists"
+		"text": "Устроить засаду на культистов"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Choice07",
@@ -8067,31 +8067,31 @@
 	},
 	{
 		"id": "SE_Adventure06Clue01_DetectionW",
-		"text": "Your weapons are drawn when [char0] suddenly intervenes:\n\n[char0]: \"Wait! Do you see that hole in the wall behind the prisoners? If we can make our way to it, we should be able to free them without alerting anyone!\""
+		"text": "Вы достаете оружие, как вдруг [char0] внезапно всех останавливает:\n\n[char0]: \"Подождите! Видите дыру в стене позади заключенных? Если мы сможем пробраться к ней, то сможем освободить их, не привлекая внимания!\""
 	},
 	{
 		"id": "SE_Adventure06Clue01_DetectionW_female",
-		"text": "Your weapons are drawn when [char0] suddenly intervenes:\n\n[char0]: \"Wait! Do you see that hole in the wall behind the prisoners? If we can make our way to it, we should be able to free them without alerting anyone!\""
+		"text": "Вы достаете оружие, как вдруг [char0] внезапно всех останавливает:\n\n[char0]: \"Подождите! Видите дыру в стене позади заключенных? Если мы сможем пробраться к ней, то сможем освободить их, не привлекая внимания!\""
 	},
 	{
 		"id": "SE_Adventure06Clue01_FreePrisoners",
-		"text": "It’s worth a try! You search the nearby passages and soon find what you are looking for: A small passageway leading to the rear wall of the pen. \n\nYou quietly cut the herdmen’s bonds before leading them back through the narrow passageway to freedom!"
+		"text": "Стоит попробовать! Вы обыскиваете близлежащие проходы и вскоре находите то, что искали: небольшой проход, ведущий к задней стене загона. \n\nВы тихо разрезаете путы пастухов и ведете их обратно к свободе через узкий проход!"
 	},
 	{
 		"id": "SE_Adventure06Clue01_Flee",
-		"text": "Cries of alarm fill the air – your attempt to free the prisoners has not gone unnoticed! \n\nYou race for the mineshaft that will lead you to freedom! As soon as the last of your party has exited the shaft, you cut the rope – that will slow the cultists down... [CTP]\n\nYou look around and discuss your options. Overhearing your conversation, one of the tribesmen approaches:"
+		"text": "Крики тревоги наполняют воздух - ваша попытка освободить заключенных не осталась незамеченной! \n\nВы мчитесь к шахте, которая выведет вас на свободу! Как только последний из вашей команды выбирается из шахты, вы перерезаете веревку - это замедлит культистов... [CTP]\n\nВы осматриваетесь и обсуждаете дальнейшие планы. Подслушав ваш разговор, один из соплеменников подходит к вам:"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Title",
-		"text": "A mountain village"
+		"text": "Горная деревня"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Intro",
-		"text": "Chaos reigns in the squalid village ahead of you!\n\nThe cultists of the Brotherhood of Khonesh are ransacking one hut after the next – they must be searching for something! [CTP]\n\nThere is no sign of the inhabitants. You can only presume that they fled into the mountains as soon as the cultists neared their village."
+		"text": "В бедной деревне перед вами царит настоящий хаос!\n\nКультисты Братства Кхонеш громят одну хижину за другой - должно быть, они что-то ищут! [CTP]\n\nНет никаких признаков обитателей. Можно только предположить, что они бежали в горы, как только культисты приблизились к их деревне."
 	},
 	{
 		"id": "SE_Adventure06Clue02Choice01",
-		"text": "Creep closer"
+		"text": "Подкрасться ближе"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice02",
@@ -8103,19 +8103,19 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_SneakCloserW",
-		"text": "You approach the huts carefully. Your luck holds and you remain unnoticed."
+		"text": "Вы осторожно подходите к хижинам. Вам повезло, и вы остаетесь незамеченными."
 	},
 	{
 		"id": "SE_Adventure06Clue02_SneakCloserF",
-		"text": "You approach the huts carefully. \n\nSuddenly, you hear a loud shout! A priestess gestures furiously in your direction – the cultists draw their weapons and race towards you!"
+		"text": "Вы осторожно подходите к хижинам. \n\nВнезапно вы слышите громкий крик! Жрица яростно указывает в вашу сторону - культисты достают оружие и мчатся к вам!"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice04",
-		"text": "Spread out and attack"
+		"text": "Рассредоточиться и атаковать"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice05",
-		"text": "Observe the cultists"
+		"text": "Наблюдайте за культистами"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice06",
@@ -8123,7 +8123,7 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Attack",
-		"text": "The cultists appear to be searching for supplies. Their intentions soon become clear: The raiders drag their loot to the village square and gather around the pile in a semi-circle. [CTP]\n\nAfter a few moments, a monotonous chant fills the air and the cultists enter a trance-like state – this is the perfect moment for a surprise attack!"
+		"text": "Похоже, что культисты ищут припасы. Вскоре их намерения становятся ясны: налетчики тащат награбленное на деревенскую площадь и собираются полукругом вокруг груды награбленного. [CTP]\n\nСпустя несколько мгновений воздух наполняется монотонным пением, а культисты входят в состояние, похожее на транс - идеальный момент для внезапной атаки!"
 	},
 	{
 		"id": "SE_Adventure06Clue02_Choice07",
@@ -8135,19 +8135,19 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_BadLuck",
-		"text": "As you return to your vehicle, [char0] loses his balance and stumbles briefly, triggering a rock-slide that hurtles down the slope towards the village below! \n\nThere is no point in hiding – you have been discovered!"
+		"text": "Как только вы возвращаетесь к своему автомобилю, [char0] теряет равновесие и спотыкается, провоцируя обвал, который несется вниз по склону к деревне внизу! \n\nБольше нет смысла прятаться - вас обнаружили!"
 	},
 	{
 		"id": "SE_Adventure06Clue02_BadLuck_female",
-		"text": "As you return to your vehicle, [char0] loses her balance and stumbles briefly, triggering a rock-slide that hurtles down the slope towards the village below! \n\nThere is no point in hiding – you have been discovered!"
+		"text": "Как только вы возвращаетесь к своему автомобилю, [char0] теряет равновесие и спотыкается, провоцируя обвал, который несется вниз по склону к деревне внизу! \n\nБольше нет смысла прятаться - вас обнаружили!"
 	},
 	{
 		"id": "SE_Adventure06Clue02_EbonyChest",
-		"text": "You discover a small chest made of ebony with several brass rings on each side. Two long wooden poles have been threaded through the rings so that the casket can be carried by four bearers. \n\nAfter breaking the seal, you rifle through the chest’s contents and discover a trove of books and papers belonging to the Brotherhood! [CTP]\n\nYou sift through the collection of ancient books and scrolls until a copy of an ancient Abyssinian tale catches your eye: \n\n\"Then Nagusta, the son of the Queen of Sheba, spoke thus: Is it not unjust that the Divine Chariot shall be the property of my brothers alone? Am I not also a son of King Solomon?\""
+		"text": "Вы находите небольшой ларец из черного дерева с несколькими латунными кольцами на каждой стороне. Через кольца продеты два длинных деревянных шеста, чтобы ларец могли нести четверо носильщиков. \n\nВзломав печать, вы исследуете содержимое сундука и находите груды книг и бумаг, принадлежащих Братству! [CTP]\n\nВы просматриваете коллекцию древних книг и свитков, пока вам не попадается на глаза экземпляр древней абиссинской сказки: \n\n\"Тогда Нагуста, сын царицы Савской, сказал так: Не несправедливо ли, что Божественная колесница должна принадлежать только моим братьям? Разве я не сын царя Соломона?\""
 	},
 	{
 		"id": "SE_Adventure06Clue02_JewelBoats",
-		"text": "\"And so Nagusta the Cunning departed his mother’s empire. With thirteen ships laden with jewels, he journeyed towards Jerusalem. He held a great feast for his brothers and gave them many gifts.\"\n\n\"But as they slept, Nagusta slipped away, carrying with him the Merkabah – the Divine Chariot – upon his shoulders.\" [CTP]\n\nShips laden with jewels? \n\nYour thoughts turn to the fabled diamond mines of King Solomon – legend has it that the mines were located somewhere within the realm of the Queen of Sheba. \n\nCould there be a kernel of truth to this ancient legend?"
+		"text": "\"И вот Нагуста Хитрый покинул империю своей матери. С тринадцатью кораблями, нагруженными драгоценностями, он направился в Иерусалим. Он устроил большой пир для своих братьев и одарил их множеством подарков.\"\n\n\"Но пока они спали, Нагуста ускользнул, унеся с собой Меркабу - Божественную Колесницу - на своих плечах.\" [CTP]\n\nКорабли, груженные драгоценностями? \n\nВаши мысли обращаются к легендарным алмазным шахтам царя Соломона - легенда гласит, что шахты находились где-то в пределах царства царицы Савской. \n\nМожет ли быть хоть капля правды в этой древней легенде?"
 	},
 	{
 		"id": "SE_Adventure06Clue03_Title",
@@ -8155,15 +8155,15 @@
 	},
 	{
 		"id": "SE_Adventure06Clue03_Intro",
-		"text": "As you make your way through the thorny scrub, you cross paths with a wild dog awkwardly dragging a long, misshapen object back to its den. \n\nStartled by your sudden appearance, the dog yelps and vanishes down a nearby hole in the ground. [CTP]\n\nYou cautiously approach the object dropped by the dog and recognize the badly chewed remains of a human arm!\n\nThe bracelet and scraps of cloth clinging to the arm suggest that it once belonged to a priestess of the Brotherhood of Khonesh! [CTP]\n\nA search of the vicinity reveals a small area of blood-soaked ground nearby but nothing else of significance. \n\nThe wild dogs must have dragged their victim back to their den..."
+		"text": "Пробираясь через колючий кустарник, вы встречаете дикую собаку, которая неловко тащит к своему логову длинный предмет неправильной формы. \n\nНапуганная вашим внезапным появлением, собака тявкнула и исчезла в норе неподалеку. [CTP]\n\nВы осторожно приближаетесь к предмету, брошенному собакой, и узнаете сильно пожеванные останки человеческой руки!\n\nБраслет и обрывки ткани, прилипшие к руке, указывают на то, что когда-то она принадлежала жрице Братства Хонеша! [CTP]\n\nПри осмотре окрестностей вы обнаружили небольшой участок земли, пропитанный кровью, но больше ничего существенного. \n\nДикие собаки, должно быть, утащили жертву в свое логово..."
 	},
 	{
 		"id": "SE_Adventure06Clue03_Choice01",
-		"text": "Drive dogs away by shouting"
+		"text": "Отогнать собак криком"
 	},
 	{
 		"id": "SE_Adventure06Clue03_Choice02",
-		"text": "Approach the dogs’ den"
+		"text": "Подойти к логову собак"
 	},
 	{
 		"id": "SE_Adventure06Clue03_Choice03",
@@ -8171,43 +8171,43 @@
 	},
 	{
 		"id": "SE_Adventure06Clue03_ShooDogsF",
-		"text": "You shout and wave your arms wildly in the air but the dogs refuse to leave their den and growl at you fiercely. \n\nYou continue your efforts for several more minutes before admitting defeat and setting forth your journey."
+		"text": "Вы кричите и размахиваете руками в воздухе, но собаки отказываются покидать свое логово и яростно рычат на вас. \n\nВы прилагаете усилия еще несколько минут, после чего признаете свое поражение и отправляетесь в путь."
 	},
 	{
 		"id": "SE_Adventure06Clue03_ShooDogsW",
-		"text": "You shout and wave your arms wildly in the air at the entrance to the den. Fearful of your intentions, the dogs flee their burrow and watch you from a safe distance. \n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. [CTP]\n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char0] finally succeeds."
+		"text": "Вы кричите и дико размахиваете руками в воздухе у входа в нору. Испугавшись ваших действий, собаки убегают из своей норы и наблюдают за вами с безопасного расстояния. \n\nПригнувшись, чтобы заглянуть внутрь логова, вы видите изуродованные останки культистки. На ее плече висит сильно порванный кожаный ранец. [CTP]\n\nПосле нескольких попыток извлечь ранец из норы с помощью длинной палки, [char0] в конце-концов смог его достать."
 	},
 	{
 		"id": "SE_Adventure06Clue03_ShooDogsW_female",
-		"text": "You shout and wave your arms wildly in the air at the entrance to the den. Fearful of your intentions, the dogs flee their burrow and watch you from a safe distance. \n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. [CTP]\n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char0] finally succeeds."
+		"text": "Вы кричите и дико размахиваете руками в воздухе у входа в нору. Испугавшись ваших действий, собаки убегают из своей норы и наблюдают за вами с безопасного расстояния. \n\nПригнувшись, чтобы заглянуть внутрь логова, вы видите изуродованные останки культистки. На ее плече висит сильно порванный кожаный ранец. [CTP]\n\nПосле нескольких попыток извлечь ранец из норы с помощью длинной палки, [char0] в конце-концов смогла его достать."
 	},
 	{
 		"id": "SE_Adventure06Clue03_Ezekiel",
-		"text": "Filled with curiosity, you rifle through the satchel. Wild dogs and weather have left its contents ragged and torn. Among the surviving papers, you find a passage by the prophet Ezekiel, in which he describes the Merkabah, or Divine Chariot: [CTP]\n\n\"And I looked, and, behold, a Whirlwind came from the North at Midnight, a great Cloud of Fire folding in upon itself, and a Brightness was about it. And it was the Color of Fiery Coals, burning brightly like Torches, and out of its midst shot Bolts of Lightning.\" [CTP]\n\n\"And I heard the Sound of many Waters, like the Sound of the Almighty, a Sound of Tumult such as that of a mighty Host. And when I saw it, I fell upon my Face and covered my Eyes that I might not see.\""
+		"text": "С любопытством вы роетесь в ранце. Дикие собаки и непогода изрядно потрепали его содержимое. Среди уцелевших бумаг вы находите отрывок из трудов пророка Иезекииля, в котором он описывает Меркабу, или Божественную колесницу: [CTP]\n\n\"И я взглянул, и узрел, что с севера в полночь пришел вихрь, большое огненное облако, складывающееся само в себя, и сияние было вокруг него. И было оно цвета раскаленных углей, горело ярко, как факелы, и из середины его вылетали молнии.\" [CTP]\n\n\"И услышал я Шум многих Вод, подобный Шуму Всемогущего, Шум Грома, подобный Шуму могучего Воинства. И когда я увидел это, я упал на лицо мое и закрыл глаза мои, чтобы не видеть.\""
 	},
 	{
 		"id": "SE_Adventure06Clue03_Wilderness",
-		"text": "[char1] glances about before disappearing into the scrub. He returns soon after with some dry twigs and palm fronds, which he places at the entrance to the dogs’ den. \n\nLighting a small fire, he begins to feed it with green leaves."
+		"text": "[char1] оглядывается по сторонам, а затем исчезает в кустарнике. Вскоре он возвращается с несколькими сухими ветками и пальмовыми листьями, которые кладет у входа в логово собак. \n\nРазжигая небольшой костер, он начинает засыпать его зелеными листьями."
 	},
 	{
 		"id": "SE_Adventure06Clue03_Wilderness_female",
-		"text": "[char1] glances about before disappearing into the scrub. She returns soon after with some dry twigs and palm fronds, which she places at the entrance to the dogs’ den. \n\nLighting a small fire, she begins to feed it with green leaves."
+		"text": "[char1] оглядывается по сторонам, а затем исчезает в кустарнике. Вскоре она возвращается с несколькими сухими ветками и пальмовыми листьями, которые кладет у входа в логово собак. \n\nРазжигая небольшой костер, она начинает засыпать его зелеными листьями."
 	},
 	{
 		"id": "SE_Adventure06Clue03_WildernessW",
-		"text": "A gust of wind blows the acrid smoke deep into the dogs’ den. Smoke billows from the ground around you as it is forced out through the den’s numerous smaller exits, reminding you for a moment of some strange volcanic landscape. \n\nWithin seconds, the dogs begin to yelp and flee the den in panic with their tails tucked between their legs! [CTP]\n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. \n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char1] finally succeeds."
+		"text": "Порыв ветра задувает едкий дым глубоко в логово собак. Дым стелется по земле вокруг вас, выходя через многочисленные мелкие выходы логова, на мгновение напоминая странный вулканический ландшафт. \n\nВ течение нескольких секунд собаки начинают визжать и в панике убегать из логова, поджав хвосты! [CTP]\n\nПригнувшись, чтобы заглянуть внутрь логова, вы видите изуродованные останки культистки. На ее плече висит сильно порванный кожаный ранец. \n\nПосле нескольких попыток извлечь ранец из норы с помощью длинной палки, [char1] в конце-концов смог его достать."
 	},
 	{
 		"id": "SE_Adventure06Clue03_WildernessW_female",
-		"text": "A gust of wind blows the acrid smoke deep into the dogs’ den. Smoke billows from the ground around you as it is forced out through the den’s numerous smaller exits, reminding you for a moment of some strange volcanic landscape. \n\nWithin seconds, the dogs begin to yelp and flee the den in panic with their tails tucked between their legs! [CTP]\n\nCrouching down to peer inside the den, you spy the mangled remains of a cultist. A badly torn leather satchel hangs at her side. \n\nAfter several attempts to retrieve the satchel from the den using a long stick, [char1] finally succeeds."
+		"text": "Порыв ветра задувает едкий дым глубоко в логово собак. Дым стелется по земле вокруг вас, выходя через многочисленные мелкие выходы логова, на мгновение напоминая странный вулканический ландшафт. \n\nВ течение нескольких секунд собаки начинают визжать и в панике убегать из логова, поджав хвосты! [CTP]\n\nПригнувшись, чтобы заглянуть внутрь логова, вы видите изуродованные останки культистки. На ее плече висит сильно порванный кожаный ранец. \n\nПосле нескольких попыток извлечь ранец из норы с помощью длинной палки, [char1] в конце-концов смогла его достать."
 	},
 	{
 		"id": "SE_Adventure06Clue03_WildernessF",
-		"text": "Unfortunately [char1] didn’t reckon with the wind – as a thick cloud of smoke rises from the fire, a sudden gust of wind blows the smoke in your direction! Gasping for air, you scramble away from the den. \n\nYou hang back for a few minutes, but the wind does not change direction. Disappointed at your failure, you trample out the fire and set off again."
+		"text": "К сожалению, [char1] не учел ветер - когда от костра поднимается густое облако дыма, внезапный порыв ветра сносит дым в вашу сторону! Задыхаясь, вы отбегаете от логова. \n\nВы задерживаетесь на несколько минут, но ветер не меняет направления. Удрученные неудачей, вы затаптываете костер и снова отправляетесь в путь."
 	},
 	{
 		"id": "SE_Adventure06Clue03_WildernessF_female",
-		"text": "Unfortunately [char1] didn’t reckon with the wind – as a thick cloud of smoke rises from the fire, a sudden gust of wind blows the smoke in your direction! Gasping for air, you scramble away from the den. \n\nYou hang back for a few minutes, but the wind does not change direction. Disappointed at your failure, you trample out the fire and set off again."
+		"text": "К сожалению, [char1] не учла ветер - когда от костра поднимается густое облако дыма, внезапный порыв ветра сносит дым в вашу сторону! Задыхаясь, вы отбегаете от логова. \n\nВы задерживаетесь на несколько минут, но ветер не меняет направления. Удрученные неудачей, вы затаптываете костер и снова отправляетесь в путь."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Title",
@@ -8215,11 +8215,11 @@
 	},
 	{
 		"id": "SE_Adventure06Clue04_Intro",
-		"text": "The goatherd you encounter in this barren mountain range tells you of a mysterious group of travelers he observed from afar.\n\n[char0]: \"The strangers were on their way to the old ruins. Once there was a mighty fortress there, but today only the foundations remain.\" [CTP]\n\n[char0]: \"Surely you will find them in the tunnels under the ruins. I know secret ways into the caverns – if you wish, I can guide you there.\"\n\nYou follow the herdsman into the belly of the ruined complex – could this be a former outpost of the Queen of Sheba’s empire?"
+		"text": "Козопас, которого вы встретите в этом бесплодном горном массиве, рассказывает вам о таинственной группе путешественников, которых он заметил издалека.\n\n[char0]: \"Незнакомцы направлялись к старым руинам. Когда-то здесь была могучая крепость, но сегодня от нее остался только фундамент.\" [CTP]\n\n[char0]: \"Вы наверняка найдете их в туннелях под руинами. Я знаю тайные пути в пещеры - если хотите, я могу провести вас туда.\"\n\nВы следуете за пастухом в чрево разрушенного комплекса - может быть, это бывший форпост империи царицы Савской?"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Betrayed",
-		"text": "[char1] slowly opens the massive stone door, bathing you in the flickering light of several torches within. \n\nYou gasp in astonishment: It is true! The cultists really do have a base down here... [CTP]\n\n[char1] clicks his tongue loudly three times and the cultists turn in your direction. Their eyes betray no surprise...\n\n[char1]: \"Here! I bring you the infidels!\" [CTP]\n\nWith these words, the traitorous herdsman slips away, slamming the heavy door closed at your backs! You are trapped! \n\nA priestess rises slowly and gestures in your direction with a sneer..."
+		"text": "[char1] медленно открывает массивную каменную дверь, и вы оказываетесь в мерцающем свете нескольких факелов. \n\nВы изумленно вздыхаете: Это правда! Культисты действительно устроили здесь базу... [CTP]\n\n[char1] громко щелкает языком три раза, и культисты поворачиваются в вашу сторону. Их глаза не выдают удивления...\n\n[char1]: \"Вот! Я привел вам неверных!\" [CTP]\n\nС этими словами предатель-пастух ускользает, захлопывая тяжелую дверь за вашими спинами! Вы в ловушке! \n\nЖрица медленно поднимается и с усмешкой делает жест в вашу сторону..."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Choice01",
@@ -8227,51 +8227,51 @@
 	},
 	{
 		"id": "SE_Adventure06Clue04_Choice02",
-		"text": "Improvise"
+		"text": "Импровизировать"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Daredevil",
-		"text": "Suddenly, appearing as if from nowhere, [char2] rises up behind the priestess ! He pins the priestess’s arm against her back and holds a knife to her throat!\n\n[char2]: \"Let’s not do anything rash now!\""
+		"text": "Внезапно, словно из ниоткуда, [char2] появляется за спиной жрицы! Он прижимает руку жрицы к спине и приставляет нож к ее горлу!\n\n[char2]: \"Давайте не будем предпринимать необдуманных действий.\""
 	},
 	{
 		"id": "SE_Adventure06Clue04_Daredevil_female",
-		"text": "Suddenly, appearing as if from nowhere, [char2] rises up behind the priestess ! She pins the priestess’s arm against her back and holds a knife to her throat!\n\n[char2]: \"Let’s not do anything rash now!\""
+		"text": "Внезапно, словно из ниоткуда, [char2] появляется за спиной жрицы! Она прижимает руку жрицы к спине и приставляет нож к ее горлу!\n\n[char2]: \"Давайте не будем предпринимать необдуманных действий.\""
 	},
 	{
 		"id": "SE_Adventure06Clue04_DaredevilF",
-		"text": "While [char2] keeps the mob at bay, you desperately search for some way to lever open the stone door behind you. \n\nSuddenly, you hear a loud cry: The priestess has bitten [char2] on the wrist and torn herself free! Seconds later, the cultists surge forward and attack you!"
+		"text": "Пока [char2] держит толпу на расстоянии, вы отчаянно ищете способ открыть каменную дверь позади вас. \n\nВдруг вы слышите громкий крик: жрица укусила [char2] на запястье и вырвалась на свободу! Через несколько секунд культисты бросаются вперед и атакуют вас!"
 	},
 	{
 		"id": "SE_Adventure06Clue04_DaredevilF_female",
-		"text": "While [char2] keeps the mob at bay, you desperately search for some way to lever open the stone door behind you. \n\nSuddenly, you hear a loud cry: The priestess has bitten [char2] on the wrist and torn herself free! Seconds later, the cultists surge forward and attack you!"
+		"text": "Пока [char2] держит толпу на расстоянии, вы отчаянно ищете способ открыть каменную дверь позади вас. \n\nВдруг вы слышите громкий крик: жрица укусила [char2] на запястье и вырвалась на свободу! Через несколько секунд культисты бросаются вперед и атакуют вас!"
 	},
 	{
 		"id": "SE_Adventure06Clue04_DaredevilW",
-		"text": "While [char2] keeps the mob at bay, you search in desperation for some way to lever open the stone door behind you. \n\nThere! You hear a click as you press your fingers against a small depression in the wall! \n\nThe door swings open silently. [CTP]\n\nYou hear an astonished outcry and the echoes of frantic footsteps as [char1] flees in terror. \n\nThe next moment, [char2] hurls the priestess into the hostile crowd - you run as fast as you can, with the knife-wielding mob hard on your heels!"
+		"text": "Пока [char2] держит толпу на расстоянии, вы отчаянно ищете способ открыть каменную дверь позади вас. \n\nВот! Вы слышите щелчок, когда прижимаете пальцы к небольшому углублению в стене! \n\nДверь бесшумно распахивается. [CTP]\n\nВы слышите изумленный возглас и звук быстрых шагов, когда [char1] в ужасе убегает. \n\nВ следующее мгновение, [char2] бросает жрицу в толпу врагов - вы бежите так быстро, как только можете, а толпа с ножами наступает вам на пятки!"
 	},
 	{
 		"id": "SE_Adventure06Clue04_DaredevilW_female",
-		"text": "While [char2] keeps the mob at bay, you search in desperation for some way to lever open the stone door behind you. \n\nThere! You hear a click as you press your fingers against a small depression in the wall! \n\nThe door swings open silently. [CTP]\n\nYou hear an astonished outcry and the echoes of frantic footsteps as [char1] flees in terror. \n\nThe next moment, [char2] hurls the priestess into the hostile crowd - you run as fast as you can, with the knife-wielding mob hard on your heels!"
+		"text": "Пока [char2] держит толпу на расстоянии, вы отчаянно ищете способ открыть каменную дверь позади вас. \n\nВот! Вы слышите щелчок, когда прижимаете пальцы к небольшому углублению в стене! \n\nДверь бесшумно распахивается. [CTP]\n\nВы слышите изумленный возглас и звук быстрых шагов, когда [char1] в ужасе убегает. \n\nВ следующее мгновение, [char2] бросает жрицу в толпу врагов - вы бежите так быстро, как только можете, а толпа с ножами наступает вам на пятки!"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Flee",
-		"text": "After a desperate flight you finally reach the open air. \n\nYou dive into your jeep and step on the accelerator before the cultists can seize you!"
+		"text": "После отчаянного бегства вы, наконец, попадаете на открытое пространство. \n\nВы прыгаете в свой джип и жмете на педаль газа, прежде чем культисты успевают схватить вас!"
 	},
 	{
 		"id": "SE_Adventure06Clue04_Examine",
-		"text": "Minutes later, [char2] notices he is clutching a richly embroidered bag. \n\nHe must have torn it from the priestess in the melee! As you rifle through its exotic contents for any clues, you find a strange letter that was originally dispatched in Paris."
+		"text": "Несколько минут спустя, [char2] замечает, что сжимает в руках богато расшитую сумку. \n\nДолжно быть, он вырвал ее у жрицы во время драки! Перебирая его экзотическое содержимое в поисках подсказок, вы находите странное письмо, которое первоначально было отправлено в Париж."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Examine_female",
-		"text": "Minutes later, [char2] notices she is clutching a richly embroidered bag. \n\nShe must have torn it from the priestess in the melee! As you rifle through its exotic contents for any clues, you find a strange letter that was originally dispatched in Paris."
+		"text": "Несколько минут спустя, [char2] замечает, что сжимает в руках богато расшитую сумку. \n\nДолжно быть, она вырвала ее у жрицы во время драки! Перебирая ее экзотическое содержимое в поисках подсказок, вы находите странное письмо, которое первоначально было отправлено в Париж."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Aftermath",
-		"text": "When you search the priestess, you discover a richly embroidered bag slung over her shoulder. You rifle through its exotic contents in search of clues and find a strange letter that was originally dispatched in Paris."
+		"text": "При обыске жрицы вы находите богато расшитую сумку, перекинутую через плечо. Перебирая ее экзотическое содержимое в поисках подсказок, вы находите странное письмо, которое первоначально было отправлено в Париж."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Conspiracy",
-		"text": "\"Beloved Sisters!\n\nThe rumors are true. Our brothers and sisters in Moscow have failed to complete their mission! No doubt the Politburo will soon hold a show trial under some trumped up charges.\" [CTP]\n\n\"The High Lodge is unable to intervene, but our time will come!\n\nThis latest development, together with our retreat from London, represents a considerable setback but not a catastrophe.\n\nDo not despair!\" [CTP]\n\n\"Our chapters in New York and San Francisco are now well established and we have made significant progress in Berlin: with each day the completion of our Great Work draws closer!\""
+		"text": "\"Дорогие сестры!\n\nСлухи правдивы. Наши братья и сестры в Москве не выполнили свою миссию! Несомненно, Политбюро скоро проведет показательный суд по сфабрикованным обвинениям.\" [CTP]\n\n\"Высшая Ложа не в силах вмешаться, но наше время придет!\n\nЭто последнее событие, наряду с нашим отступлением из Лондона, представляет собой значительную неудачу, но не катастрофу.\n\nНе отчаивайтесь!\" [CTP]\n\n\"Наши отделения в Нью-Йорке и Сан-Франциско уже прочно обосновались, и мы добились значительного прогресса в Берлине: с каждым днем завершение нашей Великой Работы становится все ближе!\""
 	},
 	{
 		"id": "FE_Nothing01_Title",
@@ -10151,7 +10151,7 @@
 	},
 	{
 		"id": "SE_Adventure05Snippet04_Intro",
-		"text": "Вы слышите громкие крики и рёв скачущих верблюдов. Мгновением позже они появляются со всех сторон: тяжеловооруженные погонщики верблюдов окружают вас и заставляют остановиться!\n\nСудя по их одежде и уверенному и в то же время дисциплинированному поведению, это отряд кавалерии Ихвана. Эти набожные воины выполняют полицейские функции для королевской семьи Саудовской Аравии.\n\n[CTP]\n\nИх лидер слезает со своего верблюда и мрачно смотрит на вас: \n\n[char0]: \"Вы не похожи на иностранных солдат, о которых мы слышали!\"\n\nВы спешите подтвердить это наблюдение. Вы узнаете, что отряд был послан для защиты жителей плоскогорья от нападений немцев. \n\n[CTP]\n\nПриятно осознавать, что вы не одни противостоите экспедиции капитана Рюккерта, но, к сожалению, вы ничего не можете сообщить воинам о местонахождении немцев.\n\nВы желаете бойцам успеха в их поисках. Через некоторое время весь отряд снова исчезает в бесконечном море дюн."
+		"text": "Вы слышите громкие крики и рев скачущих верблюдов. Мгновением позже они появляются со всех сторон: тяжеловооруженные погонщики верблюдов окружают вас и заставляют остановиться!\n\nСудя по их одежде и уверенному и в то же время дисциплинированному поведению, это отряд кавалерии Ихвана. Эти набожные воины выполняют полицейские функции для королевской семьи Саудовской Аравии.\n\n[CTP]\n\nИх лидер слезает со своего верблюда и мрачно смотрит на вас: \n\n[char0]: \"Вы не похожи на иностранных солдат, о которых мы слышали!\"\n\nВы спешите подтвердить это наблюдение. Вы узнаете, что отряд был послан для защиты жителей плоскогорья от нападений немцев. \n\n[CTP]\n\nПриятно осознавать, что вы не одни противостоите экспедиции капитана Рюккерта, но, к сожалению, вы ничего не можете сообщить воинам о местонахождении немцев.\n\nВы желаете бойцам успеха в их поисках. Через некоторое время весь отряд снова исчезает в бесконечном море дюн."
 	},
 	{
 		"id": "SE_Adventure05Snippet05_Title",
@@ -10175,7 +10175,7 @@
 	},
 	{
 		"id": "SE_Adventure05Flavor01_Intro",
-		"text": "Вы подходите к разрушенному караульному посту османской армии. Старые пулевые отверстия в стенах говорят о многом: вероятно, эта застава была местом ожесточенной битвы во время Великой войны, когда арабские бойцы восстали против своих турецких хозяев!\n\nРазбитые шкафы с документами и обломки - всё, что вы здесь находите."
+		"text": "Вы подходите к разрушенному караульному посту османской армии. Старые пулевые отверстия в стенах говорят о многом: вероятно, эта застава была местом ожесточенной битвы во время Великой войны, когда арабские бойцы восстали против своих турецких хозяев!\n\nРазбитые шкафы с документами и обломки - все, что вы здесь находите."
 	},
 	{
 		"id": "SE_Adventure05Flavor02_Title",
@@ -10227,15 +10227,15 @@
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Title",
-		"text": "The old ruin"
+		"text": "Старые руины"
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Intro",
-		"text": "Little remains of the building beyond its foundation walls. Was this once a palace, a temple or a fortress?\n\nThe interior walls of the building bear a relief worn by time; it looks like a woman seated on a magnificent throne."
+		"text": "От здания мало что осталось за границами его фундамента. Было ли оно когда-то дворцом, храмом или крепостью?\n\nНа внутренних стенах здания сохранилась фреска, потертая временем; она изображает женщину, восседающую на великолепном троне."
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Choice01",
-		"text": "Examine relief"
+		"text": "Осмотреть фреску"
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Choice02",
@@ -10243,87 +10243,87 @@
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Standard",
-		"text": "You are not quite sure, but the person depicted may well be the legendary Queen of Sheba. \n\nYou struggle to remember half-forgotten lessons from your school years: That’s right! According to tradition, she was the ruler of a powerful East African empire suspected to be based somewhere near Aksum. \n\n[CTP]\n\nHer visit to the court of King Solomon in Jerusalem is the stuff of legends: She is said to have showered him with gold and gems before becoming his lover. \n\nTo this day, rumors abound of King Solomon's mines - somewhere in the Abyssinian mountains, filled to the brim with gold and precious stones..."
+		"text": "Вы не совсем уверены, но изображенная на ней особа вполне может быть легендарной царицей Савской. \n\nВы с трудом вспоминаете полузабытые уроки школьных лет: все верно! Согласно традиции, она была правительницей могущественной восточноафриканской империи, которая, предположительно, располагалась где-то рядом с Аксумом. \n\n[CTP]\n\nО ее визите ко двору царя Соломона в Иерусалиме ходят легенды: говорят, что она осыпала его золотом и драгоценными камнями, прежде чем стать его любовницей. \n\nПо сей день ходят слухи о копях царя Соломона - где-то в Абиссинских горах, наполненных до краев золотом и драгоценными камнями..."
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Perk",
-		"text": "[char0] traces his finger along the strange, weathered characters chiseled into the masonry below the throne pedestal: \n\n[char0]: \"Yes, indeed: this is the Queen of Sheba in all her splendor. This inscription appears to be some kind of ritual homage.\"\n\n[CTP]\n\n[char0]: \"Oh glorious Queen of Sheba! Regal Mistress of Aksum and the Sabaeans Beyond the Waves: We Praise You!\"\n\n[char0]: \"Blessed be Your Final Sanctuary in the Mountains of Amhara! May You Reign from There for All Eternity!\""
+		"text": "[char0] проводит пальцем по странным, выветрившимся символам, высеченным в каменной кладке под пьедесталом трона: \n\n[char0]: \"Да, действительно: это царица Савская во всем ее великолепии. Эта надпись, по-видимому, является своего рода ритуальной данью уважения.\"\n\n[CTP]\n\n[char0]: \"О славная царица Савская! Царственная владычица Аксума и Сабейцев за Волнами: Мы Славим Тебя!\"\n\n[char0]: \"Да будет Благословенно Твое Последнее Убежище в горах Амхары! Да царствуешь Ты оттуда во Веки Веков!\""
 	},
 	{
 		"id": "SE_Adventure06Snippet01_Perk_Female",
-		"text": "[char0] traces her finger along the strange, weathered characters chiseled into the masonry below the throne pedestal: \n\n[char0]: \"Yes, indeed: this is the Queen of Sheba in all her splendor. This inscription appears to be some kind of ritual homage.\"\n\n[CTP]\n\n[char0]: \"Oh glorious Queen of Sheba! Regal Mistress of Aksum and the Sabaeans Beyond the Waves: We Praise You!\"\n\n[char0]: \"Blessed be Your Final Sanctuary in the Mountains of Amhara! May You Reign from There for All Eternity! \""
+		"text": "[char0] проводит пальцем по странным, выветрившимся символам, высеченным в каменной кладке под пьедесталом трона: \n\n[char0]: \"Да, действительно: это царица Савская во всем ее великолепии. Эта надпись, по-видимому, является своего рода ритуальной данью уважения.\"\n\n[CTP]\n\n[char0]: \"О славная царица Савская! Царственная владычица Аксума и Сабейцев за Волнами: Мы Славим Тебя!\"\n\n[char0]: \"Да будет Благословенно Твое Последнее Убежище в горах Амхары! Да царствуешь Ты оттуда во Веки Веков!\""
 	},
 	{
 		"id": "SE_Adventure06Snippet02_Title",
-		"text": "Nomad camp in the desert"
+		"text": "Лагерь кочевников в пустыне"
 	},
 	{
 		"id": "SE_Adventure06Snippet02_Intro",
-		"text": "Swarms of flies have settled on the nomad tents. They rise up with a frenzied buzzing as you approach. \n\nBa'al az-Zubab, the Lord of the Flies – is your first thought: Beelzebub, infernal master of death and decay. Once he was known as Baal the rain-giver, patron god of the Philistines.\n\n[CTP] \n\nBaal may well have originally been a benevolent god – but in this camp at least, he has received his bloody tribute as Beelzebub: \n\nYou see the torn bodies of lifeless Bedouins, the rust-red sand beneath them is soaked with their blood! \n\nThese men did not stand a chance...\n\n[CTP]\n\nYou find an improvised, evil-looking altar with even more flies swarming around it. Some of the victims have fresh, ritualistic scars – this massacre can only have been the work of the Khonesh Brotherhood!\n\nAt least you can assume that you are on the right track: The Brotherhood is around here somewhere..."
+		"text": "Над палатками кочевников собрались рои мух. С неистовым жужжанием они поднимаются при вашем приближении. \n\nБаал аз-Зубаб, повелитель мух - вот ваша первая мысль: Вельзевул, инфернальный повелитель смерти и разложения. Когда-то он был известен как Баал, податель дождя, бог-покровитель филистимлян.\n\n[CTP] \n\nБаал, вполне возможно, изначально был благожелательным богом - но в этом лагере он получил свою кровавую дань как Вельзевул: \n\nВы видите разорванные тела безжизненных бедуинов, ржаво-красный песок под ними пропитан их кровью! \n\nУ этих людей не было ни единого шанса...\n\n[CTP]\n\nВы находите импровизированный, зловеще выглядящий алтарь, вокруг которого роится еще больше мух. На некоторых жертвах видны свежие ритуальные шрамы - эта резня могла быть делом рук только Братства Кхонеш!\n\nПо крайней мере, вы понимаете, что находитесь на правильном пути: Братство где-то здесь..."
 	},
 	{
 		"id": "SE_Adventure06Snippet03_Title",
-		"text": "The house of the guardians"
+		"text": "Дом стражников"
 	},
 	{
 		"id": "SE_Adventure06Snippet03_Intro",
-		"text": "The strange, gigantic rock has accompanied your journey for some time as a fixed point in the distance. Now you have finally reached it, you find an ancient portal on its eastern side that has collapsed under a recent rockfall.\n\nSeveral strangely dressed corpses lie next to the shattered portal. Their lifeless bodies are covered with gaping wounds. \n\nOne of the men moves. With difficulty, he beckons to you:\n\n[CTP]\n\n[char0]: \"I am the last of the Guardians of the Divine Chariot. My brothers and I watched over the Merkaba – just as our forefathers did for the centuries since Nagusta the Cunning, son of the Queen of Sheba, brought the Divine Chariot to our mountains.\"\n\n[CTP]\n\n[char0]: \"They fell upon us in the dark of the night - fanatics, the spawn of Hell! They overran the halls of our order, they slaughtered us all...\"\n\n[char0]: \"We failed. Do not let those heretics find the Holy Temple of the Divine Chariot and desecrate it! You are our last hope...\"\n\n[CTP]\n\nWith these words, the man breathes his last. You close his eyes and clench your fists: The hour of reckoning will come!"
+		"text": "Странная гигантская скала некоторое время сопутствовала вашему путешествию, оставаясь неподвижной точкой вдали. Теперь, когда вы наконец достигли ее, вы обнаружили на ее восточной стороне древний проход, который обрушился под камнепадом.\n\nНесколько странно одетых трупов лежат рядом с разрушенным проходом. Их безжизненные тела покрыты зияющими ранами. \n\nОдин из мужчин двигается. С трудом он подзывает вас:\n\n[CTP]\n\n[char0]: \"Я - последний из Хранителей Божественной Колесницы. Я и мои братья следили за Меркабой - так же, как это делали наши предки на протяжении веков, с тех пор как Нагуста Хитрый, сын царицы Савской, привез Божественную Колесницу в наши горы.\"\n\n[CTP]\n\n[char0]: \"Они обрушились на нас во мраке ночи - фанатики, порождения ада! Они ворвались в залы нашего ордена, они вырезали всех нас...\"\n\n[char0]: \"Мы потерпели неудачу. Не дай еретикам найти Священный Храм Божественной Колесницы и осквернить его! Вы - наша последняя надежда...\"\n\n[CTP]\n\nС этими словами мужчина испускает последний вздох. Вы закрываете его глаза и сжимаете кулаки: придет час расплаты!"
 	},
 	{
 		"id": "SE_Adventure06Snippet04_Title",
-		"text": "The desecrated grave"
+		"text": "Оскверненная могила"
 	},
 	{
 		"id": "SE_Adventure06Snippet04_Intro",
-		"text": "The descent to the old rock tomb was not easy; The massive structure is literally chiseled into the volcanic rock beneath you. \n\nNevertheless, you manage to abseil down successfully. You soon realize you are not the first to take this path: The entrance to the tomb has been pried open with brute force...\n\n[CTP] \n\nYou look around: No, this can not possibly be the tomb of the Queen of Sheba - it is too small, the ornamentation too modest. \n\nYou think you may have found the final resting place of a minor Aksumite dignitary. \n\nBut what’s that?\n\n[CTP] \n\nThe sarcophagus has been smashed, its stained contents scattered over the floor – someone has desecrated the tomb! \n\nFrom the traces of an obscene ritual, you know that the Brotherhood of Khonesh have been at work here! \n\nSo the cultists are in the Amhara Mountains! You will put a stop to them soon enough!"
+		"text": "Спуск к старой скальной гробнице был нелегким: массивное сооружение буквально высечено в вулканической породе под вами. \n\nТем не менее, вам удается успешно спуститься. Вскоре вы понимаете, что вы не первые, кто прошел этим путем: вход в гробницу был открыт с помощью грубой силы...\n\n[CTP] \n\nВы оглядываетесь вокруг: нет, это не может быть гробницей царицы Савской - она слишком мала, орнамент слишком скромен. \n\nВы думаете, что, возможно, нашли последнее пристанище мелкого Аксумитского сановника. \n\nНо что это?\n\n[CTP] \n\nСаркофаг разбит, его содержимое рассыпано по полу - кто-то осквернил гробницу! \n\nСудя по следам непристойного ритуала, вы понимаете, что здесь поработало Братство Кхонеш! \n\nИтак, культисты находятся в горах Амхара! Вы скоро положите им конец!"
 	},
 	{
 		"id": "SE_Adventure06Flavor02_Title",
-		"text": "The myrrh harvesters"
+		"text": "Сборщики мирры"
 	},
 	{
 		"id": "SE_Adventure06Flavor02_Intro",
-		"text": "Few plants thrive in this parched land; one exception being the tall, thorny bushes that line your path. \n\nSome men are working on the trees. Of course, this is East Africa! These are wild myrrh bushes, whose resin is extracted to make incense."
+		"text": "Немногие растения выживают в этой иссушенной земле; исключение составляют высокие колючие кустарники, которые устилают ваш путь. \n\nНесколько мужчин работают над деревьями. Разумеется, это Восточная Африка! Это - дикие кусты мирры, смолу которой добывают для изготовления благовоний."
 	},
 	{
 		"id": "SE_Adventure06Flavor03_Title",
-		"text": "The old fig tree"
+		"text": "Старое фиговое дерево"
 	},
 	{
 		"id": "SE_Adventure06Flavor03_Intro",
-		"text": "At the sight of the spreading branches of the old fig tree, you decide to take a short break; its yellowish-red fruits hang in in thick clusters from its branches and fill the air with their sweet scent. \n\n[CTP]\n\nYou enjoy the figs as you survey the forbidding ridges of the Abyssinian highlands to the northwest; fortified and cheerful, you continue your journey."
+		"text": "При виде раскидистых ветвей старой фиги вы решаете сделать небольшой перерыв; ее желтовато-красные плоды свисают толстыми гроздьями с ветвей и наполняют воздух своим сладким ароматом. \n\n[CTP]\n\nВы наслаждаетесь плодами инжира, рассматривая запретные хребты Абиссинского нагорья на северо-западе; окрепшие и приободренные, вы продолжаете свой путь."
 	},
 	{
 		"id": "SE_Adventure06Flavor04_Title",
-		"text": "Some hyenas"
+		"text": "Несколько гиен"
 	},
 	{
 		"id": "SE_Adventure06Flavor04_Intro",
-		"text": "The angry growling in the bushes comes from a pack of hyenas. The grotesque predators have pounced on some goats and now the pack is fighting noisily over its prey.\n \nYou consider intervening, but it is far too late to help the goats, and you certainly don’t want to waste ammunition on the hyenas..."
+		"text": "Злобное рычание в кустах исходит от стаи гиен. Отвратительные хищники набросились на коз, и теперь стая шумно сражается за свою добычу.\n\nВы думаете вмешаться, но уже слишком поздно, чтобы помочь козам, а тратить боеприпасы на гиен вы точно не хотите..."
 	},
 	{
 		"id": "SE_Adventure06Flavor06_Title",
-		"text": "Wild coffee"
+		"text": "Дикий кофе"
 	},
 	{
 		"id": "SE_Adventure06Flavor06_Intro",
-		"text": "Several nomads are resting beneath the branches of some bush-like trees, which you recognize from their reddish fruit as wild coffee bushes. \n\nThe coffee collectors regard you suspiciously at first, but then their faces light up. \n\n[CTP] \n\nThe men invite you to their campfire, over which they are roasting coffee beans.\n\nAbyssinia is considered the birthplace of the coffee bean, which spread to the rest of the world via Arabia.\n\n[CTP] \n\nYou enjoy a damn fine cup of coffee!\n\nYou thank the men exuberantly and head off with a spring in your step."
+		"text": "Несколько кочевников отдыхают под ветвями каких-то деревьев, похожих на кусты, в которых вы узнаете красноватые плоды - это кусты дикого кофе. \n\nСначала сборщики кофе смотрят на вас с подозрением, но потом их лица озаряются. \n\n[CTP] \n\nМужчины приглашают вас к своему костру, на котором они жарят кофейные зерна.\n\nАбиссиния считается родиной кофейного зерна, которое распространилось по всему миру через Аравию.\n\n[CTP] \n\nВы наслаждаетесь чертовски хорошим кофе!\n\nВы горячо благодарите мужчин и отправляетесь в путь бодрым шагом."
 	},
 	{
 		"id": "SE_Adventure06Flavor07_Title",
-		"text": "Abandoned village fortress"
+		"text": "Заброшенная деревенская крепость"
 	},
 	{
 		"id": "SE_Adventure06Flavor07_Intro",
-		"text": "On a flat-topped hill, you find an abandoned village fortress. \n\nThese ambas, as they are known, are a common sight in the Abyssinian highlands. They protect their inhabitants from raiders. \n\nHowever, this amba was abandoned many years ago; you find nothing of value and move on."
+		"text": "На холме с плоской вершиной вы находите заброшенную деревенскую крепость. \n\nЭти амбы, как их называют, - обычное явление на Абиссинском нагорье. Они защищают жителей от налетчиков. \n\nОднако эта амба была заброшена много лет назад; вы не находите ничего ценного и идете дальше."
 	},
 	{
 		"id": "SE_Adventure06Flavor08_Title",
-		"text": "Strange lava columns"
+		"text": "Странные лавовые колонны"
 	},
 	{
 		"id": "SE_Adventure06Flavor08_Intro",
-		"text": "The bleating of sheep echoes through the confusing igneous landscape: You cross paths with a lonely shepherd who is driving his flock through a forest of lava columns. \n\nLike so much of the Amhara Highlands, these pillars are volcanic in origin – but at first glance, the bizarre structures look like people who have been turned to stone. \n\nYou sigh with relief as you leave the pillars behind you."
+		"text": "Крики овец эхом разносятся по запутанному магматическому ландшафту: вы встречаетесь с одиноким пастухом, который ведет свое стадо через лес лавовых колонн. \n\nКак и большая часть нагорья Амхара, эти столбы имеют вулканическое происхождение, но на первый взгляд эти причудливые сооружения выглядят как люди, превратившиеся в камень. \n\nВы с облегчением вздыхаете, когда оставляете колонны позади себя."
 	},
 	{
 		"id": "BE_AlienMonolith01_Choice08",
@@ -10883,11 +10883,11 @@
 	},
 	{
 		"id": "SE_Adventure06Clue02_Intro_B",
-		"text": "Your attention is drawn to the squat mud huts atop the flat-topped hill. \n\nThe village appears to have been abandoned for some time, but as you approach, you startle a pack of hyenas. [CTP]\n\nIt looks like the hungry beasts ambushed a group of cultists here in their sleep! \n\nThe men probably thought they had found a safe haven for the night..."
+		"text": "Ваше внимание привлекают приземистые глиняные хижины на вершине холма с плоской вершиной. \n\nПохоже, что деревня давно заброшена, но когда вы приближаетесь к ней, вы встречаете стаю гиен. [CTP]\n\nПохоже, что голодные звери устроили во сне засаду на группу культистов! \n\nВероятно, они думали, что нашли безопасное убежище на ночь..."
 	},
 	{
 		"id": "SE_Adventure06Clue04_Bloodbath_B",
-		"text": "As you carefully open the heavy stone door, you peer into the flickering light of several torches. \n\nYou gasp in horror: You have come across the scene of a terrible bloodbath... [CTP]\n\nYou see a large group of dead cultists. In their midst, you spot the lifeless body of one of their priestesses!\n\nThe corpses are covered with vicious cuts - someone must have descended on the cultists from the darkness and butchered them mercilessly!\n\n[CTP]\n\nYou exchange confused looks: you don’t know who did this - but you’re relieved to discover that you are not alone in your opposition to the Brotherhood’s diabolical plans!"
+		"text": "Осторожно открыв тяжелую каменную дверь, вы вглядываетесь в мерцающий свет нескольких факелов. \n\nВас охватывает ужас: вы попали на место ужасной кровавой бойни... [CTP]\n\nВы видите большую группу мертвых культистов. Среди них вы замечаете безжизненное тело одной из их жриц!\n\nТрупы покрыты жестокими порезами - должно быть, кто-то обрушился на культистов из темноты и безжалостно их зарубил!\n\n[CTP]\n\nВы обмениваетесь растерянными взглядами: неизвестно, кто это сделал - но вы с облегчением обнаруживаете, что вы не одиноки в своем противостоянии дьявольским планам Братства!"
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Intro_B",
