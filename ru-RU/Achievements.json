@@ -315,11 +315,11 @@
 	},
 	{
 		"id": "rifleKills01_desc",
-		"text": "Убейте [amount] врагов с помощьюn Assault Rifle."
+		"text": "Убейте [amount] врагов с помощью Снайперской Винтовки."
 	},
 	{
 		"id": "rifleKills01_title",
-		"text": "Rifleman"
+		"text": "Снайпер"
 	},
 	{
 		"id": "shotgunKills01_desc",
