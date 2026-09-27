@@ -523,7 +523,7 @@
 	},
 	{
 		"id": "unlockGeorgette_desc",
-		"text": "Убейте [amount] врагов с Засадой, чтобы открыть Жеоржетту."
+		"text": "Убейте [amount] врагов с помощью Засады, чтобы открыть Жеоржетту."
 	},
 	{
 		"id": "unlockGeorgette_title",

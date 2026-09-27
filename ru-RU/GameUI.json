@@ -2607,7 +2607,7 @@
 	},
 	{
 		"id": "TeamSelect_HospitalizedTime",
-		"text": "ВОССТАНАВЛИВАЕТСЯ ПОСЛЕ ПРИКЛЮЧЕНИЯ"
+		"text": "ВОССТАНОВИТСЯ ПОСЛЕ ПРИКЛЮЧЕНИЯ"
 	},
 	{
 		"id": "TeamSelect_HospitalizedRecover",
@@ -3707,7 +3707,7 @@
 	},
 	{
 		"id": "EventEffect_UnitRevived",
-		"text": "реанимировано"
+		"text": "персонажи реанимированы"
 	},
 	{
 		"id": "EventEffect_Fuel",
@@ -4211,7 +4211,7 @@
 	},
 	{
 		"id": "Controller_Profile_Name",
-		"text": "СОХРАНИТЬ"
+		"text": "ПРОФИЛЬ"
 	}
 ]
 }
